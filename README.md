@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Well, I expect you don't expect too much here.
 
-You can use the [editor on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Some introduction?
+Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Telegram bot](http://metagon.js.org) and a big [Discord server](http://discord.io/0131).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hobbies?
+Coding, of course. Skating, softball and badminton, especially, are my favourite sports.
 
-### Markdown
+### You said you're from...Shanghai?
+Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did. Then he went to UCC in Toronto and I came to Montréal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/austinhuang0131/austinhuang0131.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### He says it's stressful?
+So why shouldn't I? When the upper 50%~60% Grade 7 students literally learnt everything in Grade 10, how do you feel? When you have to spent 2 hours on regular homework every single day, but 3 more hours on extra stuff, how do you feel? If you still don't understand, [this](http://bfy.tw/9cpo) seems to be the only way.
