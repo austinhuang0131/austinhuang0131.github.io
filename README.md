@@ -22,3 +22,17 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 
 ##### Did you actually apply for the pack as a secondary guy?
 Yes. And they approved. It's *not* exclusively for universities *through http://nc.me is for universities but it didn't really check that because I am approved by Github already and they think Github thinks I'm a univ guy.*
+
+### How to reach you?
+On [Twitter](http://twitter.com/montreal0131) (Original tweets are usually in English or Billingual, when retweets are often in Chinese, Japanese and English), [Flickr](http://flic.kr/austin0131) and Discord ([User](https://discordapp.com/channels/@me/155784937511976960) or [Group](http://discord.io/0131)). Unlike other teens, I hate Snapchat and Instagram and believe their users are stupid, even if my best friend uses it.
+
+### People think you are...
+~~jeff~~
+
+#### A Hacker?
+I don't have special abilities?
+
+#### A Minecrafter?
+Not actually, but I host a Minecraft server! However I literally experienced a host-and-run...
+
+In Summer 2016, A guy from BCIT (called CrayCray, but I assume it's a common name) agreed to host two servers (Same IP, different port), however he erased all data in June and got out of touch.
