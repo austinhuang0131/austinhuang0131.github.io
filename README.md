@@ -36,6 +36,3 @@ In Summer 2016, A guy from BCIT (called CrayCray, but I assume it's a common nam
 
 #### ~~A memer?~~
 ~~G4t 0ut 0f my sw4mp~~
-
-### How to reach you?
-On [Twitter](http://twitter.com/montreal0131) (Original tweets are usually in English or Billingual, when retweets are often in Chinese, Japanese and English), [Flickr](http://flic.kr/austin0131) and Discord ([User](https://discordapp.com/channels/@me/155784937511976960) or [Group](http://discord.io/0131)). Unlike other teens, I hate Snapchat and Instagram and believe their users are stupid, even if my best friend uses it.
