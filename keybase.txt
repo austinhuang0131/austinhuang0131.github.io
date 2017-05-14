@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/austinhuang
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://austinhuang.me
+  * I am austinhuang (https://keybase.io/austinhuang) on keybase.
+  * I have a public key with fingerprint B945 6EC5 7DDC 2A8F D2AA  0AFB 2D68 824E 8AD8 B573
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013938f5d93ff5ef73dfabaad797cbf963fc821654dd69590da8f43a5261f99a3c0a",
+            "fingerprint": "b9456ec57ddc2a8fd2aa0afb2d68824e8ad8b573",
+            "host": "keybase.io",
+            "key_id": "2d68824e8ad8b573",
+            "kid": "01013938f5d93ff5ef73dfabaad797cbf963fc821654dd69590da8f43a5261f99a3c0a",
+            "uid": "e18c225c0ff4bc357efd1f4bde5cb119",
+            "username": "austinhuang"
+        },
+        "service": {
+            "hostname": "austinhuang.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494804616,
+    "expire_in": 157680000,
+    "prev": "a02aceddb0adb5248c58bda97d4f93e34e3f707b590a5f920be73e01ff14af40",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSFRRFB3LR0n2oChFNLkkBk3TfT/my5CQNNFCicyczr3nnPGm3hln
+7phi40eolGVGZhkkUlpkSBgGFhn5CCpKioqyRAmkSFHC0iAR7Vypr/rs/Jxz9l5r
+7bU3+1HUcltkSNXBXrcSd2tFyLO+ywHbgegvJyoo1QPLKWcFVYiWLlQEkd90FeqQ
+clI0QzOcwslYgAqHsYCwxEEMVACgpEiaihWRw5rMMqLAQygqgkJDIGOeAwIrMlhR
+AKfRgLJTWDfcyOf16YZJZFWFF0SkCRKEGkvwkAWABlhloSjLLI9kAGVVkDhCLPD4
+LQYxpwI/cugeEiMf15K9f+D/s+/AkhxiZI1lBY3GmFc1TpAQhgx5QiRoKsMoFtCP
+fAYoRgQNAn5TNwoCwHBTQTtFEqW6hqzZWs38DXKQgJ3y+jymR/MUkVyBaXqdFtUs
+91rYo0h1/VZxqboBySwJoRT5/LrHoJwMQWqmbskyvMLLNC8yop1CZV7dh1y6hRAk
+UabJscqgUqs8zQINQajSAKoCy8uaIKsQKBLkscIhjkcclmhJJYMBAlZYWkUSh2gG
+Y4YHmKcpq68Sw0M5WYn4BG6i6dfdBjADPkQF+3vzQm0hkbbwsGXWktkiV679s3rb
+miMWd9WmZCKlr7o+xVFb/TN78djj2Ug8Htv4zZmoO6euHZnY+SBFyo1+EXv3x/6e
+5tp6MZhjOJzzFflfP7tKXteVtYPOmEsdaVPXHRdaP9WnZNctMHP3WrMTWqqTE79T
+T3uiqte82jR8HFwNaRoZarvyZEvNufMx2tDC6sn4t9HlAwkDEdPrspLZsXcxU/Nh
+vRljXWkn34wOzp09s7cyXG5vimPv9wVdsy8fbgiGnZpp/rB4p2uzWHnj8Ko2drCl
+29GWk5VevH1S9EXnZ+Q1HZpJXX9zTypbdrEhPfN2Q06uMTIRP5i0L0l6n7ujc3fH
+VFXveH/P6fSt3dM1oxsbh83noR9/AU2QSMI=
+=EVOy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/austinhuang
+
+==================================================================
