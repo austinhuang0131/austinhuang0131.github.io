@@ -1,7 +1,7 @@
 Well, I expect you don't expect too much here.
 
 ## Some introduction?
-Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Telegram bot](http://metagon.js.org) by myself and started [a weekly digest](http://catchypost.wordpress.com) with [another guy](http://theconceptionist.github.io/) as well as [a Minecraft server](https://gist.github.com/austinhuang0131/a3d8df6e67d74fc670cb1ec1e6fc57e5) with [another guy](http://asianboi.ml).
+Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Telegram bot](http://metagon.js.org) and [a Discord bot](http://github.com/austinhuang0131/discordtel) by myself as well as [a Minecraft server](https://gist.github.com/austinhuang0131/a3d8df6e67d74fc670cb1ec1e6fc57e5) with [another guy](http://asianboi.ml).
 
 ### Hobbies?
 Coding, modeling, reading news, learning AP and French online, and listening to sick tones are things I do a lot. Skating, softball and badminton, especially, are my favourite sports.
