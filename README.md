@@ -1,3 +1,5 @@
+<script src="https://widget.battleforthenet.com/widget.js" async></script>
+
 Well, I expect you don't expect too much here.
 
 ## Some introduction?
