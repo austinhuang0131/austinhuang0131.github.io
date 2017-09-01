@@ -6,8 +6,14 @@ Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I
 ### Hobbies?
 Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
+### Hardware?
+A school-provided MacBook Air ($500) plus several shared VPS. That's it.
+
+All my projects are hosted by other people.
+
 ### Other online activities?
 * [AniList](https://anilist.co/user/austinhuang)
+* [KeyBase](https://keybase.io/austinhuang)
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
 * [Twitter](http://twitter.com/montreal0131), although rarely used.
