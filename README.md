@@ -6,6 +6,8 @@ Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I
 ### Hobbies?
 Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
+I sometimes do Japanese-to-English translations/consultations for translations. [This] is one of them.
+
 ### Hardware?
 A school-provided MacBook Air ($500) plus several shared VPS. That's it.
 
