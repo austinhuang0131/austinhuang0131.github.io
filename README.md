@@ -1,4 +1,4 @@
-Well, I expect you don't expect too much here.
+Well, I expect you don't expect too much here. Also, here's my Visitor counter (Disable AdBlock to see this): <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=austinhuang.me&digit=style/plain/13/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
 
 ## Some introduction?
 Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Discord bot](http://github.com/austinhuang0131/discordtel) (It reached 1400+ guilds!) and [a Telegram bot](http://metagon.js.org) by myself. I also organized [a cross-Discord-bots currency exchange](http://discoin.gitbooks.io/docs).
@@ -36,4 +36,5 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 
 After expiry, I'll use a .tk domain.
 
-Visits: <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=austinhuang.me&digit=style/plain/13/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
+### Political position?
+I don't think you'll ask this question. *laughs* I tried as hard as possible to be neutral - i.e. I will tend to judge basically, like "No matter left or right, whoever conducted violence is definitely wrong", or "We can get some refugee in, but we need to make sure they *are* in need of taking refuge, not testing on our government".
