@@ -1,12 +1,16 @@
-<script src="https://widget.battleforthenet.com/widget.js" async></script>
-
 Well, I expect you don't expect too much here.
 
 ## Some introduction?
-Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Telegram bot](http://metagon.js.org) and [a Discord bot](http://github.com/austinhuang0131/discordtel) by myself as well as [a Minecraft server](https://gist.github.com/austinhuang0131/a3d8df6e67d74fc670cb1ec1e6fc57e5) with [another guy](http://asianboi.ml).
+Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Discord bot](http://github.com/austinhuang0131/discordtel) (It reached 1400+ guilds!) and [a Telegram bot](http://metagon.js.org) by myself. I also organized [a cross-Discord-bots currency exchange](http://discoin.gitbooks.io/docs).
 
 ### Hobbies?
-Coding, modeling, reading news, learning AP and French online, and listening to sick tones are things I do a lot. Skating, softball and badminton, especially, are my favourite sports.
+Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
+
+### Other online activities?
+* [AniList](https://anilist.co/user/austinhuang)
+* [NationStates](https://www.nationstates.net/nation=the_cafes)
+* [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
+* [Twitter](http://twitter.com/montreal0131), although rarely used.
 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
@@ -22,19 +26,4 @@ No.
 #### So why?
 Github has that student pack. I'm just trying to enjoy most of its benefits, including free .me domain for 1 year.
 
-##### Did you actually apply for the pack as a secondary guy?
-Yes. And they approved. It's *not* exclusively for universities *through http://nc.me is for universities but it didn't really check that because I am approved by Github already and they think Github thinks I'm a univ guy.*
-
-### People think you are...
-~~jeff~~
-
-#### A Hacker?
-I don't have special abilities?
-
-#### A Minecrafter?
-Not actually, but I host a Minecraft server! However I literally experienced a host-and-run...
-
-In Summer 2016, A guy from BCIT (called CrayCray, but I assume it's a common name) agreed to host two servers (Same IP, different port), however he erased all data in June and got out of touch.
-
-#### ~~A memer?~~
-~~G4t 0ut 0f my sw4mp~~
+After expiry, I'll use a .tk domain.
