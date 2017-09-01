@@ -6,7 +6,7 @@ Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I
 ### Hobbies?
 Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
-I sometimes do Japanese-to-English translations/consultations for translations. [This] is one of them.
+I sometimes do Japanese-to-English translations/consultations for translations. [This](http://luluidoll.jp/tagged/english) is one of them.
 
 ### Hardware?
 A school-provided MacBook Air ($500) plus several shared VPS. That's it.
@@ -35,3 +35,5 @@ No.
 Github has that student pack. I'm just trying to enjoy most of its benefits, including free .me domain for 1 year.
 
 After expiry, I'll use a .tk domain.
+
+Visits: <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=austinhuang.me&digit=style/plain/13/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
