@@ -1,12 +1,15 @@
-<script src="https://checkout.stripe.com/checkout.js"
-    class="stripe-button"
-    data-key="pk_live_o7kbLlhuzupC2wNseCuevUjY"
-    data-amount="100"
-    data-name="austinhuang.me"
+<form action="/your-server-side-code" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_test_hS75HBscxmF8lKeC94Mhw6Pk"
+    data-amount="999"
+    data-name=" Bot Services"
+    data-description="Widget"
     data-bitcoin=true
-    data-currency=USD
-    data-description="$1.00 USD ONLY (NO CAD ACCEPTED)"
-    data-image="/128x128.png">
-</script>
+    data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+    data-locale="auto"
+    data-currency="usd">
+  </script>
+</form>
 
 **AFTER PAYING, PLEASE CONTACT ME AND SPECIFY WHAT YOU'VE PAID**
