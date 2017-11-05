@@ -1,5 +1,6 @@
 Well, I expect you don't expect too much here. Also, here's my Visitor counter (Disable AdBlock to see this): <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=austinhuang.me&digit=style/plain/13/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
 
+![](Untitled-1.svg)
 ## Some introduction?
 Oh, yeah. So, I'm Austin Huang. I was born in Shanghai but moved to Montréal. I am a high school guy. I made [a Discord bot](http://github.com/austinhuang0131/discordtel) (It reached 2100+ guilds!) and [a Telegram bot](http://metagon.js.org) by myself. I also organized [a cross-Discord-bots currency exchange](http://discoin.gitbooks.io/docs).
 
