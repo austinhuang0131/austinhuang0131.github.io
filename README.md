@@ -72,15 +72,18 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<form action="/your-server-side-code" method="POST">
+<form action="/" method="POST">
 <script
   src="https://checkout.stripe.com/checkout.js" class="stripe-button"
   data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
-  data-amount="2000"
-  data-name="Stripe.com"
-  data-description="2 widgets"
+  data-panel-label="Donate by card/bitcoin"
+  data-amount="100"
+  data-currency="CAD"
+  data-name="0131 Bot Services"
+  data-description="$1 CAD of donation"
   data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
   data-locale="auto"
+  data-bitcoin="true"
   data-zip-code="true">
 </script>
 </form>
