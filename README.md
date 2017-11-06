@@ -42,6 +42,9 @@ etc.
 ## May I ask some questions?
 Obviously, sure.
 
+### I'd like to demand your services.
+[Here](https://docs.google.com/forms/d/e/1FAIpQLScSGYm6NXhc8L_vFsWZjmz6LULB89CTKX5IiRWPAAurgbF43g/viewform).
+
 ### Hobbies?
 Coding, modelling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
@@ -61,10 +64,23 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 
 ~~After expiry, I'll use a .tk domain.~~ I'll probably renew it.
 
-### I'm buying you a coffee.
+## I'm buying you a coffee/tea/drink/whatever.
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<form action="/your-server-side-code" method="POST">
+<script
+  src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+  data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
+  data-amount="2000"
+  data-name="Stripe.com"
+  data-description="2 widgets"
+  data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+  data-locale="auto"
+  data-zip-code="true">
+</script>
 </form>
