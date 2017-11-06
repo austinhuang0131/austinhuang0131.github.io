@@ -65,18 +65,11 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 ~~After expiry, I'll use a .tk domain.~~ I'll probably renew it.
 
 ## I'm buying you a coffee/tea/drink/whatever.
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
 <form action="/" method="POST">
 <script
   src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-  data-key="pk_test_6pRNASCoBOKtIshFeQd4XMUh"
-  data-label="Donate by card/bitcoin"
+  data-key="pk_live_o7kbLlhuzupC2wNseCuevUjY"
+  data-label="Donate by Card
   data-panel-label="Donate"
   data-amount="100"
   data-currency="CAD"
@@ -84,7 +77,13 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
   data-description="$1 CAD of donation"
   data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
   data-locale="auto"
-  data-bitcoin="true"
   data-zip-code="true">
 </script>
+</form>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
