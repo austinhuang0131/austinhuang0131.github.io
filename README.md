@@ -69,7 +69,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 <script
   src="https://checkout.stripe.com/checkout.js" class="stripe-button"
   data-key="pk_live_o7kbLlhuzupC2wNseCuevUjY"
-  data-label="Donate by Card
+  data-label="Donate by Card"
   data-panel-label="Donate"
   data-amount="100"
   data-currency="CAD"
