@@ -1,4 +1,4 @@
-<img src="https://speedcounter.net/counter-v2/2347814-today-brightgreen.svg" alt="Today's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-yesterday-brightgreen.svg" alt="Yesterday's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-total-brightgreen.svg" alt="All-time visitors"> <img src="https://speedcounter.net/counter-v2/2347814-online-brightgreen.svg" alt="Current vicisots">
+<img src="https://speedcounter.net/counter-v2/2347814-today-brightgreen.svg" alt="Today's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-yesterday-brightgreen.svg" alt="Yesterday's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-total-brightgreen.svg" alt="All-time visitors"> (FYI: Inaccurate)
 
 ![](Untitled-1.svg)
 
@@ -79,11 +79,9 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
   data-locale="auto"
   data-zip-code="true">
 </script>
-</form>
-<br />
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+</form> <div id="coinwidget" data-icon="true" data-type="primary" data-wallet="1Gc317G5YdGm4Mx27RXpaa2vToFQR8J1bt" /> <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
