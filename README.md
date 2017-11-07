@@ -79,7 +79,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
   data-locale="auto"
   data-zip-code="true">
 </script>
-</form> <div id="coinwidget" data-icon="true" data-type="primary" data-wallet="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi" /> <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+</form> <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ivandiazwm/coinwidget@0.1.1/builds/full.js" charset="utf-8"></script><div id="coinwidget" data-icon="true" data-type="primary" data-wallet="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi" /> <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
