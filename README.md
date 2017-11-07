@@ -1,5 +1,3 @@
-Well, I expect you don't expect too much here. Also, here's my Visitor counter (Disable AdBlock to see this): <a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/count.php?page=austinhuang.me&digit=style/plain/13/&reloads=0" alt="" title="" border="0"></a><br /><a href="http://" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;"></a>
-
 ![](Untitled-1.svg)
 
 ## Explain that huge SVG image?
@@ -80,7 +78,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
   data-zip-code="true">
 </script>
 </form>
-
+<br />
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
