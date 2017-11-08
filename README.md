@@ -1,5 +1,3 @@
-<img src="https://speedcounter.net/counter-v2/2347814-today-brightgreen.svg" alt="Today's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-yesterday-brightgreen.svg" alt="Yesterday's visitors"> <img src="https://speedcounter.net/counter-v2/2347814-total-brightgreen.svg" alt="All-time visitors"> (FYI: Inaccurate)
-
 ![](Untitled-1.svg)
 
 ## Explain that huge SVG image?
@@ -9,7 +7,7 @@ Knew it.
 That's right. I came to Montréal to study.
 
 ### I created two chatbots
-* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It has reached more than 2300 guilds.
+* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, however was deleted by Discord once. Currently in the process of restructuring.
 * [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools.
 
 ### and an exchange system between a bunch of chatbots
@@ -69,7 +67,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 <script
   src="https://checkout.stripe.com/checkout.js" class="stripe-button"
   data-key="pk_live_o7kbLlhuzupC2wNseCuevUjY"
-  data-label="Donate by Card"
+  data-label="Donate $1 CAD"
   data-panel-label="Donate"
   data-amount="100"
   data-currency="CAD"
@@ -86,4 +84,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form> (PayPal balance only)
+
+<script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
+<button class="bitcoinate" data-size="50" data-address="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi">bitcoinate</button>
