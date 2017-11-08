@@ -32,7 +32,7 @@ etc.
 ### and I am pretty active online.
 
 * [AniList](https://anilist.co/user/austinhuang)
-* [KeyBase](https://keybase.io/austinhuang)
+* [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
 * [Twitter](http://twitter.com/montreal0131), although rarely used.
@@ -88,4 +88,8 @@ PayPal donate button is for PayPal balance only. If you're using a card, use the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<button class="bitcoinate" data-type="prompt" title="Please donate bitcoins to: 12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi" data-size="50" data-address="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi">bitcoinate</button>
+* BTC: `12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi`
+* ETH: `0x6f21441a34f9F5784d2A34f8A8e604B4f88531d1`
+* LTC: `LMNRZxHrs9s46f6fpYdvPwPm258ypnY1Tk`
+  * For all 3 currencies above, you can also send to `austinhuang0131@icloud.com` if you have a Coinbase account (Avoids network fees).
+* XMY: `MVNQJxnjre7ypx7ADuFFc6YZtcUufog8RC`
