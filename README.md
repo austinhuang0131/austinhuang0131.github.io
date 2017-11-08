@@ -1,7 +1,3 @@
-<head>
-  <script src="http://www.bitcoinate.org/scripts/libraries/0.2.2.min.js"></script>
-</head>
-
 ![](Untitled-1.svg)
 
 ## Explain that huge SVG image?
