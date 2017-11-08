@@ -88,5 +88,5 @@ PayPal donate button is for PayPal balance only. If you're using a card, use the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-<script src="http://www.bitcoinate.org/scripts/libraries/0.2.2.min.js" class="bitcoinate"></script>
-<button class="bitcoinate" data-size="50" data-address="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi">bitcoinate</button>
+<script src="http://www.bitcoinate.org/scripts/libraries/0.2.2.min.js"></script>
+<button class="bitcoinate" data-type="prompt" title="Please donate bitcoins to: 12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi" data-size="50" data-address="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi">bitcoinate</button>
