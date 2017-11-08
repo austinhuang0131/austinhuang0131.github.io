@@ -63,6 +63,8 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 ~~After expiry, I'll use a .tk domain.~~ I'll probably renew it.
 
 ## I'm buying you a coffee/tea/drink/whatever.
+PayPal donate button is for PayPal balance only. If you're using a card, use the first button.
+
 <form action="/" method="POST">
 <script
   src="https://checkout.stripe.com/checkout.js" class="stripe-button"
@@ -84,7 +86,7 @@ Github has that student pack. I'm just trying to enjoy most of its benefits, inc
 <input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form> (PayPal balance only)
+</form>
 
-<script src=//bitcoinate.org/scripts/libraries/0.2.2.min.js></script>
+<script src="//bitcoinate.org/scripts/libraries/0.2.2.min.js" class="bitcoinate"></script>
 <button class="bitcoinate" data-size="50" data-address="12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi">bitcoinate</button>
