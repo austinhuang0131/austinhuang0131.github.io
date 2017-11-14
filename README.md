@@ -7,7 +7,7 @@ Knew it.
 That's right. I came to Montréal to study.
 
 ### I created two chatbots
-* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, however was deleted by Discord once. Currently in the process of restructuring.
+* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, however it was deleted by Discord once. Currently in the process of restructuring.
 * [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
 
 ### and an exchange system between a bunch of chatbots
@@ -29,7 +29,9 @@ I do some translations, too, usually from Japanese or Chinese to English. I have
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
 * [ShionKeys](/ShionKeys) (Incomplete)
 
-etc.
+I once own these projects:
+
+* [Discord Server Hub](http://discord.shoutwiki.com) (Owner), known for the first Global Ban List in Discord (Highly controversial). Abandoned due to difficulties in maintenance.
 
 ### and I am pretty active online.
 
