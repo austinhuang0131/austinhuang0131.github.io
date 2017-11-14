@@ -8,7 +8,7 @@ That's right. I came to Montréal to study.
 
 ### I created two chatbots
 * [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, however was deleted by Discord once. Currently in the process of restructuring.
-* [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools.
+* [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
 
 ### and an exchange system between a bunch of chatbots
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots.
@@ -19,11 +19,13 @@ $ = CAD. Maybe a bit less (somewhere between $45 and $50), but anyways: I earned
 ### I also help in some other projects
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
+* [Discord.Services](http://discord.services)
+* [Disboard](http://disboard.org/zh-cn)
 * [MCRep.us](http://mcrep.us)
+* [Reddit Insurance](http://reddit.com/r/redditinsurance)
 
 I do a lot of translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
-* [Disboard](http://disboard.org/zh-cn)
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
 * [ShionKeys](/ShionKeys)
 
