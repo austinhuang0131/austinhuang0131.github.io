@@ -19,39 +19,41 @@ $ = CAD. Maybe a bit less (somewhere between $45 and $50), but anyways: I earned
 ### I also help in some other projects
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
-* [Discord.Services](http://discord.services)
-* [Disboard](http://disboard.org/zh-cn)
-* [MCRep.us](http://mcrep.us)
-* [Reddit Insurance](http://reddit.com/r/redditinsurance)
+* [Discord.Services](http://discord.services) (Staff)
+* [Disboard](http://disboard.org/) (Co-Owner)
+* [MCRep.us](http://mcrep.us) (Developer)
+* [Reddit Insurance](http://reddit.com/r/redditinsurance) (Owner)
 
-I do a lot of translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
+I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
-* [ShionKeys](/ShionKeys)
+* [ShionKeys](/ShionKeys) (Incomplete)
 
 etc.
 
 ### and I am pretty active online.
 
 * [AniList](https://anilist.co/user/austinhuang)
+* [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
+* [Reddit](http://reddit.com/u/austinhuang)
 * [Twitter](http://twitter.com/montreal0131), although rarely used.
 
 ## May I ask some questions?
 Obviously, sure.
 
 ### I'd like to demand your services.
-[Here](https://docs.google.com/forms/d/e/1FAIpQLScSGYm6NXhc8L_vFsWZjmz6LULB89CTKX5IiRWPAAurgbF43g/viewform).
+I can write you a Discord/Telegram bot (But I can't host it), or do some translation work for you. Just go [here](https://docs.google.com/forms/d/e/1FAIpQLScSGYm6NXhc8L_vFsWZjmz6LULB89CTKX5IiRWPAAurgbF43g/viewform).
 
 ### Hobbies?
-Coding, modelling, mapping, reading news, learning AP and French online, and listening to sick tones are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
+Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick beats are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
 ### Hardware?
 A school-provided MacBook Air ($500) plus several shared VPS. That's it.
 
-All my projects are hosted by other people.
+All my projects are hosted by other people, namely [@AsaPlaysMC](https://github.com/AsaPlaysMC) (Once hosted DiscordTel), [@ROM-Typo](https://github.com/ROM-Typo) (Currently host DiscordTel), and [@mcao](https://github.com/mcao) (Once hosted Metagon).
 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
