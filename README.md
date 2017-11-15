@@ -28,6 +28,8 @@ I do some translations, too, usually from Japanese or Chinese to English. I have
 
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
 * [ShionKeys](/ShionKeys) (Incomplete)
+* [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
+  * [Liberapay](https://liberapay.com/), Chinese (ZH)
 
 I once own these projects:
 
