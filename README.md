@@ -29,8 +29,8 @@ I do some translations, too, usually from Japanese or Chinese to English. I have
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
 * [ShionKeys](/ShionKeys) (Incomplete)
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
-  * [Liberapay](https://liberapay.com/), Chinese (ZH)
-
+  * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
+  
 I once own these projects:
 
 * [Discord Server Hub](http://discord.shoutwiki.com) (Owner), known for the first Global Ban List in Discord (Highly controversial). Abandoned due to difficulties in maintenance.
