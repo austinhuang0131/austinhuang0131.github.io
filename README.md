@@ -39,6 +39,7 @@ I once own these projects:
 
 * [AniList](https://anilist.co/user/austinhuang)
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang)
+* [edX](https://courses.edx.org/u/austinhuang0131) (And I do have some certificates)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
