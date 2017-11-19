@@ -1,5 +1,4 @@
-## SSUNS DELEGATES
-I have registered an Instagram account so you can have my contact: `austinhuang0131` (Should have this website in the profile)
+**For SSUNS DELEGATES**: I have registered an Instagram account so you can have my contact: `austinhuang0131` (Should have this website in the profile)
 
 ![](Untitled-1.svg)
 
