@@ -1,3 +1,6 @@
+## SSUNS DELEGATES
+I have registered an Instagram account so you can have my contact: `austinhuang0131` (Should have this website in the profile)
+
 ![](Untitled-1.svg)
 
 ## Explain that huge SVG image?
@@ -40,6 +43,7 @@ I once own these projects:
 * [AniList](https://anilist.co/user/austinhuang)
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang)
 * [edX](https://courses.edx.org/u/austinhuang0131) (And I do have some certificates)
+* [Flickr](https://flic.kr/austin0131)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
