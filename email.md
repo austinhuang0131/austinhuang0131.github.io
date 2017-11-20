@@ -11,4 +11,6 @@
 ## Email Service
 This domain uses [Yandex.connect](http://connect.yandex.com) as a email service. All accounts are subject to approval by me. If you'd like to have an account, please contact im@austinhuang.me. You'll also get 10GB of online storage. It's free!
 
-Please do not abuse on your account.
+To log in, click [here](http://mail.yandex.com/for/austinhuang.me).
+
+Please do not abuse on your account. `abuse@austinhuang.me` and `postmaster@austinhuang.me` are not controlled by me, but by Yandex supports, so use with moderation.
