@@ -100,6 +100,8 @@ PayPal donate button is for PayPal balance only. If you're using a card, use the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<a class='payssion-button pay_now_large' data-key='5942a5d395ee858f'><i class='fa fa-shopping-cart'></i>&nbsp;Pay Via Payssion</a><script src='https://www.payssion.com/static/checkout/button.js' type='text/javascript'></script> 
+
 * BTC: `12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi`
 * ETH: `0x6f21441a34f9F5784d2A34f8A8e604B4f88531d1`
 * LTC: `LMNRZxHrs9s46f6fpYdvPwPm258ypnY1Tk`
