@@ -1,10 +1,10 @@
 <table class="tg">
   <tr>
-    <th class="tg-baqh" width="20%">Home</th>
-    <th class="tg-baqh" width="20%">Email</th>
-    <th class="tg-baqh" width="20%">FAQ</th>
-    <th class="tg-baqh" width="20%">Donate</th>
-    <th class="tg-baqh" width="20%">Contact</th>
+    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me">Home</a></th>
+    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/email">Email</a></th>
+    <th class="tg-baqh" width="20%">FAQ (WIP)</th>
+    <th class="tg-baqh" width="20%">href="https://austinhuang.me/donate">Donate</a></th>
+    <th class="tg-baqh" width="20%"><a href="mailto:im@austinhuang.me">Contact</a></th>
   </tr>
 </table>
 
