@@ -51,12 +51,17 @@ I once own these projects:
 
 * [AniList](https://anilist.co/user/austinhuang)
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang)
+* [Discord](https://discord.gg/8uFr3J3)
 * [edX](https://courses.edx.org/u/austinhuang0131) (And I do have some certificates)
 * [Flickr](https://flic.kr/austin0131)
+* [Instagram](https://instagram.com/austinhuang0131)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
+* [Kik](https://kik.me/austinhuang0131)
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
 * [Reddit](http://reddit.com/u/austinhuang)
+* [Skype](https://join.skype.com/MkbbjC4YVTl5) (Use in moderation!)
+* [Telegram](http://t.me/austinhuang)
 * [Twitter](http://twitter.com/montreal0131), although rarely used.
 
 ## May I ask some questions?
