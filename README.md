@@ -1,14 +1,12 @@
 <table class="tg">
   <tr>
     <th class="tg-baqh" width="20%"><a href="https://austinhuang.me">Home</a></th>
-    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/email">Email</a></th>
-    <th class="tg-baqh" width="20%">FAQ (WIP)</th>
+    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/services">Services</a></th>
+    <th class="tg-baqh" width="20%"><a href="https://blog.austinhuang.me">Blog</a></th>
     <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/donate">Donate</a></th>
     <th class="tg-baqh" width="20%"><a href="mailto:im@austinhuang.me">Contact</a></th>
   </tr>
 </table>
-
-**For SSUNS DELEGATES**: I have registered an Instagram account so you can have my contact: `austinhuang0131` (Should have this website in the profile)
 
 ![](Untitled-1.svg)
 
