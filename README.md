@@ -65,9 +65,6 @@ I once own these projects:
 ## May I ask some questions?
 Obviously, sure.
 
-### I'd like to demand your services.
-I can write you a Discord/Telegram bot (But I can't host it), or do some translation work for you. Just go [here](https://docs.google.com/forms/d/e/1FAIpQLScSGYm6NXhc8L_vFsWZjmz6LULB89CTKX5IiRWPAAurgbF43g/viewform).
-
 ### Hobbies?
 Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick beats are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
