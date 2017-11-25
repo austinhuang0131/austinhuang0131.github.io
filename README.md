@@ -54,13 +54,10 @@ I once own these projects:
 * [Flickr](https://flic.kr/austin0131)
 * [Instagram](https://instagram.com/austinhuang0131)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
-* [Kik](https://kik.me/austinhuang0131)
 * [NationStates](https://www.nationstates.net/nation=the_cafes)
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra)
 * [Reddit](http://reddit.com/u/austinhuang)
-* [Skype](https://join.skype.com/MkbbjC4YVTl5) (Use in moderation!)
-* [Telegram](http://t.me/austinhuang)
-* [Twitter](http://twitter.com/montreal0131), although rarely used.
+* [Twitter](http://twitter.com/montreal0131) (Currently a repeater of my Instagram)
 
 ## May I ask some questions?
 Obviously, sure.
