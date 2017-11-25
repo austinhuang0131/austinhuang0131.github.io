@@ -4,7 +4,7 @@
     <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/services">Services</a></th>
     <th class="tg-baqh" width="20%"><a href="https://blog.austinhuang.me">Blog</a></th>
     <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/donate">Donate</a></th>
-    <th class="tg-baqh" width="20%"><a href="mailto:im@austinhuang.me">Contact</a></th>
+    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/contact">Contact</a></th>
   </tr>
 </table>
 
