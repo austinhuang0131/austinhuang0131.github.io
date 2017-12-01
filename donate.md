@@ -34,6 +34,8 @@ PayPal donate button is for PayPal balance only. If you're using a card, use the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+<script src="https://liberapay.com/~18025/widgets/receiving.js"></script> (Euros only)
+
 * <a  href='https://www.payssion.com/checkout/5942a5d395ee858f' target='_blank'>Pay Via Payssion</a> (A bunch of methods other than card and PayPal, like Alipay, WeChat, Webmoney, Yandex.Money, etc)
 * BTC: `12tgbn6BoJyQDuRdN5fgA2fi9UKnhxXaCi` or use the link above
 * ETH: `0x6f21441a34f9F5784d2A34f8A8e604B4f88531d1`
