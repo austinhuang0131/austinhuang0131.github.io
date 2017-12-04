@@ -17,7 +17,7 @@ Knew it.
 That's right. I came to Montréal to study.
 
 ### I created two chatbots
-* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, however it was deleted by Discord once. Currently in the process of restructuring.
+* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, which was erased by Discord. Currently in the process of restructuring.
 * [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
 
 ### and an exchange system between a bunch of chatbots
@@ -32,7 +32,6 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * [Discord.Services](http://discord.services) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
 * [MCRep.us](http://mcrep.us) (Developer)
-* [Reddit Insurance](http://reddit.com/r/redditinsurance) (Owner)
 
 I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
@@ -40,6 +39,7 @@ I do some translations, too, usually from Japanese or Chinese to English. I have
 * [ShionKeys](/ShionKeys) (Incomplete)
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
+  * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
   
 I once own these projects:
 
@@ -73,10 +73,8 @@ A school-provided MacBook Air ($500) plus several shared VPS from online people 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
 
-### Are you sure you are using this site correctly?
-No.
+### What about a formal resume, *please?*
+Nah man. *skirt skirt dab dab*
 
-#### So why?
-Github has that student pack. I'm just trying to enjoy most of its benefits, including free .me domain for 1 year.
-
-~~After expiry, I'll use a .tk domain.~~ I'll probably renew it.
+### I mean you didn't answer my question...
+You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues), then.
