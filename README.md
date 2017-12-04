@@ -65,10 +65,10 @@ Obviously, sure.
 ### Hobbies?
 Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick beats are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
 
-### Hardware?
-A school-provided MacBook Air ($500) plus several shared VPS. That's it.
+Recently I found myself enjoying creative writing.
 
-All my projects are hosted by other people, namely [@AsaPlaysMC](https://github.com/AsaPlaysMC) (Once hosted DiscordTel), [@ROM-Typo](https://github.com/ROM-Typo) (Currently host DiscordTel), and [@mcao](https://github.com/mcao) (Once hosted Metagon).
+### Hardware?
+A school-provided MacBook Air ($500) plus several shared VPS from online people and free services. That's it.
 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
