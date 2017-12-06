@@ -1,5 +1,4 @@
-# This file contains meta data for various social media sites.
-# To add your own, see <https://qwtel.com/hydejack/docs/advanced/#adding-a-custom-social-media-icon>
+# This file contains meta data for various social media sites
 ---
   email:
     name: Email
@@ -35,6 +34,7 @@
   telegram:
     name: Telegram
     icon: icon-telegram
+    prepend: 'https://t.me/'
   twitter:
     name: Twitter
     icon: icon-twitter
