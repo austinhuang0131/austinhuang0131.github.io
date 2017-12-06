@@ -166,7 +166,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: qwtel/hydejack@gem-7.4.2
 
 
