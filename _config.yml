@@ -1,6 +1,11 @@
-remote_theme: qwtel/hydejack@gem-7.4.2
 title: Austin Huang
 description: Chatbot developer / High school student / Montréal, QC
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
 
 # Config
 # ========================================================================================
