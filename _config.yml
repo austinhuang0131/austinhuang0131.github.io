@@ -20,3 +20,4 @@ collections:
     output:            true
 hydejack:
   no_google_fonts:     true
+theme: jekyll-theme-minimal
