@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: qwtel/hydejack
+accent_color: '#6a9fb5'
+accent_image: none
 title: Austin Huang
 description: Chatbot developer / High school student / Montréal, QC
