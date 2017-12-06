@@ -1,6 +1,6 @@
 ---
 
-layout: about
+layout: default
 
 ---
 
