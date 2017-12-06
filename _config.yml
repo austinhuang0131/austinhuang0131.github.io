@@ -1,21 +1,12 @@
 remote_theme: qwtel/hydejack
 title: Austin Huang
 description: Chatbot developer / High school student / Montréal, QC
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
-lang:                  en
 tagline:               A JavaScript developer than makes chatbots with love in Canada.
-keywords:              []
 author:
   name:                Austin Huang
   email:               im@austinhuang.me
   twitter:             montreal0131
 copyright:             © 2017. All rights reserved.
-permalink:             pretty
 accent_color: '#bada55'
 accent_image:
   background: '#bada55'
@@ -23,3 +14,7 @@ exclude:
   - Makefile
 include:
   - _pages
+collections:
+  featured_tags:
+    permalink:         /tags/:name/
+    output:            true
