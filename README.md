@@ -1,3 +1,9 @@
+---
+
+layout: about
+
+---
+
 <table class="tg">
   <tr>
     <th class="tg-baqh" width="20%"><a href="https://austinhuang.me">Home</a></th>
