@@ -15,9 +15,9 @@ author:
   twitter:             montreal0131
 copyright:             © 2017. All rights reserved.
 permalink:             pretty
-accent_color: '#694489'
+accent_color: '#bada55'
 accent_image:
-  background: '#694489
+  background: '#bada55'
 exclude:
   - Makefile
 include:
