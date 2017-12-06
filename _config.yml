@@ -17,6 +17,12 @@ author:
 copyright:             © 2017. All rights reserved.
 permalink:             pretty
 
+exclude:
+  - Makefile
+
+include:
+  - _pages
+
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
 paginate_path:         /page-:num/
