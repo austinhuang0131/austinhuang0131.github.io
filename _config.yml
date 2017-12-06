@@ -18,3 +18,5 @@ collections:
   featured_tags:
     permalink:         /tags/:name/
     output:            true
+hydejack:
+  no_google_fonts:     true
