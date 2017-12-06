@@ -20,5 +20,3 @@ accent_image:
   background: '#bada55'
 exclude:
   - Makefile
-include:
-  - _pages
