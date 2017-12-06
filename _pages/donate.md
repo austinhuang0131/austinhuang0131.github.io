@@ -1,13 +1,3 @@
-<table class="tg">
-  <tr>
-    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me">Home</a></th>
-    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/services">Services</a></th>
-    <th class="tg-baqh" width="20%"><a href="https://blog.austinhuang.me">Blog</a></th>
-    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/donate">Donate</a></th>
-    <th class="tg-baqh" width="20%"><a href="https://austinhuang.me/contact">Contact</a></th>
-  </tr>
-</table>
-
 ## I'm buying you a coffee/tea/drink/whatever.
 PayPal donate button is for PayPal balance only. If you're using a card, use the first button.
 
