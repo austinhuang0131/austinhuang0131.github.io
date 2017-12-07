@@ -76,10 +76,15 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
 
 <table width="100%">
   <tr>
-    <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="300px"></iframe>
+    <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="400px"></iframe>
 </td>
     <td width="50%"><!-- InstaWidget -->
 <a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
 <script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
   </tr>
 </table>
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline;}
+.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:420px;text-align:left}
+</style><div align="center" id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=random&size=s&layout=x&source=user&user=136075370@N04"></script></div>
