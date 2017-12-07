@@ -1,4 +1,4 @@
-## I'm buying you a coffee/tea/drink/whatever.
+## I'd like to donate!
 PayPal donate button is for PayPal balance only. If you're using a card, use the first button.
 
 <form action="/" method="POST">
