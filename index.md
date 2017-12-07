@@ -5,6 +5,10 @@ permalink: /
 
 <img src="/Untitled-1.svg" alt="Introduction of myself in one image" width="80%">
 
+<!-- InstaWidget -->
+<div align="right" width="40%"><a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a></div>
+<script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script>
+
 ## Explain that huge SVG image?
 Knew it.
 
