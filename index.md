@@ -2,7 +2,10 @@
 layout: default
 permalink: /
 ---
+
 <img src="/Untitled-1.svg" alt="Introduction of myself in one image" width="80%">
+
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/4f567f8e866e53d698b0335c42e9147a.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;" align="right"></iframe>
 
 ## Explain that huge SVG image?
 Knew it.
