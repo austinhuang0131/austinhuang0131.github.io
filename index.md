@@ -83,8 +83,3 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
 <script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
   </tr>
 </table>
-<style type="text/css"> 
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:420px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=random&size=s&layout=x&source=user&user=136075370@N04"></script></div>
