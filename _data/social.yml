@@ -95,7 +95,7 @@
   steam:
     name: Steam
     icon: icon-steam
-    pretend: "http://steamcommunity.com/profiles/"
+    prepend: "http://steamcommunity.com/id/"
   dropbox:
     name: Dropbox
     icon: icon-dropbox
