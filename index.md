@@ -76,8 +76,8 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
 
 <table width="100%">
   <tr>
-    <td width="50%"><div class="github-widget" data-username="austinhuang0131"></div>
-<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script></td>
+    <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="http://colmdoyle.github.io/gh-activity/gh-activity.html?user=colmdoyle&type=user" width="100%" height="100%"></iframe>
+</td>
     <td width="50%"><!-- InstaWidget -->
 <a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
 <script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
