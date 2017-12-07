@@ -2,8 +2,7 @@
 layout: default
 permalink: /
 ---
-
-![](Untitled-1.svg)
+<img src="/Untitled-1.svg" alt="Introduction of myself in one image" width="80%">
 
 ## Explain that huge SVG image?
 Knew it.
