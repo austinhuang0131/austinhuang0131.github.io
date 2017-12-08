@@ -23,5 +23,7 @@ author:
     reddit: austinhuang
     steam: austinhuang0131
 
+include:
+  - assets
 exclude:
   - Makefile
