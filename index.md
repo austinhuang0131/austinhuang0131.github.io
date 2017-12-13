@@ -83,3 +83,13 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
 <script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
   </tr>
 </table>
+
+### You look cool.
+Maybe just press "Start Mining" below and you'll be able to give me some free cryptocurrencies.
+
+<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+<div class="coinhive-miner" 
+	style="width: 256px; height: 310px"
+	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
+	<em>Loading...</em>
+</div>
