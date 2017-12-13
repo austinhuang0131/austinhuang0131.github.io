@@ -1,7 +1,10 @@
 ---
 layout: default
+title: AustinHuang.me
 permalink: /
 ---
+
+So let's see what I'm up to.
 
 ## My coding projects
 * [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, which was erased by Discord. Currently in the process of restructuring. Also, I earned $50 from it.
