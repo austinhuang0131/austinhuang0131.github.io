@@ -89,7 +89,7 @@ Maybe just press "Start Mining" below and you'll be able to give me some free cr
 
 <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
 <div class="coinhive-miner" 
-	style="width: 256px; height: 310px"
+	style="width: 100%; height: 100px"
 	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
 	<em>Loading...</em>
 </div>
