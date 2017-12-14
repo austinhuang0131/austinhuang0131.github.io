@@ -12,8 +12,7 @@ PayPal donate button is for PayPal balance only. If you're using a card, use the
   data-name="0131 Bot Services"
   data-description="$1 CAD of donation"
   data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-  data-locale="auto"
-  data-zip-code="true">
+  data-locale="auto">
 </script>
 </form>
 
