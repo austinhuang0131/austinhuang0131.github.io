@@ -89,12 +89,17 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
   </tr>
 </table>
 
-<script type="text/javascript">
-    google_ad_client = "ca-pub-3033423985893098";
-    google_ad_slot = "6233158134";
-    google_ad_width = 728;
-    google_ad_height = 90;
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3033423985893098"
+     data-ad-slot="4216712342"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 <!-- Homepage -->
 <script type="text/javascript"
 src="//pagead2.googlesyndication.com/pagead/show_ads.js">
