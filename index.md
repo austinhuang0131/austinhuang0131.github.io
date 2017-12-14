@@ -95,6 +95,7 @@ You can either [donate](/donate.html) or start the Monero miner below.
 <script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
 <div class="coinhive-miner" 
 	style="width: 100%; height: 100px"
+	data-action="#76c2f8"
 	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
 	<em>Loading...</em>
 </div>
