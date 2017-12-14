@@ -89,12 +89,12 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
   </tr>
 </table>
 
-### You look cool.
-Maybe just press "Start Mining" below and you'll be able to give me some free cryptocurrencies.
-
-<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
-<div class="coinhive-miner" 
-	style="width: 100%; height: 100px"
-	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
-	<em>Loading...</em>
-</div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Homepage -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-3033423985893098"
+     data-ad-slot="6233158134"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
