@@ -1,27 +1,15 @@
 ## I'd like to donate!
-PayPal donate button is for PayPal balance only. If you're using a card, use the first button.
-
-<form action="/" method="POST">
-<script
-  src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-  data-key="pk_live_o7kbLlhuzupC2wNseCuevUjY"
-  data-label="Donate $1 CAD"
-  data-panel-label="Donate"
-  data-amount="100"
-  data-currency="CAD"
-  data-name="0131 Bot Services"
-  data-description="$1 CAD of donation"
-  data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
-  data-locale="auto">
+<div id="accepton-form"></div> 
+<script src="https://js.accepton.com/scripts/accepton.js" 
+  class="accepton-button"
+  data-public-key="pkey_94b45027db60823d"
+  data-redirect-uri=""
+  data-token="txn_c54bcb3ef314c8ca0d3ff53838b0438d"
+  data-additional-fields="name"
+  data-customer-email=""
+  data-target="accepton-form">
 </script>
-</form>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="X5F25CULLN2GU">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<noscript>You must enable javascript to pay with this form.</noscript>
 
 <script src="https://liberapay.com/~18025/widgets/receiving.js"></script> (Euros only)
 
