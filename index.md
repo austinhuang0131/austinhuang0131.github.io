@@ -99,8 +99,3 @@ You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-<!-- Homepage -->
-<script type="text/javascript"
-src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
