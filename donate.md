@@ -9,7 +9,6 @@
   data-customer-email=""
   data-target="accepton-form">
 </script>
-<noscript>You must enable javascript to pay with this form.</noscript>
 
 <script src="https://liberapay.com/~18025/widgets/receiving.js"></script> (Euros only)
 
