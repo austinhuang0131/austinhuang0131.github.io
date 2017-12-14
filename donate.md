@@ -5,7 +5,7 @@
   data-public-key="pkey_94b45027db60823d"
   data-redirect-uri=""
   data-token="txn_c54bcb3ef314c8ca0d3ff53838b0438d"
-  data-additional-fields="name"
+  data-additional-fields=""
   data-customer-email=""
   data-target="accepton-form">
 </script>
