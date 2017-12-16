@@ -87,7 +87,22 @@ Yeah. I actually went to the same high school as [@simonguozirui](https://github
 Nah man. *skirt skirt dab dab*
 
 ### I mean you didn't answer my question...
-You can ask it [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues), then.
+Leave a comment here, then.
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "https://austinhuang.me/";
+this.page.identifier = "one";
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://0131.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 ### Hey, you look cool. How can I support you?
 You can either [donate](/donate.html) or start the Monero miner below.
