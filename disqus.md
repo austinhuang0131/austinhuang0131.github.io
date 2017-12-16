@@ -5,7 +5,7 @@ var disqus_config = function () {
 this.page.url = "https://austinhuang.me/disqus.html";
 this.page.identifier = "index";
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() {
 var d = document, s = d.createElement('script');
 s.src = 'https://0131.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
