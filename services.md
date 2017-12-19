@@ -4,8 +4,10 @@
 I can write you a Discord/Telegram bot, or do some translation work for you.
 
 * I wrote a bot for [InFlamesWeMust](http://twitch.tv/inflameswemust), which contains stream notifications and follower checks.
+* I wrote an OAuth function that links Instagram users to Discord users for [Instagram Lounge](https://discord.gg/NJw8GAQ).
+* I also wrote a reminder bot for BunchyNose073#3584 on Discord.
 * I am able to use Twitch and Instagram OAuths.
-* I also wrote [DiscordTel](http://discordtel.austinhuang.me) and [Metagon](https://metagon.cf).
+* I also wrote [DiscordTel](http://discordtel.austinhuang.me) and [Metagon](https://metagon.cf), which are quite popular.
 * My translation works are listed [here](https://austinhuang.me/#i-also-help-in-some-other-projects). Note that I can translate between English and Chinese.
 * Depending on the size, I might be able to host your bot. However, as a precaution, you should get a host. I will be able to set up your host.
 * Pay-what-you-want.
