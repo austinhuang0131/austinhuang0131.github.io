@@ -27,7 +27,6 @@ So let's see what I'm up to.
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
 * [BotList.space](http://botlist.space) (Staff)
-* [Discord.Services](http://discord.services) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
 * [MCRep.us](http://mcrep.us) (Developer)
 
