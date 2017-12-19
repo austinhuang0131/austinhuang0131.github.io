@@ -30,6 +30,8 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * [Disboard](http://disboard.org/) (Co-Owner)
 * [MCRep.us](http://mcrep.us) (Developer)
 
+I also write private bots for individuals.
+
 ## My translations
 I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
