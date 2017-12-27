@@ -1,4 +1,8 @@
-## I'd like to demand your services!
+---
+layout: default
+title: I'd like to demand your services!
+permalink: /services
+---
 
 ### Developer and Translation Services
 I can write you a Discord/Telegram bot, or do some translation work for you.
