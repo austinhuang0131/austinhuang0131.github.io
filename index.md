@@ -28,7 +28,6 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 
 * [BotList.space](http://botlist.space) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
-* [MCRep.us](http://mcrep.us) (Developer)
 
 I also [write private bots](/services) for individuals.
 
