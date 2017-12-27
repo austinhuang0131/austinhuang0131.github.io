@@ -1,5 +1,4 @@
 ---
-layout: default
 title: I'd like to contact you!
 ---
 
