@@ -1,3 +1,9 @@
+---
+layout: default
+title: I'd like to contact you!
+permalink: /contact
+---
+
 * [The old-fashion way of email](mailto:im@austinhuang.me) `im@austinhuang.me`
 * [Discord](https://discord.gg/8uFr3J3)
 * [Instagram](https://instagram.com/austinhuang0131)
