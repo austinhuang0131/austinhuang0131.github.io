@@ -1,4 +1,9 @@
-## I'd like to donate!
+---
+layout: default
+title: I'd like to donate!
+permalink: /donate
+---
+
 <div id="accepton-form"></div> 
 <script src="https://js.accepton.com/scripts/accepton.js" 
   class="accepton-button"
