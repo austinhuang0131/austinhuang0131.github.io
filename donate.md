@@ -1,7 +1,6 @@
 ---
 layout: default
 title: I'd like to donate!
-permalink: /donate
 ---
 
 <div id="accepton-form"></div> 
