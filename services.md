@@ -1,7 +1,6 @@
 ---
 layout: default
 title: I'd like to demand your services!
-permalink: /services
 ---
 
 ### Developer and Translation Services
