@@ -1,7 +1,6 @@
 ---
 layout: default
 title: I'd like to contact you!
-permalink: /contact
 ---
 
 * [The old-fashion way of email](mailto:im@austinhuang.me) `im@austinhuang.me`
