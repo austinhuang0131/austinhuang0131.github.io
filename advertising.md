@@ -62,9 +62,9 @@ Sorted in size (Large to Small) as of January 10, 2018.
 ## Listing Bots
 Aside of website/server bots.
 
-* [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
-* [Discord Sites](https://discordapp.com/oauth2/authorize?client_id=272362090994335744&scope=bot) (`$addme` then `$bump` every 2 hours)
 * [Bump!](https://discordapp.com/oauth2/authorize?client_id=354107917508673547&scope=bot&permissions=1341643969) (`b.bump` every 2 hours)
+* [Liam](https://liam.advertise.racing/) (`*bump` every hour)
+* [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
 
 ## Listing Servers
 ***This section is being revamped. Content subjected to change in the next few days.***
