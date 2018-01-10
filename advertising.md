@@ -74,6 +74,7 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Portal](https://discord.gg/KmZETQW)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
+* [Pandora List](https://discord.gg/mU9ezQ2) (Server itself is no longer maintained, however large population remains)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
