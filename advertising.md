@@ -69,7 +69,7 @@ Aside of website/server bots.
 ## Listing Servers
 ***This section is being revamped. Content subjected to change in the next few days.***
 
-Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison. However, we are only listing the well-maintained ones here.
+Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison. However, we are only listing the well-maintained ones here.
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Portal](https://discord.gg/KmZETQW)
