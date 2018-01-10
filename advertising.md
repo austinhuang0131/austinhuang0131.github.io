@@ -16,11 +16,11 @@ title: I'd like to advertise my Discord server/bot!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY! Wanna reach the same size as the Café does? **Advertise as much as you can!**
 
-Found more? [Just open a pull request to add it!](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) ~~No server owners that hate me kthx~~ By the way...
+Found more? [Just open a pull request to add it!](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) ~~No server owners that hate me kthx~~
 
-* To add your *listing* server into this list your server must meet one of the criteria:
-  * A variety of listings
-  * 200+ members
+* To add your *server-listing* server into this list, your server should have at least 200 members and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
+* Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
+* No bot-listing servers.
   
 ## Websites
 Sorted in size (Large to Small) as of January 10, 2018.
@@ -69,10 +69,14 @@ Aside of website/server bots.
 ## Listing Servers
 ***This section is being revamped. Content subjected to change in the next few days.***
 
-Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement.
+Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison. However, we are only listing the well-maintained ones here.
 
+* [Advertise Your Server](https://discord.gg/RrjdrGQ)
+* [Discord Portal](https://discord.gg/KmZETQW)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
+* [The Portal](https://discord.gg/6HtGJ98)
+* [United Server Listings](https://discord.gg/HbATpW2)
 
 ## Others
 * [An iOS app](https://itunes.apple.com/ca/app/server-list-for-discord/id1148794691?mt=8)
@@ -97,5 +101,5 @@ Ordered by list size as of January 10, 2018.
   * 91 bots
 * [Discord.Services](http://discord.services/bots/)
   * 87 bots
-* [BotList.space / Mayo Bot List](https://botlist.space)
+* [BotList.space](https://botlist.space)
   * 55 bots
