@@ -16,12 +16,12 @@ title: I'd like to advertise my Discord server/bot!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY! Wanna reach the same size as the Café does? **Advertise as much as you can!**
 
-Found more? [Ask __austinhuang#1076__](http://discord.me/0131) for edits. ~~No server owners that hate me kthx~~ By the way...
+Found more? [Just open a pull request to add it!](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) ~~No server owners that hate me kthx~~ By the way...
 
-1. To add your *listing* server into this list your server must meet one of the criteria:
-* 50+ members with a variety of listings, judged by myself
-* 200+ members and a partnership to my server
-
+* To add your *listing* server into this list your server must meet one of the criteria:
+  * A variety of listings
+  * 200+ members
+  
 ## Websites
 Sorted in size (Large to Small) as of January 10, 2018.
 
