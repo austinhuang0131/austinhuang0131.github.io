@@ -47,42 +47,28 @@ Sorted in size (Large to Small) as of January 10, 2018.
   * Actual server count unknown
 * [Discord Channel Beta](http://discha.net) **JAPANESE**
   * 280+ servers
-  
-## Listing Servers
-*Revamping...*
+* [Discord Services / The Directory](http://discord.services)
+  * 50+ servers
+  * Server owners can bump every 4 hours for free
 
 ## Listing Bots
 Aside of website/server bots.
 
 * [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
-* [Mob](https://discordapp.com/oauth2/authorize?client_id=272362090994335744&scope=bot) (`$addme` then `$bump` every 2 hours)
+* [Discord Sites](https://discordapp.com/oauth2/authorize?client_id=272362090994335744&scope=bot) (`$addme` then `$bump` every 2 hours)
 * [Bump!](https://discordapp.com/oauth2/authorize?client_id=354107917508673547&scope=bot&permissions=1341643969) (`b.bump` every 2 hours)
 
+## Listing Servers
+***This section is being revamped. Content subjected to change in the next few days.***
+
+Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement.
+
+* [Discord Server Central](http://discord.gg/PrzjCjG)
+* [Server Advertisement List](http://discord.gg/Gb9gjd3)
 
 ## Others
 * [An iOS app](https://itunes.apple.com/ca/app/server-list-for-discord/id1148794691?mt=8)
 * [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5068 subs)
-
-## Efficiency
-Thanks [Steambot Server](https://discord.gg/w8gx343) for stats. The results were made on January 12, 2017.
-```
-Dec-16 Jan-12 Change
-=====        =====        
-Total Server Members
-595     797      202
-=====        =====        
-Invite for The Portal            
-2        4        2
-=====        =====        
-Invite for Server Central        
-0        0        0
-=====        =====        
-Invite for: United Server Listings    
-0        2        2
-=====        =====        
-Invite for: ServerHound (DiscordList.net)       
-0        8        8
-```
 
 # Free guilds for your Discord bot!
 Ordered by list size as of January 10, 2018.
