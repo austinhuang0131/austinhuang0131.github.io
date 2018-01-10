@@ -2,7 +2,7 @@
 title: I'd like to advertise my Discord server/bot!
 ---
 
-[Click here for advertising bots](#free-guilds-for-your-discord-bot)
+[Click here for advertising for bots](#free-guilds-for-your-discord-bot)
 
 # Free people for your Discord server!
 
@@ -10,13 +10,12 @@ Server owners hate me! But today you'll see this one crazy and simple trick to i
 
 Found more? [Ask __austinhuang#1076__](http://discord.me/0131) for edits. ~~No server owners that hate me kthx~~ By the way...
 
-1. **IT IS NOT SUGGESTED TO ADVERTISE IN THE COMMENT BOX IN THIS GIST** or register a GitHub account just for commenting here. **IF YOU HAVE TO DO SO, PLEASE ADVERTISE RESPONSIBLY.** For a long time, I have been tolerant enough and allow you to advertise here. Please don't challenge my limits. **Don't spam. Don't stick your damn finger at Ctrl+V. 1 comment per server. No bumps.** Or I'll let a script do the job for me (That is, delete every single comment, past and future).
-2. To add your *listing* server into this list your server must meet one of the criteria:
+1. To add your *listing* server into this list your server must meet one of the criteria:
 * 50+ members with a variety of listings, judged by myself
 * 200+ members and a partnership to my server
 
 ## Websites
-Sorted in size (Large to Small).
+Sorted in size (Large to Small) as of January 10, 2018.
 
 * [Discord Servers](http://discservs.co)
   * Largest (21000+ servers), second-most traffic, and probably oldest
@@ -31,29 +30,24 @@ Sorted in size (Large to Small).
   * Server owners can bump every 4 hours for free
   * Can view live messages and per-member activity stats
 * [DiscordList.me](http://discordlist.me)
-  * 5000+ servers
+  * 14000+ servers
   * Server owners can bump every 6 hours for free
   * Free custom link for invites
   * Server members can vote for servers (using the + button)
+* [DiscordHub](https://discordhub.com/servers/list)
+  * 1800+ servers
+  * Server owners can bump every 1 day (24 hours) for free
+* [Disboard.org](http://disboard.org) English/Japanese/Chinese
+  * 1200+ servers
+  * Server owners can bump every hour for free
+* [Discord-Server.com](http://discord-server.com) 5 languages
+  * 1000+ servers
+  * Server owners can bump every 4 hours for free
 * [Discordeame](http://discordea.net) **SPANISH**
   * Actual server count unknown
-* [DiscordHub](https://discordhub.com/servers/list)
-  * 500+ servers
-  * Server owners can bump every 1 day (24 hours) for free
-* [Discord-Server.com](http://discord-server.com) 5 languages
-  * 500+ servers
-  * Server owners can bump every 4 hours for free
-* [Disboard.org](http://disboard.org) English/Japanese/Chinese
-  * 200+ servers
-  * Server owners can bump every 10 minutes for free
 * [Discord Channel Beta](http://discha.net) **JAPANESE**
-  * 110+ servers
-* [DiscordList.com](http://discordlist.com)
-  * 85 servers
-  * **Manual** Submission by GitHub pull request
+  * 280+ servers
   
-*Traffic stats based on Alexa and SimilarWeb. All stats are made on December 11, 2016 and will not be updated frequently.*
-
 ## Listing Servers
 *Revamping...*
 
