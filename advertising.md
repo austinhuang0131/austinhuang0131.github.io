@@ -10,7 +10,7 @@ title: I'd like to advertise my Discord server/bot!
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-[Click here for advertising for bots](#free-guilds-for-your-discord-bot)
+Revised January 11, 2018.<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)
 
 ## Free people for your Discord server!
 
@@ -25,11 +25,11 @@ Found more places to advertise? [Just open a pull request to add it!](https://gi
 ### Websites
 Sorted by size (Amount of guilds) as of January 10, 2018.
 
-<!-- No edits above this point unless performed by Austin Huang himself -->
+<!-- No edits above this point, except the "Revised" date, unless performed by Austin Huang himself -->
 
 * [Discord Servers](http://discservs.co)
   * Largest (21000+ servers), second-most traffic, and probably oldest
-  * Have server message stats
+  * More like a search engine
 * [Discord.me](http://discord.me)
   * Second-Largest (20000+ servers), most traffic
   * Server owners can bump every 6 hours
@@ -46,17 +46,18 @@ Sorted by size (Amount of guilds) as of January 10, 2018.
 * [DiscordHub](https://discordhub.com/servers/list)
   * 1800+ servers
   * Server owners can bump every 1 day (24 hours) for free
-* [Disboard.org](http://disboard.org) English/Japanese/Chinese
+* [Disboard.org](http://disboard.org) JP/EN/ZH
   * 1200+ servers
+  * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
   * Server owners can bump every hour for free
-* [Discord-Server.com](http://discord-server.com) 5 languages
+* [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
   * 1000+ servers
   * Server owners can bump every 4 hours for free
-* [Discordeame](http://discordea.net) **SPANISH**
+* [Discordeame](http://discordea.net) **SPANISH ONLY**
   * Actual server count unknown
 * [Discord Channel Beta](http://discha.net) **JAPANESE**
   * 280+ servers
-  * Has English version, however rarely used
+  * Has [English version](http://discord-chan.net), however rarely used
 * [Discord Services / The Directory](http://discord.services)
   * 50+ servers
   * Server owners can bump every 4 hours for free
