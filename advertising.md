@@ -25,6 +25,8 @@ Found more places to advertise? [Just open a pull request to add it!](https://gi
 ### Websites
 Sorted by size (Amount of guilds) as of January 10, 2018.
 
+<!-- No edits above this point unless performed by Austin Huang himself -->
+
 * [Discord Servers](http://discservs.co)
   * Largest (21000+ servers), second-most traffic, and probably oldest
   * Have server message stats
@@ -33,15 +35,14 @@ Sorted by size (Amount of guilds) as of January 10, 2018.
   * Server owners can bump every 6 hours
   * Free custom link for invites
 * [DiscordList.net](http://discordlist.net)
-  * 15000+ servers, along with bots
-  * Submission by bot
+  * 15000+ servers
+  * Servers can only be submitted by ServerHound, its bot 
   * Server owners can bump every 4 hours for free
-  * Can view live messages and per-member activity stats
+  * **WARNING!** ServerHound, their listing bot, [has a terrible reputation](https://www.reddit.com/search?q=serverhound) and is frequently considered a botnet. The bot was caught [monitored server messages before](https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/) <sup>In mid-2017, I worked with DiscordList and witnessed that one of their small teams have access to their "Radar", which catches global messages that matches a specific keyword</sup>. Some users reported that the website seems to be a target for raiding. Before, they also show live message in listed guilds and per-member stats on the website, but it seems to be removed. Also, the owner of the websites is currently involved in crypto pumping <sup>Left sidebar, last button</sup>.
 * [DiscordList.me](http://discordlist.me)
   * 14000+ servers
   * Server owners can bump every 6 hours for free
-  * Free custom link for invites
-  * Server members can vote for servers (using the + button)
+  * Free custom link for invites (disco.gg)
 * [DiscordHub](https://discordhub.com/servers/list)
   * 1800+ servers
   * Server owners can bump every 1 day (24 hours) for free
@@ -55,6 +56,7 @@ Sorted by size (Amount of guilds) as of January 10, 2018.
   * Actual server count unknown
 * [Discord Channel Beta](http://discha.net) **JAPANESE**
   * 280+ servers
+  * Has English version, however rarely used
 * [Discord Services / The Directory](http://discord.services)
   * 50+ servers
   * Server owners can bump every 4 hours for free
@@ -106,6 +108,8 @@ Sorted by list size as of January 10, 2018.
   * 87 bots
 * [BotList.space](https://botlist.space)
   * 55 bots
+
+<!-- No edits below this point unless performed by Austin Huang himself -->
 
 ## Comments
 No spamming invites or I'll ban you. This comment section is way easier to maintain, so don't expect me to forgive your ad spams.
