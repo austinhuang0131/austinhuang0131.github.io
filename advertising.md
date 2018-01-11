@@ -23,7 +23,7 @@ Found more places to advertise? [Just open a pull request to add it!](https://gi
 * No bot-listing servers.
   
 ## Websites
-Sorted in size (Large to Small) as of January 10, 2018.
+Sorted by size (Amount of guilds) as of January 10, 2018.
 
 * [Discord Servers](http://discservs.co)
   * Largest (21000+ servers), second-most traffic, and probably oldest
@@ -67,9 +67,7 @@ Aside of website/server bots.
 * [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
 
 ## Listing Servers
-***This section is being revamped. Content subjected to change in the next few days.***
-
-Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison. However, we are only listing the well-maintained ones here.
+Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed (But outdated, as the author stated) comparison. We are only listing the well-maintained ones here.
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Portal](https://discord.gg/KmZETQW)
@@ -79,12 +77,16 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
 
-## Others
-* [An iOS app](https://itunes.apple.com/ca/app/server-list-for-discord/id1148794691?mt=8)
-* [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5068 subs)
+## Subreddits
+Sub count as of January 11, 2018. Except the listed once, all others are either new or unmaintained/abandoned.
+
+* [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5097 subs)
+* [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (699 subs, and as the name says, it's **NSFW**)
+* [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (560 subs)
+* [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (181 subs)
 
 # Free guilds for your Discord bot!
-Ordered by list size as of January 10, 2018.
+Sorted by list size as of January 10, 2018.
 
 * [Discord Bot List](https://discordbots.org)
   * 1367 bots
