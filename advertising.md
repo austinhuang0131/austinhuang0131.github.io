@@ -12,7 +12,7 @@ title: I'd like to advertise my Discord server/bot!
 
 [Click here for advertising for bots](#free-guilds-for-your-discord-bot)
 
-# Free people for your Discord server!
+## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY! **Advertise as much as you can!**
 
@@ -22,7 +22,7 @@ Found more places to advertise? [Just open a pull request to add it!](https://gi
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
   
-## Websites
+### Websites
 Sorted by size (Amount of guilds) as of January 10, 2018.
 
 * [Discord Servers](http://discservs.co)
@@ -59,14 +59,14 @@ Sorted by size (Amount of guilds) as of January 10, 2018.
   * 50+ servers
   * Server owners can bump every 4 hours for free
 
-## Listing Bots
+### Listing Bots
 Aside of website/server bots.
 
 * [Bump!](https://discordapp.com/oauth2/authorize?client_id=354107917508673547&scope=bot&permissions=1341643969) (`b.bump` every 2 hours)
 * [Liam](https://liam.advertise.racing/) (`*bump` every hour)
 * [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
 
-## Listing Servers
+### Listing Servers
 Aside from websites and bot-served servers. Please note that most servers require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed (But outdated, as the author stated) comparison. We are only listing the well-maintained ones here.
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
@@ -77,7 +77,7 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
 
-## Subreddits
+### Subreddits
 Sub count as of January 11, 2018. Except the listed once, all others are either new or unmaintained/abandoned.
 
 * [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5097 subs)
@@ -85,7 +85,7 @@ Sub count as of January 11, 2018. Except the listed once, all others are either 
 * [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (560 subs)
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (181 subs)
 
-# Free guilds for your Discord bot!
+## Free guilds for your Discord bot!
 Sorted by list size as of January 10, 2018.
 
 * [Discord Bot List](https://discordbots.org)
@@ -106,3 +106,21 @@ Sorted by list size as of January 10, 2018.
   * 87 bots
 * [BotList.space](https://botlist.space)
   * 55 bots
+
+## Comments
+No spamming invites or I'll ban you. This comment section is way easier to maintain, so don't expect me to forgive your ad spams.
+
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "https://austinhuang.me/advertising";
+this.page.identifier = "adguide";
+};
+(function() {
+var d = document, s = d.createElement('script');
+s.src = 'https://0131.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
