@@ -16,7 +16,17 @@ permalink: /
 !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/40497/austinhuang.me/0/0/",s.parentNode.insertBefore(t,s)}();
 </script>
 
-So let's see what I'm up to.
+<meta name="og:title" content="Austin Huang - A young JavaScript developer who writes chatbots and stories in Montréal.">
+<meta name="og:site_name" content="AustinHuang.me">
+<meta name="og:type" content="website">
+<meta name="og:image" content="https://www.gravatar.com/avatar/d5a5f57410d9f6bf426ac4e1c1c66c2c.jpg">
+<meta name="og:image:type" content="image/jpeg">
+<meta name="og:image:alt" content="Austin Huang the Bus :^)">
+<meta name="og:description" content="That's just my homepage/resume. What else do you expect?">
+
+## I'm Austin Huang.
+
+Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). So let's see what I'm up to.
 
 ## My coding projects
 * [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, which was erased by Discord. Currently in the process of restructuring. Also, I earned $50 from it.
