@@ -84,7 +84,7 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [United Server Listings](https://discord.gg/HbATpW2)
 
 ### Subreddits
-Sub count as of January 11, 2018. Except the listed once, all others are either new or unmaintained/abandoned.
+Sub count as of January 11, 2018. Except the listed ones, all others are either new or unmaintained/abandoned.
 
 * [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5097 subs)
 * [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (699 subs, and as the name says, it's **NSFW**)
