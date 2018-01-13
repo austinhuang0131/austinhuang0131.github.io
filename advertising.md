@@ -10,7 +10,7 @@ title: I'd like to advertise my Discord server/bot!
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised January 11, 2018.<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)
+Revised January 13, 2018 (Adding DiscordServ.com).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)
 
 ## Free people for your Discord server!
 
@@ -43,6 +43,9 @@ Sorted by size (Amount of guilds) as of January 10, 2018.
   * 14000+ servers
   * Server owners can bump every 6 hours for free
   * Free custom link for invites (disco.gg)
+* [DiscordServ.com](http://discordserv.com)
+  * 2600+ servers
+  * Server owners can bump every 6 hours for free
 * [DiscordHub](https://discordhub.com/servers/list)
   * 1800+ servers
   * Server owners can bump every 1 day (24 hours) for free
