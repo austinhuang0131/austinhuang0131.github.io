@@ -6,11 +6,12 @@ tagline: A young JavaScript developer who writes chatbots and stories in Montré
 accent_color: '#87CEFA'
 accent_image:
   background: '#bada55'
+  
+disqus: 0131
 
 author:
   name:  Austin Huang
   email: im@austinhuang.me
-
   social:
     email: mailto:im@austinhuang.me
     github: austinhuang0131
