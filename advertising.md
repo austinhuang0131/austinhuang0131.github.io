@@ -1,5 +1,6 @@
 ---
 title: I'd like to advertise my Discord server/bot!
+comments: true
 ---
 
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
@@ -112,25 +113,3 @@ Sorted by list size as of January 10, 2018.
   * 87 bots
 * [BotList.space](https://botlist.space)
   * 55 bots
-
-<!-- No edits below this point unless performed by Austin Huang himself -->
-
-## Comments
-No spamming invites or I'll ban you. This comment section is way easier to maintain, so don't expect me to forgive your ad spams.
-
-I mean you can still post *some* invites tho.
-
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = "https://austinhuang.me/advertising";
-this.page.identifier = "adguide";
-};
-(function() {
-var d = document, s = d.createElement('script');
-s.src = 'https://0131.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
