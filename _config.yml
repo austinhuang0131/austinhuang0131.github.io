@@ -23,6 +23,9 @@ author:
     reddit: austinhuang
     steam: austinhuang0131
 
+plugins:
+  - jekyll-avatar
+
 include:
   - assets
 exclude:
