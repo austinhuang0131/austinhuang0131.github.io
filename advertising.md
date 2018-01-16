@@ -11,7 +11,7 @@ comments: true
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised January 13, 2018 (Adding DiscordServ.com).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)
+Revised January 13, 2018 (Adding DiscordServ.com).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 
 ## Free people for your Discord server!
 
