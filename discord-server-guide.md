@@ -7,6 +7,8 @@ Running a Discord server is not easy and I've seen numerous people struggling wi
 
 ~~tfw lazy to give individual advice in #request-server-assistance~~
 
+This guide is WIP and will remain WIP. [Revision is welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
+
 ## Questions to ask yourself
 Before making a Discord server, you should ask yourself these questions:
 
@@ -37,9 +39,37 @@ This type of events highly depends on your server's purpose and also resources a
 Minigames (Like [Cards Against Humanity](http://pretendyoure.xyz/zy/), [UNO](http://www.richgieg.com/runo) and [Webopoly](http://www.webopoly.org/), sure you'll find more) as well as other small events (Like movie night, karaoke, etc) can be used to keep your members busy. They require less effort than type 1 events, but they won't bring in new members, and there is a limit on how many you can do: Too many minigames can dilute your purpose which may lead to losing members.
 
 #### Type 3: Give one shot => Get new people
-Giveaways with attractive prizes will surely bring in new people [when used with proper advertisement](#advertisement). They might not have an effect on your existing members though.
+Giveaways with attractive prizes will surely bring in new people [when used with proper advertisement](#advertising). They might not have an effect on your existing members though.
 
 But after all, you can't do events all the time. So there's also...
 
 ### Regular activities
-Chat, obviously! But chat about what?
+Chat, obviously! But chat about what? You certainly need [responsible staff](#choosing-staff) to start topics and engage in conversations. Members need to feel that...
+
+* You cares about them
+* They have certain value in the server
+* THey enjoy staying in your server
+
+## How do I increase my population?
+Once you know how to keep your population, you should impose measures to increase your member count.
+
+### Advertising
+Your advertising slogan should point out what you have (Purpose, Type 1 events) plus some attractive treats (Type 3 events).
+
+[This page](/../advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
+
+### Referral
+If your members are satisfied of what you have in your server, they certainly want other people to be satisfied. You should pull out a little reward for them to refer people.
+
+## Misc
+### Choosing staff
+Three ways.
+#### Direct appointment
+If you have enthusiastic friends who would help you to get their goal, then surely appointing them is the best choice.
+#### Application
+Most commonly used method. Let your members explain what they have and what they're able to do. However, lack of objective views can cause missteps in choosing staffs.
+#### Election
+Personally, I let my members elect their moderators. This is very objective. However, without constantly refreshing population, there's hardly a challenge for the elected.
+
+## Have more questions?
+Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
