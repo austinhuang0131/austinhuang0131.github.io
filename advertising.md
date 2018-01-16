@@ -15,9 +15,9 @@ Revised January 13, 2018 (Adding DiscordServ.com).<br />[Click here for increase
 
 ## Free people for your Discord server!
 
-Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY! **Advertise as much as you can!**
+Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Found more places to advertise? [Just open a pull request to add it!](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) ~~No server owners that hate me kthx~~
+Found more places to advertise? [Just open a pull request](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) or [contact me on Discord](https://discord.gg/013MqTM1p1qm52VcZ)! ~~No server owners that hate me kthx~~
 
 * To add your *server-listing* server into this list, your server should have at least 200 members and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
