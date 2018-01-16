@@ -56,7 +56,7 @@ Once you know how to keep your population, you should impose measures to increas
 ### Advertising
 Your advertising slogan should point out what you have (Purpose, Type 1 events) plus some attractive treats (Type 3 events).
 
-[This page](/../advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
+[This page](/./advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
 
 ### Referral
 If your members are satisfied of what you have in your server, they certainly want other people to be satisfied. You should pull out a little reward for them to refer people.
