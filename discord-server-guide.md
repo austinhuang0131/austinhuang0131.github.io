@@ -3,9 +3,15 @@ title: I need advice on running a Discord server!
 comments: true
 ---
 
-Running a Discord server is not easy and I've seen numerous people struggling with it. From my personal experience, here's some advice from me, I guess.
+<meta name="og:title" content="I need advice on running a Discord server!">
+<meta name="og:site_name" content="AustinHuang.me">
+<meta name="og:type" content="website">
+<meta name="og:image" content="https://www.gravatar.com/avatar/d5a5f57410d9f6bf426ac4e1c1c66c2c.jpg">
+<meta name="og:image:type" content="image/jpeg">
+<meta name="og:image:alt" content="Austin Huang the Bus :^)">
+<meta name="og:description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your server!">
 
-~~tfw lazy to give individual advice in #request-server-assistance~~
+Running a Discord server is not easy and I've seen numerous people struggling with it. From my personal experience, here's some advice from me, I guess.
 
 This guide is WIP and will remain WIP. [Revision is welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
 
@@ -70,6 +76,8 @@ If you have enthusiastic friends who would help you to get their goal, then sure
 Most commonly used method. Let your members explain what they have and what they're able to do. However, lack of objective views can cause missteps in choosing staffs.
 #### Election
 Personally, I let my members elect their moderators. This is very objective. However, without constantly refreshing population, there's hardly a challenge for the elected.
+### Bots
+**DON'T** add a lot of bots, or mention your bots as one of the features of your server anywhere. You should only use bots that you will truly use.
 
 ## Have more questions?
 Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
