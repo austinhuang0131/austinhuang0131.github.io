@@ -1,5 +1,5 @@
 ---
-title: I'd like to advertise my Discord server/bot!
+title: DON'T CLICK HERE, IN WIP
 comments: true
 ---
 
