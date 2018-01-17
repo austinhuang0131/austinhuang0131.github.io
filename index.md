@@ -46,6 +46,7 @@ I also [write private bots](/services) for individuals.
 I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
 * [BotList.space](http://botlist.space) (All of Chinese translation)
+* [Disboard](http://disboard.org/) (All of Chinese translation)
 * [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
 * [Terminal.ink Bot List](https://ls.terminal.ink/) (All of Chinese translation)
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
