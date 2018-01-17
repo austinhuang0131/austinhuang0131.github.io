@@ -29,7 +29,7 @@ There is no correct answer to them, but you should keep them in mind. If you ans
 Personally, I suggest that you should find some people (10 is enough) who have interest or expertise in your field to start the server, so that it'll be easier to find new members as they'll have a reference in what's going on.
 
 ### With a generic purpose
-Just a community? It's not the end of
+Just a community? It's not the end of the world, but that'll be fairly difficult to bring your people up. Easy to maintain, though.
 
 ## How do I keep my members in my server?
 It's not a business of attracting more people: It's more like a business of keeping your population in shape. So, servers need events to give people initiatives.
