@@ -12,7 +12,6 @@ comments: true
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
 Revised January 13, 2018 (Adding DiscordServ.com).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
-
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -22,6 +21,12 @@ Found more places to advertise? [Just open a pull request](https://github.com/au
 * To add your *server-listing* server into this list, your server should have at least 200 members and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
+
+<table width="800px">
+  <tr>
+    <td width="100%"><b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>)</td>
+  </tr>
+</table>
   
 ### Websites
 Sorted by size (Amount of guilds) as of January 10, 2018.
