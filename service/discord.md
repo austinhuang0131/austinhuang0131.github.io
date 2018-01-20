@@ -2,6 +2,7 @@
 layout: default
 title: Discord contract bot
 ---
+{% include def.html %}
 
 Hello! You have reached the introduction page for **0131-bot#2055**. The bot is used to host all my private coding contracts. If you want me to write you some functions for your own server, it'll be stored in this bot.
 
