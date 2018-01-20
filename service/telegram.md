@@ -2,6 +2,7 @@
 layout: default
 title: Telegram contract bot
 ---
+{% include def.html %}
 
 Hello! You have reached the introduction page for [@mtl0131bot](https://t.me/mtl0131bot). The bot is used to host all my private coding contracts. If you want me to write you some functions for your own group/channel, it'll be stored in this bot.
 
