@@ -61,6 +61,7 @@ I have a white Pentax K-50.
 * [Pixiv](http://pixiv.me/montreal0131)
 * [Reddit](http://reddit.com/u/austinhuang)
 * [Twitter](http://twitter.com/montreal0131)
+* [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 <table width="100%">
   <tr>
