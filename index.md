@@ -59,7 +59,9 @@ I have a white Pentax K-50.
 * [NationStates](https://www.nationstates.net/nation=the_cafes): A political simulation game.
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra): A geographical simulation game.
 * [Pixiv](http://pixiv.me/montreal0131)
+* [My Political Compass](/assets/certificate.pdf)
 * [Reddit](http://reddit.com/u/austinhuang)
+  * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Twitter](http://twitter.com/montreal0131)
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
