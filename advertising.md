@@ -25,7 +25,13 @@ Found more places to advertise? [Just open a pull request](https://github.com/au
 
 <table width="800px">
   <tr>
-    <td width="100%"><b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>)</td>
+    <td width="100%">
+      <!-- <b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>) -->
+      Get tons of free Dota 2 skins every day, 100% free.<br />No fees, no sign-ups. All you need is a Discord account.
+      <br/><br/>Head to http://www.dota2auctions.com for more information or<br />
+      Join us now at https://discord.gg/TANxqRW<br /><br />
+      <sup>Sponsored AD spot just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></sup>
+    </td>
   </tr>
 </table>
   
@@ -85,7 +91,7 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Portal](https://discord.gg/KmZETQW)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
-* [Pandora List](https://discord.gg/mU9ezQ2) (Server itself is no longer maintained, however large population remains)
+* [Pandora List](https://discord.gg/mU9ezQ2)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
