@@ -2,7 +2,6 @@
 title: I'd like to advertise my Discord server/bot!
 comments: true
 ---
-{% include def.html %}
 
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:site_name" content="AustinHuang.me">
