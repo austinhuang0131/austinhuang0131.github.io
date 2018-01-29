@@ -57,7 +57,7 @@ I have a white Pentax K-50.
 * [edX](https://courses.edx.org/u/austinhuang0131): Online classes I learn (And I do have some certificates)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [NationStates](https://www.nationstates.net/nation=the_cafes): A political simulation game.
-* [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra): A geographical simulation game.
+* [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra): A collaborative platform for creating fictional maps.
 * [Pixiv](http://pixiv.me/montreal0131)
 * [My Political Compass](/assets/certificate.pdf)
 * [Reddit](http://reddit.com/u/austinhuang)
