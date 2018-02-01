@@ -3,7 +3,7 @@ title: I need advice on running a Discord server!
 comments: true
 ---
 
-{% include def.html %}
+{% include fed.html %}
 
 <meta name="og:title" content="I need advice on running a Discord server!">
 <meta name="og:site_name" content="AustinHuang.me">
@@ -73,13 +73,15 @@ If your members are satisfied of what you have in your server, they certainly wa
 ### Choosing staff
 Three ways.
 #### Direct appointment
-If you have enthusiastic friends who would help you to get their goal, then surely appointing them is the best choice.
+If you have enthusiastic friends who would help you to get their goal, then surely appointing them is the best choice. But you must be sure! If your friends are rebellious...
 #### Application
 Most commonly used method. Let your members explain what they have and what they're able to do. However, lack of objective views can cause missteps in choosing staffs.
 #### Election
-Personally, I let my members elect their moderators. This is very objective. However, without constantly refreshing population, there's hardly a challenge for the elected.
+Personally, I let my members elect their moderators. This is very objective and my members satisfy. However, without constantly refreshing population, there's hardly a challenge for the elected.
 ### Bots
-**DON'T** add a lot of bots, or mention your bots as one of the features of your server anywhere. You should only use bots that you will truly use.
+**DON'T** add a lot of bots, or mention your bots as one of the features of your server anywhere. You should only use bots that you will truly use, or your server can give new members a bad impression. You should also place the bot role lower if you choose to display it.
+
+In most situations, you only need 1 bot to faciliate moderation on phones and have an alternative audit log. You can add some other bots for minigames and advertising.
 
 ## Have more questions?
 Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
