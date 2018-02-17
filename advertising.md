@@ -20,7 +20,7 @@ Server owners hate me! But today you'll see this one crazy and simple trick to i
 
 Found more places to advertise? [Just open a pull request](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md) or [contact me on Discord](https://discord.gg/013MqTM1p1qm52VcZ)! ~~No server owners that hate me kthx~~
 
-* To add your *server-listing* server into this list, your server should have at least 200 members and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
+* To add your *server-listing* server into this list, your server should have at least 500 members and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
 
@@ -31,7 +31,7 @@ Found more places to advertise? [Just open a pull request](https://github.com/au
       Get tons of free Dota 2 skins every day, 100% free.<br />No fees, no sign-ups. All you need is a Discord account.
       <br/><br/>Head to <a href="http://www.dota2auctions.com">http://www.dota2auctions.com</a> for more information or<br />
       Join us now at <a href="https://discord.gg/TANxqRW">https://discord.gg/TANxqRW</a><br /><br />
-      <sup>Sponsored AD spot just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></sup>
+      <small>Sponsored AD spot just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small>
     </td>
   </tr>
 </table>
@@ -94,6 +94,7 @@ Aside from websites and bot-served servers. Please note that most servers requir
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Pandora List](https://discord.gg/mU9ezQ2)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
+* [The Hub](https://discord.gg/dGUC3F6)
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
 
