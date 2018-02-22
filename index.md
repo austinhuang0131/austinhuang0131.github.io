@@ -15,9 +15,13 @@ comments: true
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="That's just my homepage/resume. What else do you expect?">
 
-## I'm Austin Huang.
+<blockquote>
+In my dictionary, there is no place for the word "Rules".
+</blockquote>
 
-Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). So let's see what I'm up to.
+## Hello there! I'm Austin Huang.
+
+Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff).
 
 ## My coding projects
 * [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers. It ~~has~~ had reached more than 2300 guilds, which was erased by Discord. Currently in the process of restructuring. Also, I earned $50 from it.
