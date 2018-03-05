@@ -34,6 +34,7 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * [BotList.space](http://botlist.space) (Staff)
 * [BuddyApp](https://github.com/HarshdipD/BuddyApp) (Owner, generally a project I did at [McHacks](https://mchacks.io) and it failed but at least it *looked functional* so [we got a small prize](https://devpost.com/software/doggie))
 * [Disboard](http://disboard.org/) (Co-Owner)
+* I also maintain a [personal adblock list](/0131-block-list).
 
 I also [write private bots](/services) for individuals.
 
