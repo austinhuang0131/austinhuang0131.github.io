@@ -77,7 +77,7 @@ I have a white Pentax K-50.
 </td>
     <td width="50%"><!-- InstaWidget -->
 <a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
-<script src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
+<script data-cfasync="true" src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
   </tr>
 </table>
 
@@ -101,7 +101,7 @@ Nah man. *skirt skirt dab dab*
 ### Hey, you look cool. How can I support you?
 You can either [donate](/donate.html) or start the Monero miner below.
 
-<script src="https://authedmine.com/lib/simple-ui.min.js" async></script>
+<script data-cfasync="true" src="https://authedmine.com/lib/simple-ui.min.js" async></script>
 <div class="coinhive-miner" 
 	style="width: 100%; height: 100px"
 	data-action="#76c2f8"
