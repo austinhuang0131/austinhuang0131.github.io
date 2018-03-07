@@ -24,11 +24,40 @@ Found more places to advertise? Please comment at the end of this page.
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
 
-<table width="800px">
+<table width="800px" style="float:center">
   <tr>
     <td width="100%">
-      <b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>)
-      <!-- <small>Sponsored AD spot just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small> -->
+      <!-- <b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>) -->
+      <p><a href="https://discord.gg/A4Wshdh">Øsmium</a> is a super chill community designed to help gamers find friends and play games in a comfortable way. If you need someone to queue up with, you can rely on us to have some people to want to play with you!<p/>
+      <p>We really believe that building a bond with someone is one of the most important things you can do. At Øsmium we try to make all of our members feel welcome, our staff is very friendly and so arethe other members in the server!</p>
+      <table width="100%" border="0" style="align:center">
+        <tr>
+          <td width="33%" style="text-align:left">
+            🎟 EVENTS<br/>
+            🎳 SERVER GAMES<br/>
+            🎶 MUSIC<br/>
+            🆙 LEVELS<br/>
+            💳 ECONOMY
+          </td>
+          <td width="33%" style="text-align:center">
+            👥 PEOPLE<br/>
+            😹 MEMES<br/>
+            💼 OFFICES<br/>
+            💰 DONATION RANKS<br/>
+            ✉️ CUSTOM ROLES
+          </td>
+          <td width="33%" style="text-align:right">
+            ⚡️ CUSTOM CHANNELS<br/>
+            🎱 USER FRIENDLY SERVER<br/>
+            🎉 CUSTOM BOTS<br/>
+            💼 Amazing Staff<br/>
+            😄 And Much More!
+          </td>          
+        </tr>
+      </table>
+      <a href="https://discord.gg/A4Wshdh">Come on over</a> and meet some new friends!<br />
+      <i>Looking for staff and partnership manager. <a href="https://discord.gg/A4Wshdh">Join the server</a> for details.</i><br />
+      <small>Sponsored AD spot just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small>
     </td>
   </tr>
 </table>
