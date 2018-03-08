@@ -13,7 +13,7 @@ comments: true
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised March 1, 2018 (Updated stats).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised March 8, 2018 (Adding Discord Portal).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -68,6 +68,9 @@ Sorted by size (Amount of guilds) as of March 1, 2018.
   * Server owners can bump every 4 hours for free, on site and on bot
 * [Discordeame](http://discordea.net) **SPANISH**
   * Actual server count unknown
+* [Discord Portal](http://www.discordportal.com/)
+  * 300+ servers
+  * Manual submission
 * [Discord Channel Beta](http://discha.net/server) **JAPANESE**
   * Actual server count unknown (Some servers are set to "private"), size is estimated to be around 200~300 servers
 * [Discord Services](http://discord.services)
