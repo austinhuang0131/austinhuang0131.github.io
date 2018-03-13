@@ -13,7 +13,7 @@ comments: true
 <meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised March 11, 2018 (Adding Discord Music Bots).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised March 12, 2018 (Adding Discord Server Portal™).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -88,6 +88,7 @@ Aside from websites and bot-served servers. Please note that servers may require
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Portal](https://discord.gg/KmZETQW) (Discord-Partnered)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
+* [Discord Server Portal™](https://discord.gg/DbZd8pg)
 * [Pandora List](https://discord.gg/mU9ezQ2)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
 * [The Hub](https://discord.gg/dGUC3F6)
