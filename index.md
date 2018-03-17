@@ -37,6 +37,8 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * I also maintain a [personal adblock list](/0131-block-list).
 
 I also [write private bots](/services) for individuals.
+* I accept Discord requests through [ProCord](https://discord.gg/auHudND).
+* I accept Telegram requests through [DevList](http://t.me/devlist).
 
 ## My translations
 I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
