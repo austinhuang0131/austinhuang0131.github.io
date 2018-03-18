@@ -101,12 +101,6 @@ Yeah. I actually went to the same high school as [@simonguozirui](https://github
 Nah man. *skirt skirt dab dab*
 
 ### Hey, you look cool. How can I support you?
-You can either [donate](/donate.html) or start the Monero miner below.
+You can [donate to me](/donate.html)!
 
-<script data-cfasync="true" src="https://authedmine.com/lib/simple-ui.min.js" async></script>
-<div class="coinhive-miner" 
-	style="width: 100%; height: 100px"
-	data-action="#76c2f8"
-	data-key="NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX">
-	<em>Loading...</em>
-</div>
+<small>This page is monetized using crypto miners. It is totally fine to block them if they become annoying.</small>
