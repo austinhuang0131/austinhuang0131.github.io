@@ -14,11 +14,13 @@ comments: true
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
 Revised March 12, 2018 (Adding Discord Server Portal™).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+
+<small>This page is monetized using crypto miners. It is totally fine to block them if they become annoying.</small>
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Found more places to advertise? Please comment at the end of this page.
+Found more places to advertise? Please contact me [here](https://discord.gg/013MqTM1p1qm52VcZ).
 
 * To add your *server-listing* server into this list, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
