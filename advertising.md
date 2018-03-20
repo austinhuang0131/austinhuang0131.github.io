@@ -14,8 +14,6 @@ comments: true
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
 Revised March 12, 2018 (Adding Discord Server Portal™).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
-
-<small>This page is monetized using crypto miners. It is totally fine to block them if they become annoying.</small>
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
