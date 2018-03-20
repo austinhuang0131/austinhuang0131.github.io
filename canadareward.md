@@ -3,8 +3,7 @@ title: Comparison of Canadian loyalty/reward programs
 comments: true
 ---
 
-
-{% include fed.html %}
+{% include def.html %}
 
 <meta name="og:title" content="Comparison of Canadian loyalty reward programs">
 <meta name="og:site_name" content="AustinHuang.me">
