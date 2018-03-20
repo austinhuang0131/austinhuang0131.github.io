@@ -3,7 +3,7 @@ title: I need advice on running a Discord server!
 comments: true
 ---
 
-{% include fed.html %}
+{% include def.html %}
 
 <meta name="og:title" content="I need advice on running a Discord server!">
 <meta name="og:site_name" content="AustinHuang.me">
