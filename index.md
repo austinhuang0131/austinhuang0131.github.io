@@ -102,5 +102,3 @@ Nah man. *skirt skirt dab dab*
 
 ### Hey, you look cool. How can I support you?
 You can [donate to me](/donate.html)!
-
-<small>This page is monetized using crypto miners. It is totally fine to block them if they become annoying.</small>
