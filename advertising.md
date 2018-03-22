@@ -4,11 +4,6 @@ comments: true
 ---
 
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
-<meta name="og:site_name" content="AustinHuang.me">
-<meta name="og:type" content="website">
-<meta name="og:image" content="https://www.gravatar.com/avatar/d5a5f57410d9f6bf426ac4e1c1c66c2c.jpg">
-<meta name="og:image:type" content="image/jpeg">
-<meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
 Revised March 12, 2018 (Adding Discord Server Portal™).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
