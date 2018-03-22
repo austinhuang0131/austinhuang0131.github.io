@@ -5,8 +5,6 @@ permalink: /
 comments: true
 ---
 
-{% include def.html %}
-
 <meta name="og:title" content="Austin Huang - A young JavaScript developer who writes chatbots and stories in Montréal.">
 <meta name="og:site_name" content="AustinHuang.me">
 <meta name="og:type" content="website">
@@ -102,3 +100,5 @@ Nah man. *skirt skirt dab dab*
 
 ### Hey, you look cool. How can I support you?
 You can [donate to me](/donate.html)!
+
+{% include def.html %}
