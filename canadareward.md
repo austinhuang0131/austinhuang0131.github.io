@@ -4,11 +4,6 @@ comments: true
 ---
 
 <meta name="og:title" content="Comparison of Canadian loyalty reward programs">
-<meta name="og:site_name" content="AustinHuang.me">
-<meta name="og:type" content="website">
-<meta name="og:image" content="https://www.gravatar.com/avatar/d5a5f57410d9f6bf426ac4e1c1c66c2c.jpg">
-<meta name="og:image:type" content="image/jpeg">
-<meta name="og:image:alt" content="Austin Huang the Bus :^)">
 <meta name="og:description" content="Need an objective reward ratio comparison for Canadian loyalty reward cards? You've come to the right place!">
 
 This is a list of loyalty programs currently available to Canadians, ordered by reward rate (High to low), then alphabetically.
