@@ -3,8 +3,6 @@ title: I'd like to advertise my Discord server/bot!
 comments: true
 ---
 
-{% include def.html %}
-
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:site_name" content="AustinHuang.me">
 <meta name="og:type" content="website">
@@ -131,3 +129,5 @@ Sorted by list size as of March 1, 2018.
   * Just music bots
 
 **Any reproduction of this guide is forbidden.**
+
+{% include def.html %}
