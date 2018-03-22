@@ -3,8 +3,6 @@ title: I need advice on running a Discord server!
 comments: true
 ---
 
-{% include def.html %}
-
 <meta name="og:title" content="I need advice on running a Discord server!">
 <meta name="og:site_name" content="AustinHuang.me">
 <meta name="og:type" content="website">
@@ -85,3 +83,5 @@ In most situations, you only need 1 bot to faciliate moderation on phones and ha
 
 ## Have more questions?
 Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
+
+{% include def.html %}
