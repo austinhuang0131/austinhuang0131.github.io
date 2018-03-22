@@ -3,8 +3,6 @@ title: Comparison of Canadian loyalty/reward programs
 comments: true
 ---
 
-{% include def.html %}
-
 <meta name="og:title" content="Comparison of Canadian loyalty reward programs">
 <meta name="og:site_name" content="AustinHuang.me">
 <meta name="og:type" content="website">
@@ -41,3 +39,5 @@ This list is still being completed.
 | PC Optimum (Loblaws) | 0% | 0%+ | | You **have to** activate offers or buy selected products. |
 
 Referenced [this article](https://www.protegez-vous.ca/Argent/carte-de-fidelite/le-classement-des-cartes-de-fidelite) (In French).
+
+{% include def.html %}
