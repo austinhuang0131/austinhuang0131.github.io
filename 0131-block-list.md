@@ -1,6 +1,13 @@
-My own AdBlock list. Removes some tedious ads not covered by existing lists.
+---
+title: 0131-block-list
+comments: true
+---
+
+My own AdBlock list. Removes some tedious ads and frames not covered by existing lists.
 
 To subscribe to it, click [here](abp:subscribe?location=https://raw.githubusercontent.com/austinhuang0131/0131-block-list/master/list.txt&title=0131List).
+
+For support, you can [leave an issue](https://github.com/austinhuang0131/0131-block-list/issues) or comment below.
 
 ## Websites covered
 * [Higher Lower Game](http://www.higherlowergame.com/): Unblocks certain scripts to prevent malfunctions due to overblocking, while still blocking all the ads
