@@ -6,7 +6,7 @@ comments: true
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised March 12, 2018 (Adding Discord Server Portal™).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised March 30, 2018 (Adding DBL server list).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -62,11 +62,11 @@ Sorted by size (Amount of guilds) as of March 1, 2018.
 * [Discord Portal](http://www.discordportal.com/)
   * 300+ servers
   * Manual submission
-* [Discord Channel Beta](http://discha.net/server) **JAPANESE**
-  * Actual server count unknown (Some servers are set to "private"), size is estimated to be around 200~300 servers
 * [Discord Services](http://discord.services)
-  * 110+ servers
+  * 160+ servers
   * Server owners can bump every 4 hours for free
+* [Discord Server List](https://discordbots.org/servers) <small>As a part of <i>Discord Bot List</i></small>
+  * 150+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
