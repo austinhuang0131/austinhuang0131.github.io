@@ -38,7 +38,7 @@ I do some translations, too, usually from Japanese or Chinese to English. I have
 
 * [BotList.space](http://botlist.space) (All of Chinese translation)
 * [Disboard](http://disboard.org/) (All of Chinese translation)
-* [Hashimoto Lulu project](http://luluidoll.jp/tagged/english)
+* [ShionKeys](/ShionKeys) (Chinese to English, owned by [Shion](https://mastodon.social/@ShionKeys), currently housed in this website)
 * [Terminal.ink Bot List](https://ls.terminal.ink/) (All of Chinese translation)
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
