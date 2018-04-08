@@ -71,7 +71,7 @@ I have a white Pentax K-50.
     <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="400px"></iframe>
 </td>
     <td width="50%"><!-- InstaWidget -->
-<a href="https://instawidget.net/v/user/austinhuang0131" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
+<a href="https://instawidget.net/v/user/austinhuang.me" id="link-399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3">@austinhuang0131</a>
 <script data-cfasync="true" src="https://instawidget.net/js/instawidget.js?u=399fb367133a7c8a206a0f1b39364fa77c34b125a639fea7aa68bd280b0372d3&width=300px"></script></td>
   </tr>
 </table>
