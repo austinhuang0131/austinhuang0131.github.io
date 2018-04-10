@@ -25,12 +25,13 @@ Hi there! I'm a high school student who [writes JavaScript, operates chatbots](
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
 * [BotList.space](http://botlist.space) (Staff)
-* [BuddyApp](https://github.com/HarshdipD/BuddyApp) (Owner, generally a project I did at [McHacks](https://mchacks.io) and it failed but at least it *looked functional* so [we got a small prize](https://devpost.com/software/doggie))
 * [Disboard](http://disboard.org/) (Co-Owner)
 * I also maintain a [personal adblock list](/0131-block-list).
+* Circuit admin of these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive), and [Advertise Your Server](https://discord.gg/RrjdrGQ) (Growth Expert = Consultant).
+* Circuit customer support of these Discord listing websites: [Discord Center](http://discord.center) and [Discord Services](http://discord.services).
 
 I also [write private bots](/services) for individuals.
-* I accept Discord requests through [ProCord](https://discord.gg/auHudND).
+* I accept Discord requests through [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources that I work for.
 * I accept Telegram requests through [DevList](http://t.me/devlist).
 
 ## My translations
@@ -77,21 +78,21 @@ I have a white Pentax K-50.
 </table>
 
 ## May I ask some questions?
-Obviously, sure.
+~~No u.~~ Obviously, sure.
 
 ### Hobbies?
-Coding, modeling, mapping, reading news, learning AP and French online, and listening to sick beats are things I do a lot. And Anime sometimes. Skating, softball and badminton, especially, are my favourite sports.
+Coding, modeling, mapping, commenting on global affairs, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (1~3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
-Recently I found myself enjoying creative writing.
+Recently I found myself enjoying model united nations. I've been to [SSUNS](http://www.ssuns.org/), [MariMUN](https://marimun.com/) and [JACMUN](http://jacmun.org/).
 
 ### Hardware?
-A school-provided MacBook Air ($500) plus several shared VPS from online people and free services. That's it.
+A school-provided MacBook Air plus several shared VPS from online people and free services. That's it.
 
 ### You said you're from...Shanghai?
-Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
+~~No u.~~ Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did.
 
 ### What about a formal resume, *please?*
-Nah man. *skirt skirt dab dab*
+No u. *skirt skirt dab dab*
 
 ### Hey, you look cool. How can I support you?
 You can [donate to me](/donate.html)!
