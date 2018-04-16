@@ -18,8 +18,6 @@ Found more places to advertise? Please contact me [here](https://discord.gg/013M
 * No bot-listing servers.
 
 | Sponsored AD <small>Just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small> |
-| :------: |
-| <!-- <b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>) --><a href="https://discord.gg/A4Wshdh">Øsmium</a> is a super chill community designed to help gamers find friends and play games in a comfortable way. If you need someone to queue up with, you can rely on us to have some people to want to play with you! We really believe that building a bond with someone is one of the most important things you can do. At Øsmium we try to make all of our members feel welcome, our staff is very friendly and so arethe other members in the server!<br /><br />🎟 EVENTS • 🎳 SERVER GAMES • 🎶 MUSIC • 🆙 LEVELS • 💳 ECONOMY<br />👥 PEOPLE • 😹 MEMES • 💼 OFFICES • 💰 DONATION RANKS • ✉️ CUSTOM ROLES<br />⚡️ CUSTOM CHANNELS • 🎱 USER FRIENDLY SERVER • 🎉 CUSTOM BOTS • 💼 Amazing Staff<br />😄 And Much More!<br /><a href="https://discord.gg/A4Wshdh">Come on over</a> and meet some new friends!<br /><i>Looking for staff and partnership manager. <a href="https://discord.gg/A4Wshdh">Join the server</a> for details.</i> |
   
 ### Websites
 Sorted by size (Amount of guilds) as of April 16, 2018.
