@@ -18,6 +18,7 @@ Found more places to advertise? Please contact me [here](https://discord.gg/013M
 * No bot-listing servers.
 
 | Sponsored AD <small>Just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small> |
+| :--: |
   
 ### Websites
 Sorted by size (Amount of guilds) as of April 16, 2018.
