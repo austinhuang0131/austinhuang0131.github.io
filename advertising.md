@@ -29,7 +29,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
 * [Discord Servers](http://discservs.co)
-  * Second-Largest (32000+ servers approximately), probably oldest
+  * Second-Largest (29000+ servers), probably oldest
   * More like a search engine
 * [DiscordList.me](http://discordlist.me)
   * 24000+ servers
