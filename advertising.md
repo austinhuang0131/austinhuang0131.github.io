@@ -6,7 +6,7 @@ comments: true
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised March 30, 2018 (Adding DBL server list).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised April 16, 2018 (Stats).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -22,51 +22,48 @@ Found more places to advertise? Please contact me [here](https://discord.gg/013M
 | <!-- <b>PREMIUM AD SPACE with 150 views per day!</b><br />Just $7.5 CAD per month!<br />Pay <a href="./donate">here</a> (And <a href="http://discord.gg/013MqTM1p1qm52VcZ">contact me</a>) --><a href="https://discord.gg/A4Wshdh">Øsmium</a> is a super chill community designed to help gamers find friends and play games in a comfortable way. If you need someone to queue up with, you can rely on us to have some people to want to play with you! We really believe that building a bond with someone is one of the most important things you can do. At Øsmium we try to make all of our members feel welcome, our staff is very friendly and so arethe other members in the server!<br /><br />🎟 EVENTS • 🎳 SERVER GAMES • 🎶 MUSIC • 🆙 LEVELS • 💳 ECONOMY<br />👥 PEOPLE • 😹 MEMES • 💼 OFFICES • 💰 DONATION RANKS • ✉️ CUSTOM ROLES<br />⚡️ CUSTOM CHANNELS • 🎱 USER FRIENDLY SERVER • 🎉 CUSTOM BOTS • 💼 Amazing Staff<br />😄 And Much More!<br /><a href="https://discord.gg/A4Wshdh">Come on over</a> and meet some new friends!<br /><i>Looking for staff and partnership manager. <a href="https://discord.gg/A4Wshdh">Join the server</a> for details.</i> |
   
 ### Websites
-Sorted by size (Amount of guilds) as of March 1, 2018.
+Sorted by size (Amount of guilds) as of April 16, 2018.
 
 * [Discord.me](http://discord.me)
-  * Largest (36000+ servers), most traffic
+  * Largest (45000+ servers), most traffic
   * Server owners can bump every 6 hours, on site only
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
 * [Discord Servers](http://discservs.co)
-  * Second-Largest (32000+ servers), probably oldest
+  * Second-Largest (32000+ servers approximately), probably oldest
   * More like a search engine
+* [DiscordList.me](http://discordlist.me)
+  * 24000+ servers
+  * Server owners can bump every 6 hours for free, on site and on bot
+  * Free custom link for invites (disco.gg)
 * [DiscordList.net](http://discordlist.net)
-  * 19000+ servers
+  * 22000+ servers
   * Servers can only be submitted by ServerHound, its bot 
   * Server owners can bump every 4 hours for free, on bot only
   * **WARNING!** ServerHound, their listing bot, [has a terrible reputation](https://www.reddit.com/search?q=serverhound) and is frequently considered a botnet. The bot was caught [monitored server messages before](https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/) <sup>In mid-2017, I worked with DiscordList and witnessed that one of their small teams have access to their "Radar", which catches global messages that matches a specific keyword</sup> and [releasing all user data on another website](https://www.reddit.com/r/discordapp/comments/79e79e/serverhound_website_taken_down/) called Discord.Solutions. Some users reported that the website seems to be a target for raiding. Before, they also show live message in listed guilds and per-member stats on the website, but it seems to be removed. Also, the owner of the websites is currently involved in crypto pumping <sup>Left sidebar, last button</sup>. While the website is listed here for objective reasons, it is unsuggested to add your server there.
-* [DiscordList.me](http://discordlist.me)
-  * 19000+ servers
-  * Server owners can bump every 6 hours for free, on site and on bot
-  * Free custom link for invites (disco.gg)
-* [DiscordServ.com](http://discordserv.com)
-  * 4500+ servers
-  * Server owners can bump every 6 hours for free, on site and on bot
-* [DiscordHub](https://discordhub.com/servers/list)
-  * 2800+ servers
-  * Server owners can bump every 1 day (24 hours) for free, on site only
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
-  * 2400+ servers
+  * 8600+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
+* [DiscordServ.com](http://discordserv.com)
+  * 6100+ servers
+  * Server owners can bump every 6 hours for free, on site and on bot
 * [Disboard.org](http://disboard.org) JP/EN/ZH
-  * 2100+ servers
+  * 4800+ servers
   * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
   * Server owners can bump every hour for free, on site and on bot
+* [DiscordHub](https://discordhub.com/servers/list)
+  * 3700+ servers
+  * Server owners can bump every 1 day (24 hours) for free, on site only
 * [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
-  * 1700+ servers
+  * 2200+ servers
   * Server owners can bump every 4 hours for free, on site and on bot
 * [Discordeame](http://discordea.net) **SPANISH**
   * Actual server count unknown
-* [Discord Portal](http://www.discordportal.com/)
-  * 300+ servers
-  * Manual submission
 * [Discord Services](http://discord.services)
-  * 160+ servers
+  * 180+ servers
   * Server owners can bump every 4 hours for free
-* [Discord Server List](https://discordbots.org/servers) <small>As a part of <i>Discord Bot List</i></small>
-  * 150+ servers
+* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
+  * 160+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
@@ -89,37 +86,37 @@ Aside from websites and bot-served servers. Please note that servers may require
 * [United Server Listings](https://discord.gg/HbATpW2)
 
 ### Subreddits
-Sorted by sub count as of January 11, 2018. Except the listed ones, all others are either new or unmaintained/abandoned.
+Sorted by sub count as of April 16, 2018. Except the listed ones, all others are either new or unmaintained/abandoned.
 
-* [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (5097 subs)
-* [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (699 subs, and as the name says, it's **NSFW**)
-* [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (560 subs)
-* [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (181 subs)
+* [/r/DiscordServers](https://www.reddit.com/r/discordservers/) (7896 subs)
+* [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (1461 subs, and as the name says, it's **NSFW**)
+* [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (683 subs)
+* [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of March 1, 2018.
+Sorted by list size as of April 16, 2018.
 
 * [Discord Bot List](https://discordbots.org)
-  * 1800+ bots
+  * 2200+ bots
   * Certification Program to boost your bot
   * Has verification wait
 * [Discord Bots](https://bots.discord.pw)
-  * 1000+ bots
+  * 1200+ bots
   * Has verification wait
 * [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
-  * 260+ bots (Including dead bots, the listing does not actively remove dead bots)
+  * 280+ bots (Including dead bots, the listing does not actively remove dead bots)
   * Long verification time (Can take up to 1 week or even longer)
 * [DiscordList.net Bots](https://bots.discordlist.net)
-  * Only 20 "high-quality" bots are shown in the "bots" section, plus around 220 "non-compliant" bots
+  * Only 20 "high-quality" bots are shown in the "bots" section, plus 220 "non-compliant" bots
   * Discriminative, requires "Compliance" but they don't offer it publicly
 * [Discord.Services](http://discord.services/bots/)
-  * 110+ bots
+  * 160+ bots
 * [ls.terminal.ink](https://ls.terminal.ink)
-  * 100+ bots
+  * 150+ bots
   * Has verification wait
 * [BotList.space](https://botlist.space)
-  * 70+ bots
-  * Has verification wait
+  * 120+ bots
+  * Has verification wait, but fast
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
   * Just music bots
 
