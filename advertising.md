@@ -46,7 +46,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
 * [DiscordServ.com](http://discordserv.com)
   * 6100+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
-* [Disboard.org](http://disboard.org) JP/EN/ZH
+* [Disboard.org](http://disboard.org/?ref=austinhuang.me) JP/EN/ZH
   * 4800+ servers
   * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
   * Server owners can bump every hour for free, on site and on bot
@@ -93,29 +93,28 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of April 16, 2018.
+Sorted by list size as of April 16, 2018. All bot listings require verification process for each bots.
 
 * [Discord Bot List](https://discordbots.org)
   * 2200+ bots
   * Certification Program to boost your bot
-  * Has verification wait
+  * Long verification time (~1wk)
 * [Discord Bots](https://bots.discord.pw)
   * 1200+ bots
-  * Has verification wait
 * [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
   * 280+ bots (Including dead bots, the listing does not actively remove dead bots)
-  * Long verification time (Can take up to 1 week or even longer)
+  * Long verification time (1wk+)
 * [DiscordList.net Bots](https://bots.discordlist.net)
   * Only 20 "high-quality" bots are shown in the "bots" section, plus 220 "non-compliant" bots
   * Discriminative, requires "Compliance" but they don't offer it publicly
-* [Discord.Services](http://discord.services/bots/)
+* [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
   * 160+ bots
-* [ls.terminal.ink](https://ls.terminal.ink)
+* [ls.terminal.ink](https://ls.terminal.ink/?ref=austinhuang.me)
   * 150+ bots
-  * Has verification wait
-* [BotList.space](https://botlist.space)
+* [BotList.space](https://botlist.space/?ref=austinhuang.me)
+  * 130+ bots
+* [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
   * 120+ bots
-  * Has verification wait, but fast
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
   * Just music bots
 
