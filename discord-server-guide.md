@@ -83,5 +83,3 @@ In most situations, you only need 1 bot to faciliate moderation on phones and ha
 
 ## Have more questions?
 Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
-
-{% include def.html %}

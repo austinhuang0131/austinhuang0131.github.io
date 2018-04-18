@@ -10,5 +10,3 @@ title: I'd like to donate!
 * LTC: `LMNRZxHrs9s46f6fpYdvPwPm258ypnY1Tk`
   * For all 3 currencies above, you can also send to `austinhuang0131@icloud.com` if you have a Coinbase account (Avoids network fees).
 * XMY: `MVNQJxnjre7ypx7ADuFFc6YZtcUufog8RC`
-
-{% include def.html %}

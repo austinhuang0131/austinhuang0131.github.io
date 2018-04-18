@@ -34,5 +34,3 @@ This list is still being completed.
 | PC Optimum (Loblaws) | 0% | 0%+ | | You **have to** activate offers or buy selected products. |
 
 Referenced [this article](https://www.protegez-vous.ca/Argent/carte-de-fidelite/le-classement-des-cartes-de-fidelite) (In French).
-
-{% include def.html %}
