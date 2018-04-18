@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AustinHuang.me
 permalink: /
 comments: true
