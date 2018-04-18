@@ -95,4 +95,7 @@ No u. *skirt skirt dab dab*
 ### Hey, you look cool. How can I support you?
 You can [donate to me](/donate.html)!
 
+### What other stuff are there on this website?
+You can have a look at the [sitemap](/sitemap).
+
 {% include def.html %}
