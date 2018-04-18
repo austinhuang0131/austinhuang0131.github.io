@@ -1,6 +1,7 @@
 ---
 title: I'd like to advertise my Discord server/bot!
 comments: true
+permalink: /advertising
 ---
 
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
