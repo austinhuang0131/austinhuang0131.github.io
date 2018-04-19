@@ -120,3 +120,5 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * Just music bots
 
 **Any reproduction of this guide is forbidden.**
+
+{% include def.html %}

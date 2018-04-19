@@ -97,3 +97,5 @@ You can [donate to me](/donate.html)!
 
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
+
+{% include def.html %}
