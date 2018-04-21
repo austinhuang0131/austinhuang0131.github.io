@@ -9,10 +9,10 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [GMK](https://discord.gg/CYezdZ9)
 * [InFlamesWeMust](http://twitch.tv/inflameswemust)
 * [Peaceful CEO](http://www.pceo.online/)
-* [SimplyUI](http://getsimplyui.ga/)
 
 ### Telegram
 * [Online Zakovat](https://t.me/onlinezakovat) (Uzbek)
+* [PROMOBRASIL](https://t.me/promobrasil) (Portuguese)
 * [SupraPixel](https://t.me/suprapixelsuprapixel) (Spanish)
 
 ### Translation
