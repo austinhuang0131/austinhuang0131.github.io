@@ -6,7 +6,8 @@ title: I'd like to demand your services!
 I can write you a Discord/Telegram bot, or do some translation work for you. Below are groups I've successfully worked with.
 
 ### Discord
-* [GMK](https://discord.gg/CYezdZ9)
+* [Grillbys](https://discord.gg/EMWm3xv)
+* [IND Gamers](https://discord.gg/AMVsR3W)
 * [InFlamesWeMust](http://twitch.tv/inflameswemust)
 * [Peaceful CEO](http://www.pceo.online/)
 
