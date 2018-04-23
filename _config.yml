@@ -3,7 +3,7 @@ remote_theme: qwtel/hydejack
 title: Austin Huang
 tagline: A young JavaScript developer who writes chatbots and stories in Montreal.
 
-accent_color: '#87CEFA'
+accent_color: '#bada55'
 accent_image:
   background: '#bada55'
   
@@ -25,9 +25,6 @@ author:
     twitter: montreal0131
     reddit: austinhuang
     steam: austinhuang0131
-
-plugins:
-  - jekyll-avatar
 
 include:
   - assets
