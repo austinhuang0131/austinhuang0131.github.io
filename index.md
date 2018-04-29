@@ -22,7 +22,8 @@ Hi there! I'm a high school student who [writes JavaScript, operates chatbots](
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
-* [BotList.space](http://botlist.space) (Staff)
+* [botlist.space](http://botlist.space) (Staff)
+* [Bots for Discord](http://botsfordiscord.com) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
 * I also maintain a [personal adblock list](/0131-block-list).
 * Circuit admin of these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive), and [Advertise Your Server](https://discord.gg/RrjdrGQ) (Growth Expert = Consultant).
@@ -35,7 +36,7 @@ I also [write private bots](/services) for individuals.
 ## My translations
 I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
-* [BotList.space](http://botlist.space) (All of Chinese translation)
+* [botlist.space](http://botlist.space) (All of Chinese translation)
 * [Disboard](http://disboard.org/) (All of Chinese translation)
 * [ShionKeys](/ShionKeys) (Chinese to English, owned by [Shion](https://mastodon.social/@ShionKeys), currently housed in this website)
 * [Terminal.ink Bot List](https://ls.terminal.ink/) (All of Chinese translation)
