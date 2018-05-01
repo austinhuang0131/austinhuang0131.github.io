@@ -18,8 +18,10 @@ Found more places to advertise? Please contact me [here](https://discord.gg/013M
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
 
-| Sponsored AD <small>Just $7.5 CAD per month! Contact <code>The Double-Eyed Bus#6889</code></small> |
-| :--: |
+```
+Sponsored AD Just $7.5 CAD per month!
+Contact "The Double-Eyed Bus#6889"
+```
   
 ### Websites
 Sorted by size (Amount of guilds) as of April 16, 2018.
