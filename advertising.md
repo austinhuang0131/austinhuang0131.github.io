@@ -46,6 +46,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
   * 8600+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
+  * Cash rewards for referring people
 * [DiscordServ.com](http://discordserv.com)
   * 6100+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
