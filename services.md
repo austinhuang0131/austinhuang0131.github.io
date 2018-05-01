@@ -10,6 +10,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [IND Gamers](https://discord.gg/AMVsR3W)
 * [InFlamesWeMust](http://twitch.tv/inflameswemust)
 * [Peaceful CEO](http://www.pceo.online/)
+* [Pixel Art School](http://discord.gg/nKGp78p)
 
 ### Telegram
 * [Online Zakovat](https://t.me/onlinezakovat) (Uzbek)
