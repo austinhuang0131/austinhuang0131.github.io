@@ -7,7 +7,7 @@ permalink: /advertising
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-Revised April 17, 2018 (Adding Bots for Discord).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised May 2, 2018 (ls.terminal.ink becomes discordbots.uk).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -113,7 +113,7 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * Discriminative, requires "Compliance" but they don't offer it publicly
 * [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
   * 160+ bots
-* [ls.terminal.ink](https://ls.terminal.ink/?ref=austinhuang.me)
+* [DiscordBots.uk](https://discordbots.co.uk/) <small>Formerly ls.terminal.ink<small>
   * 150+ bots
 * [BotList.space](https://botlist.space/?ref=austinhuang.me)
   * 130+ bots
