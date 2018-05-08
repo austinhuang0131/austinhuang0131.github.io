@@ -6,6 +6,8 @@ comments: true
 <meta name="og:title" content="Austin Huang - A young JavaScript developer who writes chatbots and stories in Montréal.">
 <meta name="og:description" content="That's just my homepage/resume. What else do you expect?">
 
+<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" height="200"/>
+
 <blockquote>
 In my dictionary, there is no place for the word "Rules".
 </blockquote>
