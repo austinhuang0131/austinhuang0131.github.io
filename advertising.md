@@ -7,11 +7,7 @@ permalink: /advertising
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-<div align="right">
-Sponsored by: 
-
-<a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" /></a>
-</div>
+<a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" aligh="right" /></a>
 
 Revised May 8, 2018 (discordsl.com plus new sponsor).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
