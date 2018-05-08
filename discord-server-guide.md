@@ -57,6 +57,7 @@ Chat, obviously! But chat about what? You certainly need [responsible staff](#ch
 * You cares about them
 * They have certain value in the server
 * THey enjoy staying in your server
+* They have things to talk about
 
 ## How do I increase my population?
 Once you know how to keep your population, you should impose measures to increase your member count.
