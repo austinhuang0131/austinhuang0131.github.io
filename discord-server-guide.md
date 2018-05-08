@@ -62,12 +62,11 @@ Chat, obviously! But chat about what? You certainly need [responsible staff](#ch
 Once you know how to keep your population, you should impose measures to increase your member count.
 
 ### Advertising
-Your advertising slogan should point out what you have (Purpose, Type 1 events) plus some attractive treats (Type 3 events).
+Your advertising slogan/text/description should point out what you have (Purpose and/or Type 1 events) plus some attractive treats (Type 3 events). Try create several versions of it, long ones for listing servers and short ones for listing websites. Though, do keep it short and on point in general.
 
 [This page](/./advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
 
-### Referral
-If your members are satisfied of what you have in your server, they certainly want other people to be satisfied. You should pull out a little reward for them to refer people.
+Partnerships are not recommended as the mutual benefit is negligible (~10 members for an average server). Your server can live without partnerships, for that I'm sure.
 
 ## Misc
 ### Choosing staff
