@@ -19,11 +19,6 @@ Found more places to advertise? Please contact me [here](https://discord.gg/013M
 * To add your *server-listing* server into this list, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
-
-```
-Sponsored AD Just $7.5 CAD per month!
-Contact "The Double-Eyed Bus#6889"
-```
   
 ### Websites
 Sorted by size (Amount of guilds) as of April 16, 2018.
@@ -69,6 +64,8 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * Server owners can bump every 4 hours for free
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
   * 160+ servers
+* [DiscordSL.com](https://discordsl.com/)
+  * 150+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
