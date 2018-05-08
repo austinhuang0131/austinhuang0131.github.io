@@ -13,16 +13,18 @@ comments: true
 
 Running a Discord server is not easy and I've seen numerous people struggling with it. From my personal experience, here's some advice from me, I guess.
 
-This guide is WIP and will remain WIP. [Revision is welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
+This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
+
+Revised May 8, 2018.
 
 ## Questions to ask yourself
 Before making a Discord server, you should ask yourself these questions:
 
-1. What's the purpose of your server, in the most specific way possible?
+1. What's the purpose of your server, in the most specific way possible? (Possible answer would be "We're enthusiastic in <specific game/topic>". Don't answer "bots" or "staff".)
 2. Is it unique?
-3. How will you engage your population in the future?
+3. How will you engage your population (Keep your members) in the future?
 
-There is no correct answer to them, but you should keep them in mind. If you answered "No" to question 2, you should focus more on question 3.
+There is no correct answer to them, but you should at least be able to answer these questions keep them in mind. If you answered "No" to question 2, you should focus more on question 3.
 
 ## Let's start!
 ### With a specific purpose
