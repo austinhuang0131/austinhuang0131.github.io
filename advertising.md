@@ -7,6 +7,7 @@ permalink: /advertising
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
+<p align="right">Sponsored by:</p>
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a>
 
 Revised May 8, 2018 (discordsl.com plus new sponsor).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
@@ -14,9 +15,9 @@ Revised May 8, 2018 (discordsl.com plus new sponsor).<br />[Click here for incre
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Found more places to advertise? Please contact me [here](https://discord.gg/013MqTM1p1qm52VcZ).
+Want to list more places to advertise? Please contact me [here](https://discord.gg/013MqTM1p1qm52VcZ).
 
-* To add your *server-listing* server into this list, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.).
+* **To add your server-listing server into this page**, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.). This **does not** mean that this guide is only suitable for servers with 500+ people which has became, surprisingly, a common misconception made by a lot of people.
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
 * No bot-listing servers.
   
