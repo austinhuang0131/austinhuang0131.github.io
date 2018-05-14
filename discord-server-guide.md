@@ -86,4 +86,9 @@ In most situations, you only need 1 bot to faciliate moderation on phones and ha
 ## Have more questions?
 Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
 
+## External Resources
+* [AYS' "5 Ways to Grow Your Discord Server"](https://medium.com/advertise-your-server/5-ways-to-grow-your-discord-server-53090dab3071)
+* [jagrosh's "Tips for creating and growing a new Discord server"](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)
+* [Tornado's "Discord 101"](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
+
 {% include def.html %}
