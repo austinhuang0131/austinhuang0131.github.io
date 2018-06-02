@@ -68,6 +68,8 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * 160+ servers
 * [DiscordSL.com](https://discordsl.com/)
   * 150+ servers
+* [Discord Hunter](https://discordhunter.com/referrals?refid=207484517898780672)
+  * 20+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
