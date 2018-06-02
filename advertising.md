@@ -7,13 +7,11 @@ permalink: /advertising
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
 
-<!--
 Brackets to be removed once the payment is back
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a></p>
--->
 
-Revised May 8, 2018 (discordsl.com plus new sponsor).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised June 2, 2018 (Removing discordbots.uk).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -116,8 +114,6 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * Discriminative, requires "Compliance" but they don't offer it publicly
 * [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
   * 160+ bots
-* [DiscordBots.uk](https://discordbots.co.uk/) <small>Formerly ls.terminal.ink<small>
-  * 150+ bots
 * [BotList.space](https://botlist.space/?ref=austinhuang.me)
   * 130+ bots
 * [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
