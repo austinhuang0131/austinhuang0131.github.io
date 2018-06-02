@@ -11,7 +11,7 @@ Brackets to be removed once the payment is back
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a></p>
 
-Revised June 2, 2018 (Removing discordbots.uk).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
+Revised June 2, 2018 (Removing discordbots.uk, adding discordbot.world).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -118,6 +118,8 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * 130+ bots
 * [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
   * 120+ bots
+* [Discord Bot World](https://discordbot.world/)
+  * 70+ bots
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
   * Just music bots
 
