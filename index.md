@@ -72,6 +72,7 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
     <td width="50%"><!-- InstaWidget -->
 <a href="https://instawidget.net/v/user/austinhuang.me" id="link-1a4faeb1c0043e7997feb16e9d156b46d51d5e85e7be7ee7fe74b6557fa17ff8">@austinhuang.me</a>
 <script src="https://instawidget.net/js/instawidget.js?u=1a4faeb1c0043e7997feb16e9d156b46d51d5e85e7be7ee7fe74b6557fa17ff8&width=300px"></script>
+   </td>
   </tr>
 </table>
 
