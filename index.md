@@ -69,9 +69,9 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
   <tr>
     <td width="50%"><iframe allowtransparency="true" frameborder="0" scrolling="no" seamless="seamless" src="https://cdoyle.me/gh-activity/gh-activity.html?user=austinhuang0131&type=user" width="100%" height="400px"></iframe>
 </td>
-    <td width="50%"><!-- InstaWidget -->
-<a href="https://instawidget.net/v/user/austinhuang.me" id="link-1a4faeb1c0043e7997feb16e9d156b46d51d5e85e7be7ee7fe74b6557fa17ff8">@austinhuang.me</a>
-<script src="https://instawidget.net/js/instawidget.js?u=1a4faeb1c0043e7997feb16e9d156b46d51d5e85e7be7ee7fe74b6557fa17ff8&width=300px"></script>
+    <td width="50%">
+<a href="https://instawidget.net/v/user/austinhuang.me" id="link-bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60">@austinhuang.me</a>
+<script src="https://instawidget.net/js/instawidget.js?u=bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60&width=300px"></script>
    </td>
   </tr>
 </table>
