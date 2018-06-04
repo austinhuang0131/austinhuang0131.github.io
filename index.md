@@ -37,12 +37,12 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * Circuit customer support of these Discord listing websites: [Discord Center](http://discord.center) and [Discord Services](http://discord.services).
 
 ## My translations
-I do some translations, too, usually from Japanese or Chinese to English. I have done translations in these projects:
+I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
 * [botlist.space](http://botlist.space) (All of Chinese translation)
 * [Disboard](http://disboard.org/) (All of Chinese translation)
 * [ShionKeys](/ShionKeys) (Chinese to English, owned by [Shion](https://mastodon.social/@ShionKeys), currently housed in this website)
-* [Terminal.ink Bot List](https://ls.terminal.ink/) (All of Chinese translation)
+* ~~[Terminal.ink Bot List](https://ls.terminal.ink/)~~ (All of Chinese translation, despite the website being shut down the translation is still preserved [here](https://github.com/Terminal/api.discordbots.co.uk/blob/archive-pugjs/locales/zh-hans.json))
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
   * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
