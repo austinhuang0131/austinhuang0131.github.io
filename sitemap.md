@@ -16,3 +16,6 @@ You asked, here's the answer.
 * [Contact](./contact)
 * [Donate](./donate)
 * [Services](./services)
+
+## Random uploads
+* [A complete copy of Catcher in the Rye](https://holden-caulfield.got-themselves-a-hot.date/mtixo3.pdf)
