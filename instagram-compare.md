@@ -21,7 +21,7 @@ permalink: /instagram-compare
 8. Copy the output, from one quotemark to another.
 9. Go to the Text Compare! tab and paste the output on the left. These are your followers in alphabetical order.
 10. Open your following list, then repeat Steps 3~8.
-11. Go to the Text Compare! tab and paste the output on the left. These are your followings in alphabetical order.
+11. Go to the Text Compare! tab and paste the output on the right. These are your followings in alphabetical order.
 12. Press "Compare!". All differences between two lists are now highlighted. Time to weed them out!
 
 That pretty much does the trick. Hope you enjoy.
