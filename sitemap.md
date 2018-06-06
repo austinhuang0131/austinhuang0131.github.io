@@ -9,6 +9,7 @@ You asked, here's the answer.
 * [Server Guide](./discord-server-guide)
 
 ## Others
+* [Compare Instagram followings/followers list]
 * [Incomplete guide in Canadian reward programs](./canadareward)
 * [ShionKeys](./shionkeys)
 
