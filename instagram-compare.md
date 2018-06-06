@@ -27,10 +27,13 @@ permalink: /instagram-compare
 That pretty much does the trick. Hope you enjoy.
 
 ## Wait, does this steal my password?
-No. Let's break down the only script executed on:
+**Short Answer:** No.
+
+**Long Answer (Viewer discretion is advised):** Let's break down the only script executed during the process:
 ```js
 [].slice.call(document.getElementsByClassName("NroHT")).map(r => r.textContent).sort().join("\n")
 ```
+To be honest, if you know JavaScript you'll realize that this code doesn't really affect anything: Gets a bunch of elements from the webpage and manipulate it into a list. But not everyone knows JS. I mean if you don't know JS you will probably get confused over whatever that's written below, but for the sake of clarity I sort of broke it down and hopefully you can understand it.
 ### []
 An empty array.
 ### .slice
