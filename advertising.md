@@ -41,7 +41,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * 22000+ servers
   * Servers can only be submitted by ServerHound, its bot 
   * Server owners can bump every 4 hours for free, on bot only
-  * **WARNING!** ServerHound, their listing bot, [has a terrible reputation](https://www.reddit.com/search?q=serverhound) and is frequently considered a botnet. The bot was caught [monitored server messages before](https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/) <sup>In mid-2017, I worked with DiscordList and witnessed that one of their small teams have access to their "Radar", which catches global messages that matches a specific keyword</sup> and [releasing all user data on another website](https://www.reddit.com/r/discordapp/comments/79e79e/serverhound_website_taken_down/) called Discord.Solutions. Some users reported that the website seems to be a target for raiding. Before, they also show live message in listed guilds and per-member stats on the website, but it seems to be removed. Also, the owner of the websites is currently involved in crypto pumping <sup>Left sidebar, last button</sup>. While the website is listed here for objective reasons, it is unsuggested to add your server there.
+>! **WARNING!** ServerHound, their listing bot, [has a terrible reputation](https://www.reddit.com/search?q=serverhound) and is frequently considered a botnet. The bot was caught [monitored server messages before](https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/) <sup>In mid-2017, I worked with DiscordList and witnessed that one of their small teams have access to their "Radar", which catches global messages that matches a specific keyword</sup> and [releasing all user data on another website](https://www.reddit.com/r/discordapp/comments/79e79e/serverhound_website_taken_down/) called Discord.Solutions. Some users reported that the website seems to be a target for raiding. Before, they also show live message in listed guilds and per-member stats on the website, but it seems to be removed. Also, the owner of the websites is currently involved in crypto pumping <sup>Left sidebar, last button</sup>. While the website is listed here for objective reasons, it is unsuggested to add your server there.
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
   * 8600+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
@@ -68,7 +68,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * 160+ servers
 * [DiscordSL.com](https://discordsl.com/)
   * 150+ servers
-* [Discord Hunter](https://discordhunter.com/referrals?refid=207484517898780672)
+* [Discord Hunter](https://discordhunter.com/)
   * 20+ servers
 
 ### Listing Bots
