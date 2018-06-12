@@ -41,7 +41,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018.
   * 22000+ servers
   * Servers can only be submitted by ServerHound, its bot 
   * Server owners can bump every 4 hours for free, on bot only
-<details><summary>Spoiler! (Not supported on IE)</summary>
+  * <details><summary>Spoiler! (Not supported on IE)</summary>
 ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverhound">has a terrible reputation</a> and is frequently considered a botnet. The bot was caught <a href="https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/">monitored server messages before</a> <sup>In mid-2017, I worked with DiscordList and witnessed that some staff have access to "Radar", which logs global messages</sup> and <a href="https://www.reddit.com/r/discordapp/comments/79e79e/serverhound_website_taken_down/">releasing all user data on another website called Discord.Solutions (Taken down)</a>. Some users reported that the website seems to be a target for raiding. Before, they also show live message in listed guilds and per-member stats on the website, which seems to be removed.
 </details>
 
