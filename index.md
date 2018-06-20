@@ -103,4 +103,7 @@ You can [buy my services](/services) or [donate to me](/donate)!
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
 
+### You didn't answer my questions, though.
+You can [ask them here](https://curiouscat.me/austinhuang) anonymously.
+
 {% include def.html %}
