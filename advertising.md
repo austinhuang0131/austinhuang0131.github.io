@@ -78,7 +78,6 @@ ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverh
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
 
-* [Bump!](https://discordapp.com/oauth2/authorize?client_id=354107917508673547&scope=bot&permissions=1341643969) (`b.bump` every 2 hours)
 * [Liam](https://liam.advertise.racing/) (`*bump` every hour)
 * [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
 
