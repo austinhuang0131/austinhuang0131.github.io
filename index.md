@@ -41,7 +41,6 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 
 * [botlist.space](http://botlist.space) (All of Chinese translation)
 * [Disboard](http://disboard.org/) (All of Chinese translation)
-* [ShionKeys](/ShionKeys) (Chinese to English, owned by [Shion](https://mastodon.social/@ShionKeys), currently housed in this website)
 * ~~[Terminal.ink Bot List](https://ls.terminal.ink/)~~ (All of Chinese translation, despite the website being shut down the translation is still preserved [here](https://github.com/Terminal/api.discordbots.co.uk/blob/archive-pugjs/locales/zh-hans.json))
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
