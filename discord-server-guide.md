@@ -4,12 +4,8 @@ comments: true
 ---
 
 <meta name="og:title" content="I need advice on running a Discord server!">
-<meta name="og:site_name" content="AustinHuang.me">
-<meta name="og:type" content="website">
-<meta name="og:image" content="https://www.gravatar.com/avatar/d5a5f57410d9f6bf426ac4e1c1c66c2c.jpg">
-<meta name="og:image:type" content="image/jpeg">
-<meta name="og:image:alt" content="Austin Huang the Bus :^)">
-<meta name="og:description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your server!">
+<meta name="og:description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
+<meta name="description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
 
 Running a Discord server is not easy and I've seen numerous people struggling with it. From my personal experience, here's some advice from me, I guess.
 
