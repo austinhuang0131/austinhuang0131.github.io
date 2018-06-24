@@ -5,7 +5,8 @@ permalink: /advertising
 ---
 
 <meta name="og:title" content="I'd like to advertise my Discord server/bot!">
-<meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? This guide introduces various ways to achieve your goal!">
+<meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!">
+<meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
 
 <!--
 <p align="right"><small>Sponsored by:</small><br />
