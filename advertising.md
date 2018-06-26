@@ -14,7 +14,7 @@ permalink: /advertising
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a></p>
 -->
 
-Revised June 12, 2018 (Format).<br />[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
+[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -47,6 +47,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018. Remember to bump your se
 <details><summary>Spoiler! (Not supported on IE)</summary>
 ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverhound">has a terrible reputation</a> and is frequently considered a botnet. The bot was caught <a href="https://www.reddit.com/r/discordapp/comments/5sz8qo/does_serverhound_secretly_log_your_servers_chat/">monitored server messages before</a> <sup>In mid-2017, I worked with DiscordList and witnessed that some staff have access to "Radar", which logs global messages</sup> and <a href="https://www.reddit.com/r/discordapp/comments/79e79e/serverhound_website_taken_down/">releasing all user data on another website called Discord.Solutions (Taken down)</a>. Some users reported that the website seems to be a target for raiding, as the entire listing database was unencrypted. In short, avoid listing your server there, or use ServerHound in any way.
 </details><br>
+
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
   * 8600+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
