@@ -87,7 +87,7 @@ Aside of website/server bots. Ordered alphabetically.
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
-* [Discord Advertising](https://discord.gg/xcrDe59)
+* [Discord Advertising](https://discord.gg/qHACJg3)
 * [Discord Portal](https://discord.gg/KmZETQW) (Discord-Partnered)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Discord Server Portal™](https://discord.gg/DbZd8pg)
