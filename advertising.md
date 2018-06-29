@@ -9,10 +9,8 @@ permalink: /advertising
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!">
 <meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
 
-<!--
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a></p>
--->
 
 [Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
@@ -128,6 +126,8 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * 120+ bots
 * [Discord Bot World](https://discordbot.world/)
   * 70+ bots
+* [Discord Bot List FR](https://discordbots.fr)
+  * 40+ bots (French)
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
   * Just music bots
 
