@@ -10,7 +10,7 @@ permalink: /advertising
 <meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
 
 <p align="right"><small>Sponsored by:</small><br />
-<a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="This webpage is sponsored by Discord.Center" width="400" align="right" /></a></p>
+<a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="Sponsored by Discord.Center" width="400" align="right" /></a></p>
 
 [Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
@@ -35,11 +35,11 @@ Sorted by size (Amount of guilds) as of April 16, 2018. Remember to bump your se
   * Second-Largest (29000+ servers), probably oldest
   * More like a search engine
 * [DiscordList.me](http://discordlist.me)
-  * 24000+ servers
+  * 30000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disco.gg)
 * [DiscordList.net](http://discordlist.net)
-  * 22000+ servers
+  * 25000+ servers
   * Servers can only be submitted by ServerHound, its bot 
   * Server owners can bump every 4 hours for free, on bot only
 <details><summary>Spoiler! (Not supported on IE)</summary>
@@ -47,33 +47,33 @@ ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverh
 </details><br>
 
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
-  * 8600+ servers
+  * 16000+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
   * Cash rewards for referring people
+* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
+  * 12000+ servers
+  * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
+  * Server owners can bump every 2 hours for free, on site and on bot
+* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
+  * 6800+ servers
 * [DiscordServ.com](http://discordserv.com)
   * 6100+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
-* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
-  * 4800+ servers
-  * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
-  * Server owners can bump every hour for free, on site and on bot
 * [DiscordHub](https://discordhub.com/servers/list)
-  * 3700+ servers
+  * 4600+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
 * [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
-  * 2200+ servers
+  * 3000+ servers
   * Server owners can bump every 4 hours for free, on site and on bot
-* [Discordeame](http://discordea.net) **SPANISH**
-  * Actual server count unknown
+* [DiscordSL.com](https://discordsl.com/)
+  * 2100+ servers
+* [Discordeame](https://discordea.net) **SPANISH**
+  * 700+ servers
 * [Discord Services](http://discord.services)
   * 180+ servers
   * Server owners can bump every 4 hours for free
-* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
-  * 160+ servers
-* [DiscordSL.com](https://discordsl.com/)
-  * 150+ servers
 * [Discord Hunter](https://discordhunter.com/)
-  * 20+ servers
+  * 120+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
