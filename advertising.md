@@ -126,6 +126,8 @@ Sorted by list size as of April 16, 2018. All bot listings require verification 
   * 120+ bots
 * [Discord Bot World](https://discordbot.world/)
   * 70+ bots
+* [Listcord](https://www.listcord.com/)
+  * 60+ bots
 * [Discord Bot List FR](https://discordbots.fr)
   * 40+ bots (French)
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
