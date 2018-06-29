@@ -104,7 +104,7 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of April 16, 2018. All bot listings require verification process for each bots.
+Sorted by list size as of June 29, 2018. All bot listings require verification process for each bots.
 
 * [Discord Bot List](https://discordbots.org)
   * 3000+ bots
