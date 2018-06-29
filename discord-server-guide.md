@@ -7,17 +7,17 @@ comments: true
 <meta name="og:description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
 <meta name="description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
 
-Running a Discord server is not easy and I've seen numerous people struggling with it. From my personal experience, here's some advice from me, I guess.
+Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
 This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
 
-Revised May 8, 2018.
+Revised June 29, 2018.
 
 ## Questions to ask yourself
 Before making a Discord server, you should ask yourself these questions:
 
-1. What's the purpose of your server, in the most specific way possible? (Possible answer would be "We're enthusiastic in <specific game/topic>". Don't answer "bots" or "staff".)
-2. Is it unique?
+1. What's the purpose of your server, in the most specific way possible? (Possible answer would be "We're enthusiastic in <specific game/topic>".)
+2. Is it unique? How? (Don't give generic answers like "nice bots" or "helpful staff". You may answer "No" if it's just a straightforward community server or something like that.)
 3. How will you engage your population (Keep your members) in the future?
 
 There is no correct answer to them, but you should at least be able to answer these questions keep them in mind. If you answered "No" to question 2, you should focus more on question 3.
@@ -34,16 +34,16 @@ It's not a business of attracting more people: It's more like a business of keep
 
 ### Events
 Let's break them up into 3 types.
-#### Type 1: Strengthening your purpose => Get new people, and keep your members
+#### Type 1: Strengthening your purpose
 You're running a game server? Game tournaments! You're running an art server? Work exchange! You're running an anime server? What about dub challenge?
 
-This type of events highly depends on your server's purpose and also resources available to you. They are highly effective but at the same time consume a lot of your time and energy (Question 3) so you should keep a balance between these events and regular activities.
+This type of events highly depends on your server's purpose and also resources available to you. They are highly effective but at the same time consume a lot of your time and effort (Question 3) so you should keep a balance between these events and regular activities.
 
-#### Type 2: Generic engagement activities => Keep your members
-Minigames (Like [Cards Against Humanity](http://pretendyoure.xyz/zy/), [UNO](http://www.richgieg.com/runo) and [Webopoly](http://www.webopoly.org/), sure you'll find more) as well as other small events (Like movie night, karaoke, etc) can be used to keep your members busy. They require less effort than type 1 events, but they won't bring in new members, and there is a limit on how many you can do: Too many minigames can dilute your purpose which may lead to losing members.
+#### Type 2: Generic engagement activities
+Minigames (Like [Cards Against Humanity](http://pretendyoure.xyz/zy/), [UNO](http://www.richgieg.com/runo), [skribbl.io](https://skribbl.io/) and [Webopoly](http://www.webopoly.org/), surely you'll find more) as well as other small events (Like movie night, karaoke, etc) can be used to keep your members busy. They require less effort than type 1 events, but they won't bring in new members, and there is a limit on how many you can do: Too many minigames can dilute your purpose and annoy members which may lead to losing members.
 
-#### Type 3: Give one shot => Get new people
-Giveaways with attractive prizes will surely bring in new people [when used with proper advertisement](#advertising). They might not have an effect on your existing members though.
+#### Type 3: Giveaways
+Giveaways with attractive prizes will surely make existing members happy and bring in new people [when used with proper advertisement](#advertising). However, we all know that attractive prizes, like steam games or gift cards, are costly. So you can't really do them often.
 
 But after all, you can't do events all the time. So there's also...
 
@@ -59,7 +59,7 @@ Chat, obviously! But chat about what? You certainly need [responsible staff](#ch
 Once you know how to keep your population, you should impose measures to increase your member count.
 
 ### Advertising
-Your advertising slogan/text/description should point out what you have (Purpose and/or Type 1 events) plus some attractive treats (Type 3 events). Try create several versions of it, long ones for listing servers and short ones for listing websites. Though, do keep it short and on point in general.
+Your advertising slogan/text/description should point out what you have (Purpose and/or Type 1 events) plus some attractive treats (Type 3 events). Try create several versions of it, long ones for listing servers and short ones for listing websites. Though, do keep it short and on point in general. Refer to [this AYS article about writing descriptions](https://medium.com/advertise-your-server/writing-a-server-description-advert-69020c49689a).
 
 [This page](/./advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
 
