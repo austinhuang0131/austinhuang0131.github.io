@@ -107,23 +107,23 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 Sorted by list size as of April 16, 2018. All bot listings require verification process for each bots.
 
 * [Discord Bot List](https://discordbots.org)
-  * 2200+ bots
+  * 3000+ bots
   * Certification Program to boost your bot
-  * Long verification time (~1wk)
+  * Long verification time
 * [Discord Bots](https://bots.discord.pw)
   * 1200+ bots
 * [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
   * 280+ bots (Including dead bots, the listing does not actively remove dead bots)
   * Long verification time (1wk+)
+* [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
+  * 220+ bots
 * [DiscordList.net Bots](https://bots.discordlist.net)
   * Only 20 "high-quality" bots are shown in the "bots" section, plus 220 "non-compliant" bots
   * Discriminative, requires "Compliance" but they don't offer it publicly
 * [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
-  * 160+ bots
+  * 210+ bots
 * [BotList.space](https://botlist.space/?ref=austinhuang.me)
-  * 130+ bots
-* [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
-  * 120+ bots
+  * 190+ bots
 * [Discord Bot World](https://discordbot.world/)
   * 70+ bots
 * [Listcord](https://www.listcord.com/)
