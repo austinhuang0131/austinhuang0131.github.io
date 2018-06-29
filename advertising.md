@@ -53,7 +53,7 @@ ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverh
 * [DiscordServ.com](http://discordserv.com)
   * 6100+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
-* [Disboard.org](http://disboard.org/?ref=austinhuang.me) JP/EN/ZH/DE/PH/RU
+* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
   * 4800+ servers
   * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
   * Server owners can bump every hour for free, on site and on bot
