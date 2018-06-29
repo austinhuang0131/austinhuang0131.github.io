@@ -24,7 +24,7 @@ Want to list more places to advertise? Please contact me at [https://discord.gg/
 * No bot-listing servers.
   
 ### Websites
-Sorted by size (Amount of guilds) as of April 16, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of June 29, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
 
 * [Discord.me](http://discord.me)
   * Largest (45000+ servers), most traffic
@@ -32,7 +32,7 @@ Sorted by size (Amount of guilds) as of April 16, 2018. Remember to bump your se
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
 * [Discord Servers](http://discservs.co)
-  * Second-Largest (29000+ servers), probably oldest
+  * Second-Largest (Estimate, exact count yet to be provided), probably oldest
   * More like a search engine
 * [DiscordList.me](http://discordlist.me)
   * 30000+ servers
