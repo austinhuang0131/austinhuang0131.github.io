@@ -54,11 +54,11 @@ ServerHound, their listing bot, <a href="https://www.reddit.com/search?q=serverh
   * 12000+ servers
   * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
   * Server owners can bump every 2 hours for free, on site and on bot
+* [DiscordServ.com](http://discordserv.com)
+  * 8800+ servers
+  * Server owners can bump every 6 hours for free, on site and on bot
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
   * 6800+ servers
-* [DiscordServ.com](http://discordserv.com)
-  * 6100+ servers
-  * Server owners can bump every 6 hours for free, on site and on bot
 * [DiscordHub](https://discordhub.com/servers/list)
   * 4600+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
