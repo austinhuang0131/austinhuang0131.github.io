@@ -32,10 +32,9 @@ If you need a job description, that'll be "high school student/freelance develop
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
 * [botlist.space](http://botlist.space) (Staff)
-* [Bots for Discord](http://botsfordiscord.com) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
-* Circuit admin of these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive), and [Advertise Your Server](https://discord.gg/RrjdrGQ) (Growth Expert = Consultant).
-* Circuit customer support of these Discord listing websites: [Discord Center](http://discord.center) and [Discord Services](http://discord.services).
+* [Discord Center](http://discord.center) (Moderator)
+* Circuit admin of these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
 
 ## My translations
 I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
