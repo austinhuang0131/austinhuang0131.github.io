@@ -90,6 +90,7 @@ Aside from websites and bot-served servers. Please note that servers may require
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Discord Server Portal™](https://discord.gg/DbZd8pg)
 * [Pandora List](https://discord.gg/mU9ezQ2)
+* [Saiyan's Advertisements](https://discord.gg/s8dGbpz)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
 * [The Hub](https://discord.gg/dGUC3F6)
 * [The Portal](https://discord.gg/6HtGJ98)
