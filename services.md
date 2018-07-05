@@ -13,7 +13,6 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [Pixel Art School](http://discord.gg/nKGp78p)
 
 ### Telegram
-* [Online Zakovat](https://t.me/onlinezakovat) (Uzbek)
 * [PROMOBRASIL](https://t.me/promobrasil) (Portuguese)
 * [SupraPixel](https://t.me/suprapixelsuprapixel) (Spanish)
 
