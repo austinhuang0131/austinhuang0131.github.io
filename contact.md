@@ -10,4 +10,4 @@ title: I'd like to contact you!
 * [Reddit](http://reddit.com/u/austinhuang)
 * [Skype](https://join.skype.com/MkbbjC4YVTl5) or account name `live:austin.0131`
 * [Telegram](http://t.me/austinhuang)
-* Call: `+1 (808) 468-0313`
+* Text: [+1 (828) 528-2937](sms:18285282937)
