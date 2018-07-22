@@ -1,0 +1,239 @@
+
+<html>
+<head>
+<title>Route relations (Public Transport only)</title>
+
+<link rel="stylesheet" href="https://tile.opengeofiction.net/leaflet/leaflet.css" />
+<script src="https://tile.opengeofiction.net/leaflet/leaflet.js"></script>
+
+<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.3/proj4.js"></script>
+
+<link rel="stylesheet" href="https://tile.opengeofiction.net/Leaflet.loading/src/Control.Loading.css" />
+<script src="https://tile.opengeofiction.net/Leaflet.loading/src/Control.Loading.js"></script>
+
+
+
+<script src="https://tile.opengeofiction.net/util/OGFUtil.js"></script>
+
+<style>
+
+ul.ogf-menu {
+   list-style-type: none;
+   margin:  0px;
+   padding: 0px;
+}
+
+.ogf-menu li {
+    margin:  0px;
+    padding: 5px;
+}
+
+.ogf-menu li:hover {
+    background-color: #CCEEFF;
+    padding: 5px;
+}
+
+table {
+    font-size: 9pt;
+}
+
+</style>
+
+
+<script type="text/javascript">
+
+var ogf = OGFUtil();
+var mapOptions = {};
+var rlat = 90, rlon = 360;
+var worldPolygon	= [ [-rlat,-rlon], [-rlat,rlon], [rlat,rlon], [rlat,-rlon] ];
+
+
+var hParam = ogf.parseUrlParam( document.URL );
+
+var routeIds = hParam.r ? hParam.r.split(/,/) : [];
+var map, layer;
+
+function loadMap(){
+//  map = L.map( 'map', mapOptions ).setView([36.45, 119.3], 3);
+    map = L.map( 'map', mapOptions ).setView([36.46161, 119.54988], 13);
+
+    var loadingControl = L.Control.loading({
+        separate: true
+    });
+    map.addControl(loadingControl);
+
+    var ogfMap = ogf.map( map, {layers: 'Standard,TopoMap,Histor,Roantra'} );
+
+//  var hParam = ogf.setUrlLocation( map, null, {fields: ['r']} );
+    var hParam = ogf.setUrlLocation( map );
+    layer = L.layerGroup().addTo( map );
+
+    var bbox = map.getBounds();
+    ogf.publicTransport( layer, bbox );
+
+    setTimeout( function(){
+        movingObject();
+    }, 2000 );
+}
+
+function reloadPublicTransport(){
+    layer.clearLayers();
+    var zoom = map.getZoom();
+    if( zoom < 10 ){
+        alert( 'Please zoom in to at least level 10' );
+        return;
+    }
+    var bbox = map.getBounds();
+//  console.log( "bbox = " + JSON.stringify(bbox,null,"  ") );  // _DEBUG_
+    ogf.publicTransport( layer, bbox );
+}
+
+ogf.publicTransport = function( layer, routeIds ){
+    map.fire( 'dataloading' );
+    console.log( ">> routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
+    var hInfo = {layer: layer, routesDrawn: {}};
+    loadRouteData( routeIds, function(ctx){
+        console.log( "<< routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
+        if( routeIds._southWest ){
+            routeIds = ogf.values(ctx.relation).filter( function(x){ return x.tags.type === 'route_master'; } ).map( function(x){ return x.id; } );
+            var routeRelIds = ogf.values(ctx.relation).filter( function(x){ return x.tags.type === 'route'; } ).map( function(x){ return x.id; } );
+            Array.prototype.push.apply( routeIds, routeRelIds );
+        }
+        if( routeIds.length === 0 ){
+            alert( 'No "route" relations found in this area.' );
+        }
+        routeIds.forEach( function(relId){
+            var rel = ctx.relation[relId];
+            drawRouteMasterLines( rel, ctx, hInfo );
+        } );
+        routeIds.forEach( function(relId){
+            var rel = ctx.relation[relId];
+            drawRouteMasterStations( rel, ctx, hInfo );
+        } );
+        map.fire( 'dataload' );
+    } );
+}
+
+function drawRouteMasterLines( rel, ctx, hInfo ){
+    var routes   = rel.members.filter( function(x){ return x.type === 'relation' && (x.role === '' || x.role === 'route'); } );
+    hInfo.color  = rel.tags.colour || '#000000';
+    if (routes.length > 0){
+        routes.forEach( function(mR){
+            drawRoute( ctx.relation[mR.ref], ctx, hInfo );
+        } );
+    } else {
+        drawRoute( rel, ctx, hInfo );
+    }
+}
+
+function drawRouteMasterStations( rel, ctx, hInfo ){
+    var routes   = rel.members.filter( function(x){ return x.type === 'relation' && (x.role === '' || x.role === 'route'); } );
+    hInfo.color  = rel.tags.colour || '#000000';
+    if (routes.length > 0){
+        routes.forEach( function(mR){
+            drawStations( ctx.relation[mR.ref], ctx, hInfo );
+        } );
+    } else {
+        drawStations( rel, ctx, hInfo );
+    }
+}
+
+function drawRoute( rel, ctx, hInfo ){
+    if( hInfo.routesDrawn[rel.id] ){
+        return;
+    }
+    hInfo.routesDrawn[rel.id] = true;
+    var closedWays = ogf.buildWaySequence( ctx, rel.id, null, {role: '^.*$', copy: true} );
+    closedWays.forEach( function(way){
+//      console.log( "way = " + JSON.stringify(way,null,"  ") );  // _DEBUG_
+        var line = ogf.wayPoints( way, ctx );
+        var popupText = objText(rel);
+        var color = hInfo.color || '#000000';
+        L.polyline( line, {color: color, weight: 5} ).addTo( hInfo.layer ).bindPopup( popupText );
+    } );
+}
+
+function drawStations( rel, ctx, hInfo) {
+    var stations = rel.members.filter( function(x){ return x.type === 'node'     && (x.role === 'station' || x.role === 'stop' || x.role === 'forward:stop' || x.role === 'backward:stop'); } );
+    var color = hInfo.color || '#000000';
+    stations.forEach( function(mS){
+        var node = ctx.node[mS.ref];
+        var popupText = objText(node, rel);
+        //var popupText = objTextStation(node, rel);
+        L.circleMarker( [node.lat, node.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
+    } );	
+}
+
+//bbox = {
+//"_southWest": {
+//  "lat": 35.598135685537905,
+//  "lng": 118.31314086914064
+//},
+//"_northEast": {
+//  "lat": 36.71026542647845,
+//  "lng": 120.31677246093751
+//}
+//}
+
+function loadRouteData( param, cb ){
+    var query;
+    if( param._southWest ){  // BBOX
+        var bbox = [ param.getSouth(), param.getWest(), param.getNorth(), param.getEast() ];
+        query = 'relation["type"="route"]["route"~"(bus|train|tram|light_rail)"](' + bbox.join(',') + '); rel(br);';
+        query = '(' + query + '); (._;>>;);';
+    }else{   // route IDs
+        query = param.map( function(x){ return 'relation('+x+')'; } ).join(';');
+        query = '(' + query + '); (._;>>;);';
+    }
+    console.log( "query <" + query + ">" );  // _DEBUG_
+    ogf.getOverpassData( query, function(ctx){
+        ctx = ogf.typeMap( ctx );
+//      console.log( "ctx = " + JSON.stringify(ctx,null,"  ") );  // _DEBUG_
+        cb( ctx );
+    } );
+}
+
+function objText( obj ){
+    var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
+    var objText = '<b>' + obj.tags.name + '</b>';
+    objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+    return objText;
+}
+
+function movingObject(){
+    var steps = 100;
+    var nodeA = [ 36.4680873, 119.6120921 ];
+    var nodeB = [ 36.4602175, 119.5392192 ];
+    var dy = (nodeB[0] - nodeA[0]) / steps;
+    var dx = (nodeB[1] - nodeA[1]) / steps;
+    var cm = L.circleMarker( nodeA, {radius: 6, color: '#000000', weight: 1, fillColor: '#99CCFF', fillOpacity: 1} ).addTo( map );
+
+    var i = 0;
+    setInterval( function(){
+        var loc = [ nodeA[0]+i*dy, nodeA[1]+i*dx ];
+        cm.setLatLng( loc );
+        ++i;
+        if( i >= steps )  i = 0;
+    }, 300 );
+}
+
+
+
+
+</script>
+
+</head>
+<body style="margin:0px;" onload="loadMap()">
+
+<div id="map" style="width:100%;height:95%;"></div>
+<div id="control" style="width:100%;">
+<button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button>
+</div>
+
+
+
+<input id="r" type="text" size="10" maxlength="255" readonly style="display:none;">
+
+</body>
+</html>
