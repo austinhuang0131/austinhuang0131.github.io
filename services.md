@@ -11,6 +11,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [InFlamesWeMust](http://twitch.tv/inflameswemust)
 * [Peaceful CEO](http://www.pceo.online/)
 * [Pixel Art School](http://discord.gg/nKGp78p)
+* [Strangekillers](https://selly.gg/u/Strangekillers)
 
 ### Telegram
 * [PROMOBRASIL](https://t.me/promobrasil) (Portuguese)
