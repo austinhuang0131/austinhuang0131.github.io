@@ -180,7 +180,7 @@ function loadRouteData( param, cb ){
     var query;
     if( param._southWest ){  // BBOX
         var bbox = [ param.getSouth(), param.getWest(), param.getNorth(), param.getEast() ];
-        query = 'relation["type"="route"]["route"~"(bus|train|tram|light_rail)"](' + bbox.join(',') + '); rel(br);';
+        query = 'relation["type"="route"]["route"~"(bus|train|tram|light_rail|subway)"](' + bbox.join(',') + '); rel(br);';
         query = '(' + query + '); (._;>>;);';
     }else{   // route IDs
         query = param.map( function(x){ return 'relation('+x+')'; } ).join(';');
