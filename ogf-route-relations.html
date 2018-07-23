@@ -155,7 +155,7 @@ function drawRoute( rel, ctx, hInfo ){
 }
 
 function drawStations( rel, ctx, hInfo) {
-    var stations = rel.members.filter( function(x){ return x.type === 'node'     && (x.role === 'station' || x.role === 'stop' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
+    var stations = rel.members.filter( function(x){ return x.type === 'node'     && (x.role === 'station' || x.role === 'stop' || x.role === 'stop_entry_only' || x.role === 'stop_exit_only' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
         var node = ctx.node[mS.ref];
