@@ -22,4 +22,4 @@ My translation works are listed [here](https://austinhuang.me/#i-also-help-in-so
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
 
-On Discord, contact `The Double-Eyed Bus#6889`. On Telegram, click [here](https://t.me/austinhuang).
+On Discord, contact `The Double-Eyed Bus#6889`. On Telegram, click [here](https://t.me/austinhuang). You can also [find me](https://www.freelancer.com/hireme/austinhuang0131) on Freelancer.com.
