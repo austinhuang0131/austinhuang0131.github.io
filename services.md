@@ -7,10 +7,10 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 
 ### Discord
 * [Grillbys](https://discord.gg/EMWm3xv)
-* [IND Gamers](https://discord.gg/AMVsR3W)
-* [InFlamesWeMust](http://twitch.tv/inflameswemust)
+* [InFlamesWeMust](https://twitch.tv/inflameswemust)
+* [Ismo Laitela Sekoilut](https://discord.gg/XZFEsR6)
 * [Peaceful CEO](http://www.pceo.online/)
-* [Pixel Art School](http://discord.gg/nKGp78p)
+* [Pixel Art School](https://discord.gg/nKGp78p)
 * [Strangekillers](https://selly.gg/u/Strangekillers)
 
 ### Telegram
