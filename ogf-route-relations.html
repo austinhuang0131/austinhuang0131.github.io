@@ -15,6 +15,7 @@
 
 
 <script src="https://tile.opengeofiction.net/util/OGFUtil.js"></script>
+<script src="./assets/color.js"></script>
 
 <style>
 
@@ -44,6 +45,7 @@ table {
 <script type="text/javascript">
 
 var ogf = OGFUtil();
+var col = ColorUtil();
 var mapOptions = {};
 var rlat = 90, rlon = 360;
 var worldPolygon	= [ [-rlat,-rlon], [-rlat,rlon], [rlat,rlon], [rlat,-rlon] ];
@@ -87,6 +89,16 @@ function reloadPublicTransport(){
 function loadOneLine( rel ){
     layer.clearLayers();
     ogf.publicTransport( layer, [rel], [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
+}
+   
+function pickColor(bgColor) {
+  var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : bgColor;
+  color = isNaN(parseInt(color, 16)) ? col[color] : color;
+  var r = parseInt(color.substring(0, 2), 16); // hexToR
+  var g = parseInt(color.substring(2, 4), 16); // hexToG
+  var b = parseInt(color.substring(4, 6), 16); // hexToB
+  return (((r * 0.299) + (g * 0.587) + (b * 0.114)) > 186) ?
+    "#000000" : "#FFFFFF";
 }
 
 ogf.publicTransport = function( layer, routeIds, type ){
@@ -194,7 +206,7 @@ function objTextStation( obj, ctx ){
      objText += '<br>Belongs to:<br>';
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
      objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
-         var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
+         var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:'+pickColor(r.value.tags.colour)+';' : '';
          colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
          return '- <a href="javascript:loadOneLine(' + r.id + ')" style="' + colour + '">' + r.value.tags.name + '</a>';
      }).join("<br>");
