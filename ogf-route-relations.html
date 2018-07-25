@@ -116,7 +116,6 @@ ogf.publicTransport = function( layer, routeIds, type ){
 
 function drawRouteMasterLines( rel, ctx, hInfo ){
     var routes   = rel.members.filter( function(x){ return x.type === 'relation' && (x.role === '' || x.role === 'route'); } );
-    hInfo.color  = rel.tags.colour || '#000000';
     if (routes.length > 0){
         routes.forEach( function(mR){
             drawRoute( ctx.relation[mR.ref], ctx, hInfo );
@@ -128,7 +127,6 @@ function drawRouteMasterLines( rel, ctx, hInfo ){
 
 function drawRouteMasterStations( rel, ctx, hInfo ){
     var routes   = rel.members.filter( function(x){ return x.type === 'relation' && (x.role === '' || x.role === 'route'); } );
-    hInfo.color  = rel.tags.colour || '#000000';
     if (routes.length > 0){
         routes.forEach( function(mR){
             drawStations( ctx.relation[mR.ref], ctx, hInfo );
@@ -143,37 +141,25 @@ function drawRoute( rel, ctx, hInfo ){
         return;
     }
     hInfo.routesDrawn[rel.id] = true;
-    var closedWays = ogf.buildWaySequence( ctx, rel.id, null, {role: '^.*$', copy: true} );
+    var closedWays = ogf.buildWaySequence( ctx, rel.id, null, {role: '^(|route|forward|backward|reverse)$', copy: true} );
     closedWays.forEach( function(way){
-//      console.log( "way = " + JSON.stringify(way,null,"  ") );  // _DEBUG_
         var line = ogf.wayPoints( way, ctx );
         var popupText = objText(rel);
-        var color = hInfo.color || '#000000';
+        var color = rel.tags.colour || '#000000';
         L.polyline( line, {color: color, weight: 5} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );
 }
 
 function drawStations( rel, ctx, hInfo) {
-    var stations = rel.members.filter( function(x){ return x.type === 'node'     && (x.role === 'station' || x.role === 'stop' || x.role === 'stop_entry_only' || x.role === 'stop_exit_only' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
-    var color = hInfo.color || '#000000';
+    var stations = rel.members.filter( function(x){ return x.type === 'node' && (x.role === 'station' || x.role === 'stop' || x.role === 'stop_entry_only' || x.role === 'stop_exit_only' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
+    var color = rel.tags.colour || '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
-        var color = hInfo.color || '#000000';
+        var color = rel.tags.colour || '#000000';
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
-
-//bbox = {
-//"_southWest": {
-//  "lat": 35.598135685537905,
-//  "lng": 118.31314086914064
-//},
-//"_northEast": {
-//  "lat": 36.71026542647845,
-//  "lng": 120.31677246093751
-//}
-//}
 
 function loadRouteData( param, type, cb ){
     var query;
