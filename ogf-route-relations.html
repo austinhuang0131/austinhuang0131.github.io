@@ -156,7 +156,7 @@ function drawStations( rel, ctx, hInfo) {
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
-        var popupText = objTextStation(rel, ctx);
+        var popupText = objTextStation(obj, ctx);
         var color = hInfo.color || '#000000';
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
@@ -205,9 +205,9 @@ function objTextStation( obj, ctx ){
      objText += '<br>Belongs to:<br>';
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
      objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
-         //var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
-         //colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
-         return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + /*'" style="'+colour+*/'">' + r.value.tags.name + '</a>';
+         var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
+         colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
+         return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '" style="' + colour + '">' + r.value.tags.name + '</a>';
      }).join("<br>");
      return objText;
 }
