@@ -84,9 +84,9 @@ function reloadPublicTransport(){
     ogf.publicTransport( layer, bbox, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
    
-function loadOneLine( rels ){
+function loadOneLine( rel ){
     layer.clearLayers();
-    ogf.publicTransport( layer, rels, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
+    ogf.publicTransport( layer, [rel], [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
 
 ogf.publicTransport = function( layer, routeIds, type ){
