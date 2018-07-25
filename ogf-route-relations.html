@@ -86,6 +86,7 @@ function reloadPublicTransport(){
 }
 
 ogf.publicTransport = function( layer, routeIds, type ){
+    type = !type ? "bus|train|tram|light_rail|subway" : type;
     map.fire( 'dataloading' );
     console.log( ">> routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
     var hInfo = {layer: layer, routesDrawn: {}};
@@ -155,7 +156,7 @@ function drawStations( rel, ctx, hInfo) {
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
-        var popupText = objTextStation(rel);
+        var popupText = objTextStation(rel, ctx);
         var color = hInfo.color || '#000000';
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( objText );
     } );	
