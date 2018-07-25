@@ -71,10 +71,6 @@ function loadMap(){
 
     var bbox = map.getBounds();
     ogf.publicTransport( layer, bbox );
-
-    setTimeout( function(){
-        movingObject();
-    }, 2000 );
 }
 
 function reloadPublicTransport(){
