@@ -201,11 +201,12 @@ function objText( obj ){
 }
    
 function objTextStation( obj ){
-    ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, document => {
+    ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, text => {
         var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
         var objText = '<b>' + obj.tags.name + '</b>';
         objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
         objText += '<br> Belongs to:';
+        var document = new DOMParser().parseFromString(text, 'text/xml');
         objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
             var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
             return '<br>- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName +  '</a>'
