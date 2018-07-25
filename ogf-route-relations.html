@@ -82,14 +82,14 @@ function reloadPublicTransport(){
     }
     var bbox = map.getBounds();
 //  console.log( "bbox = " + JSON.stringify(bbox,null,"  ") );  // _DEBUG_
-    ogf.publicTransport( layer, bbox );
+    ogf.publicTransport( layer, bbox, document.getElementsByTagName("select")[0].selectedOptions[0].value);
 }
 
-ogf.publicTransport = function( layer, routeIds ){
+ogf.publicTransport = function( layer, routeIds, type ){
     map.fire( 'dataloading' );
     console.log( ">> routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
     var hInfo = {layer: layer, routesDrawn: {}};
-    loadRouteData( routeIds, function(ctx){
+    loadRouteData( routeIds, type, function(ctx){
         console.log( "<< routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
         if( routeIds._southWest ){
             routeIds = ogf.values(ctx.relation).filter( function(x){ return x.tags.type === 'route_master'; } ).map( function(x){ return x.id; } );
@@ -155,14 +155,8 @@ function drawStations( rel, ctx, hInfo) {
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
-        var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
-        var objText = '<b>' + obj.tags.name + '</b>';
-        objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-        objText += '<br>Belongs to:<br>';
-        var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
-        objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
-            return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + r.value.tags.name + '</a>';
-        }).join("<br>");
+        var popupText = objTextStation(rel);
+        var color = hInfo.color || '#000000';
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( objText );
     } );	
 }
@@ -178,11 +172,11 @@ function drawStations( rel, ctx, hInfo) {
 //}
 //}
 
-function loadRouteData( param, cb ){
+function loadRouteData( param, type, cb ){
     var query;
     if( param._southWest ){  // BBOX
         var bbox = [ param.getSouth(), param.getWest(), param.getNorth(), param.getEast() ];
-        query = 'relation["type"="route"]["route"~"(bus|train|tram|light_rail|subway)"](' + bbox.join(',') + '); rel(br);';
+        query = 'relation["type"="route"]["route"~"('+type+')"](' + bbox.join(',') + '); rel(br);';
         query = '(' + query + '); (._;>>;);';
     }else{   // route IDs
         query = param.map( function(x){ return 'relation('+x+')'; } ).join(';');
@@ -201,6 +195,20 @@ function objText( obj ){
     var objText = '<b>' + obj.tags.name + '</b>';
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
     return objText;
+}
+   
+function objTextStation( obj, ctx ){
+     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
+     var objText = '<b>' + obj.tags.name + '</b>';
+     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+     objText += '<br>Belongs to:<br>';
+     var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
+     objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
+         var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
+         colour = (r.value.tags['ogf:invert'] === 'yes' && colour !== '') ? 'color:'+r.value.tags.colour+';' : colour;
+         return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '" style="'+colour+'">' + r.value.tags.name + '</a>';
+     }).join("<br>");
+     return objText;
 }
 
 /*
@@ -231,7 +239,16 @@ function movingObject(){
 
 <div id="map" style="width:100%;height:95%;"></div>
 <div id="control" style="width:100%;">
-<button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button> This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html?map=C/12/-23.80922/34.88331">original</a>. <a href='javascript:alert("This version only shows public transport (Bus, train, tram, light rail) lines.\nUnlike the original version, this works from zoom 6 (Instead of 10), since there is not a lot of public transport mapping right now.\nThis version also displays nodes with roles like \"stop:1\" (Or whatever number instead of 1).\nCourtesy of OGF user austinhuang");'>Details...</a>
+<select>
+  <option value="bus|train|tram|light_rail|subway" selected>All</option>
+  <option value="bus">Bus</option>
+  <option value="train">Train</option>
+  <option value="tram">Tram</option>
+  <option value="light_rail">Light Rail</option>
+  <option value="subway">Subway</option>
+</select>
+<button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button>
+    This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html?map=C/12/-23.80922/34.88331">original</a>. <a href='javascript:alert("This version only shows public transport (Bus, train, tram, light rail) lines.\nUnlike the original version, this works from zoom 6 (Instead of 10), since there is not a lot of public transport mapping right now.\nThis version also displays nodes with roles like \"stop:1\" (Or whatever number instead of 1).\nCourtesy of OGF user austinhuang");'>Details...</a>
 </div>
 
 
