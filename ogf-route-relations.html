@@ -63,7 +63,7 @@ function loadMap(){
     });
     map.addControl(loadingControl);
 
-    var ogfMap = ogf.map( map, {layers: 'Standard,TopoMap,Histor,Roantra'} );
+    var ogfMap = ogf.map( map, {layers: 'Standard,TopoMap,Histor'} );
 
 //  var hParam = ogf.setUrlLocation( map, null, {fields: ['r']} );
     var hParam = ogf.setUrlLocation( map );
@@ -159,8 +159,7 @@ function drawStations( rel, ctx, hInfo) {
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
         var node = ctx.node[mS.ref];
-        var popupText = objText(node, rel);
-        //var popupText = objTextStation(node, rel);
+        var popupText = objTextStation(node);
         L.circleMarker( [node.lat, node.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
@@ -200,7 +199,22 @@ function objText( obj ){
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
     return objText;
 }
+   
+function objTextStation( obj ){
+    ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, document => {
+        var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
+        var objText = '<b>' + obj.tags.name + '</b>';
+        objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+        objText += '<br> Belongs to:';
+        objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
+            var relName = [].slice.call(r)[0].getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
+            return '<br>- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName +  '</a>'
+        });
+        return objText;
+    });
+}
 
+/*
 function movingObject(){
     var steps = 100;
     var nodeA = [ 36.4680873, 119.6120921 ];
@@ -217,7 +231,7 @@ function movingObject(){
         if( i >= steps )  i = 0;
     }, 300 );
 }
-
+*/
 
 
 
