@@ -82,7 +82,7 @@ function reloadPublicTransport(){
     }
     var bbox = map.getBounds();
 //  console.log( "bbox = " + JSON.stringify(bbox,null,"  ") );  // _DEBUG_
-    ogf.publicTransport( layer, bbox, document.getElementsByTagName("select")[0].selectedOptions[0].value);
+    ogf.publicTransport( layer, bbox, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
 
 ogf.publicTransport = function( layer, routeIds, type ){
@@ -98,7 +98,7 @@ ogf.publicTransport = function( layer, routeIds, type ){
             Array.prototype.push.apply( routeIds, routeRelIds );
         }
         if( routeIds.length === 0 ){
-            alert( 'No "route" relations found in this area.' );
+            alert( 'No "route" relations found in this area. Maybe change your type below?' );
         }
         routeIds.forEach( function(relId){
             var rel = ctx.relation[relId];
@@ -240,14 +240,13 @@ function movingObject(){
 
 <div id="map" style="width:100%;height:95%;"></div>
 <div id="control" style="width:100%;">
-<select>
-  <option value="bus|train|tram|light_rail|subway" selected>All</option>
-  <option value="bus">Bus</option>
-  <option value="train">Train</option>
-  <option value="tram">Tram</option>
-  <option value="light_rail">Light Rail</option>
-  <option value="subway">Subway</option>
-</select>
+<form>
+  <input type="checkbox" value="bus" checked>Bus </input>
+  <input type="checkbox" value="train" checked>Train </input>
+  <input type="checkbox" value="tram" checked>Tram </input>
+  <input type="checkbox" value="light_rail" checked>Light Rail </input>
+  <input type="checkbox" value="subway" checked>Subway </input>
+</form>
 <button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button>
     This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html?map=C/12/-23.80922/34.88331">original</a>. <a href='https://opengeofiction.net/user/austinhuang/diary/2110'>Details...</a>
 </div>
