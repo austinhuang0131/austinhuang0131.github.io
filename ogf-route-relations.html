@@ -154,10 +154,19 @@ function drawStations( rel, ctx, hInfo) {
     var stations = rel.members.filter( function(x){ return x.type === 'node'     && (x.role === 'station' || x.role === 'stop' || x.role === 'stop_entry_only' || x.role === 'stop_exit_only' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
     var color = hInfo.color || '#000000';
     stations.forEach( function(mS){
-        var node = ctx.node[mS.ref];
-        var popupText = objTextStation(node);
-        console.log(popupText);
-        L.circleMarker( [node.lat, node.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
+        var obj = ctx.node[mS.ref];
+        ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, text => {
+           var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
+           var objText = '<b>' + obj.tags.name + '</b>';
+           objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+           objText += '<br>Belongs to:<br>';
+           var document = new DOMParser().parseFromString(text, 'text/xml');
+           objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
+               var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
+               return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName + '</a>';
+           }).join("<br>");
+           L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( objText );
+       });
     } );	
 }
 
@@ -195,21 +204,6 @@ function objText( obj ){
     var objText = '<b>' + obj.tags.name + '</b>';
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
     return objText;
-}
-   
-function objTextStation( obj ){
-    return ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, text => {
-        var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
-        var objText = '<b>' + obj.tags.name + '</b>';
-        objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-        objText += '<br>Belongs to:<br>';
-        var document = new DOMParser().parseFromString(text, 'text/xml');
-        objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
-            var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
-            return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName + '</a>';
-        }).join("<br>");
-        return objText;
-    });
 }
 
 /*
