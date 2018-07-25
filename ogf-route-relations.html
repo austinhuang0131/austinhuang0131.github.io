@@ -205,8 +205,8 @@ function objTextStation( obj ){
         var document = new DOMParser().parseFromString(text, 'text/xml');
         objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
             var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
-            return '<br>- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName +  '</a>'
-        });
+            return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName +  '</a>';
+        }).join("<br>");
         return objText;
     });
 }
