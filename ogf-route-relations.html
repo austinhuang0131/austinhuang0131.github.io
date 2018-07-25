@@ -81,17 +81,21 @@ function reloadPublicTransport(){
         return;
     }
     var bbox = map.getBounds();
-//  console.log( "bbox = " + JSON.stringify(bbox,null,"  ") );  // _DEBUG_
     ogf.publicTransport( layer, bbox, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
+}
+   
+function loadOneLine( rel ){
+    layer.clearLayers();
+    var rels = [];
+    rels.push(rel);
+    ogf.publicTransport( layer, rels, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
 
 ogf.publicTransport = function( layer, routeIds, type ){
     type = !type ? "bus|train|tram|light_rail|subway" : type;
     map.fire( 'dataloading' );
-    console.log( ">> routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
     var hInfo = {layer: layer, routesDrawn: {}};
     loadRouteData( routeIds, type, function(ctx){
-        console.log( "<< routeIds = " + JSON.stringify(routeIds,null,"  ") );  // _DEBUG_
         if( routeIds._southWest ){
             routeIds = ogf.values(ctx.relation).filter( function(x){ return x.tags.type === 'route_master'; } ).map( function(x){ return x.id; } );
             var routeRelIds = ogf.values(ctx.relation).filter( function(x){ return x.tags.type === 'route'; } ).map( function(x){ return x.id; } );
@@ -195,6 +199,7 @@ function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
     var objText = '<b>' + obj.tags.name + '</b>';
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+    objText += '<br><a href="javascript:loadOneLine(' + r.id + ')">Show only this line</a>';
     return objText;
 }
    
@@ -207,7 +212,7 @@ function objTextStation( obj, ctx ){
      objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
          var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
          colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
-         return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '" style="' + colour + '">' + r.value.tags.name + '</a>';
+         return '- <a href="javascript:loadOneLine(' + r.id + ')" style="' + colour + '">' + r.value.tags.name + '</a>';
      }).join("<br>");
      return objText;
 }
