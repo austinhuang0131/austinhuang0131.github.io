@@ -168,7 +168,7 @@ function drawStations( rel, ctx, hInfo) {
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
-        var color = rel.tags.colour || '#000000';
+        var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
