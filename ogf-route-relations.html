@@ -84,10 +84,8 @@ function reloadPublicTransport(){
     ogf.publicTransport( layer, bbox, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
    
-function loadOneLine( rel ){
+function loadOneLine( rels ){
     layer.clearLayers();
-    var rels = [];
-    rels.push(rel);
     ogf.publicTransport( layer, rels, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
 
@@ -199,7 +197,7 @@ function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
     var objText = '<b>' + obj.tags.name + '</b>';
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-    objText += '<br><a href="javascript:loadOneLine(' + r.id + ')">Show only this line</a>';
+    objText += '<br><a href="javascript:loadOneLine(' + obj.id + ')">Show only this line</a>';
     return objText;
 }
    
