@@ -160,8 +160,7 @@ function drawStations( rel, ctx, hInfo) {
         objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
         objText += '<br>Belongs to:<br>';
         var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
-        console.log(relation);
-        objText += relation.filter(r => r.value.members.filter(m => m.id === obj.id).length === 1).map(r => {
+        objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
             return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + r.value.tags.name + '</a>';
         }).join("<br>");
         L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( objText );
