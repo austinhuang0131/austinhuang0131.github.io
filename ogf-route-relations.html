@@ -202,11 +202,13 @@ function objTextStation( obj ){
         var objText = '<b>' + obj.tags.name + '</b>';
         objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
         objText += '<br> Belongs to:';
+        console.log(objText);
         var document = new DOMParser().parseFromString(text, 'text/xml');
         objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
             var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
-            return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName +  '</a>';
+            return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName + '</a>';
         }).join("<br>");
+        console.log(objText);
         return objText;
     });
 }
