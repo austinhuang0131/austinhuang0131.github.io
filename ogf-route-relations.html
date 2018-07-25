@@ -206,7 +206,7 @@ function objTextStation( obj, ctx ){
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
      objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
          var colour = r.value.tags.colour ? 'background-color:'+r.value.tags.colour+';color:white;' : '';
-         colour = (r.value.tags['ogf:invert'] === 'yes' && colour !== '') ? 'color:'+r.value.tags.colour+';' : colour;
+         colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
          return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '" style="'+colour+'">' + r.value.tags.name + '</a>';
      }).join("<br>");
      return objText;
@@ -246,7 +246,7 @@ function movingObject(){
   <input type="checkbox" value="light_rail" checked>Light Rail </input>
   <input type="checkbox" value="subway" checked>Subway </input>
   <button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button>
-  This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html?map=C/12/-23.80922/34.88331">original</a>. <a href='https://opengeofiction.net/user/austinhuang/diary/2110'>Details...</a>
+  This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html">original</a>. <a href='https://opengeofiction.net/user/austinhuang/diary/2110'>Details...</a>
 </div>
 
 
