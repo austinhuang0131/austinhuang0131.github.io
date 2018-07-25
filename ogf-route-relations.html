@@ -156,6 +156,7 @@ function drawStations( rel, ctx, hInfo) {
     stations.forEach( function(mS){
         var node = ctx.node[mS.ref];
         var popupText = objTextStation(node);
+        console.log(popupText);
         L.circleMarker( [node.lat, node.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
@@ -197,18 +198,16 @@ function objText( obj ){
 }
    
 function objTextStation( obj ){
-    ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, text => {
+    return ogf.runRequest("GET", "https://opengeofiction.net/api/0.6/node/"+obj.id+"/relations", null, text => {
         var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
         var objText = '<b>' + obj.tags.name + '</b>';
         objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-        objText += '<br> Belongs to:';
-        console.log(objText);
+        objText += '<br>Belongs to:<br>';
         var document = new DOMParser().parseFromString(text, 'text/xml');
         objText += [].slice.call(document.getElementsByTagName("relation")).map(r => {
             var relName = [].slice.call(r.getElementsByTagName("tag")).find(r => r.attributes.k.value === "name").attributes.v.value;
             return '- <a href="' + ogf.config.API_URL + 'relation/' + r.id + '">' + relName + '</a>';
         }).join("<br>");
-        console.log(objText);
         return objText;
     });
 }
