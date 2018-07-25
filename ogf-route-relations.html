@@ -76,8 +76,8 @@ function loadMap(){
 function reloadPublicTransport(){
     layer.clearLayers();
     var zoom = map.getZoom();
-    if( zoom < 6 ){
-        alert( 'Please zoom in to at least level 6' );
+    if( zoom < 8 ){
+        alert( 'Please zoom in to at least level 8' );
         return;
     }
     var bbox = map.getBounds();
