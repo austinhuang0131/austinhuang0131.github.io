@@ -163,7 +163,7 @@ function drawRoute( rel, ctx, hInfo ){
 }
 
 function drawStations( rel, ctx, hInfo) {
-    var stations = rel.members.filter( function(x){ return x.type === 'node' && (x.role === 'station' || x.role === 'stop' || x.role === 'stop_entry_only' || x.role === 'stop_exit_only' || x.role === 'forward:stop' || x.role === 'backward:stop' || x.role.match(/^stop:\d+$/)); } );
+    var stations = rel.members.filter( function(x){ return x.type === 'node' && /(^station|^stop|:stop$)/.test(x.role); } );
     var color = rel.tags.colour || '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
