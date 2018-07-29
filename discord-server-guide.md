@@ -50,7 +50,7 @@ But after all, you can't do events all the time. So there's also...
 ### Regular activities
 Chat, obviously! But chat about what? You certainly need [responsible staff](#choosing-staff) to start topics and engage in conversations. Members need to feel that...
 
-* You cares about them
+* You care about them
 * They have certain value in the server
 * They enjoy staying in your server
 * They have things to talk about
