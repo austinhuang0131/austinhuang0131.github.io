@@ -158,7 +158,7 @@ function drawRoute( rel, ctx, hInfo ){
         var line = ogf.wayPoints( way, ctx );
         var popupText = objText(rel);
         var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
-        var x = (rel.tags['ogf:width'] && !isNaN(parseInt(rel.tags['ogf:width']))) ? parseInt(rel.tags['ogf:width']) : 5;
+        var x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5;
         L.polyline( line, {color: color, weight: x} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );
 }
