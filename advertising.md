@@ -17,7 +17,7 @@ permalink: /advertising
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Want to list more places to advertise? Please contact me at [https://discord.gg/013MqTM1p1qm52VcZ](https://discord.gg/013MqTM1p1qm52VcZ).
+Want to list more places to advertise? Please contact me at [https://discord.gg/013MqTM1p1qm52VcZ](https://discord.gg/013MqTM1p1qm52VcZ). **THIS SERVER IS NOT FOR ADVERTISING YOUR OWN SERVER! Please read this sentence throughly again.**
 
 * **To add your server-listing server into this page**, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.). This **does not** mean that this guide is only suitable for servers with 500+ people which has became, surprisingly, a common misconception made by a lot of people.
 * Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
