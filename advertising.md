@@ -17,6 +17,8 @@ Discord.me has dealt with this situation appriopriately, which should be applaud
 
 Efforts are being made to stop such actions. If you are raided due to this incident, or you spotted another userbot using the database OR scraping to make a new database, please [contact me](https://discord.gg/013MqTM1p1qm52VcZ).
 
+---
+
 <!--
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="Sponsored by Discord.Center" width="400" align="right" /></a></p>
