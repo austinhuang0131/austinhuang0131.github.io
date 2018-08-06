@@ -9,8 +9,18 @@ permalink: /advertising
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!">
 <meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
 
+**August 6, 2018: IMPORTANT!!! PLEASE READ THE FOLLOWING!!!**
+
+On August 3, 2018, Twitter user [@h0nda1337](https://twitter.com/h0nda1337) scraped Discord.me and obtained data on **users and list of Discord.me-listed servers they're part of**. Although his lookup tool has been taken down by Discord, other people have retrieved the database and proceeded to publicize it. As a result, not only raiding activity increased, our privacy is also undermined.
+
+Discord.me has dealt with this situation appriopriately, which should be applauded of. They have released Bot Check mode which adds a layer of security over your listing on the website. **It is, however, not enabled by default. As such, I'd like to recommend all users to enable the option immediately by editing your server from its dashboard.**
+
+Efforts are being made to stop such actions. If you are raided due to this incident, or you spotted another userbot using the database OR scraping to make a new database, please [contact me](https://discord.gg/013MqTM1p1qm52VcZ).
+
+<!--
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="Sponsored by Discord.Center" width="400" align="right" /></a></p>
+-->
 
 [Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
