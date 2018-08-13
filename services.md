@@ -6,12 +6,14 @@ title: I'd like to demand your services!
 I can write you a Discord/Telegram bot, or do some translation work for you. Below are groups I've successfully worked with.
 
 ### Discord
+* [Cantox Studios](https://discord.gg/UaUtCmw)
+* [Exzillity](https://discord.me/Exzillity)
 * [Grillbys](https://discord.gg/EMWm3xv)
+* [Immortal's Gathering](https://discord.gg/Yy4mj63)
 * [InFlamesWeMust](https://twitch.tv/inflameswemust)
-* [Ismo Laitela Sekoilut](https://discord.gg/XZFEsR6)
+* [Isles Gaming](https://discord.gg/AB42Xpu)
 * [Peaceful CEO](http://www.pceo.online/)
 * [Pixel Art School](https://discord.gg/nKGp78p)
-* [Strangekillers](https://selly.gg/u/Strangekillers)
 
 ### Telegram
 * [PROMOBRASIL](https://t.me/promobrasil) (Portuguese)
