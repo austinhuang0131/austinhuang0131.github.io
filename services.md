@@ -21,7 +21,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [SupraPixel](https://t.me/suprapixelsuprapixel) (Spanish)
 
 ### Translation
-My translation works are listed [here](https://austinhuang.me/#i-also-help-in-some-other-projects). Note that I can translate between English and Chinese.
+My translation works are listed [here](./#my-translations). Note that I can translate between English and Chinese.
 
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
 
