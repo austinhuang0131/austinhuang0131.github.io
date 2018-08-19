@@ -9,16 +9,6 @@ permalink: /advertising
 <meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!">
 <meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
 
-**August 6, 2018: IMPORTANT!!! PLEASE READ THE FOLLOWING!!!**
-
-On August 3, 2018, Twitter user [@h0nda1337](https://twitter.com/h0nda1337) scraped Discord.me and obtained data on **users and list of Discord.me-listed servers they're part of**. Although his lookup tool has been taken down by Discord, other people have retrieved the database and proceeded to publicize it. As a result, not only raiding activity increased, our privacy is also undermined.
-
-Discord.me has dealt with this situation appriopriately, which should be applauded of. They have released Bot Check mode which adds a layer of security over your listing on the website. **It is, however, not enabled by default. As such, I'd like to recommend all users to enable the option immediately by editing your server from its dashboard.**
-
-Efforts are being made to stop such actions. If you are raided due to this incident, or you spotted another userbot using the database OR scraping to make a new database, please [contact me](https://discord.gg/013MqTM1p1qm52VcZ).
-
----
-
 <!--
 <p align="right"><small>Sponsored by:</small><br />
 <a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="Sponsored by Discord.Center" width="400" align="right" /></a></p>
@@ -109,32 +99,33 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of June 29, 2018. All bot listings require verification process for each bots.
+Sorted by list size as of August 19, 2018. All bot listings require verification process for each bots.
 
 * [Discord Bot List](https://discordbots.org)
-  * 3000+ bots
-  * Certification Program to boost your bot
-  * Long verification time
+  * 3300+ bots
+  * Certification Program
+  * Allows user rating (Upvotes)
 * [Discord Bots](https://bots.discord.pw)
   * 1200+ bots
-* [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
-  * 280+ bots (Including dead bots, the listing does not actively remove dead bots)
-  * Long verification time (1wk+)
 * [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
-  * 220+ bots
-* [DiscordList.net Bots](https://bots.discordlist.net)
-  * Only 20 "high-quality" bots are shown in the "bots" section, plus 220 "non-compliant" bots
-  * Discriminative, requires "Compliance" but they don't offer it publicly
-* [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
-  * 210+ bots
-* [BotList.space](https://botlist.space/?ref=austinhuang.me)
-  * 190+ bots
-* [Discord Bot World](https://discordbot.world/)
-  * 70+ bots
+  * 300+ bots
+* [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
+  * 290+ bots (Including dead bots, the listing does not actively remove dead bots, so actual count is smaller)
+  * Long verification time (1wk+)
+* [BotList.space](https://botlist.space/)
+  * 250+ bots
 * [Listcord](https://www.listcord.com/)
+  * 230+ bots
+  * Certification Program
+  * Allows user rating (Votes)
+* [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
+  * 230+ bots
+* [Discord Bot World](https://discordbot.world/)
+  * 100+ bots
+  * Allows user rating (Likes)
+* [DiscordBots.Group](https://discordbots.group/)
   * 60+ bots
-* [Discord Bot List FR](https://discordbots.fr)
-  * 40+ bots (French)
+  * Certification Program
 * [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
   * Just music bots
 
