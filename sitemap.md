@@ -19,4 +19,4 @@ You asked, here's the answer.
 * [Services](./services)
 
 ## Random uploads
-* [A complete copy of Catcher in the Rye](https://holden-caulfield.got-themselves-a-hot.date/mtixo3.pdf)
+* [A complete copy of Catcher in the Rye](https://jane-gallagher.will-never-love.me/uj5v4n.pdf)
