@@ -16,9 +16,7 @@ So here it goes:
 
 These are on separate pages.
 
-* My phone doesn't work...
-  * [...With a new number and a SIM card!](./sim) <= For general issues
-  * [...After I tried to port my number from another provider into PM!](./port) <= For porting-specific issues
+* [I just joined PM but my phone doesn't work!](./sim)
 * [I can't change plans!](./plans)
 * $10/month users: [Why do I have outgoing calls to XXX5804001 (Voicemail) using up my minutes?](https://productioncommunity.publicmobile.ca/t5/Announcements/Plan-updates-new-10-limited-talk-and-text-plan/m-p/233167/highlight/true#M15031)
 
