@@ -1,6 +1,6 @@
 ---
 title: Public Mobile Unofficial FAQ - New phone
-comment: true
+comments: true
 ---
 
 **If you're going to ask a moderator, BE PATIENT. Sending another message will delay the response.**
