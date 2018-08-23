@@ -1,7 +1,7 @@
 ---
 title: Public Mobile Unofficial FAQ
 description: Why don't you look at this before asking us?!?!?!
-comment: true
+comments: true
 ---
 
 Yeah, Public Mobile... Anyways, this guide is created because:
