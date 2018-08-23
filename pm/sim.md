@@ -11,7 +11,6 @@ comments: true
 
 Be patient. If enough time has passed (3 hours for cell phones, 24 hours for VoIP/landlines), check the following:
 
-* Do you have [the proper APN setting](https://apn-canada.gishan.net/en/apn/public-mobile)?
 * Have you paid off all outstanding balances in your former provider?
 * Is your account in your former provider closed by itself? Verify by logging into your former provider's self-serve online. If the account is not closed, **DO NOT close it manually! You will lose your number!** This should be done automatically.
 
@@ -21,6 +20,9 @@ If none of the reasons solve your problem, [ask a moderator](https://productionc
 
 ## General issues
 All the reasons of "I can't use my phone!!! ugggggh" happening, from the most to the least probable, except porting issues:
+
+### Improper APN settings.
+See [here](https://apn-canada.gishan.net/en/apn/public-mobile) for the proper setting.
 
 ### Your phone isn't compatible.
 The IMEI checker frequently gives false positives, so it should not be trusted for compatibility. (However, it is still recommended to run the checker before registration just to make sure your phone isn't reported as "Lost/Stolen").
