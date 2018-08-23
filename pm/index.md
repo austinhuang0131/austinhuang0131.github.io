@@ -8,16 +8,13 @@ Yeah, Public Mobile... Anyways, this guide is created because:
 
 * There are many easy questions that we have to repeatedly answer in the community;
 * Moderator response time is struggling to keep itself within the 48 hours limit;
-* The knowledge base is trash.
+* I'm lazy.
 
 So here it goes:
 
 ## Urgent issues
-
-These are on separate pages.
-
 * [I just joined PM but my phone doesn't work!](./sim)
-* [I can't change plans!](./plans)
+* [I can't change plans from self-serve!](https://productioncommunity.publicmobile.ca/t5/Self-Serve/Can-t-switch-plans/m-p/248454) (Your account is probably suspended which will require moderator intervention.)
 * $10/month users: [Why do I have outgoing calls to XXX5804001 (Voicemail) using up my minutes?](https://productioncommunity.publicmobile.ca/t5/Announcements/Plan-updates-new-10-limited-talk-and-text-plan/m-p/233167/highlight/true#M15031)
 
 Any other payment (Failed/Extra charge) or usage (Problems in counting minutes/data) issue should go directly to [asking a moderator](https://productioncommunity.publicmobile.ca/t5/Knowledge-Base/The-Public-Mobile-Moderator-Team/ta-p/251759).
