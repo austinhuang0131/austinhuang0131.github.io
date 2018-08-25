@@ -66,8 +66,8 @@ Sorted by size (Amount of guilds) as of June 29, 2018. Remember to bump your ser
 * [Discord Services](http://discord.services)
   * 180+ servers
   * Server owners can bump every 4 hours for free
-* [Discord Hunter](https://discordhunter.com/)
-  * 120+ servers
+* [Discord Servers.biz](https://discordservers.biz/) <small>Previously <i>Discord Hunter</i></small>
+  * 160+ servers
 
 ### Listing Bots
 Aside of website/server bots. Ordered alphabetically.
@@ -100,6 +100,8 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 
 ## Free guilds for your Discord bot!
 Sorted by list size as of August 19, 2018. All bot listings require verification process for each bots.
+
+**New!** [BotBlock](https://botblock.org/) provides an API that can let you post server count in multiple listing in 1 request!
 
 * [Discord Bot List](https://discordbots.org)
   * 3300+ bots
