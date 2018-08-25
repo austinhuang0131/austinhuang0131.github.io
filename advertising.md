@@ -99,7 +99,7 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of August 19, 2018. All bot listings require verification process for each bots.
+Sorted by list size as of August 19, 2018. Most bot listings require verification process for each bots.
 
 **New!** [BotBlock](https://botblock.org/) provides an API that can let you post server count in multiple listing in 1 request!
 
@@ -112,10 +112,12 @@ Sorted by list size as of August 19, 2018. All bot listings require verification
 * [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
   * 300+ bots
 * [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
-  * 290+ bots (Including dead bots, the listing does not actively remove dead bots, so actual count is smaller)
+  * 290+ bots for Discord (Including dead bots, the listing does not actively remove dead bots, so actual count is smaller)
   * Long verification time (1wk+)
+  * Allows user rating (Likes & Review)
 * [BotList.space](https://botlist.space/)
   * 250+ bots
+  * Allows user rating (Upvotes)
 * [Listcord](https://www.listcord.com/)
   * 230+ bots
   * Certification Program
@@ -127,6 +129,7 @@ Sorted by list size as of August 19, 2018. All bot listings require verification
   * Allows user rating (Likes)
 * [DiscordBotList.com](https://discordbotlist.com/)
   * 60+ bots
+  * No verification wait!
   * Certification Program
   * Allows user rating (Upvotes)
 * [DiscordBots.Group](https://discordbots.group/)
