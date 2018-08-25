@@ -125,6 +125,10 @@ Sorted by list size as of August 19, 2018. All bot listings require verification
 * [Discord Bot World](https://discordbot.world/)
   * 100+ bots
   * Allows user rating (Likes)
+* [DiscordBotList.com](https://discordbotlist.com/)
+  * 60+ bots
+  * Certification Program
+  * Allows user rating (Upvotes)
 * [DiscordBots.Group](https://discordbots.group/)
   * 60+ bots
   * Certification Program
