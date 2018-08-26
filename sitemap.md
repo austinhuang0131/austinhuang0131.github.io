@@ -11,7 +11,6 @@ You asked, here's the answer.
 ## Others
 * [Compare Instagram followings/followers list](./instagram-compare)
 * [Incomplete guide in Canadian reward programs](./canadareward)
-* [ShionKeys](./shionkeys)
 
 ## Personal
 * [Contact](./contact)
