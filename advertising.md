@@ -118,10 +118,6 @@ Sorted by list size as of August 19, 2018. Most bot listings require verificatio
 * [BotList.space](https://botlist.space/)
   * 250+ bots
   * Allows user rating (Upvotes)
-* [Listcord](https://www.listcord.com/)
-  * 230+ bots
-  * Certification Program
-  * Allows user rating (Votes)
 * [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
   * 230+ bots
 * [Discord Bot World](https://discordbot.world/)
