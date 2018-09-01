@@ -20,60 +20,51 @@ permalink: /advertising
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
 Want to list more places to advertise? Please contact me at [https://discord.gg/013MqTM1p1qm52VcZ](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide, NOT FOR ADVERTISING YOUR OWN SERVER!**
-
-* **To add your server-listing server into this page**, your server should have *at least* 500 members (Reaching the population size does **NOT** guarantee a spot.) and a well-maintained listing (Expired invites are frequently cleaned, tidy categories, etc.). This **does not** mean that this guide is only suitable for servers with 500+ people which has became, surprisingly, a common misconception made by a lot of people.
-* Currently, there is no restriction in adding listing websites or bots, as long as they're functional.
-* No bot-listing servers.
   
 ### Websites
-Sorted by size (Amount of guilds) as of June 29, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of Sept 1, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
 
 * [Discord.me](http://discord.me)
-  * Largest (45000+ servers), most traffic
+  * Largest (69000+ servers), most traffic
   * Server owners can bump every 6 hours, on site only
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
 * [Discord Servers](http://discservs.co)
-  * Second-Largest (Estimate, exact count yet to be provided), probably oldest
+  * Second-Largest ("33k ish" as of Aug 24 2018), probably oldest
   * More like a search engine
 * [DiscordList.me](http://discordlist.me)
-  * 30000+ servers
+  * 36000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disco.gg)
+  * Allow ratings (stars)
+* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
+  * 23000+ servers
+  * Server owners can bump every 2 hours for free, on site and on bot
+  * Allow ratings (stars and text review)
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
-  * 16000+ servers
+  * 19000+ servers
   * Server owners can bump every 12 hours for free, on site and on bot
   * Cash rewards for referring people
-* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
-  * 12000+ servers
-  * Operated by the owner of [the Japanese Skype user board](http://skypech.com)
-  * Server owners can bump every 2 hours for free, on site and on bot
-* [DiscordServ.com](http://discordserv.com)
-  * 8800+ servers
-  * Server owners can bump every 6 hours for free, on site and on bot
-* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
-  * 6800+ servers
 * [DiscordHub](https://discordhub.com/servers/list)
-  * 4600+ servers
+  * 5300+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
-* [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
-  * 3000+ servers
-  * Server owners can bump every 4 hours for free, on site and on bot
 * [DiscordSL.com](https://discordsl.com/)
-  * 2100+ servers
+  * 5300+ servers
+  * **Con:** Forces you to join support server upon login (You can edit out the `guilds.join` scope if you do not plan on joining servers on the listing)
+* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
+  * 5300+ servers (In the "New" list, the top list throws errors going past page 35~40, also the fact that it throws RAM errors is probably due to bad coding.)
+* [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
+  * 4100+ servers
+  * Server owners can bump every 4 hours for free, on site and on bot
+* [Loritta's Server List](https://loritta.website/us/servers) <small>As a side component to the Loritta bot</small>
+  * 1300+ servers
 * [Discordeame](https://discordea.net) **SPANISH**
-  * 700+ servers
+  * 1100+ servers
 * [Discord Services](http://discord.services)
-  * 180+ servers
+  * 230+ servers
   * Server owners can bump every 4 hours for free
 * [Discord Servers.biz](https://discordservers.biz/) <small>Previously <i>Discord Hunter</i></small>
-  * 160+ servers
-
-### Listing Bots
-Aside of website/server bots. Ordered alphabetically.
-
-* [Liam](https://liam.advertise.racing/) (`*bump` every hour)
-* [ServerHub](https://discordapp.com/oauth2/authorize?client_id=277420177283481601&scope=bot&permissions=351297) (`!!bump` every 4 hours)
+  * 180+ servers
 
 ### Listing Servers
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
