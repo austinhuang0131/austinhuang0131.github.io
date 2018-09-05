@@ -36,3 +36,5 @@ As of now, the retrieve password link is a decoration. You need to [ask a modera
 
 ## Can I add something?
 Sure, comment below.
+
+{% include def.html %}
