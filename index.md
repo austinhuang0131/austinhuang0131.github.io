@@ -52,7 +52,6 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 
 ## My other online stuff
 
-* [AniList](https://anilist.co/user/austinhuang): Animes I watch.
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
 * [edX](https://courses.edx.org/u/austinhuang0131): Online classes I learn (And I do have some certificates)
@@ -82,7 +81,7 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 ~~No u.~~ Obviously, sure.
 
 ### Hobbies?
-Coding, modeling, mapping, commenting on local/global affairs, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (1~3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
+Coding, mapping, commenting on local/global affairs, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
 Recently I found myself enjoying model united nations. I've been to [SSUNS](http://www.ssuns.org/), [MariMUN](https://marimun.com/) and [JACMUN](http://jacmun.org/).
 
