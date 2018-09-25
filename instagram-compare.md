@@ -16,7 +16,7 @@ permalink: /instagram-compare
 6. Navigate to the "Console" tab of the right sidebar.
 7. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
 ```js
-[].slice.call(document.getElementsByClassName("NroHT")).map(r => r.textContent).sort().join("\n")
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.textContent).sort()
 ```
 8. Copy the output, from one quotemark to another.
 9. Go to the Text Compare! tab and paste the output on the left. These are your followers in alphabetical order.
@@ -31,7 +31,7 @@ That pretty much does the trick. Hope you enjoy.
 
 **Long Answer (Viewer discretion is advised):** Let's break down the only script executed during the process:
 ```js
-[].slice.call(document.getElementsByClassName("NroHT")).map(r => r.textContent).sort().join("\n")
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.textContent).sort().join("\n")
 ```
 To be honest, if you know JavaScript you'll realize that this code doesn't really affect anything: Gets a bunch of elements from the webpage and manipulate it into a list. But not everyone knows JS. I mean if you don't know JS you will probably get confused over whatever that's written below, but for the sake of clarity I sort of broke it down and hopefully you can understand it.
 ### []
@@ -40,8 +40,8 @@ An empty array.
 [Duplicates the array into a workable JS function.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 ### .call(...)
 [Binds whatever that's inside into this empty array.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
-### document.getElementsByClassName("NroHT")
-[Get elements by their class value.](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName) Apparently, in Instagram, individual users in the followers/followings list are given the class value `NroHT`. God knows why.
+### document.getElementsByTagName("ul")[2].getElementsByTagName("li")
+[Get elements by their tag name.](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName) Apparently, in Instagram, it's the second unordered list. Then we get each list items.
 ### .map(r => r.textContent)
 [Reorganize the array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) so that we omit any useless information and returns only the usernames.
 ### .sort()
