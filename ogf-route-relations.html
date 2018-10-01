@@ -70,7 +70,7 @@ function loadMap(){
 //  var hParam = ogf.setUrlLocation( map, null, {fields: ['r']} );
     var hParam = ogf.setUrlLocation( map );
     layer = L.layerGroup().addTo( map );
-
+    L.control.scale().addTo(map);
     var bbox = map.getBounds();
     ogf.publicTransport( layer, bbox );
 }
