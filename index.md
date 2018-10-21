@@ -15,7 +15,7 @@ In my dictionary, there is no place for the word "Rules".
 
 ## Hello there! I'm Austin Huang.
 
-Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff).
+Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
 If you need a job description, that'll be "high school student/freelance developer".
 
@@ -101,8 +101,5 @@ You can [buy my services](/services) or [donate to me](/donate)!
 
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
-
-### You didn't answer my questions, though.
-You can [ask them here](https://curiouscat.me/austinhuang) anonymously.
 
 {% include def.html %}
