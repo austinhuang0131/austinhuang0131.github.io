@@ -43,7 +43,7 @@ Sorted by size (Amount of guilds) as of Oct 21, 2018. Remember to bump your serv
   * Allow ratings (stars and text review)
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
   * 21000+ servers
-  * Server owners can bump every 12 hours for free, on site and on bot
+  * Server owners can bump every 6 hours for free, on site and on bot
   * Cash rewards for referring people to the site
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
   * 13000+ servers
@@ -62,6 +62,9 @@ Sorted by size (Amount of guilds) as of Oct 21, 2018. Remember to bump your serv
   * 1400+ servers
 * [DiscordServers.me](https://discordservers.me/)
   * 500+ servers
+* [DiscordLink](https://discordlink.com/)
+  * 410+ servers
+  * Server owners can bump every 2 hours for free, on site and on bot
 * [Discord Servers.biz](https://discordservers.biz/) <small>Previously <i>Discord Hunter</i></small>
   * 260+ servers
   * Allow ratings (votes)
