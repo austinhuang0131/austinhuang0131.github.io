@@ -22,7 +22,7 @@ Server owners hate me! But today you'll see this one crazy and simple trick to i
 Want to list more places to advertise? Please contact me at [https://discord.gg/013MqTM1p1qm52VcZ](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide, NOT FOR ADVERTISING YOUR OWN SERVER!**
   
 ### Websites
-Sorted by size (Amount of guilds) as of Oct 21, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
 
 * [Discord.me](http://discord.me)
   * Largest (75000+ servers), most traffic
@@ -71,6 +71,9 @@ Sorted by size (Amount of guilds) as of Oct 21, 2018. Remember to bump your serv
 * [Discord Services](http://discord.services)
   * 170+ servers
   * Server owners can bump every 4 hours for free
+* [Discordy](http://www.discordy.com/)
+  * 50+ servers
+  * Allow ratings (votes)
 
 ### Listing Servers
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
