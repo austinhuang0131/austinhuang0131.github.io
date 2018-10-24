@@ -65,6 +65,7 @@ Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your serv
 * [DiscordLink](https://discordlink.com/)
   * 410+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
+  * Referral program to get free premium spot for your server (Use mine when listing your server: `15402470437590489`)
 * [Discord Servers.biz](https://discordservers.biz/) <small>Previously <i>Discord Hunter</i></small>
   * 260+ servers
   * Allow ratings (votes)
