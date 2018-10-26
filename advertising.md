@@ -44,11 +44,14 @@ Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your serv
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
   * 21000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
+  * Allow ratings (stars)
+  * Allow buying/selling shoutouts
   * Cash rewards for referring people to the site
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
   * 13000+ servers
 * [DiscordSL.com](https://discordsl.com/)
   * 7600+ servers
+  * Server owners can bump every 3 hours for free, on site only
   * **Con:** Forces you to join support server upon login (You can edit out the `guilds.join` scope if you do not plan on joining servers on the listing)
 * [DiscordHub](https://discordhub.com/servers/list)
   * 5800+ servers
@@ -75,6 +78,8 @@ Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your serv
 * [Discordy](http://www.discordy.com/)
   * 50+ servers
   * Allow ratings (votes)
+  
+**Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
 ### Listing Servers
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
