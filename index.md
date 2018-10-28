@@ -20,8 +20,8 @@ Hi there! I'm a high school student who [writes JavaScript, operates chatbots](
 If you need a job description, that'll be "high school student/freelance developer".
 
 ## My own projects
-* [DiscordTel](http://github.com/austinhuang0131/discordtel) is a Discord bot that simulates the process of phone dialing on Discord servers.
-* [Metagon](https://metagon.cf) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
+* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers.
+* [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots.
 * I also maintain a [personal adblock list](/0131-block-list).
 * I also [write private bots](/services) for individuals.
