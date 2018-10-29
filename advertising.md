@@ -65,7 +65,7 @@ Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your serv
   * 1400+ servers
 * [DiscordServers.me](https://discordservers.me/)
   * 500+ servers
-* [DiscordLink](https://discordlink.com/referral/15402470437590489)
+* [DiscordLink](https://discordlink.com/?action=referral&referral=15402470437590489)
   * 410+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Referral program to get free premium spot for your server
