@@ -1,20 +1,46 @@
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png?v=ngkXPp2Lnd">
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png?v=ngkXPp2Lnd">
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png?v=ngkXPp2Lnd">
-    <link rel="manifest" href="/assets/icons/site.webmanifest?v=ngkXPp2Lnd">
-    <link rel="shortcut icon" href="/assets/icons/favicon.ico?v=ngkXPp2Lnd">
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="apple-mobile-web-app-title" content="AustinHuang.me">
-    <meta name="application-name" content="AustinHuang.me">
-    <meta name="msapplication-TileColor" content="#bada55">
-    <meta name="msapplication-TileImage" content="/assets/icons/mstile-144x144.png?v=ngkXPp2Lnd">
-    <meta name="theme-color" content="#bada55">
-    <meta name="og:site_name" content="AustinHuang.me">
-    <meta name="og:type" content="website">
-    <meta name="og:image" content="/assets/icons/android-chrome-512x512.png">
-    <meta name="og:image:type" content="image/jpeg">
-    <meta name="og:image:alt" content="Austin Huang the Bus :^)">
-    <meta name="og:title" content="{{ page.title }}">
-    <meta name="og:description" content="{{ page.description }}">
-    <meta name="description" content="{{ page.description }}">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+{% unless page.redirect %}
+  {% if plugins contains 'jekyll-seo-tag' %}{% include head/seo-tag.html %}
+  {% else %}{% include head/seo-fallback.html %}{% endif %}
+
+  {% if site.keywords.size > 0 or page.keywords.size > 0 %}
+    <meta name="keywords" content="{{ page.keywords | default:site.keywords | join:',' }}">
+  {% endif %}
+{% else %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <title>{{ site.data.strings.redirecting | default:"Redirecting..." }}</title>
+{% endunless %}
+
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="{{ site.title }}">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="application-name" content="{{ site.title }}">
+<meta name="msapplication-config" content="{{ '/assets/ieconfig.xml' | relative_url }}">
+
+<meta name="generator" content="Hydejack v8.1.1" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png?v=ngkXPp2Lnd">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png?v=ngkXPp2Lnd">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png?v=ngkXPp2Lnd">
+<link rel="manifest" href="/assets/icons/site.webmanifest?v=ngkXPp2Lnd">
+<link rel="shortcut icon" href="/assets/icons/favicon.ico?v=ngkXPp2Lnd">
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<meta name="apple-mobile-web-app-title" content="AustinHuang.me">
+<meta name="application-name" content="AustinHuang.me">
+<meta name="msapplication-TileColor" content="#bada55">
+<meta name="msapplication-TileImage" content="/assets/icons/mstile-144x144.png?v=ngkXPp2Lnd">
+<meta name="theme-color" content="#bada55">
+<meta name="og:site_name" content="AustinHuang.me">
+<meta name="og:type" content="website">
+<meta name="og:image" content="/assets/icons/android-chrome-512x512.png">
+<meta name="og:image:type" content="image/jpeg">
+<meta name="og:image:alt" content="Austin Huang the Bus :^)">
+<meta name="og:title" content="{{ page.title }}">
+<meta name="og:description" content="{{ page.description }}">
+<meta name="description" content="{{ page.description }}">
