@@ -1,5 +1,4 @@
 ---
-layout: default
 title: AustinHuang.me
 description: That's just my homepage/resume. What else do you expect?
 comments: true
