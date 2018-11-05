@@ -1,11 +1,8 @@
 ---
 title: I need advice on running a Discord server!
+description: Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!
 comments: true
 ---
-
-<meta name="og:title" content="I need advice on running a Discord server!">
-<meta name="og:description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
-<meta name="description" content="Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!">
 
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
