@@ -1,25 +1,16 @@
 ---
 title: I'd like to advertise my Discord server/bot!
+description: Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!
 comments: true
 permalink: /advertising
 ---
-
-<meta name="og:title" content="I'd like to advertise my Discord server/bot!">
-<meta name="og:article:author" content="Austin Huang (The Double-Eyed Bus#6889)">
-<meta name="og:description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!">
-<meta name="description" content="Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU achieve your goal!">
-
-<!--
-<p align="right"><small>Sponsored by:</small><br />
-<a href="https://discord.center/?a=cod4xXUltltp"><img src="https://cdn.discordapp.com/attachments/443377744143974420/443405967254618123/dcad.png" alt="Sponsored by Discord.Center" width="400" align="right" /></a></p>
--->
 
 [Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Want to list more places to advertise? Please contact me at [https://discord.gg/013MqTM1p1qm52VcZ](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide, NOT FOR ADVERTISING YOUR OWN SERVER!**
+Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide, NOT FOR ADVERTISING YOUR OWN SERVER!**
   
 ### Websites
 Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
