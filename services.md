@@ -1,5 +1,6 @@
 ---
 title: I'd like to demand your services!
+description: Here, I'm a Discord bot developer who has done many privaate contracts! Maybe you should... hire me?
 comment: true
 ---
 
@@ -9,6 +10,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 ### Discord
 * [Cantox Studios](https://discord.gg/UaUtCmw)
 * [Exzillity](https://discord.me/Exzillity)
+* [Glowstone Games](https://discord.gg/MjA5jaf)
 * [Grillbys](https://discord.gg/EMWm3xv)
 * [Immortal's Gathering](https://discord.gg/Yy4mj63)
 * [InFlamesWeMust](https://twitch.tv/inflameswemust)
@@ -17,14 +19,14 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [Pixel Art School](https://discord.gg/nKGp78p)
 
 ### Telegram
+<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
+
 * [PROMOBRASIL](https://t.me/promobrasil) (Portuguese)
 * [SupraPixel](https://t.me/suprapixelsuprapixel) (Spanish)
 
 ### Translation
 My translation works are listed [here](./#my-translations). Note that I can translate between English and Chinese.
 
-<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
-
-On Discord, contact `The Double-Eyed Bus#6889`. On Telegram, click [here](https://t.me/austinhuang). You can also [find me](https://www.freelancer.com/hireme/austinhuang0131) on Freelancer.com.
+On Discord, contact `The Double-Eyed Bus#6889`. On Telegram, click [here](https://t.me/austinhuang).
 
 {% include def.html %}
