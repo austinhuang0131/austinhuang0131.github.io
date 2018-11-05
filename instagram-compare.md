@@ -1,10 +1,11 @@
 ---
 title: I'd like to compare my Instagram followers/followings list!
 comments: true
+description: Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN!
 permalink: /instagram-compare
 ---
 
-**Weed out the fakes!** Here's how to keep your Instagram cool and clean, with this one simple (~~tbh it requires some knowledge~~) trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back!
+~~tbh it requires some knowledge, not just "simple" simple~~
 
 **REQUIRES A COMPUTER WITH CHROME ON IT.** I tested this method on June 6, if it deprecates please [contact me](https://instagram.com/austinhuang.me).
 
