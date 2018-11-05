@@ -9,14 +9,12 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 
 ### Discord
 * [Cantox Studios](https://discord.gg/UaUtCmw)
-* [Exzillity](https://discord.me/Exzillity)
+* [Cookie's Community](https://discord.gg/YSYtKcc)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
-* [Grillbys](https://discord.gg/EMWm3xv)
 * [Immortal's Gathering](https://discord.gg/Yy4mj63)
 * [InFlamesWeMust](https://twitch.tv/inflameswemust)
 * [Isles Gaming](https://discord.gg/AB42Xpu)
 * [Peaceful CEO](http://www.pceo.online/)
-* [Pixel Art School](https://discord.gg/nKGp78p)
 
 ### Telegram
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
