@@ -1,5 +1,5 @@
 ---
-title: AustinHuang.me
+title: Hello there! I'm Austin Huang.
 description: That's just my homepage/resume. What else do you expect?
 comments: true
 ---
@@ -9,8 +9,6 @@ comments: true
 <blockquote>
 In my dictionary, there is no place for the word "Rules".
 </blockquote>
-
-## Hello there! I'm Austin Huang.
 
 Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
