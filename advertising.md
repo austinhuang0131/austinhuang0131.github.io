@@ -120,10 +120,6 @@ Sorted by list size as of August 19, 2018. Most bot listings require verificatio
   * 1200+ bots
 * [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
   * 300+ bots
-* [BotList.co](https://botlist.co/bots/filter?category=&platform=15&order=date)
-  * 290+ bots for Discord (Including dead bots, the listing does not actively remove dead bots, so actual count is smaller)
-  * Long verification time (1wk+)
-  * Allows user rating (Likes & Review)
 * [BotList.space](https://botlist.space/)
   * 250+ bots
   * Allows user rating (Upvotes)
