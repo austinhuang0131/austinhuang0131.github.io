@@ -5,12 +5,18 @@ comments: true
 permalink: /advertising
 ---
 
-[Click here for increase guild count for bots!](#free-guilds-for-your-discord-bot)<br />[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
+[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide, NOT FOR ADVERTISING YOUR OWN SERVER!**
+Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide!**
+
+* [Websites](#websites)
+* [Listing Servers](#listing-servers)
+* [Subreddits](#subreddits)
+* [Extra: Paid services](#extra-paid-services)
+* [For bot devs: Free guilds for your Discord bot!](#free-guilds-for-your-discord-bot)
   
 ### Websites
 Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
@@ -96,6 +102,10 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (1461 subs, and as the name says, it's **NSFW**)
 * [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (683 subs)
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
+
+### Extra: Paid services
+* Many huge community servers now sell shoutouts. [This server by Bratatat#9999](https://discord.gg/uygu4uH) offers a list of prices offered by various big servers, including famous global emote servers. [Discord.Center](https://discord.center) also allows servers to sell shoutouts, which are identified with a clickable microphone icon.
+* Many server listing websites offer premium perks. *Price comparison coming soon...*
 
 ## Free guilds for your Discord bot!
 Sorted by list size as of August 19, 2018. Most bot listings require verification process for each bots.
