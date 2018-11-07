@@ -7,22 +7,22 @@ permalink: /instagram-compare
 
 ~~tbh it requires some knowledge, not just "simple" simple~~
 
-**REQUIRES A COMPUTER WITH CHROME ON IT.** I tested this method on June 6, if it deprecates please [contact me](https://instagram.com/austinhuang.me).
+**REQUIRES A COMPUTER WITH CHROME ON IT.** I tested this method on November 7 2018, if it deprecates please [contact me](https://instagram.com/austinhuang.me).
 
 1. [Log into Instagram](https://instagram.com) **on a computer.**
-2. Open [Text Compare!](https://text-compare.com/) on a new tab. (Or any similar service.)
+2. [Google "Compare text online".](https://www.google.ca/search?q=compare+text+online) Just use any service, they do the same thing.
 3. Go to your profile, then your follower list.
 4. Scroll down the list to the very bottom. (There should not be a white space after the last user.)
 5. Click the three dots on the top-right, then "More Tools" > "Developer Tools".
 6. Navigate to the "Console" tab of the right sidebar.
 7. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
 ```js
-[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.textContent).sort()
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort()
 ```
 8. Copy the output, from one quotemark to another.
-9. Go to the Text Compare! tab and paste the output on the left. These are your followers in alphabetical order.
+9. Go to your text comparison tool and paste the output on the left. These are your followers in alphabetical order.
 10. Open your following list, then repeat Steps 3~8.
-11. Go to the Text Compare! tab and paste the output on the right. These are your followings in alphabetical order.
+11. Go to your text comparison tool and paste the output on the right. These are your followings in alphabetical order.
 12. Press "Compare!". All differences between two lists are now highlighted. Time to weed them out!
 
 That pretty much does the trick. Hope you enjoy.
@@ -32,9 +32,9 @@ That pretty much does the trick. Hope you enjoy.
 
 **Long Answer (Viewer discretion is advised):** Let's break down the only script executed during the process:
 ```js
-[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.textContent).sort().join("\n")
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort()
 ```
-To be honest, if you know JavaScript you'll realize that this code doesn't really affect anything: Gets a bunch of elements from the webpage and manipulate it into a list. But not everyone knows JS. I mean if you don't know JS you will probably get confused over whatever that's written below, but for the sake of clarity I sort of broke it down and hopefully you can understand it.
+To be honest, if you know JavaScript you'll realize that this code doesn't really affect anything: Gets a bunch of elements from the webpage and manipulate it into a list. But not everyone knows JS. I mean if you don't know JS you will probably get confused over whatever that's written below, but for the sake of clarity I sort of broke it down for you and hopefully you can understand it. Don't push yourself tho.
 ### []
 An empty array.
 ### .slice
@@ -43,8 +43,8 @@ An empty array.
 [Binds whatever that's inside into this empty array.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
 ### document.getElementsByTagName("ul")[2].getElementsByTagName("li")
 [Get elements by their tag name.](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName) Apparently, in Instagram, it's the second unordered list. Then we get each list items.
-### .map(r => r.textContent)
-[Reorganize the array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) so that we omit any useless information and returns only the usernames.
+### .map(r => r.children[0].children[0].children[1].children[0].textContent)
+[Reorganize the array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) so that we omit any useless information and returns only the usernames. And it has to FOIL the HTML element several times.
 ### .sort()
 [Alphabetical order.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 ### .join("\n")
