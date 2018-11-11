@@ -51,10 +51,8 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
-* [edX](https://courses.edx.org/u/austinhuang0131): Online classes I learn (And I do have some certificates)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra): A collaborative platform for creating fictional maps.
-* [Pixiv](http://pixiv.me/montreal0131)
 * [My Political Compass](/assets/certificate.pdf)
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
