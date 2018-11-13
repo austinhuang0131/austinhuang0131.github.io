@@ -4,7 +4,7 @@ title: Austin Huang
 
 # Default:
 tagline: A young JavaScript developer who writes chatbots and stories in Montreal.
-accent_image: 
+accent_image: '/assets/sidebar-bg.jpg'
 accent_color: '#bada55'
 background: '#bada55'
 
