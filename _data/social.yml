@@ -203,3 +203,7 @@
   download:
     name: Download
     icon: icon-box-add
+  snapchat:
+    name: SnapChat
+    icon: icon-snapchat
+    prepend: "https://www.snapchat.com/add/"
