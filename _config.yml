@@ -4,13 +4,13 @@ title: Austin Huang
 tagline: On November 11, We Remember.
 
 # Default:
-# accent_color: '#bada55'
-# background: '#bada55'
+accent_color: '#bada55'
+background: '#bada55'
 
 # Remembrance Day:
-accent_color: '#d8002b'
-accent_image: /assets/poppy.jpg
-background: '#d8002b'
+# accent_color: '#d8002b'
+# accent_image: /assets/poppy.jpg
+# background: '#d8002b'
   
 disqus: '0131'
 
