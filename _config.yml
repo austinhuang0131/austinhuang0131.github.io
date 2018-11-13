@@ -5,7 +5,7 @@ title: Austin Huang
 # Default:
 tagline: A young JavaScript developer who writes chatbots and stories in Montreal.
 accent_color: '#bada55'
-accent_image: ''
+accent_image: 
 background: '#bada55'
 
 # Remembrance Day:
@@ -26,7 +26,6 @@ author:
     github: austinhuang0131
     flickr: austin0131
     instagram: austinhuang.me
-    snapchat: austin0131mtl
     paypal: discordtel
     telegram: austinhuang
     tumblr: austinhuang0131
