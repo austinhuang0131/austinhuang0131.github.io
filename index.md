@@ -26,13 +26,12 @@ If you need a job description, that'll be "high school student/freelance develop
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
-* [botlist.space](http://botlist.space) (Staff)
 * [Disboard](http://disboard.org/) (Co-Owner)
-* [Discord's Best Bots](http://discordsbestbots.xyz) (Moderator)
 * [Discord Center](http://discord.center) (Moderator)
 * [Discord Images](http://discordimages.com) (Support)
 * [Endless Hosting](http://theendlessweb.com) (Head Support)
-* Circuit admin of these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
+* Circuit staff for these Discord bot listing websites: [botlist.space](http://botlist.space) (Staff), [Discord Bots List](http://discordbotslist.com) (Moderator), and [Discord's Best Bots](http://discordsbestbots.xyz) (Moderator).
+* Circuit admin for these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
 
 ## My translations
 I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
@@ -52,12 +51,13 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
-* [OpenGeofiction](http://wiki.opengeofiction.net/wiki/index.php/Esthyra): A collaborative platform for creating fictional maps.
-* [My Political Compass](/assets/certificate.pdf)
+* [OpenGeofiction](http://opengeofiction.net/user/austinhuang): A collaborative platform for creating fictional maps.
+* [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
-* [Twitter](http://twitter.com/montreal0131)
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
+
+My Instagram and GitHub are below.
 
 <table width="100%">
   <tr>
@@ -76,9 +76,7 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 ~~No u.~~ Obviously, sure.
 
 ### Hobbies?
-Coding, mapping, commenting on local/global affairs, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
-
-Recently I found myself enjoying model united nations. I've been to [SSUNS](http://www.ssuns.org/), [MariMUN](https://marimun.com/) and [JACMUN](http://jacmun.org/).
+Coding, mapping, commenting on local/global affairs, model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
 ### Hardware?
 A school-provided MacBook Air plus several shared VPS from online people ~~comrades~~ and free services. That's it.
