@@ -51,7 +51,7 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
-* [OpenGeofiction](http://opengeofiction.net/user/austinhuang): A collaborative platform for creating fictional maps.
+* [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
