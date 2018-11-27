@@ -17,7 +17,7 @@ permalink: /instagram-compare
 6. Navigate to the "Console" tab of the right sidebar.
 7. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
 ```js
-[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort()
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
 ```
 8. Copy the output, from one quotemark to another.
 9. Go to your text comparison tool and paste the output on the left. These are your followers in alphabetical order.
@@ -32,7 +32,7 @@ That pretty much does the trick. Hope you enjoy.
 
 **Long Answer (Viewer discretion is advised):** Let's break down the only script executed during the process:
 ```js
-[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort()
+[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
 ```
 To be honest, if you know JavaScript you'll realize that this code doesn't really affect anything: Gets a bunch of elements from the webpage and manipulate it into a list. But not everyone knows JS. I mean if you don't know JS you will probably get confused over whatever that's written below, but for the sake of clarity I sort of broke it down for you and hopefully you can understand it. Don't push yourself tho.
 ### []
