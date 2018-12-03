@@ -8,6 +8,9 @@ permalink: /advertising
 [Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
 ## Free people for your Discord server!
 
+<p align="right"><small>Sponsored by:</small><br />
+<a href="https://discord.gg/5Gy4sPg"><img src="./assets/ad.png" alt="Sponsored by The Complex" width="400" align="right" /></a></p>
+
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
 Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide!**
