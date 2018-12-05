@@ -52,7 +52,6 @@ Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your serv
 * [DiscordSL.com](https://discordsl.com/)
   * 7600+ servers
   * Server owners can bump every 3 hours for free, on site only
-  * **Con:** Forces you to join support server upon login (You can edit out the `guilds.join` scope if you do not plan on joining servers on the listing)
 * [DiscordHub](https://discordhub.com/servers/list)
   * 5800+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
