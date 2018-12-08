@@ -103,7 +103,9 @@ This server started off as a private server among my classmates, many of whom ar
 This paragraph exists because someone did shout at me once:
 
 > SmashUltimate101 » you support free players?
+
 > SmashUltimate101 » sorry sir but im gonna have to ask you to stop ruining the community
+
 > SmashUltimate101 » thnak you.
 
 If I'm making a server that is nice and clean, I'm not *ruining* the community by letting more people play.
