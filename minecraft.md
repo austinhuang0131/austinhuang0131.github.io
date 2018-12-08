@@ -46,9 +46,7 @@ We are **not** hiring staff.
 ### Claiming lands
 We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height).
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="http://www.youtube.com/embed/-cP6beAUVC8&origin=https://austinhuang.me"
-  frameborder="0"/>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-cP6beAUVC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <small><a href="https://www.youtube.com/watch?v=-cP6beAUVC8">Not working?</a></small>
 
