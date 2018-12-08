@@ -41,10 +41,10 @@ You get 100 in-game cash on join. You can get more cash by [voting](#vote-for-us
 Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `im@austinhuang.me` for a stall.
 
 ### Staff
-We are both considered owners of the server.
+We are both equally considered owners of the server.
 
 * `austinhuang` - Founder of the server. Responsible for the map and plugins. [Website](./) / [Contact](./contact).
-* `michaelnj1` - Owner of the VPS running the server. Responsible for the server stuff. [Website](https://michaelo.online/) / [Contact](https://michaelo.online/Contact-Me/).
+* `michaelnj1` - Owner of the VPS running the server, as well as the domain. Responsible for the server stuff. [Website](https://michaelo.online/) / [Contact](https://michaelo.online/Contact-Me/).
 
 We are **not** hiring staff.
 
