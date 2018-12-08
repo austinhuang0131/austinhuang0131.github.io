@@ -64,25 +64,77 @@ There are two Metro lines in the server. Some metro stations have private exits 
 
 #### North-South
 
-| Station | Nearby |
-|:-------:|:-------|
-| The Village / *Le Village* | In planning... |
-| North Reef / *Récif Nord* | In planning... |
-| South Reef / *Récif Sud* | In construction... |
-| North Sea / *La Mer du Nord* | **No exits**<br />*Transfer to East-West Metro* |
-| Rainbow / *Arc-en-Ciel* | Market |
-| Spawn / *Portail* | Spawn<br />*Access to:* Mikey's House (via A Trail) |
-| Sandy Bay / *Baie du Plage* | *Access to:* SpookyRise |
-| Zachary Valley / *Vallée du Zach* | Zach's House<br />*Access to:* Ellis' House (via B & B1 Trail) |
-| Snowhill / *Côte-des-Neiges* | Montcada (aka. Justin's House) |
-| Martha's Vineyard | |
+<table>
+<thead>
+<tr>
+<th align="center">Station</th>
+<th align="left">Nearby</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">The Village / <em>Le Village</em></td>
+<td align="left">In planning...</td>
+</tr>
+<tr>
+<td align="center">North Reef / <em>Récif Nord</em></td>
+<td align="left">In planning...</td>
+</tr>
+<tr>
+<td align="center">South Reef / <em>Récif Sud</em></td>
+<td align="left">In construction...</td>
+</tr>
+<tr>
+<td align="center">North Sea / <em>La Mer du Nord</em></td>
+<td align="left"><strong>No exits</strong><br><em>Transfer to East-West Metro</em></td>
+</tr>
+<tr>
+<td align="center">Rainbow / <em>Arc-en-Ciel</em></td>
+<td align="left">Market</td>
+</tr>
+<tr>
+<td align="center">Spawn / <em>Portail</em></td>
+<td align="left">Spawn<br><em>Access to:</em> Mikey's House (via A Trail)</td>
+</tr>
+<tr>
+<td align="center">Sandy Bay / <em>Baie du Plage</em></td>
+<td align="left"><em>Access to:</em> SpookyRise</td>
+</tr>
+<tr>
+<td align="center">Zachary Valley / <em>Vallée du Zach</em></td>
+<td align="left">Zach's House<br><em>Access to:</em> Ellis' House (via B &amp; B1 Trail)</td>
+</tr>
+<tr>
+<td align="center">Snowhill / <em>Côte-des-Neiges</em></td>
+<td align="left">Montcada (aka. Justin's House)</td>
+</tr>
+<tr>
+<td align="center">Martha's Vineyard</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
 
 #### East-West
 
-| Station | Nearby |
-|:-------:|:-------|
-| North Sea / *La Mer du Nord* | *Transfer to East-West Metro* |
-| Clearview / *Clairevue* | Michael's Territory, Rob's House |
+<table>
+<thead>
+<tr>
+<th align="center">Station</th>
+<th align="left">Nearby</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">North Sea / <em>La Mer du Nord</em></td>
+<td align="left"><em>Transfer to East-West Metro</em></td>
+</tr>
+<tr>
+<td align="center">Clearview / <em>Clairevue</em></td>
+<td align="left">Michael's Territory, Rob's House</td>
+</tr>
+</tbody>
+</table>
 
 ### Trails
 
