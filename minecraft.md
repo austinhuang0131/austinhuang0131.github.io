@@ -1,9 +1,11 @@
 ---
 title: CafeCraft Minecraft Server
-description: 1.13.2 "Family-run" cracked survival server. Featuring friendly staff and a map with a town feel!
+description: 1.13.2 community-run cracked survival server. Featuring friendly staff and a map with a town feel!
 comments: true
 permalink: /minecraft
 ---
+
+Thanks, [Michael](http://michaelo.online)!
 
 ## How do I get on?
 `play.michaelo.online`
