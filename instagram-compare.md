@@ -12,7 +12,7 @@ permalink: /instagram-compare
 1. [Log into Instagram](https://instagram.com) **on a computer.**
 2. [Google "Compare text online".](https://www.google.ca/search?q=compare+text+online) Just use any service, they do the same thing.
 3. Go to your profile, then your follower list.
-4. Scroll down the list to the very bottom. (There should not be a white space after the last user.)
+4. Instagram now pushes Recommended users under your follower list. For your first scroll, you MUST scroll to the white space between Recommended users (Which has "<username> and some others also follows" under) and actual followers. Afterwards, scroll to the bottom until the list stops loading.
 5. Click the three dots on the top-right, then "More Tools" > "Developer Tools".
 6. Navigate to the "Console" tab of the right sidebar.
 7. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
