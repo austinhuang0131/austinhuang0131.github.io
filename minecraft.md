@@ -95,9 +95,6 @@ If you sail north from Rainbow metro station, you will encounter a huge coral re
 #### Saint-Denis River
 Generally wide river with different biomes along the shores. There is 1 public pier called *St-Denis West Pier* accessible by Trail B1 (Very close to Trail B). There is also 1 private pier at Ellis' House. Expect more public piers built in the future.
 
-## Economy
-...
-
 ## Why cracked?
 This server started off as a private server among my classmates, many of whom are barred from buying actual Minecraft due to financial restraints, which includes me. As such, I understand that some people just can't afford Minecraft *with their own money* (Parents' money isn't your own!) and I just want to make a server that is affordable to play.
 
