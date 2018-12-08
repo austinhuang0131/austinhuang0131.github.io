@@ -30,10 +30,15 @@ Common sense and respect is expected from everyone. Do not ask for staff.
 I believe you guys are mature enough to interpret "common sense and respect".
 
 ## Basics
+### Discord
+You should join it: https://discord.gg/StdGDuj
+
+Your messages in the Minecraft server will be relayed to channel `#minecraft-playroom` on the Discord server above. Vice versa.
+
 ### Cash & Economy
 You get 100 in-game cash on join. You can get more cash by [voting](#vote-for-us).
 
-Currently, more economic infrastructures are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `im@austinhuang.me` for a stall.
+Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `im@austinhuang.me` for a stall.
 
 ### Staff
 We are both considered owners of the server.
@@ -49,14 +54,14 @@ We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Current
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-cP6beAUVC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <small><a href="https://www.youtube.com/watch?v=-cP6beAUVC8">Not working?</a></small>
-
 ### RAM
 The server is currently running with 2GB RAM allocated. If demand suffices, it can expand to 4GB.
 
 ## Transportation
+This server enphasizes on convenience in terms of letting players explore the map.
+
 ### Metro
 There are two Metro lines in the server. Some metro stations have private exits that are only meant to be used by authorized users. Any *active* user can request one and the staff will deem if it's possible to construct one.
-
 #### North-South
 
 | Station | Nearby |
@@ -71,13 +76,12 @@ There are two Metro lines in the server. Some metro stations have private exits 
 | Zachary Valley / *Vallée du Zach* | Zach's House<br />*Access to:* Ellis' House (via B & B1 Trail) |
 | Snowhill / *Côte-des-Neiges* | Montcada (aka. Justin's House) |
 | Martha's Vineyard | |
-
 #### East-West
+
 | Station | Nearby |
 |:-------:|:-------|
 | North Sea / *La Mer du Nord* | *Transfer to East-West Metro* |
 | Clearview / *Clairevue* | Michael's Territory, Rob's House |
-
 ### Trails
 
 * A Trail, a trail going east from Spawn, passing Mikey's House.
@@ -86,7 +90,6 @@ There are two Metro lines in the server. Some metro stations have private exits 
 * A1 Trail, a trail linking A and B Trails, going north off B Trail from Sandy Bay, passing Mikey's House, crossing B Trail again, to Île Sainte-Hélène.
 * B1 Trail, going west off B Trail along the Saint-Denis River, to Ellis' House.
 * C1 Trail, going north off C Trail near Spawn, passing Mill Island, crossing C Trail again, to Rob's House and Michael's Territory.
-
 ### Waterway
 #### North Sea
 If you sail north from Rainbow metro station, you will encounter a huge coral reef.
