@@ -41,12 +41,11 @@ You get 100 in-game cash on join. You can get more cash by [voting](#vote-for-us
 Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `im@austinhuang.me` for a stall.
 
 ### Staff
-We are both equally considered owners of the server.
 
-* `austinhuang` - Founder of the server. Responsible for the map and plugins. [Website](./) / [Contact](./contact).
-* `michaelnj1` - Owner of the VPS running the server, as well as the domain. Responsible for the server stuff. [Website](https://michaelo.online/) / [Contact](https://michaelo.online/Contact-Me/).
+* `austinhuang` - Responsible for advertising and the plugin stuff. [Website](./) / [Contact](./contact).
+* `michaelnj1` - Responsible for the VPS and legal stuff. [Website](https://michaelo.online/) / [Contact](https://michaelo.online/Contact-Me/).
 
-We are **not** hiring staff.
+We're both equally responsible for the map. We're **not** hiring staff.
 
 ### Claiming lands
 We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height).
@@ -62,6 +61,7 @@ This server enphasizes on convenience in terms of letting players explore the ma
 
 ### Metro
 There are two Metro lines in the server. Some metro stations have private exits that are only meant to be used by authorized users. Any *active* user can request one and the staff will deem if it's possible to construct one.
+
 #### North-South
 
 | Station | Nearby |
@@ -76,12 +76,14 @@ There are two Metro lines in the server. Some metro stations have private exits 
 | Zachary Valley / *Vallée du Zach* | Zach's House<br />*Access to:* Ellis' House (via B & B1 Trail) |
 | Snowhill / *Côte-des-Neiges* | Montcada (aka. Justin's House) |
 | Martha's Vineyard | |
+
 #### East-West
 
 | Station | Nearby |
 |:-------:|:-------|
 | North Sea / *La Mer du Nord* | *Transfer to East-West Metro* |
 | Clearview / *Clairevue* | Michael's Territory, Rob's House |
+
 ### Trails
 
 * A Trail, a trail going east from Spawn, passing Mikey's House.
