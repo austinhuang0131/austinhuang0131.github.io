@@ -33,7 +33,7 @@ I believe you guys are mature enough to interpret "common sense and respect".
 
 ## Basics
 ### Discord
-You should join it: https://discord.gg/StdGDuj
+You should join it: [https://discord.gg/StdGDuj](https://discord.gg/StdGDuj)
 
 Your messages in the Minecraft server will be relayed to channel `#minecraft-playroom` on the Discord server above. Vice versa.
 
@@ -84,7 +84,7 @@ There are two Metro lines in the server. Some metro stations have private exits 
 </tr>
 <tr>
 <td align="center">South Reef / <em>Récif Sud</em></td>
-<td align="left">In construction...</td>
+<td align="left"></td>
 </tr>
 <tr>
 <td align="center">North Sea / <em>La Mer du Nord</em></td>
@@ -129,7 +129,7 @@ There are two Metro lines in the server. Some metro stations have private exits 
 <tbody>
 <tr>
 <td align="center">North Sea / <em>La Mer du Nord</em></td>
-<td align="left"><em>Transfer to East-West Metro</em></td>
+<td align="left"><em>Transfer to North-South Metro</em></td>
 </tr>
 <tr>
 <td align="center">Clearview / <em>Clairevue</em></td>
