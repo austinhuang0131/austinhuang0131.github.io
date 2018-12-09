@@ -95,4 +95,6 @@ You can [buy my services](/services) or [donate to me](/donate)!
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
 
+That guy named Michael (Who operates stuff for me) wants me to chuck his website here, so [here](https://michaelo.online)'s his website.
+
 {% include def.html %}
