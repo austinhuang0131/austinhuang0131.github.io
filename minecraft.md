@@ -38,6 +38,9 @@ Common sense and respect is expected from everyone. Do not ask for staff.
 I believe you guys are mature enough to interpret "common sense and respect".
 
 ## Basics
+### Dynmap
+[http://play.michaelo.online:8123](http://play.michaelo.online:8123)
+
 ### Discord
 You should join it: [https://discord.gg/StdGDuj](https://discord.gg/StdGDuj)
 
