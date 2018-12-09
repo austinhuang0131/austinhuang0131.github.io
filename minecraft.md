@@ -12,7 +12,7 @@ Thanks, [Michael](http://michaelo.online)!
 
 1.13.2 Spigot. Allows cracked users (As long as you're authorized to use the username) ([Why cracked?](#why-cracked)).
 
-Server is said to be physically located in Los Angeles.
+**By registering, you agree to our [Terms of Service](https://michaelo.online/minecraft-tos.html) and [Privacy Policy](https://michaelo.online/minecraft-privacy-policy.html).**
 
 ## Vote for us!
 You will get 5~10 in-game cash plus 10 EXP per vote. You will also get 20 in-game cash, 100 EXP, and 1 Emerald for voting on all sites in a day.
