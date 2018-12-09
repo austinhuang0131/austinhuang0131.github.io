@@ -76,11 +76,15 @@ There are two Metro lines in the server. Some metro stations have private exits 
 <tbody>
 <tr>
 <td align="center">The Village / <em>Le Village</em></td>
-<td align="left">In planning...</td>
+<td align="left">The Village</td>
+</tr>
+<tr>
+<td align="center">Doubletree</em></td>
+<td align="left"></td>
 </tr>
 <tr>
 <td align="center">North Reef / <em>Récif Nord</em></td>
-<td align="left">In planning...</td>
+<td align="left"></td>
 </tr>
 <tr>
 <td align="center">South Reef / <em>Récif Sud</em></td>
@@ -129,7 +133,7 @@ There are two Metro lines in the server. Some metro stations have private exits 
 <tbody>
 <tr>
 <td align="center">North Sea / <em>La Mer du Nord</em></td>
-<td align="left"><em>Transfer to North-South Metro</em></td>
+<td align="left"><b>No exits</b><br><em>Transfer to North-South Metro</em></td>
 </tr>
 <tr>
 <td align="center">Clearview / <em>Clairevue</em></td>
