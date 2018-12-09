@@ -17,7 +17,12 @@ Thanks, [Michael](http://michaelo.online)!
 ## Vote for us!
 You will get 5~10 in-game cash plus 10 EXP per vote. You will also get 20 in-game cash, 100 EXP, and 1 Emerald for voting on all sites in a day.
 
-<a href="https://minecraftservers.biz/servers/142897/vote/" target="_blank"><img src="https://minecraftservers.biz/vote2.gif" width="88" height="53" border="0"></a>
+* [![MinecraftServers.biz](https://minecraftservers.biz/vote2.gif)](https://minecraftservers.biz/servers/142897/vote/)
+* [MC-index](https://www.minecraft-index.com/46982-cafecraft-1-13-2/vote)
+* [Minecraft-Server.net](https://minecraft-server.net/vote/austinhuang/)
+* [TopG](https://topg.org/Minecraft/in-453748)
+* [Top Minecraft Servers](https://topminecraftservers.org/vote/4563)
+* [ServerPact](https://www.serverpact.com/vote-30262)
 
 ## Rules
 Written rules are as follows:
