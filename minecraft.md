@@ -17,8 +17,12 @@ You will get 5~10 in-game cash plus 10 EXP per vote. You will also get 20 in-gam
 
 * [![MinecraftServers.biz](https://minecraftservers.biz/vote2.gif)](https://minecraftservers.biz/servers/142897/vote/)
 * [![Minecraft-Server-List.org](http://www.minecraft-servers-list.org/images/minecraft-servers.png)](http://www.minecraft-servers-list.org/index.php?a=in&u=austinhuang)
+* [CraftList](https://craft-list.net/minecraft-server/CafeCraft-1132/vote)
 * [MC-index](https://www.minecraft-index.com/46982-cafecraft-1-13-2/vote)
+* [MC-servers](https://mc-servers.com/mcvote/2938/)
 * [Minecraft-Server.net](https://minecraft-server.net/vote/austinhuang/)
+* [MinecraftZone](https://www.minecraftzone.org/vote/198)
+* [Minevotes](https://www.minevotes.com/vote/381)
 * [TopG](https://topg.org/Minecraft/in-453748)
 * [Top Minecraft Servers](https://topminecraftservers.org/vote/4563)
 * [ServerPact](https://www.serverpact.com/vote-30262)
