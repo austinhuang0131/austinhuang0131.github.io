@@ -15,13 +15,14 @@ Hi there! I'm a high school student who [writes JavaScript, operates chatbots](
 If you need a job description, that'll be "high school student/freelance developer".
 
 ## My own projects
-* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers.
-* [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Currently my main focus.
-* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots.
+* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Hosted by [SunburntRock89](https://github.com/SunburntRock89).
+* [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Hosted on Heroku.
+* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots. Co-owned with [MacDue](https://github.com/MacDue).
 * I also maintain a [personal adblock list](/0131-block-list).
 * I also [write private bots](/services) for individuals.
   * I am a part of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources that I work for.
   * I am a listed Telegram bot developer in [DevList](http://t.me/devlist).
+* I have a [Minecraft server](./minecraft) co-owned with [Michael O](https://michaelo.online).
 
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
@@ -94,7 +95,5 @@ You can [buy my services](/services) or [donate to me](/donate)!
 
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
-
-That guy named Michael (Who operates stuff for me) wants me to chuck his website here, so [here](https://michaelo.online)'s his website.
 
 {% include def.html %}
