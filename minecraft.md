@@ -13,7 +13,7 @@ permalink: /minecraft
 **By registering, you agree to our [Terms of Service](https://michaelo.online/minecraft-tos.html) and [Privacy Policy](https://michaelo.online/minecraft-privacy-policy.html).**
 
 ## Vote for us!
-You will get 5~10 in-game cash plus 10 EXP per vote. You will also get 20 in-game cash, 100 EXP, and 1 Emerald for voting on all sites in a day.
+You will get 8 in-game cash plus 10 EXP per vote. You will also get 20 in-game cash, 100 EXP, and 1 Emerald for voting on all sites in a day. (That means you can get a maximum $116, 220 EXP, and 1 Emerald per day!)
 
 * [![MinecraftServers.biz](https://minecraftservers.biz/vote2.gif)](https://minecraftservers.biz/servers/142897/vote/)
 * [![Minecraft-Server-List.org](http://www.minecraft-servers-list.org/images/minecraft-servers.png)](http://www.minecraft-servers-list.org/index.php?a=in&u=austinhuang)
@@ -52,7 +52,7 @@ Your messages in the Minecraft server will be relayed to channel `#minecraft-pla
 ### Cash & Economy
 You get 100 in-game cash on join. You can get more cash by [voting](#vote-for-us).
 
-Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `austinhuang` for a stall.
+We do have a market at Rainbow metro station, north of Spawn. You can ask `austinhuang` for a stall.
 
 ### Staff
 
@@ -91,7 +91,7 @@ There are two Metro lines in the server. Some underground metro stations have pr
     <td align="left">Finnish Complex</td>
     </tr>
     <tr>
-    <td align="center">Doubletree</em></td>
+    <td align="center">Doubletree</td>
     <td align="left"></td>
     </tr>
     <tr>
@@ -133,6 +133,18 @@ There are two Metro lines in the server. Some underground metro stations have pr
     <tr>
     <td align="center">Creative House / <em>Maison Créative</em></td>
     <td align="left">CreativeCreator's House</td>
+    </tr>
+    <tr>
+    <td align="center">Windhaven</td>
+    <td align="left"></td>
+    </tr>
+    <tr>
+    <td align="center">Sandy Cape / <em>Cap du Plage</em></td>
+    <td align="left"><em>In planning...</em></td>
+    </tr>
+    <tr>
+    <td align="center">Heritage Village / <em>Village Patrimonial</em></td>
+    <td align="left"><em>In planning...</em></td>
     </tr>
   </tbody>
 </table>
