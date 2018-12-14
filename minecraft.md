@@ -1,11 +1,9 @@
 ---
 title: CafeCraft Minecraft Server
-description: 1.13.2 community-run cracked survival server. Featuring friendly staff and a map with a town feel!
+description: 1.13.2 cracked survival McMMO server. Featuring friendly staff and a map with a town feel!
 comments: true
 permalink: /minecraft
 ---
-
-Thanks, [Michael](http://michaelo.online)!
 
 ## How do I get on?
 `play.michaelo.online`
@@ -49,7 +47,7 @@ Your messages in the Minecraft server will be relayed to channel `#minecraft-pla
 ### Cash & Economy
 You get 100 in-game cash on join. You can get more cash by [voting](#vote-for-us).
 
-Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `im@austinhuang.me` for a stall.
+Currently, more economic infrastructure are in the works. We do have a market (at Rainbow metro station, north of Spawn) operating at limited capacity. You can ask `austinhuang` for a stall.
 
 ### Staff
 
@@ -59,13 +57,13 @@ Currently, more economic infrastructure are in the works. We do have a market (a
 We're both equally responsible for the map. We're **not** hiring staff.
 
 ### Claiming lands
-We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height).
+We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height). You can use the tutorial below to claim land, and you can always ask us for assistance.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-cP6beAUVC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <small><a href="https://www.youtube.com/watch?v=-cP6beAUVC8">Not working?</a></small>
 ### RAM
-The server is currently running with 2GB RAM allocated. If demand suffices, it can expand to 4GB.
+The server is currently running with 2.5GB RAM allocated. If demand suffices, it can expand to 4GB.
 
 ## Transportation
 This server enphasizes on convenience in terms of letting players explore the map.
