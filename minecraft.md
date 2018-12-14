@@ -71,63 +71,67 @@ The server is currently running with 2GB RAM allocated. If demand suffices, it c
 This server enphasizes on convenience in terms of letting players explore the map.
 
 ### Metro
-There are two Metro lines in the server. Some metro stations have private exits that are only meant to be used by authorized users. Any *active* user can request one and the staff will deem if it's possible to construct one.
+There are two Metro lines in the server. Some underground metro stations have private exits that are only meant to be used by authorized users. Any *active* user can request one and the staff will deem if it's possible to construct one.
 
 #### North-South
 
 <table>
-<thead>
-<tr>
-<th align="center">Station</th>
-<th align="left">Nearby</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">The Village / <em>Le Village</em></td>
-<td align="left">The Village</td>
-</tr>
-<tr>
-<td align="center">Doubletree</em></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">North Reef / <em>Récif Nord</em></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">South Reef / <em>Récif Sud</em></td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="center">North Sea / <em>La Mer du Nord</em></td>
-<td align="left"><strong>No exits</strong><br><em>Transfer to East-West Metro</em></td>
-</tr>
-<tr>
-<td align="center">Rainbow / <em>Arc-en-Ciel</em></td>
-<td align="left">Market</td>
-</tr>
-<tr>
-<td align="center">Spawn / <em>Portail</em></td>
-<td align="left">Spawn<br><em>Access to:</em> Mikey's House (via A Trail)</td>
-</tr>
-<tr>
-<td align="center">Sandy Bay / <em>Baie du Plage</em></td>
-<td align="left"><em>Access to:</em> SpookyRise</td>
-</tr>
-<tr>
-<td align="center">Zachary Valley / <em>Vallée du Zach</em></td>
-<td align="left">Zach's House<br><em>Access to:</em> Ellis' House (via B &amp; B1 Trail)</td>
-</tr>
-<tr>
-<td align="center">Snowhill / <em>Côte-des-Neiges</em></td>
-<td align="left">Montcada (aka. Justin's House)</td>
-</tr>
-<tr>
-<td align="center">Martha's Vineyard</td>
-<td align="left"></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+    <th align="center">Station</th>
+    <th align="left">Nearby</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td align="center">Finnish Village / <em>Village Finlandais</em></td>
+    <td align="left">Finnish Complex</td>
+    </tr>
+    <tr>
+    <td align="center">Doubletree</em></td>
+    <td align="left"></td>
+    </tr>
+    <tr>
+    <td align="center">North Reef / <em>Récif Nord</em></td>
+    <td align="left"></td>
+    </tr>
+    <tr>
+    <td align="center">South Reef / <em>Récif Sud</em></td>
+    <td align="left"></td>
+    </tr>
+    <tr>
+    <td align="center">North Sea / <em>La Mer du Nord</em></td>
+    <td align="left"><strong>No exits</strong><br><em>Transfer to East-West Metro</em></td>
+    </tr>
+    <tr>
+    <td align="center">Rainbow / <em>Arc-en-Ciel</em></td>
+    <td align="left">Market</td>
+    </tr>
+    <tr>
+    <td align="center">Spawn / <em>Portail</em></td>
+    <td align="left">Spawn<br><em>Access to:</em> Mikey's House (via A Trail)</td>
+    </tr>
+    <tr>
+    <td align="center">Zachary Valley / <em>Vallée du Zach</em></td>
+    <td align="left">Zach's House<br><em>Access to:</em> Ellis' House (via B &amp; B1 Trail), SpookyRise</td>
+    </tr>
+    <tr>
+    <td align="center">Snowhill / <em>Côte-des-Neiges</em></td>
+    <td align="left">Montcada (aka. Justin's House)</td>
+    </tr>
+    <tr>
+    <td align="center">Martha's Vineyard</td>
+    <td align="left"><em>Access to:</em> Estonian House (Due west)</td>
+    </tr>
+    <tr>
+    <td align="center">Southern Jungle / <em>Jungle de la Sud</em></td>
+    <td align="left"></td>
+    </tr>
+    <tr>
+    <td align="center">Creative House / <em>Maison Créative</em></td>
+    <td align="left">CreativeCreator's House</td>
+    </tr>
+  </tbody>
 </table>
 
 #### East-West
@@ -146,7 +150,7 @@ There are two Metro lines in the server. Some metro stations have private exits 
 </tr>
 <tr>
 <td align="center">Clearview / <em>Clairevue</em></td>
-<td align="left">Michael's Territory, Rob's House</td>
+<td align="left">Michael's Territory, Rob's House, Central Post Office</td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +172,7 @@ Generally wide river with different biomes along the shores. There is 1 public p
 ## Why cracked?
 This server started off as a private server among my classmates, many of whom are barred from buying actual Minecraft due to financial restraints, which includes me. As such, I understand that some people just can't afford Minecraft *with their own money* (Parents' money isn't your own!) and I just want to make a server that is affordable to play.
 
-**We do comply with server listing regulations and we will refrain from posting this server on listings that does not have a "Cracked" tag/category.**
+**We do comply with server listing regulations and we will refrain from posting this server on listings that prohibits Cracked servers in its rules.**
 
 This paragraph exists because someone did shout at me once:
 
