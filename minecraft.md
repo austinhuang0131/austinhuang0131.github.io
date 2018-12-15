@@ -32,7 +32,7 @@ You will get 8 in-game cash plus 10 EXP per vote. You will also get 20 in-game c
 Written rules are as follows:
 
 ```
-[1] Do not grief public properties, including railways and paths!
+[1] Do not grief public and private properties, including railways and paths!
 [2] Do not steal other people's username.
 [3] No offensive content.
 [4] No forest fires!
@@ -135,16 +135,16 @@ There are two Metro lines in the server. Some underground metro stations have pr
     <td align="left">CreativeCreator's House</td>
     </tr>
     <tr>
-    <td align="center">Windhaven</td>
+    <td align="center">Mountainside Ravine</td>
     <td align="left"></td>
     </tr>
     <tr>
     <td align="center">Sandy Cape / <em>Cap du Plage</em></td>
-    <td align="left"><em>In planning...</em></td>
+    <td align="left"></td>
     </tr>
     <tr>
     <td align="center">Heritage Village / <em>Village Patrimonial</em></td>
-    <td align="left"><em>In planning...</em></td>
+    <td align="left">randomtech's House</td>
     </tr>
   </tbody>
 </table>
