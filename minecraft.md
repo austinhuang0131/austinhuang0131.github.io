@@ -124,7 +124,7 @@ There are two Metro lines in the server. Some underground metro stations have pr
     </tr>
     <tr>
     <td align="center">Martha's Vineyard</td>
-    <td align="left"><em>Access to:</em> Estonian House (Due west)</td>
+    <td align="left"><em>Access to:</em> Estonian House</td>
     </tr>
     <tr>
     <td align="center">Southern Jungle / <em>Jungle de la Sud</em></td>
