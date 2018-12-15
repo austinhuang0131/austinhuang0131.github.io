@@ -16,9 +16,13 @@ permalink: /instagram-compare
 5. Click the three dots on the top-right, then "More Tools" > "Developer Tools".
 6. Navigate to the "Console" tab of the right sidebar.
 7. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
-```js
-[].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
-```
+  ```js
+  [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
+  ```
+  If this doesn't work, another user has suggested to use this code:
+  ```js
+  [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].children[0].textContent).sort().join("\n")
+  ```
 8. Copy the output, from one quotemark to another.
 9. Go to your text comparison tool and paste the output on the left. These are your followers in alphabetical order.
 10. Open your following list, then repeat Steps 3~8.
@@ -30,7 +34,7 @@ That pretty much does the trick. Hope you enjoy.
 ## Wait, does this steal my password?
 **Short Answer:** No.
 
-**Long Answer (Viewer discretion is advised):** Let's break down the only script executed during the process:
+**Long Answer (Viewer discretion is advised):** Let's break down the only script (The alternative one is very similar, explained below) executed during the process:
 ```js
 [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
 ```
@@ -45,6 +49,8 @@ An empty array.
 [Get elements by their tag name.](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName) Apparently, in Instagram, it's the second unordered list. Then we get each list items.
 ### .map(r => r.children[0].children[0].children[1].children[0].textContent)
 [Reorganize the array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) so that we omit any useless information and returns only the usernames. And it has to FOIL the HTML element several times.
+
+The alternate code has an extra `.children[0]`, so another foil.
 ### .sort()
 [Alphabetical order.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 ### .join("\n")
