@@ -20,6 +20,7 @@ You will get 8 in-game cash plus 10 EXP per vote. You will also get 20 in-game c
 * [CraftList](https://craft-list.net/minecraft-server/CafeCraft-1132/vote)
 * [MC-index](https://www.minecraft-index.com/46982-cafecraft-1-13-2/vote)
 * [MC-servers](https://mc-servers.com/mcvote/2938/)
+* [MinecraftList](https://minecraftlist.org/server/5562)
 * [Minecraft-Server.net](https://minecraft-server.net/vote/austinhuang/)
 * [Minecraft-Tracker](https://minecraft-tracker.com/server/5769/vote/)
 * [MinecraftZone](https://www.minecraftzone.org/vote/198)
