@@ -22,61 +22,59 @@ Want to list more places to advertise? Please contact me at [my support server](
 * [For bot devs: Free guilds for your Discord bot!](#free-guilds-for-your-discord-bot)
   
 ### Websites
-Sorted by size (Amount of guilds) as of Oct 23, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
 
-* [Discord.me](http://discord.me)
-  * Largest (75000+ servers), most traffic
+* [Discord.me](https://discord.me)
+  * Largest (82000+ servers), most traffic
   * Server owners can bump every 6 hours, on site only
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
-* [Discord Servers](http://discservs.co)
-  * Second-Largest ("33k ish" as of Aug 24 2018), probably oldest
-  * More like a search engine
-* [DiscordList.me](http://discordlist.me)
-  * 40000+ servers
+* [Disboard.org](https://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
+  * 53000+ servers
+  * Server owners can bump every 2 hours for free, on site and on bot
+  * Allow ratings (stars and text review)
+* [DiscordList.me](https://discordlist.me)
+  * 46000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disco.gg)
   * Allow ratings (stars)
-* [Disboard.org](http://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
-  * 35000+ servers
-  * Server owners can bump every 2 hours for free, on site and on bot
-  * Allow ratings (stars and text review)
+* [Discord Servers](https://discservs.co)
+  * Second-Largest? ("~40k servers" as of Dec 22 2018), oldest
+  * More like a search engine
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
-  * 21000+ servers
+  * 26000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Allow ratings (stars)
   * Allow buying/selling shoutouts
   * Cash rewards for referring people to the site
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
-  * 13000+ servers
+  * 14000+ servers
 * [DiscordSL.com](https://discordsl.com/)
-  * 7600+ servers
+  * 9400+ servers
   * Server owners can bump every 3 hours for free, on site only
 * [DiscordHub](https://discordhub.com/servers/list)
-  * 5800+ servers
+  * 6300+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
-* [Discord-Server.com](http://discord-server.com) EN/RU/DE/FR/ES/IT/BR
-  * 4700+ servers
+  * **Requires widget!** ([Widgets may increase chances of getting raided by bots](https://www.reddit.com/r/discord_app/comments/94wf4z/regarding_recent_bot_activity_more_info_in/))
+* [Discord-Server.com](https://discord-server.com) EN/RU/DE/FR/ES/IT/BR
+  * 6000+ servers
   * Server owners can bump every 4 hours for free, on site and on bot
-* [Loritta's Server List](https://loritta.website/us/servers) <small>As a side component to the Loritta bot</small> **PORTUGUESE**
-  * 4400+ servers
 * [Discordeame](https://discordea.net) **SPANISH**
-  * 1400+ servers
+  * 1700+ servers
 * [DiscordServers.me](https://discordservers.me/)
-  * 500+ servers
+  * ??? servers
 * [DiscordLink](https://discordlink.com/?action=referral&referral=15402470437590489)
-  * 410+ servers
+  * 940+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Referral program to get free premium spot for your server
-* [Discord Servers.biz](https://discordservers.biz/) <small>Previously <i>Discord Hunter</i></small>
-  * 260+ servers
-  * Allow ratings (votes)
 * [Discord Services](http://discord.services)
-  * 170+ servers
+  * 250+ servers
   * Server owners can bump every 4 hours for free
 * [Discordy](http://www.discordy.com/)
-  * 50+ servers
+  * 250+ servers
   * Allow ratings (votes)
+* [botlist.space Servers](https://botlist.space/servers)
+  * 30+ servers
   
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
@@ -104,10 +102,6 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (1461 subs, and as the name says, it's **NSFW**)
 * [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (683 subs)
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
-
-### Extra: Paid services
-* Many huge community servers now sell shoutouts. [This server by Bratatat#9999](https://discord.gg/uygu4uH) offers a list of prices offered by various big servers, including famous global emote servers. [Discord.Center](https://discord.center) also allows servers to sell shoutouts, which are identified with a clickable microphone icon.
-* Many server listing websites offer premium perks. *Price comparison coming soon...*
 
 ## Free guilds for your Discord bot!
 Sorted by list size as of August 19, 2018. Most bot listings require verification process for each bots.
