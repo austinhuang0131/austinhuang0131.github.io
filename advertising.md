@@ -59,10 +59,10 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
 * [Discord-Server.com](https://discord-server.com) EN/RU/DE/FR/ES/IT/BR
   * 6000+ servers
   * Server owners can bump every 4 hours for free, on site and on bot
+* [DiscordServers.me](https://discordservers.me/)
+  * ~2000 servers
 * [Discordeame](https://discordea.net) **SPANISH**
   * 1700+ servers
-* [DiscordServers.me](https://discordservers.me/)
-  * ??? servers
 * [DiscordLink](https://discordlink.com/?action=referral&referral=15402470437590489)
   * 940+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
