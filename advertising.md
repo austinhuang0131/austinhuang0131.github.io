@@ -29,7 +29,7 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * Server owners can bump every 6 hours, on site only
   * Custom link for invites (Discord.me)
   * 1 text-only page for a separate long description
-* [Disboard.org](https://disboard.org/?ref=austinhuang.me) EN/DE/RU/FIL/JP/ZH
+* [Disboard.org](https://disboard.org/?ref=austinhuang.me) EN/DE/ES/RU/FIL/JP/KO/ZH
   * 53000+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Allow ratings (stars and text review)
