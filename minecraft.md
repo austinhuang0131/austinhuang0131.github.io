@@ -37,6 +37,7 @@ Written rules are as follows:
 [2] Do not steal other people's username.
 [3] No offensive content.
 [4] No forest fires!
+[5] No scenery pollution, that means no dirt towers or floating signs without permission.
 Common sense and respect is expected from everyone. Do not ask for staff.
 ```
 I believe you guys are mature enough to interpret "common sense and respect".
@@ -104,8 +105,8 @@ There are two Metro lines in the server. Some underground metro stations have pr
     <td align="left"></td>
     </tr>
     <tr>
-    <td align="center">North Sea / <em>La Mer du Nord</em></td>
-    <td align="left"><strong>No exits</strong><br><em>Transfer to East-West Metro</em></td>
+    <td align="center"><strike>North Sea / <em>La Mer du Nord</strike></em> Closed</td>
+    <td align="left"><strike><strong>No exits</strong><br><em>Transfer to East-West Metro</em></strike></td>
     </tr>
     <tr>
     <td align="center">Rainbow / <em>Arc-en-Ciel</em></td>
@@ -150,7 +151,7 @@ There are two Metro lines in the server. Some underground metro stations have pr
   </tbody>
 </table>
 
-#### East-West
+#### East-West (Closed due to griefing)
 
 <table>
 <thead>
@@ -161,11 +162,11 @@ There are two Metro lines in the server. Some underground metro stations have pr
 </thead>
 <tbody>
 <tr>
-<td align="center">North Sea / <em>La Mer du Nord</em></td>
+<td align="center"><strike>North Sea / <em>La Mer du Nord</em></strike></td>
 <td align="left"><b>No exits</b><br><em>Transfer to North-South Metro</em></td>
 </tr>
 <tr>
-<td align="center">Clearview / <em>Clairevue</em></td>
+<td align="center"><strike>Clearview / <em>Clairevue</em></strike></td>
 <td align="left">Michael's Territory, Rob's House, Central Post Office</td>
 </tr>
 </tbody>
