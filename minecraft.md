@@ -20,6 +20,7 @@ You will get 8 in-game cash plus 10 EXP per vote. You will also get 20 in-game c
 * [CraftList](https://craft-list.net/minecraft-server/CafeCraft-1132/vote)
 * [MC-index](https://www.minecraft-index.com/46982-cafecraft-1-13-2/vote)
 * [MC-servers](https://mc-servers.com/mcvote/2938/)
+* [Minecraft IP List](https://www.minecraftiplist.com/index.php?action=vote&listingID=5464)
 * [MinecraftList](https://minecraftlist.org/server/5562)
 * [Minecraft-Server.net](https://minecraft-server.net/vote/austinhuang/)
 * [Minecraft-Tracker](https://minecraft-tracker.com/server/5769/vote/)
@@ -107,7 +108,7 @@ There are two Metro lines in the server. Some underground metro stations have pr
     <td align="left"></td>
     </tr>
     <tr>
-    <td align="center"><strike>North Sea / <em>La Mer du Nord</strike></em> Closed</td>
+    <td align="center"><strike>North Sea / <em>La Mer du Nord</em></strike> Closed</td>
     <td align="left"><strike><strong>No exits</strong><br><em>Transfer to East-West Metro</em></strike></td>
     </tr>
     <tr>
@@ -156,22 +157,22 @@ There are two Metro lines in the server. Some underground metro stations have pr
 #### East-West (Closed due to griefing)
 
 <table>
-<thead>
-<tr>
-<th align="center">Station</th>
-<th align="left">Nearby</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strike>North Sea / <em>La Mer du Nord</em></strike></td>
-<td align="left"><b>No exits</b><br><em>Transfer to North-South Metro</em></td>
-</tr>
-<tr>
-<td align="center"><strike>Clearview / <em>Clairevue</em></strike></td>
-<td align="left">Michael's Territory, Rob's House, Central Post Office</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th align="center">Station</th>
+      <th align="left">Nearby</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td align="center"><strike>North Sea / <em>La Mer du Nord</em></strike></td>
+      <td align="left"><b>No exits</b><br><em>Transfer to North-South Metro</em></td>
+    </tr>
+      <tr>
+      <td align="center"><strike>Clearview / <em>Clairevue</em></strike></td>
+      <td align="left">Michael's Territory, Rob's House, Central Post Office</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Trails
