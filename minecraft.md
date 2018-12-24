@@ -64,13 +64,15 @@ We do have a market at Rainbow metro station, north of Spawn. You can ask `austi
 We're both equally responsible for the map. We're **not** hiring staff.
 
 ### Claiming lands
-We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height). You can use the tutorial below to claim land, and you can always ask us for assistance.
+You can claim lands to protect them against griefs, creepers, and fire. We use [Residence](https://www.spigotmc.org/resources/residence.11480/). Currently, the land price of this server is **0.75 in-game cash per square metre**. Height is always 256 (Entire height). You can use the tutorial below to claim land, and you can always ask us for assistance.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-cP6beAUVC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <small><a href="https://www.youtube.com/watch?v=-cP6beAUVC8">Not working?</a></small>
+
+Note that you're always protected against large-scale griefers (We'll use CoreProtect to roll back damages).
 ### RAM
-The server is currently running with 2.5GB RAM allocated. If demand suffices, it can expand to 4GB.
+The server is currently running with 3GB RAM allocated. If demand suffices, it can expand to 4GB.
 
 ## Transportation
 This server enphasizes on convenience in terms of letting players explore the map.
@@ -176,10 +178,13 @@ There are two Metro lines in the server. Some underground metro stations have pr
 
 * A Trail, a trail going east from Spawn, passing Mikey's House.
 * B Trail, a trail going north-south along the west coast of Mainland. Passes all metro stations between Spawn and Snowhill, as well as Zach's House.
-* C Trail, a trail going north-south, crossing the Red & Blue Strait bridge. Passes Spawn, Rainbow station, and Market.
+* C Trail, a trail going north from spawn, crossing the Red & Blue Strait bridge, then east-west. Passes Spawn, Rainbow station, and Market.
 * A1 Trail, a trail linking A and B Trails, going north off B Trail from Sandy Bay, passing Mikey's House, crossing B Trail again, to Île Sainte-Hélène.
-* B1 Trail, going west off B Trail along the Saint-Denis River, to Ellis' House.
-* C1 Trail, going north off C Trail near Spawn, passing Mill Island, crossing C Trail again, to Rob's House and Michael's Territory.
+* A2 Trail, going north off A Trail to Lithuanina House.
+* B1 Trail, going south off B Trail near Dryptosaurus's house, along the Saint-Denis River, to Ellis' House.
+* B2 Trail, going west off B Trail near Estonian House, then going north crossing C2 Trail near Western Village, to Rob's House.
+* C1 Trail, going north off C Trail near Spawn, passing Mill Island, crossing C Trail again, to Michael's Territory.
+* C2 Trail, going west off C1 Trail, passing Mariah's Home, to Western Village.
 ### Waterway
 #### North Sea
 If you sail north from Rainbow metro station, you will encounter a huge coral reef.
