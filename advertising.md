@@ -18,6 +18,7 @@ Server owners hate me! But today you'll see this one crazy and simple trick to i
 Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide!**
 
 * [Websites](#websites)
+* [Bots](#bots)
 * [Listing Servers](#listing-servers)
 * [Subreddits](#subreddits)
 * [Extra: Paid services](#extra-paid-services)
@@ -75,10 +76,20 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
 * [Discordy](http://www.discordy.com/)
   * 250+ servers
   * Allow ratings (votes)
-* [botlist.space Servers](https://botlist.space/servers)
+* [serverlist.space](https://serverlist.space)
   * 30+ servers
   
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
+
+### Bots
+Ordered by server count as of Jan 4 2019.
+
+* [DSC](https://discordbots.org/bot/415773861486002186) (927 servers, 2 hour bump interval)
+* [HaileyBot](https://discordbots.org/bot/423637161632464906) (417 servers, 2 hour bump interval)
+* [Bump Central](https://discordbots.org/bot/478290034773196810) (392 servers, 1 hour bump interval)
+* [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval)
+
+Use ServerMate at your own risk. I don't suggest it as it require Administrator and a `#bump` channel in the server to bump.
 
 ### Listing Servers
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
