@@ -49,6 +49,7 @@ var col = ColorUtil();
 var mapOptions = {};
 var rlat = 90, rlon = 360;
 var worldPolygon	= [ [-rlat,-rlon], [-rlat,rlon], [rlat,rlon], [rlat,-rlon] ];
+var factor = 0;
 
 
 var hParam = ogf.parseUrlParam( document.URL );
@@ -170,7 +171,7 @@ function drawStations( rel, ctx, hInfo) {
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
         var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
-        L.circleMarker( [obj.lat, obj.lon], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
+        L.circleMarker( [obj.lat - 360*factor, obj.lon - 360*factor], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
 
@@ -179,13 +180,15 @@ function loadRouteData( param, type, cb ){
     if( param._southWest ){  // BBOX
         var bbox = [ param.getSouth(), param.getWest(), param.getNorth(), param.getEast() ];
         if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]+180)/360) === Math.floor((bbox[3]+180)/360)) {
-           bbox[1] = bbox[1]+180-(360*Math.floor((bbox[1]+180)/360)) - 180;
-           bbox[3] = bbox[3]+180-(360*Math.floor((bbox[3]+180)/360)) - 180;
+           factor = Math.floor((bbox[1]+180)/360);
+           bbox[1] = bbox[1]-360*factor;
+           bbox[3] = bbox[3]-360*factor);
            console.log("Adjusting BBOX to: "+bbox.join(",")); // _DEBUG_
         }
-        else if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]-180)/-360) === Math.floor((bbox[3]-180)/-360)) {
-           bbox[1] = bbox[1]-180+(360*Math.floor((bbox[1]-180)/-360)) + 180;
-           bbox[3] = bbox[3]-180+(360*Math.floor((bbox[3]-180)/-360)) + 180;
+        else if (bbox[1] < -180 && bbox[3] < -180 && Math.floor((bbox[1]-180)/-360) === Math.floor((bbox[3]-180)/-360)) {
+           factor = -Math.floor((bbox[1]-180)/-360);
+           bbox[1] = bbox[1]-(360*factor);
+           bbox[3] = bbox[3]-(360*factor);
            console.log("Adjusting BBOX to: "+bbox.join(",")); // _DEBUG_
         }
         query = 'relation["type"="route"]["route"~"('+type+')"](' + bbox.join(',') + '); rel(br);';
