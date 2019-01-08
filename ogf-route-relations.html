@@ -181,10 +181,12 @@ function loadRouteData( param, type, cb ){
         if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]+180)/360) === Math.floor((bbox[3]+180)/360)) {
            bbox[1] = bbox[1]+180-(360*Math.floor((bbox[1]+180)/360)) - 180;
            bbox[3] = bbox[3]+180-(360*Math.floor((bbox[3]+180)/360)) - 180;
+           console.log("Adjusting BBOX to: "+bbox.join(",")); // _DEBUG_
         }
         else if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]-180)/-360) === Math.floor((bbox[3]-180)/-360)) {
            bbox[1] = bbox[1]-180+(360*Math.floor((bbox[1]-180)/-360)) + 180;
            bbox[3] = bbox[3]-180+(360*Math.floor((bbox[3]-180)/-360)) + 180;
+           console.log("Adjusting BBOX to: "+bbox.join(",")); // _DEBUG_
         }
         query = 'relation["type"="route"]["route"~"('+type+')"](' + bbox.join(',') + '); rel(br);';
         query = '(' + query + '); (._;>>;);';
