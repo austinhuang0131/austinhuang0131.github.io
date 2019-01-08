@@ -47,7 +47,7 @@ table {
 var ogf = OGFUtil();
 var col = ColorUtil();
 var mapOptions = {};
-var rlat = 90, rlon = 180;
+var rlat = 90, rlon = 360;
 var worldPolygon	= [ [-rlat,-rlon], [-rlat,rlon], [rlat,rlon], [rlat,-rlon] ];
 
 
@@ -178,6 +178,14 @@ function loadRouteData( param, type, cb ){
     var query;
     if( param._southWest ){  // BBOX
         var bbox = [ param.getSouth(), param.getWest(), param.getNorth(), param.getEast() ];
+        if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]+180)/360) === Math.floor((bbox[3]+180)/360)) {
+           bbox[1] = bbox[1]+180-(360*Math.floor((bbox[1]+180)/360)) - 180;
+           bbox[3] = bbox[3]+180-(360*Math.floor((bbox[3]+180)/360)) - 180;
+        }
+        else if (bbox[1] > 180 && bbox[3] > 180 && Math.floor((bbox[1]-180)/-360) === Math.floor((bbox[3]-180)/-360)) {
+           bbox[1] = bbox[1]-180+(360*Math.floor((bbox[1]-180)/-360)) + 180;
+           bbox[3] = bbox[3]-180+(360*Math.floor((bbox[3]-180)/-360)) + 180;
+        }
         query = 'relation["type"="route"]["route"~"('+type+')"](' + bbox.join(',') + '); rel(br);';
         query = '(' + query + '); (._;>>;);';
     }else{   // route IDs
