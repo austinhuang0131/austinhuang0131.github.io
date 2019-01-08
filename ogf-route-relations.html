@@ -220,10 +220,9 @@ function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
 	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
 	colour = (colour !== '' && obj.tags['ogf:invert'] && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
-    var objText = '<b style="'+colour+'">' + obj.tags.name + '</b>';
-    objText += '<br>' + obj.tags.type.replace("_", " ").substr(0,1).toUpperCase() + obj.type.replace("_", " ").substr(1) + ' route';
-    if (obj.tags.operator) objText += ' operated by '+obj.tags.operator;
-    if (obj.tags.network) objText += ' on the <i>'+obj.tags.network+'</i> Network';
+    var objText = '<br>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + ' route <b style="'+colour+'">' + obj.tags.name + '</b>';
+    if (obj.tags.operator) objText += '<br><b>Operated by:</b> '+obj.tags.operator;
+    if (obj.tags.network) objText += '<br><b>Network:</b> '+obj.tags.network;
     if (obj.tags.from && obj.tags.to) objText += '<br>'+obj.tags.from+" ~ "+obj.tags.to;
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
     objText += '<br><a href="javascript:loadOneLine(' + obj.id + ')">Show only this line</a>';
