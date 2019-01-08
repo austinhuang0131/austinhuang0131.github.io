@@ -101,6 +101,16 @@ function pickColor(bgColor) {
   return (((r * 0.299) + (g * 0.587) + (b * 0.114)) > 186) ?
     "#000000" : "#FFFFFF";
 }
+   
+ogf.wayPoints = function( way, ctx ){
+	if( !(typeof way === 'object') )  way = ctx.way[way];
+	var hNodes = ctx.node;
+    var points = way.nodes.map( function(nodeId){
+        var node = hNodes[nodeId];
+        return {lat: node.lat, lng: node.lon+360*factor};
+    } );
+    return points;
+};
 
 ogf.publicTransport = function( layer, routeIds, type ){
     type = !type ? "bus|train|tram|light_rail|subway" : type;
@@ -191,6 +201,7 @@ function loadRouteData( param, type, cb ){
            bbox[3] = bbox[3]-360*factor;
            console.log("Adjusting BBOX to: "+bbox.join(",")); // _DEBUG_
         }
+        else factor = 0;
         query = 'relation["type"="route"]["route"~"('+type+')"](' + bbox.join(',') + '); rel(br);';
         query = '(' + query + '); (._;>>;);';
     }else{   // route IDs
