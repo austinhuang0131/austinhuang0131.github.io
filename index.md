@@ -30,8 +30,8 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 * [Disboard](http://disboard.org/) (Co-Owner)
 * [Discord Center](http://discord.center) (Moderator)
 * [Discord Images](http://discordimages.com) (Support)
+* [Discordservers.me](https://discordservers.me/) (Staff)
 * [Endless Hosting](http://theendlessweb.com) (Head Support)
-* Circuit staff for these Discord bot listing websites: [botlist.space](http://botlist.space) (Staff) and [Discord Bots List](http://discordbotslist.com) (Moderator).
 * Circuit admin for these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
 
 ## My translations
