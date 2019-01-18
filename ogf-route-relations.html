@@ -166,12 +166,13 @@ function drawRoute( rel, ctx, hInfo ){
     hInfo.routesDrawn[rel.id] = true;
     var closedWays = ogf.buildWaySequence( ctx, rel.id, null, {role: '^(|route|forward|backward|reverse)$', copy: true} );
     closedWays.forEach( function(way){
-        var line = ogf.wayPoints( way, ctx );
-        var popupText = objText(rel);
-        var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
-        var x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5,
-	    y = (rel.tags["ogf:opacity"] && !isNaN(parseFloat(rel.tags['ogf:opacity']))) ? parseFloat(rel.tags["ogf:opacity"]) : 1;
-        L.polyline( line, {color: color, weight: x, opacity: y} ).addTo( hInfo.layer ).bindPopup( popupText );
+        var line = ogf.wayPoints( way, ctx ),
+            popupText = objText(rel),
+            color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000',
+            x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5,
+	    y = (rel.tags["ogf:opacity"] && !isNaN(parseFloat(rel.tags['ogf:opacity']))) ? parseFloat(rel.tags["ogf:opacity"]) : 1,
+	    f = rel.tags["ogf:invert"] ? "#FFFFFF" : color;
+        L.polyline( line, {color: color, weight: x, opacity: y, fillColor: f} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );
 }
 
