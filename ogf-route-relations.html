@@ -171,7 +171,7 @@ function drawRoute( rel, ctx, hInfo ){
             color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000',
             x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5,
 	    y = (rel.tags["ogf:opacity"] && !isNaN(parseFloat(rel.tags['ogf:opacity']))) ? parseFloat(rel.tags["ogf:opacity"]) : 1,
-	    f = rel.tags["ogf:invert"] ? "5,10" : "5,0";
+	    f = rel.tags["ogf:invert"] === "yes" ? "7.5,15" : "7.5,0";
         L.polyline( line, {color: color, weight: x, opacity: y, dashArray: f} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );
 }
@@ -221,7 +221,7 @@ function loadRouteData( param, type, cb ){
 function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
 	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
-	colour = (colour !== '' && obj.tags['ogf:invert'] && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
+	colour = (colour !== '' && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
     var objText = '<b>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</b> <b style="'+colour+'">' + obj.tags.name + '</b>';
     if (obj.tags.operator) objText += '<br><b>Operated by:</b> '+obj.tags.operator;
     if (obj.tags.network) objText += '<br><b>Network:</b> '+obj.tags.network;
