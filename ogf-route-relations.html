@@ -172,7 +172,7 @@ function drawRoute( rel, ctx, hInfo ){
             x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5,
 	    y = (rel.tags["ogf:opacity"] && !isNaN(parseFloat(rel.tags['ogf:opacity']))) ? parseFloat(rel.tags["ogf:opacity"]) : 1,
 	    f = rel.tags["ogf:invert"] ? "#FFFFFF" : color;
-        L.polyline( line, {color: color, weight: x, opacity: y, fillColor: f} ).addTo( hInfo.layer ).bindPopup( popupText );
+        L.polyline( line, {color: color, weight: x, opacity: y, fillColor: f, fill: true} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );
 }
 
