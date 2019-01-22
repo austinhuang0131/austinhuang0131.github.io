@@ -19,10 +19,11 @@ permalink: /instagram-compare
   ```js
   [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
   ```
-  If this doesn't work, another user has suggested to use this code:
+  If this doesn't work, another user has suggested to use this code: (Yes, it is reported that some people have different lagouts)
   ```js
-  [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].children[0].textContent).sort().join("\n")
+  [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[1].children[0].children[0].textContent).sort().join("\n")
   ```
+  
 8. Copy the output, from one quotemark to another.
 9. Go to your text comparison tool and paste the output on the left. These are your followers in alphabetical order.
 10. Open your following list, then repeat Steps 3~8.
@@ -49,8 +50,6 @@ An empty array.
 [Get elements by their tag name.](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName) Apparently, in Instagram, it's the second unordered list. Then we get each list items.
 ### .map(r => r.children[0].children[0].children[1].children[0].textContent)
 [Reorganize the array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) so that we omit any useless information and returns only the usernames. And it has to FOIL the HTML element several times.
-
-The alternate code has an extra `.children[0]`, so another foil.
 ### .sort()
 [Alphabetical order.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 ### .join("\n")
