@@ -29,17 +29,14 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 
 * [Disboard](http://disboard.org/) (Co-Owner)
 * [Discord Center](http://discord.center) (Moderator)
-* [Discord Images](http://discordimages.com) (Support)
 * [Discordservers.me](https://discordservers.me/) (Staff)
 * [Endless Hosting](http://theendlessweb.com) (Head Support)
 * Circuit admin for these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
 
 ## My translations
-I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
+I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects, in which they're still alive:
 
-* [botlist.space](http://botlist.space) (All of Chinese translation)
 * [Disboard](http://disboard.org/) (All of Chinese translation)
-* ~~[Terminal.ink Bot List](https://ls.terminal.ink/)~~ (All of Chinese translation, despite the website being shut down the translation is still preserved [here](https://github.com/Terminal/api.discordbots.co.uk/blob/archive-pugjs/locales/zh-hans.json))
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
   * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
@@ -51,6 +48,7 @@ I have a white Pentax K-50. I upload all my photos on my [Flickr](https://flic.k
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
+* [Google Maps](https://www.google.ca/maps/contrib/112274999802772649668/reviews)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
