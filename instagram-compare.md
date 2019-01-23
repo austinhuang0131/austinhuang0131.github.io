@@ -1,7 +1,7 @@
 ---
 title: I'd like to compare my Instagram followers/followings list!
 comments: true
-description: Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN!
+description: Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN, without leaking your password!
 permalink: /instagram-compare
 ---
 
@@ -19,7 +19,7 @@ permalink: /instagram-compare
   ```js
   [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[0].children[1].children[0].textContent).sort().join("\n")
   ```
-  If this doesn't work, another user has suggested to use this code: (Yes, it is reported that some people have different lagouts)
+  Some people have different layouts, regardless of language settings, which has been confirmed by comments as well as people who contacted me privately. If this doesn't work, another user has suggested to use this code:
   ```js
   [].slice.call(document.getElementsByTagName("ul")[2].getElementsByTagName("li")).map(r => r.children[0].children[1].children[0].children[0].textContent).sort().join("\n")
   ```
