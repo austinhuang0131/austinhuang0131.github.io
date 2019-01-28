@@ -36,11 +36,13 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * 53000+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Allow ratings (stars and text review)
+<!-- Listing suspended for the time being
 * [DiscordList.me](https://discordlist.me)
   * 46000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disco.gg)
   * Allow ratings (stars)
+-->
 * [Discord Servers](https://discservs.co)
   * Second-Largest? ("~40k servers" as of Dec 22 2018), oldest
   * More like a search engine
