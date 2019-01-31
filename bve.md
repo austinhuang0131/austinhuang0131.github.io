@@ -68,7 +68,7 @@ Download [here](https://www.like-a-lake.com/bve-keihan-keishin/). Find "Mirror s
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zcpggd-N0pM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### TRTA Hanzomon Line
+### TRTA (then-Tokyo Metro) Hanzomon Line
 Download [here](http://shtr-m.net/bve/hanzomon.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese.
 
 For this scenario, you'll need to download vehicles.
@@ -78,11 +78,21 @@ For this scenario, you'll need to download vehicles.
 4. For 8000: The download link is in the purple box at the bottom of the page. For others: First text link in the second-last box at the bottom.
 5. Unzip them and place them in `.../Scenarios/vertah`.
 
-* To start E/B1056T (Red background, brown train) from the overground terminus, you'll need to press <kbd>8</kbd> **ONCE** to enable ATS for Tobu. Then, after arriving at the first underground station, you'll need to get back to `N EB` and press <kbd>8</kbd> **ONCE** again to enable ATC for Metro.
-* To start C/B1367S (Red background, purple train) from the overground terminus, you'll need to press <kbd>8</kbd> **TWICE** to enable ATS for Tobu. Then, after arriving at the first underground station, you'll need to get back to `N EB` and press <kbd>7</kbd> **ONCE** then <kbd>8</kbd> **ONCE** to enable ATC for Metro.
-* To start B952T (No background, brown train) from the underground terminus, you'll need to press <kbd>8</kbd> **TWICE** to enable ATC for metro.
-* To start all other trains from the underground terminus, you'll need to press <kbd>8</kbd> **ONCE** to enable ATC for Metro.
+* To start E/B1056T (Red background, brown train) from the overground terminus, you'll need to press <kbd>8</kbd> **ONCE** to enable ATS for Tobu when remaining in `N EB`. Then, after arriving at the first underground station, you'll need to get back to `N EB` and press <kbd>8</kbd> **ONCE** again to enable ATC for Metro.
+* To start C/B1367S (Red background, purple train) from the overground terminus, you'll need to press <kbd>8</kbd> **TWICE** to enable ATS for Tobu when remaining in `N EB`. Then, after arriving at the first underground station, you'll need to get back to `N EB` and press <kbd>7</kbd> **ONCE** then <kbd>8</kbd> **ONCE** to enable ATC for Metro.
+* To start B952T (No background, brown train) from the underground terminus, you'll need to press <kbd>8</kbd> **TWICE** to enable ATC for metro when remaining in `N EB`.
+* To start all other trains from the underground terminus, you'll need to press <kbd>8</kbd> **ONCE** to enable ATC for Metro when remaining in `N EB`.
 * B953S is a Not-in-Service train which passes all stations. All others stop at all stations.
+* Press <kbd>0</kbd> for speedometer lights, <kbd>9</kbd> for wiper (If train has it).
 * Here's a walkthrough for E/B1056T:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XDeNjNsnG4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### TRTA (then-Tokyo Metro) Ginza Line
+Download [here](http://shtr-m.net/bve/ginza.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese. You need to [download vehicles](http://vertah.sakura.ne.jp/bvedata/trta01.html) as well and place them in `.../Scenarios/vertah`.
+
+* To start the train, you'll need to press <kbd>8</kbd> **ONCE** to enable ATC for Metro when remaining in `N P0 EB`.
+* Press <kbd>0</kbd> for speedometer lights, <kbd>9</kbd> for wiper.
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tlDv4FQQcd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
