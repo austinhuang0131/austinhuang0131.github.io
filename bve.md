@@ -44,6 +44,30 @@ All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE 
 
 I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.)
 
+### List
+* mackoy: [Keisei Chihara Line](#keisei-chihara-line)
+* neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC)
+* wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS)
+* Green Shuttle:
+  * [Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
+  * [Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
+  * Fukutoshin Line (ATC-Usao)
+  * Tokyo Monorail
+* Bluegill77: Osaka Metro Yotsubashi Line (ATC-Usao)
+
+#### Legend
+* (E): English
+* (PE): Partially English (Usually station names)
+* (ATS): Automatic Train Stop (If you go over speed limit, it'll immediately stop your train)
+* (ATC): Automatic Train Control (If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train)
+ * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm)
+ * Other (ATC): Custom-coded
+
+### Keisei Chihara Line
+The official one. Download [here](http://bvets.net/en/download/zip.html), no additional stuff required. Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ocRex0a2jUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Tama Toshi Monorail
 Download [here](http://neclgm.blog.fc2.com/blog-entry-58.html). Both the page AND THE SCENARIO is **in English**!
 
