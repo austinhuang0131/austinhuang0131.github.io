@@ -1,6 +1,6 @@
 ---
 title: BVE Trainsim 5 Survival Guide
-description: Wanna actually play a realistic train simulator FOR FREE? Try BVEts5! Includes Mac installation and recommended scenarios.
+description: Wanna actually play a realistic train simulator FOR FREE? Try BVE 5! Includes Mac installation and recommended scenarios.
 comments: true
 permalink: /bve
 ---
