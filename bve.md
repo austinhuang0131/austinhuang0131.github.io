@@ -53,9 +53,11 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
   * [Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
   * Fukutoshin Line (ATC-Usao)
   * Tokyo Monorail
-* Bluegill77: Osaka Metro Yotsubashi Line (ATC-Usao)
+* Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao)
+* L53: [Kyoto Municipal Subway Karasuma Line](#Kyoto-Municipal-Subway-Karasuma-Line) (ATC)
 
 #### Legend
+* (P): Permission obtained for posting.
 * (E): English
 * (PE): Partially English (Usually station names)
 * (ATS): Automatic Train Stop (If you go over speed limit, it'll immediately stop your train)
@@ -120,3 +122,29 @@ Download [here](http://shtr-m.net/bve/ginza.html). Click the first link wrapped 
 * Here's a walkthrough:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tlDv4FQQcd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Tokyo Metro Fukutoshin Line
+Under testing...
+
+### Tokyo Monorail
+Under testing...
+
+### Osaka Metro Yotsubashi Line
+Download [here](https://iyoiyokohei.wixsite.com/bluegill77/bveyotsubashi-download). For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documentation](https://tetsudo-1998.jimdo.com/bve/%E8%BB%8A%E4%B8%A1%E3%83%87%E3%83%BC%E3%82%BF/))
+
+* To start the train, you'll need to press <kbd>7</kbd> **ONCE** to enable ATC for Metro when remaining in `N P0 EB`. **DO NOT** press <kbd>7</kbd> or <kbd>8</kbd> again as it'll disable your train (And I don't see a remedy currently without re-opening the scenario).
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5xXPNKVxsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Kyoto Municipal Subway Karasuma Line
+Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles included.
+
+* There is an ATC, but no key is required as it is enabled at all times.
+* The driver cab graphics for Train 149 is significantly better than Train 145.
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWPix3SJKXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## End
+For any issues, please [contact me](https://austinhuang.me/contact) or comment below. I can respond in Mandarin or English. Japanese emails will be accepted (I can read Japanese, didn't I tell you that?) but I'll only reply in English.
