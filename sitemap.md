@@ -9,6 +9,7 @@ You asked, here's the answer.
 * [Server Guide](./discord-server-guide)
 
 ## Others
+* [BVE Trainsim 5 Survival Guide (Windows & Mac)](./bve)
 * [Compare Instagram followings/followers list](./instagram-compare)
 * [Incomplete guide in Canadian reward programs](./canadareward)
 
