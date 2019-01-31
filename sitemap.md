@@ -17,6 +17,3 @@ You asked, here's the answer.
 * [Contact](./contact)
 * [Donate](./donate)
 * [Services](./services)
-
-## Random uploads
-* [A complete copy of Catcher in the Rye](https://jane-gallagher.will-never-love.me/uj5v4n.pdf)
