@@ -60,8 +60,8 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
 * (PE): Partially English (Usually station names)
 * (ATS): Automatic Train Stop (If you go over speed limit, it'll immediately stop your train)
 * (ATC): Automatic Train Control (If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train)
- * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm)
- * Other (ATC): Custom-coded
+  * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm)
+  * Other (ATC): Custom-coded
 
 ### Keisei Chihara Line
 The official one. Download [here](http://bvets.net/en/download/zip.html), no additional stuff required. Here's a walkthrough:
