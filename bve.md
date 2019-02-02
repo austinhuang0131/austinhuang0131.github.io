@@ -53,15 +53,15 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
   * [Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
   * Fukutoshin Line (ATC-Usao)
   * Tokyo Monorail
-* Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao)
-* L53: [Kyoto Municipal Subway Karasuma Line](#Kyoto-Municipal-Subway-Karasuma-Line) (ATC)
+* Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
+* L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
 
 #### Legend
 * (P): Permission obtained for posting.
 * (E): English
 * (PE): Partially English (Usually station names)
-* (ATS): Automatic Train Stop (If you go over speed limit, it'll immediately stop your train)
-* (ATC): Automatic Train Control (If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train)
+* (ATS): Automatic Train Stop: If you go over speed limit, it'll immediately stop your train. Tend to be harder to drive.
+* (ATC): Automatic Train Control: If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train. Tend to be easier to drive.
   * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm)
   * Other (ATC): Custom-coded
 
@@ -130,7 +130,9 @@ Under testing...
 Under testing...
 
 ### Osaka Metro Yotsubashi Line
-Download [here](https://iyoiyokohei.wixsite.com/bluegill77/bveyotsubashi-download). For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documentation](https://tetsudo-1998.jimdo.com/bve/%E8%BB%8A%E4%B8%A1%E3%83%87%E3%83%BC%E3%82%BF/))
+Download [here](https://iyoiyokohei.wixsite.com/bluegill77/bveyotsubashi-download). Click the button below "Route".
+
+For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documentation](https://tetsudo-1998.jimdo.com/bve/%E8%BB%8A%E4%B8%A1%E3%83%87%E3%83%BC%E3%82%BF/))
 
 * To start the train, you'll need to press <kbd>7</kbd> **ONCE** to enable ATC for Metro when remaining in `N P0 EB`. **DO NOT** press <kbd>7</kbd> or <kbd>8</kbd> again as it'll disable your train (And I don't see a remedy currently without re-opening the scenario).
 * Here's a walkthrough:
@@ -146,5 +148,5 @@ Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles incl
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rWPix3SJKXo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Kurumadome (Buffer Stop)
+## Kurumadome (Buffer Stop = End of the Line)
 For any issues, please [contact me](https://austinhuang.me/contact) or comment below. I can respond in Mandarin or English. Japanese emails will be accepted (I can read Japanese, didn't I tell you that?) but I'll only reply in English.
