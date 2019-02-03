@@ -5,6 +5,8 @@ comments: true
 permalink: /bve
 ---
 
+![header](./assets/bve_header.png)
+
 Aight, so hear me out: These train simulators on Steam really cost. Like $30+. Honestly, maybe they're better in the 3D graphics, but BVE Trainsim 5 could score much better in performance than these costly alternatives.
 
 ## Install
@@ -47,7 +49,7 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
 ### List
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC)
-* wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS)
+* wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
 * Green Shuttle:
   * [Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
   * [Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
@@ -150,3 +152,5 @@ Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles incl
 
 ## Kurumadome (Buffer Stop = End of the Line)
 For any issues, please [contact me](https://austinhuang.me/contact) or comment below. I can respond in Mandarin or English. Japanese emails will be accepted (I can read Japanese, didn't I tell you that?) but I'll only reply in English.
+
+Header made using [Sigene](https://tr246.github.io/Sigene/).
