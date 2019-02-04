@@ -2,7 +2,6 @@
 title: BVE Trainsim 5 Survival Guide (Windows & Mac)
 description: Wanna actually play a realistic train simulator FOR FREE? Try BVE 5! Includes Mac installation and recommended scenarios.
 comments: true
-keyword: bve,trainsim,bve5,bvets,train,simulator,game,japanese
 permalink: /bve
 ---
 
@@ -161,3 +160,5 @@ Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles incl
 For any issues, please [contact me](https://austinhuang.me/contact) or comment below. I can respond in Mandarin or English. Japanese emails will be accepted (I can read Japanese, didn't I tell you that?) but I'll only reply in English.
 
 Header made using [Sigene](https://tr246.github.io/Sigene/).
+
+このサイトはリンクフリーです。リンクの際にこのバナー ([フルサイズ](https://raw.ratelimited.me/bqdbu307pq.png) / [200x110](https://raw.ratelimited.me/m0nz6mblsr.png)) にご利用ください。お問い合わせは `im アット austinhuang ドット me` へ。
