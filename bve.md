@@ -2,6 +2,7 @@
 title: BVE Trainsim 5 Survival Guide (Windows & Mac)
 description: Wanna actually play a realistic train simulator FOR FREE? Try BVE 5! Includes Mac installation and recommended scenarios.
 comments: true
+keyword: bve,trainsim,bve5,bvets,train,simulator,game,japanese
 permalink: /bve
 ---
 
@@ -50,16 +51,16 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC)
 * wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
-* Green Shuttle:
-  * [Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
-  * [Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
-  * Fukutoshin Line (ATC-Usao)
-  * Tokyo Monorail
+* Green Shuttle: (P)
+  * [Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
+  * [Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
+  * Metro Fukutoshin Line (ATC-Usao)
+  * [Tokyo Monorail](#tokyo-monorail) (ATC)
 * Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
 * L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
 
 #### Legend
-* (P): Permission obtained for posting.
+* (P): Permission obtained for posting
 * (E): English
 * (PE): Partially English (Usually station names)
 * (ATS): Automatic Train Stop: If you go over speed limit, it'll immediately stop your train. Tend to be harder to drive.
@@ -117,7 +118,7 @@ For this scenario, you'll need to download vehicles.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XDeNjNsnG4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### TRTA (then-Tokyo Metro) Ginza Line
-Download [here](http://shtr-m.net/bve/ginza.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese. You need to [download vehicles](http://vertah.sakura.ne.jp/bvedata/trta01.html) as well and place them in `.../Scenarios/vertah`.
+Download the route [here](http://shtr-m.net/bve/ginza.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese. You need to [download vehicles](http://vertah.sakura.ne.jp/bvedata/trta01.html) as well and place them in `.../Scenarios/vertah`.
 
 * To start the train, you'll need to press <kbd>8</kbd> **ONCE** to enable ATC for Metro when remaining in `N P0 EB`.
 * Press <kbd>0</kbd> for speedometer lights, <kbd>9</kbd> for wiper.
@@ -129,7 +130,13 @@ Download [here](http://shtr-m.net/bve/ginza.html). Click the first link wrapped 
 Under testing...
 
 ### Tokyo Monorail
-Under testing...
+Download the route [here](http://shtr-m.net/bve/tmk.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese. You need to [download vehicles](http://sigf.sakura.ne.jp/bve_tmk1000.html) (Link next to download button) as well.
+
+* An extra vehicle as well as 6 extra routes are available [here](http://sigf.sakura.ne.jp/bve_tmk10000.html). Base route pack required.
+* ATC is enabled at all times.
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2uZ46mpW9U8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Osaka Metro Yotsubashi Line
 Download [here](https://iyoiyokohei.wixsite.com/bluegill77/bveyotsubashi-download). Click the button below "Route".
@@ -144,7 +151,7 @@ For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documen
 ### Kyoto Municipal Subway Karasuma Line
 Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles included.
 
-* There is an ATC, but no key is required as it is enabled at all times.
+* ATC is enabled at all times.
 * The driver cab graphics for Train 149 is significantly better than Train 145.
 * Here's a walkthrough:
 
