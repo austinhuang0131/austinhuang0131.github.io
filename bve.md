@@ -48,12 +48,13 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
 
 ### List
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
-* neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC)
+* neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
 * wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
+* reren: Tokyo Metro Tozai Line (E) (ATC-Usao)
 * Green Shuttle: (P)
-  * [Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
-  * [Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
-  * Metro Fukutoshin Line (ATC-Usao)
+  * [Tokyo Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
+  * [Tokyo Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
+  * Tokyo Metro Fukutoshin Line (ATC-Usao)
   * [Tokyo Monorail](#tokyo-monorail) (ATC)
 * Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
 * L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
