@@ -5,13 +5,11 @@ comments: true
 permalink: /advertising
 ---
 
-[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to compare your Instagram following/follower list!](./instagram-compare)
-## Free people for your Discord server!
+[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to see more guides!](./sitemap)
 
-<!--
-<p align="right"><small>Sponsored by:</small><br />
-<a href="https://discord.gg/5Gy4sPg"><img src="./assets/ad.png" alt="Sponsored by The Complex" width="400" align="right" /></a></p>
--->
+**Stop Discord Trust & Safety Abuse!** If Discord does not address the situation involving Trust & Safety member breaking their own rules for their personal preference, they deserve the shutdown from the Feds. **#ChangeDiscord** ([Background thread](https://twitter.com/nickmon1112/status/1092469779137482755), [Newsweek](https://www.newsweek.com/discord-furries-terms-service-community-guidelines-1323099), [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/#1d6403603741))
+
+## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
