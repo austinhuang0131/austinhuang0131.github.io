@@ -4,6 +4,8 @@ description: Having trouble getting members? Can't get your server to be active?
 comments: true
 ---
 
+**Stop Discord Trust & Safety Abuse!** If Discord does not address the situation involving Trust & Safety member breaking their own rules for their personal preference, they deserve the shutdown from the Feds. **#ChangeDiscord** ([Background thread](https://twitter.com/nickmon1112/status/1092469779137482755), [Newsweek](https://www.newsweek.com/discord-furries-terms-service-community-guidelines-1323099), [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/#1d6403603741))
+
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
 This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
