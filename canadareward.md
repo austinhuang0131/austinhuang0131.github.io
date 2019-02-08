@@ -28,7 +28,7 @@ This list is still being completed.
 | Canadian Tire Money | ??? | 0.4%~1% | | **There is no method in checking the exact rate.** Of course, the rates don't matter if you have a paper note and you sell it as an antique... |
 | More Rewards | 0.16% | 0.16% | | |
 | SAQ Inspire | 0.02% | 0.02%+ | 18+ | |
-| PC Optimum (Shoppers & Pharmaprix) | 0.007% | 0.007%+ | | PC Optimum is offer-focused. To get the maximum points, you can activate offers as well as participate in events. The regular rate is 15 points per dollar. |
+| PC Optimum (Shoppers & Pharmaprix) | 0.015% | 0.015+ | | PC Optimum is offer-focused. To get the maximum points, you can activate offers as well as participate in events. The regular rate is 15 points per dollar. |
 | PC Optimum (Loblaws) | 0% | 0%+ | | You **have to** activate offers or buy selected products. |
 
 Referenced [this article](https://www.protegez-vous.ca/Argent/carte-de-fidelite/le-classement-des-cartes-de-fidelite) (In French).
