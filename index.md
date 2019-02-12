@@ -79,27 +79,21 @@ My Instagram and GitHub are below.
 
 Coding, mapping, commenting on local/global affairs (Some posted on Tumblr), model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
-<blockquote class="twitter-tweet" align="right" height="200" data-lang="en"><p lang="en" dir="ltr">Is this why Syria can’t get their act together? <a href="https://twitter.com/hashtag/UNHCRMariMUN19?src=hash&amp;ref_src=twsrc%5Etfw">#UNHCRMariMUN19</a> <a href="https://t.co/GUIoWdalVn">pic.twitter.com/GUIoWdalVn</a></p>&mdash; Al Jazeera – MARI 2019 (@AJ_MARI2019) <a href="https://twitter.com/AJ_MARI2019/status/1094277224344289288?ref_src=twsrc%5Etfw">2019年2月9日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic (Probably because their school trained them so for the award). I was memed so hard in MariMUN 2019 that I almost lost all reasons to exist.
 
-<blockquote class="twitter-tweet" align="right" height="200" data-lang="en"><p lang="en" dir="ltr">If you bleed, Libya has got your back. <a href="https://twitter.com/hashtag/truelove?src=hash&amp;ref_src=twsrc%5Etfw">#truelove</a> <a href="https://twitter.com/hashtag/blessings?src=hash&amp;ref_src=twsrc%5Etfw">#blessings</a> <a href="https://twitter.com/hashtag/UNHCRMariMUN19?src=hash&amp;ref_src=twsrc%5Etfw">#UNHCRMariMUN19</a></p>&mdash; La Presse – MARI 2019 (@LP_MARI2019) <a href="https://twitter.com/LP_MARI2019/status/1094363232091979776?ref_src=twsrc%5Etfw">2019年2月9日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is this why Syria can’t get their act together? <a href="https://twitter.com/hashtag/UNHCRMariMUN19?src=hash&amp;ref_src=twsrc%5Etfw">#UNHCRMariMUN19</a> <a href="https://t.co/GUIoWdalVn">pic.twitter.com/GUIoWdalVn</a></p>&mdash; Al Jazeera – MARI 2019 (@AJ_MARI2019) <a href="https://twitter.com/AJ_MARI2019/status/1094277224344289288?ref_src=twsrc%5Etfw">2019年2月9日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" align="right" height="200" data-lang="en"><p lang="en" dir="ltr">Stay in our sit LIBYA.....<a href="https://twitter.com/hashtag/UNHCRMariMUN19?src=hash&amp;ref_src=twsrc%5Etfw">#UNHCRMariMUN19</a> <a href="https://t.co/gf8jbSaeDh">pic.twitter.com/gf8jbSaeDh</a></p>&mdash; New York Times – MARI 2019 (@NYT_MARI2019) <a href="https://twitter.com/NYT_MARI2019/status/1094353095885238274?ref_src=twsrc%5Etfw">2019年2月9日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Yes, I do model UN. Though, I'm more realistic than most people, who are usually idealistic. I was memed so hard in MariMUN 2019 that I almost lost all reasons to exist.
 
 ### Hardware?
-A school-provided MacBook Air plus several shared VPS from online people ~~comrades~~ and free services. That's it.
+A school-provided fully-stickered MacBook Air plus several shared VPS from online people ~~comrades~~ and free services. That's it.
 
 ### You said you're from...Shanghai?
-~~No u.~~ Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did, though he's 1 year older than me.
+Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did, though he's 1 year older than me.
 
 ### What about a formal resume, *please?*
-No u. *skirt skirt dab dab*
+<img src="./assets/uno4.jpeg" alt="+4" align="right"/>
 
-Fun fact: I dab every several minutes when awake.
+No u. *skirt skirt dab dab*
 
 ### Hey, you look cool. How can I support you?
 You can [buy my services](/services) or [donate to me](/donate)!
