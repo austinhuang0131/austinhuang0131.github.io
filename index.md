@@ -50,6 +50,8 @@ I have a white Pentax K-50. I upload ~~all~~ some of my photos on my [Flickr](ht
 <script src="https://instawidget.net/js/instawidget.js?u=bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60&width=300px"></script>
 </p>
 
+Instagram on the right.
+
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
@@ -58,6 +60,7 @@ I have a white Pentax K-50. I upload ~~all~~ some of my photos on my [Flickr](ht
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
+* [Snapchat](http://www.snapchat.com/add/austin0131mtl)
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
