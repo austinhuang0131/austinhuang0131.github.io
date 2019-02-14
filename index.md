@@ -45,8 +45,10 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 I have a white Pentax K-50. I upload ~~all~~ some of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid.
 
 ## My other online stuff, like social media
-<a aligh="right" href="https://instawidget.net/v/user/austinhuang.me" id="link-bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60">@austinhuang.me</a>
+<p align="right">
+<a href="https://instawidget.net/v/user/austinhuang.me" id="link-bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60">@austinhuang.me</a>
 <script src="https://instawidget.net/js/instawidget.js?u=bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60&width=300px"></script>
+</p>
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
 * [Discord](https://discord.gg/8uFr3J3)
