@@ -45,6 +45,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 <style type="text/css"> 
 .flickr_badge_image {margin:0px;display:inline;}
 .flickr_badge_image img {border: 1px solid #BADA55 !important; padding:1px; margin:2px;}
+.flickr_badge_image a:after {content: none !important;}
 #flickr_badge_wrapper {width:300px;text-align:left}
 </style>
 <div id="flickr_badge_wrapper" class="no-mark no-mark-external" style="float:right;"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=9&display=random&size=s&layout=x&source=user&user=136075370@N04"></script></div>
