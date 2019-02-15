@@ -42,13 +42,13 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
   
 ## My photos
+
 <style type="text/css"> 
 .flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 1px solid #BADA55 !important; padding:1px; margin:2px;}
+.flickr_badge_image img {border: 0px solid #BADA55 !important; padding:0px; margin:0px;}
 .flickr_badge_image a:after {content: none !important;}
 #flickr_badge_wrapper {width:300px;text-align:left}
-</style>
-<div id="flickr_badge_wrapper" class="no-mark no-mark-external" style="float:right;"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=9&display=random&size=s&layout=x&source=user&user=136075370@N04"></script></div>
+</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm planning to move to Zonerama once I can be absolutely sure that they won't do that like Flickr.
 
@@ -58,9 +58,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 <script src="https://instawidget.net/js/instawidget.js?u=bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60&width=300px"></script>
 </div>
 
-Instagram on the right.
-
-* [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect.
+* [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
 * [Discord](https://discord.gg/8uFr3J3)
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
@@ -68,7 +66,7 @@ Instagram on the right.
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
-* [Snapchat](http://www.snapchat.com/add/austin0131mtl)
+* [Snapchat](http://www.snapchat.com/add/austin0131mtl): Most stories are PSAs. You've been warned. Don't expect anything about me irl.
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
