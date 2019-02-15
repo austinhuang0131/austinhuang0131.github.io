@@ -42,7 +42,14 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
   
 ## My photos
-I have a white Pentax K-50. I upload ~~all~~ some of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid.
+<style type="text/css"> 
+.flickr_badge_image {margin:0px;display:inline;}
+.flickr_badge_image img {border: 1px solid #BADA55 !important; padding:1px; margin:2px;}
+#flickr_badge_wrapper {width:300px;text-align:left}
+</style>
+<div id="flickr_badge_wrapper" style="float:right;"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=9&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm planning to move to Zonerama once I can be absolutely sure that they won't do that like Flickr.
 
 ## My other online stuff, like social media
 <div style="float:right;" width="300">
