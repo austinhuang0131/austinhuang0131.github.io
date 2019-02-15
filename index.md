@@ -1,10 +1,10 @@
 ---
 title: Hello there! I'm Austin Huang.
-description: That's just my homepage/resume. What else do you expect?
+description: That's just my homepage/"resume". What else do you expect?
 comments: true
 ---
 
-<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" height="200"/>
+<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
 
 <blockquote>
 In my dictionary, there is no place for the word "Rules".
@@ -12,17 +12,16 @@ In my dictionary, there is no place for the word "Rules".
 
 Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
-If you need a job description, that'll be "high school student/freelance developer".
+If you need a job description, that'll be "high school student/freelance developer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
 * [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Hosted by [SunburntRock89](https://github.com/SunburntRock89).
 * [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Hosted on Heroku.
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots. Co-owned with [MacDue](https://github.com/MacDue).
 * I also [write private bots](/services) for individuals.
-  * I am a part of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources that I work for.
-  * I am a listed Telegram bot developer in [DevList](http://t.me/devlist).
+  * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
+  * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
 * I have a [Minecraft server](./minecraft) co-owned with [Michael O](https://michaelo.online). I also maintain a [personal adblock list](/0131-block-list) and [some guides (which are on this site)](./sitemap).
-
 
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
@@ -73,30 +72,33 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 ~~No u.~~ Obviously, sure. You can even comment below to ask even more question, eh?
 
 ### Hobbies?
-<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" height="200"/>
+<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300"/>
 
-Coding, mapping, commenting on local/global affairs (Some posted on Tumblr), model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime sometimes (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
+Coding, mapping, commenting on local/global affairs (Some posted on [Tumblr](https://blog.austinhuang.me) - Oh, and I only used it for the free custom domain, I don't really like Tumblr), model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime quite rarely (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
-Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic (Probably because their school trained them so for the award). I was memed so hard in MariMUN 2019 that I almost lost all reasons to exist.
+Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic (Probably because their school trained them so for the award). I was [memed](https://twitter.com/AJ_MARI2019/status/1094277224344289288) [so](https://twitter.com/NYT_MARI2019/status/1094372271404302336) [hard](https://twitter.com/LP_MARI2019/status/1094363232091979776) in MariMUN 2019 that I almost lost all reasons to exist /s.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Is this why Syria can’t get their act together? <a href="https://twitter.com/hashtag/UNHCRMariMUN19?src=hash&amp;ref_src=twsrc%5Etfw">#UNHCRMariMUN19</a> <a href="https://t.co/GUIoWdalVn">pic.twitter.com/GUIoWdalVn</a></p>&mdash; Al Jazeera – MARI 2019 (@AJ_MARI2019) <a href="https://twitter.com/AJ_MARI2019/status/1094277224344289288?ref_src=twsrc%5Etfw">2019年2月9日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Self-proclaimed Discord Affairs (aka. Dramas) Investigator.
 
 ### Hardware?
 A school-provided fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services. That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
 
 ### You said you're from...Shanghai?
-Yeah. I actually went to the same high school as [@simonguozirui](https://github.com/simonguozirui) did and went abroad at the same time as he did, though he's 1 year older than me. But honestly, I know more people in Montréal than in Shanghai.
+Yeah. I actually went to the same high school as [@simonguozirui](https://simonguo.tech/) did and went abroad at the same time as he did, though he's 1 year older than me. He's the *hacky* kind, I'm more the *pragmatic* kind.
+
+Honestly, I know more people in Montréal than in Shanghai. <small>Mostly due to model UN, since it's more a social event than a competition, you just can't deny that straight truth.</small>
 
 Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the Wu language, which is a disappearing language.
 
 ### What about a formal resume, *please?*
 <img src="./assets/uno4.jpeg" alt="+4" align="right"/>
 
-No u. *skirt skirt dab dab*
+No u. ***Y E E T***
+
+I'm likely not going to put my resume on the website. Don't question it.
 
 ### Hey, you look cool. How can I support you?
-You can [buy my services](/services) or [donate to me](/donate)!
+You can [request my services](/services) or [donate to me](/donate)!
 
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap).
