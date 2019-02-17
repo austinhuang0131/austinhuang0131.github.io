@@ -47,6 +47,8 @@ All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE 
 I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.)
 
 ### List
+Ordered by time of testing.
+
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
 * wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
@@ -58,6 +60,9 @@ I have tested all the scenarios below. ATS/ATC instructions are included. (Many 
   * [Tokyo Monorail](#tokyo-monorail) (ATC)
 * Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
 * L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
+* L53 / Susubaru: Hankyu lines (ATS)
+* Gigaclone: Shintetsu (Kobe Electric) Arima Line (ATS)
+* Nanairo Project: Keisei Line / Toei Asakusa Line / Keikyu Line / Keikyu Airport Line (ATC)
 
 #### Legend
 * (P): Permission obtained for posting
@@ -162,4 +167,4 @@ For any issues, please [contact me](https://austinhuang.me/contact) or comment b
 
 Header made using [Sigene](https://tr246.github.io/Sigene/).
 
-このサイトはリンクフリーです。リンクの際にこのバナー ([フルサイズ](https://raw.ratelimited.me/bqdbu307pq.png) / [200x110](https://raw.ratelimited.me/m0nz6mblsr.png)) にご利用ください。お問い合わせは `im アット austinhuang ドット me` へ。
+このサイトはリンクフリーです。リンクの際にこのバナー ([フルサイズ](https://raw.ratelimited.me/bqdbu307pq.png) / [200x110](https://raw.ratelimited.me/m0nz6mblsr.png)) にご利用ください。お問い合わせは `im アット austinhuang ドット me` へ（日本語片対応、返信は英語のみ）。
