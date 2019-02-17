@@ -49,7 +49,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 #flickr_badge_wrapper {width:300px;text-align:left;float:right;}
 </style><div id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm planning to move to Zonerama once I can be absolutely sure that they won't do that like Flickr.
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com).
 
 ## My other online stuff, like social media
 <div style="float:right;" width="300">
