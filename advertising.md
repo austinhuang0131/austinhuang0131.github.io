@@ -7,8 +7,6 @@ permalink: /advertising
 
 [Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to see more guides!](./sitemap)
 
-**Stop Discord Trust & Safety Abuse!** If Discord does not address the situation involving Trust & Safety member breaking their own rules for their personal preference, they deserve the shutdown from the Feds. **#ChangeDiscord** ([Background thread](https://twitter.com/nickmon1112/status/1092469779137482755), [Newsweek](https://www.newsweek.com/discord-furries-terms-service-community-guidelines-1323099), [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/#1d6403603741))
-
 ## Free people for your Discord server!
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
@@ -63,10 +61,12 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * ~2000 servers
 * [Discordeame](https://discordea.net) **SPANISH**
   * 1700+ servers
+<!-- Delisted for dmad until further notice
 * [DiscordLink](https://discordlink.com/?action=referral&referral=15402470437590489)
   * 940+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Referral program to get free premium spot for your server
+-->
 * [Discord Services](http://discord.services)
   * 250+ servers
   * Server owners can bump every 4 hours for free
