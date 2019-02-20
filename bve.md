@@ -47,7 +47,7 @@ All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE 
 I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.)
 
 ### List
-Ordered by time of testing.
+In no particular order.
 
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
@@ -63,6 +63,9 @@ Ordered by time of testing.
 * L53 / Susubaru: Hankyu lines (ATS)
 * Gigaclone: Shintetsu (Kobe Electric) Arima Line (ATS)
 * Nanairo Project: Keisei Line / Toei Asakusa Line / Keikyu Line / Keikyu Airport Line (ATC)
+* trant9123: Tokyo Toyoko Line / Minatomirai Line (ATC-Usao)
+* maihime:
+  * Narita Line, Abiko Branch
 
 #### Legend
 * (P): Permission obtained for posting
