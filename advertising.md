@@ -3,6 +3,7 @@ title: I'd like to advertise my Discord server/bot!
 description: Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!
 comments: true
 permalink: /advertising
+image: ./assets/meme.jpg
 ---
 
 [Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to see more guides!](./sitemap)
