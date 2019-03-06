@@ -1,14 +1,18 @@
 ---
 title: Hello there! I'm Austin Huang.
-description: That's just my homepage/"resume". What else do you expect?
+description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. What else do you expect?
 comments: true
 ---
 
-<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
+<style>
+@media ( max-width : 400px) {
+    .disappear {
+        display: none !important;
+    }
+}
+</style>
 
-<blockquote>
-In my dictionary, there is no place for the word "Rules".
-</blockquote>
+<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="100"/>
 
 Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
@@ -52,7 +56,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com).
 
 ## My other online stuff, like social media
-<div style="float:right;" width="300">
+<div style="float:right;" class="disappear" width="300">
 <a href="https://instawidget.net/v/user/austinhuang.me" id="link-bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60">@austinhuang.me</a>
 <script src="https://instawidget.net/js/instawidget.js?u=bf2840a06c81ff33630a7ecce88048809f1bda7467050b99dace8eac2c5c6c60&width=300px"></script>
 </div>
@@ -91,7 +95,7 @@ Honestly, I know more people in Montréal than in Shanghai. <small>Mostly due to
 Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the Wu language, which is a disappearing language.
 
 ### What about a formal resume, *please?*
-<img src="./assets/uno4.jpeg" alt="+4" align="right"/>
+<img src="./assets/uno4.jpeg" alt="+4" class="disappear" align="right"/>
 
 No u. ***Y E E T***
 
