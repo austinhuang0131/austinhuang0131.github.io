@@ -19,7 +19,6 @@ Want to list more places to advertise? Please contact me at [my support server](
 * [Bots](#bots)
 * [Listing Servers](#listing-servers)
 * [Subreddits](#subreddits)
-* [Extra: Paid services](#extra-paid-services)
 * [For bot devs: Free guilds for your Discord bot!](#free-guilds-for-your-discord-bot)
   
 ### Websites
