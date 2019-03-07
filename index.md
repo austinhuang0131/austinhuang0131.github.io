@@ -5,14 +5,17 @@ comments: true
 ---
 
 <style>
-@media ( max-width : 400px) {
+@media ( max-width : 800px) {
     .disappear {
         display: none !important;
+    }
+    .resize {
+        width: 200px !important;
     }
 }
 </style>
 
-<img src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="100"/>
+<img class="resize" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
 
 Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
@@ -51,9 +54,9 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 .flickr_badge_image img {border: 0px solid #BADA55 !important; padding:0px; margin:0px;}
 .flickr_badge_image a:after {content: none !important;}
 #flickr_badge_wrapper {width:300px;text-align:left;float:right;}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+</style><div class="disappear" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com).
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
 ## My other online stuff, like social media
 <div style="float:right;" class="disappear" width="300">
@@ -64,6 +67,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
 * [Discord](https://discord.gg/8uFr3J3)
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
+* [Instagram](https://instagram.com/austinhuang.me)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
