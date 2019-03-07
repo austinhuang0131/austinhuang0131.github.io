@@ -9,13 +9,16 @@ comments: true
     .disappear {
         display: none !important;
     }
-    .resize {
-        width: 200px !important;
+    .resize1 {
+        width: 150px !important;
+    }
+    .resize2 {
+        width: 100% !important;
     }
 }
 </style>
 
-<img class="resize" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
+<img class="resize1" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
 
 Hi there! I'm a high school student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
@@ -54,7 +57,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 .flickr_badge_image img {border: 0px solid #BADA55 !important; padding:0px; margin:0px;}
 .flickr_badge_image a:after {content: none !important;}
 #flickr_badge_wrapper {width:300px;text-align:left;float:right;}
-</style><div class="disappear" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+</style><div class="resize2" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
