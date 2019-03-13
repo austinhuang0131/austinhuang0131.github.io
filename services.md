@@ -11,7 +11,6 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [Cantox Studios](https://discord.gg/UaUtCmw)
 * [Cookie's Community](https://discord.gg/YSYtKcc)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
-* [InFlamesWeMust](https://twitch.tv/inflameswemust)
 * [Isles Gaming](https://discord.gg/AB42Xpu)
 * [Peaceful CEO](http://www.pceo.online/)
 
