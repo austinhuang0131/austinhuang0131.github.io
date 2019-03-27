@@ -10,9 +10,11 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 ### Discord
 * [Cantox Studios](https://discord.gg/UaUtCmw)
 * [Cookie's Community](https://discord.gg/YSYtKcc)
+* [Debates Discord](https://opencollective.com/debates)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
 * [Isles Gaming](https://discord.gg/AB42Xpu)
 * [Peaceful CEO](http://www.pceo.online/)
+* [WF Empire of the Void](https://www.guilded.gg/WFempire)
 
 ### Telegram
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
