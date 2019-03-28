@@ -13,6 +13,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [Debates Discord](https://opencollective.com/debates)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
 * [Isles Gaming](https://discord.gg/AB42Xpu)
+* [MyTune](https://discord.gg/AywxNkB)
 * [Peaceful CEO](http://www.pceo.online/)
 * [WF Empire of the Void](https://www.guilded.gg/WFempire)
 
