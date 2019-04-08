@@ -13,6 +13,7 @@ You asked, here's the answer.
 * [Compare Instagram followings/followers list](./instagram-compare)
 * [Incomplete guide in Canadian reward programs](./canadareward)
 * [OpenGeofiction Public Transport Viewer](./ogf-route-relations.html)
+* [PsychoPoly: Monopoly, but in psych medications](./psychopoly)
 
 ## Personal
 * [Contact](./contact)
