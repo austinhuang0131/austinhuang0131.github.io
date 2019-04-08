@@ -1,5 +1,5 @@
 ---
-title: PsychoPoly: Monopoly, but in psych medications
+title: ! 'PsychoPoly: Monopoly, but in psych medications'
 description: tfw u made a board game for your school's psych project
 comments: true
 permalink: /psychopoly
