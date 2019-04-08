@@ -1,8 +1,8 @@
 ---
 title: Hey, what does this site offer?
+description: You asked, here's the answer.
+permalink: /sitemap
 ---
-
-You asked, here's the answer.
 
 ## Discord-related
 * **[Advertising Guide](./advertising)**
