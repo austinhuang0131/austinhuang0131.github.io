@@ -68,7 +68,6 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 </div>
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
-* [Discord](https://discord.gg/8uFr3J3)
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
 * [Instagram](https://instagram.com/austinhuang.me)
 * [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
