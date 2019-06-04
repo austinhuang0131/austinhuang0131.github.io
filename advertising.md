@@ -100,6 +100,7 @@ I will update this list **on request only**.
 * [Discord Portal](https://discord.gg/KmZETQW) (Discord-Partnered)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Discord Server Portal™](https://discord.gg/DbZd8pg)
+* [Global Advertiser](https://discord.gg/G6qrdU2)
 * [Pandora List](https://discord.gg/mU9ezQ2)
 * [Saiyan's Advertisements](https://discord.gg/s8dGbpz)
 * [Server Advertisement List](http://discord.gg/Gb9gjd3)
