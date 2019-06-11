@@ -113,7 +113,7 @@ ogf.wayPoints = function( way, ctx ){
 };
 
 ogf.publicTransport = function( layer, routeIds, type ){
-    type = !type ? "bus|train|tram|light_rail|subway" : type;
+    type = !type ? "bus|train|tram|light_rail|subway|monorail|aerialway" : type;
     map.fire( 'dataloading' );
     var hInfo = {layer: layer, routesDrawn: {}};
     loadRouteData( routeIds, type, function(ctx){
@@ -278,7 +278,10 @@ function movingObject(){
   <input type="checkbox" value="tram" checked>Tram </input>
   <input type="checkbox" value="light_rail" checked>Light Rail </input>
   <input type="checkbox" value="subway" checked>Subway </input>
+  <input type="checkbox" value="monorail" checked>Monorail </input>
+  <input type="checkbox" value="aerialway" checked>Aerialway </input>
   <input type="checkbox" value="ferry">Ferry </input>
+  <input type="checkbox" value="funicular">Funicular </input>
   <button style="margin:5px;width:100px;" onclick="reloadPublicTransport()">Reload</button>
   This is a modified version of the <a href="https://tile.opengeofiction.net/util/route_relations.html">original</a>. <a href='https://opengeofiction.net/user/austinhuang/diary/2110'>Details...</a>
 </div>
