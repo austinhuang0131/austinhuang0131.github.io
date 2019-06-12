@@ -38,7 +38,7 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * 46000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disli.st)
-* [Discord Servers](https://discservs.co)
+* [Discord Servers](https://discordservers.com/)
   * Second-Largest? ("~40k servers" as of Dec 22 2018), oldest
   * More like a search engine
 * [Discord Center](https://discord.center/?a=cod4xXUltltp)
