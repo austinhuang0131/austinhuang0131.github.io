@@ -14,7 +14,7 @@ image: https://austinhuang.me/assets/meme.jpg
 
 Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
 
-Want to list more places to advertise? Please contact me at [my support server](https://discord.gg/013MqTM1p1qm52VcZ). **This server is for support relating to this guide!**
+Want to list more places to advertise? Please contact me at `The Double-Eyed Bus#6889` or [here](./contact).
 
 * [Websites](#websites)
 * [Bots](#bots)
