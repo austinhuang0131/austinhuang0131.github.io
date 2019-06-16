@@ -9,6 +9,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 
 ### Discord
 * [Cantox Studios](https://discord.gg/UaUtCmw)
+* [Christmas Winter](https://discord.gg/WsZz6c3)
 * [Cookie's Community](https://discord.gg/YSYtKcc)
 * [Debates Discord](https://opencollective.com/debates)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
