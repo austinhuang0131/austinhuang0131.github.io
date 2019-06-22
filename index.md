@@ -31,7 +31,6 @@ If you need a job description, that'll be "high school student/freelance develop
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
-* I have a [Minecraft server](./minecraft) co-owned with [Michael O](https://michaelo.online). I also maintain a [personal adblock list](/0131-block-list) and [some guides (which are on this site)](./sitemap).
 
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
