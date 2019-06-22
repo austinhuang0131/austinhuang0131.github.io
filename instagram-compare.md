@@ -5,6 +5,13 @@ description: Weed out the fakes! Here's one simple trick to effectively compare 
 permalink: /instagram-compare
 ---
 
+# THIS IS OUTDATED
+I WILL UPDATE WHEN I CAN
+
+Since Instagram also allowed sorting followings/followers by time, it should be easier to track them down.
+
+---
+
 ~~tbh it requires some knowledge, not just "simple" simple~~
 
 **REQUIRES A COMPUTER WITH CHROME ON IT.** I tested this method on November 7 2018, if it deprecates please [contact me](https://instagram.com/austinhuang.me).
