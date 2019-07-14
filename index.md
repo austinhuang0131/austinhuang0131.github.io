@@ -35,9 +35,9 @@ If you need a job description, that'll be "high school student/freelance develop
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
 
-* [Disboard](http://disboard.org/) (Co-Owner)
+* [Disboard](http://disboard.org/) (Admin)
 * [Discord Center](http://discord.center) (Moderator)
-* [Discordservers.me](https://discordservers.me/) (Staff)
+* [Discordservers.me](https://discordservers.me/) (Admin)
 * [Endless Hosting](http://theendlessweb.com) (Head Support)
 * Circuit admin for these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
 
@@ -85,12 +85,10 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 
 Coding, mapping, commenting on local/global affairs (Some posted on [Tumblr](https://blog.austinhuang.me) - Oh, and I only used it for the free custom domain, I don't really like Tumblr), model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime quite rarely (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
-Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic (Probably because their school trained them so for the award). I was [memed](https://twitter.com/AJ_MARI2019/status/1094277224344289288) [so](https://twitter.com/NYT_MARI2019/status/1094372271404302336) [hard](https://twitter.com/LP_MARI2019/status/1094363232091979776) in MariMUN 2019 that I almost lost all reasons to exist /s.
-
-Self-proclaimed Discord Affairs (aka. Dramas) Investigator.
+Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic.
 
 ### Hardware?
-A school-provided fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services. That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
+A school-provided fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://simonguo.tech/) did and went abroad at the same time as he did, though he's 1 year older than me. He's the *hacky* kind, I'm more the *pragmatic* kind.
@@ -102,9 +100,9 @@ Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a di
 ### What about a formal resume, *please?*
 <img src="./assets/uno4.jpeg" alt="+4" class="disappear" align="right"/>
 
-No u. ***Y E E T***
+I'm likely not going to put my resume on the website.
 
-I'm likely not going to put my resume on the website. Don't question it.
+If I applied for a job, a resume would be provided.
 
 ### Hey, you look cool. How can I support you?
 You can [request my services](/services) or [donate to me](/donate)!
