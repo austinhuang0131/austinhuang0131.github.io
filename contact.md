@@ -2,6 +2,8 @@
 title: I'd like to contact you!
 ---
 
+<big>Until August 17, 2019, I am only reachable by email at either im@austinhuang.me or austinhuang0131@qq.com. Any message sent to other contacts will be viewed after that date.</big>
+
 * [The old-fashion way of email](mailto:im@austinhuang.me) `im@austinhuang.me`
 * [The old-fashion way of email but seems to be more secure](mailto:0131@pm.me) `0131@pm.me`
 * Discord: `The Double-Eyed Bus#6889`
