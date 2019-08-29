@@ -4,8 +4,6 @@ description: Here, I'm a Discord bot developer who has done many privaate contra
 comment: true
 ---
 
-<big>I will NOT accept new commissions until August 17, 2019.</big>
-
 ## Bot and Translation Services
 I can write you a Discord/Telegram bot, or do some translation work for you. Below are groups I've successfully worked with.
 
