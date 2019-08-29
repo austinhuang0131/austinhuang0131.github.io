@@ -14,9 +14,9 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 * [Christmas Winter](https://discord.gg/WsZz6c3)
 * [Cookie's Community](https://discord.gg/YSYtKcc)
 * [Debates Discord](https://opencollective.com/debates)
+* [Emoji for Nitro Users](https://discord.gg/ebwx7YM)
 * [Glowstone Games](https://discord.gg/MjA5jaf)
 * [Isles Gaming](https://discord.gg/AB42Xpu)
-* [MyTune](https://discord.gg/AywxNkB)
 * [Peaceful CEO](http://www.pceo.online/)
 * [WF Empire of the Void](https://www.guilded.gg/WFempire)
 
