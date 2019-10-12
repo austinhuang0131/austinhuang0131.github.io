@@ -22,7 +22,7 @@ comments: true
 
 Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
 
-If you need a job description, that'll be "high school student/freelance developer". I just put everything on my website, it's not actually a *resume*.
+If you need a job description, that'll be "college student/freelance developer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
 * [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Hosted by [SunburntRock89](https://github.com/SunburntRock89).
