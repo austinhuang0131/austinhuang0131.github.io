@@ -226,6 +226,8 @@ function objText( obj ){
     if (obj.tags.operator) objText += '<br><b>Operated by:</b> '+obj.tags.operator;
     if (obj.tags.network) objText += '<br><b>Network:</b> '+obj.tags.network;
     if (obj.tags.from && obj.tags.to) objText += '<br><b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
+    if (obj.tags.via) objText += ' (Via: '+obj.tags.via+')';
+    if (obj.tags.note) objText += '<br><b>Note:</b> '+obj.tags.note;
     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
     objText += '<br><a href="javascript:loadOneLine(' + obj.id + ')">Show only this line</a>';
     return objText;
