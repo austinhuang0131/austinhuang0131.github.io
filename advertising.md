@@ -81,7 +81,7 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
 ### Bots
-Ordered by server count as of Jan 4 2019.
+Ordered by server count as of October 11, 2019.
 
 * [DSC](https://discordbots.org/bot/415773861486002186) (3218 servers, 2 hour bump interval)
 * [Bump Central](https://discordbots.org/bot/478290034773196810) (2412 servers, 1 hour bump interval)
