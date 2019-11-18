@@ -21,7 +21,7 @@ Want to list more places to advertise? Please contact me at `The Double-Eyed Bus
 * [Listing Servers](#listing-servers)
 * [Subreddits](#subreddits)
 * [For bot devs: Free guilds for your Discord bot!](#free-guilds-for-your-discord-bot)
-  
+
 ### Websites
 Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
 
@@ -77,17 +77,17 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * Allow ratings (votes)
 * [serverlist.space](https://serverlist.space)
   * 30+ servers
-  
+
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
 ### Bots
-Ordered by server count as of Jan 4 2019.
+Ordered by server count as of October 11, 2019.
 
-* [DSC](https://discordbots.org/bot/415773861486002186) (927 servers, 2 hour bump interval)
-* [HaileyBot](https://discordbots.org/bot/423637161632464906) (417 servers, 2 hour bump interval)
-* [Bump Central](https://discordbots.org/bot/478290034773196810) (392 servers, 1 hour bump interval)
-* [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval)
-
+* [DSC](https://discordbots.org/bot/415773861486002186) (3218 servers, 2 hour bump interval)
+* [Bump Central](https://discordbots.org/bot/478290034773196810) (2412 servers, 1 hour bump interval)
+* [Open Bump](https://top.gg/bot/546999467887427604) (1180 servers, 1 hour bump interval)
+* [HaileyBot](https://discordbots.org/bot/423637161632464906) (1096 servers, 2 hour bump interval)
+<!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
 Use ServerMate at your own risk. I don't suggest it as it require Administrator and a `#bump` channel in the server to bump.
 
 ### Listing Servers
@@ -107,6 +107,7 @@ I will update this list **on request only**.
 * [The Hub](https://discord.gg/dGUC3F6)
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
+* [Open Advertisements](https://discord.gg/advertise)
 
 ### Subreddits
 Sorted by sub count as of April 16, 2018. Except the listed ones, all others are either new or unmaintained/abandoned.
