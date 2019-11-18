@@ -44,7 +44,7 @@ You can see my [GitHub profile](http://github.com/austinhuang0131). I am current
 ## My translations
 I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
 
-* [Disboard](http://disboard.org/) (All of Chinese translation)
+* [Disboard](http://disboard.org/) (All of Chinese translation, plus small fixes on other languages)
 * [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
   * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
   * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
@@ -74,7 +74,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 * [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
-* [Snapchat](http://www.snapchat.com/add/austin0131mtl): Most stories are PSAs. You've been warned. Don't expect anything about me irl.
+* [Snapchat](http://www.snapchat.com/add/austin0131mtl)
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
@@ -83,12 +83,10 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 ### Hobbies?
 <img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300"/>
 
-Coding, mapping, commenting on local/global affairs (Some posted on [Tumblr](https://blog.austinhuang.me) - Oh, and I only used it for the free custom domain, I don't really like Tumblr), model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. And Anime quite rarely (≤3 series per year). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
-
-Yes, I do model UN, even though many people believe I'm the *last* person who would do that. I consider myself more realistic than most people, who are usually idealistic.
+Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
 
 ### Hardware?
-A school-provided fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
+A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
 
 ### You said you're from...Shanghai?
 Yeah. I actually went to the same high school as [@simonguozirui](https://simonguo.tech/) did and went abroad at the same time as he did, though he's 1 year older than me. He's the *hacky* kind, I'm more the *pragmatic* kind.
@@ -102,7 +100,7 @@ Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a di
 
 I'm likely not going to put my resume on the website.
 
-If I applied for a job, a resume would be provided.
+Should I apply for a job, a resume would be provided.
 
 ### Hey, you look cool. How can I support you?
 You can [request my services](/services) or [donate to me](/donate)!
