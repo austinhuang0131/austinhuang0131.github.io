@@ -1,14 +1,11 @@
 ---
 title: Hello there! I'm Austin Huang.
-description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. What else do you expect?
+description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. Have fun... I guess.
 comments: true
 ---
 
 <style>
 @media ( max-width : 800px) {
-    .disappear {
-        display: none !important;
-    }
     .resize1 {
         width: 150px !important;
     }
@@ -20,9 +17,9 @@ comments: true
 
 <img class="resize1" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript, operates chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact).
+Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies,  and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
 
-If you need a job description, that'll be "college student/freelance developer". I just put everything on my website, it's not actually a *resume*.
+If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
 * [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Hosted by [SunburntRock89](https://github.com/SunburntRock89).
@@ -58,7 +55,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 #flickr_badge_wrapper {width:300px;text-align:left;float:right;}
 </style><div class="resize2" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
 
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on my [Flickr](https://flic.kr/austin0131). Honestly, the 1000 photo rule is more than stupid. I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
 ## My other online stuff, like social media
 <div style="float:right;" class="disappear" width="300">
@@ -81,26 +78,17 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones) of my photos on 
 ~~No u.~~ Obviously, sure. You can even comment below to ask even more question, eh?
 
 ### Hobbies?
+Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes, also classical/organ remixes) ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
+
+#### Model UN?
 <img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300"/>
 
-Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to sick beats ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
+Model UN is great. Strongly recommended. Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
 
 ### Hardware?
-A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it. I mean, after all, I'm not the super-hyped computer science guy anyway. They're hobbies and will remain so.
+A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
 
-### You said you're from...Shanghai?
-Yeah. I actually went to the same high school as [@simonguozirui](https://simonguo.tech/) did and went abroad at the same time as he did, though he's 1 year older than me. He's the *hacky* kind, I'm more the *pragmatic* kind.
-
-Honestly, I know more people in Montréal than in Shanghai. <small>Mostly due to model UN, since it's more a social event than a competition, you just can't deny that straight truth.</small>
-
-Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the Wu language, which is a disappearing language.
-
-### What about a formal resume, *please?*
-<img src="./assets/uno4.jpeg" alt="+4" class="disappear" align="right"/>
-
-I'm likely not going to put my resume on the website.
-
-Should I apply for a job, a resume would be provided.
+Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the disappearing Wu language. Let's say that's a *software* in my brain.
 
 ### Hey, you look cool. How can I support you?
 You can [request my services](/services) or [donate to me](/donate)!
