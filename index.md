@@ -48,14 +48,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   
 ## My photos
 
-<style type="text/css"> 
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 0px solid #BADA55 !important; padding:0px; margin:0px;}
-.flickr_badge_image a:after {content: none !important;}
-#flickr_badge_wrapper {width:300px;text-align:left;float:right;}
-</style><div class="resize2" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
-
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
 
 ## My other online stuff, like social media
 <div style="float:right;" class="disappear" width="300">
