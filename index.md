@@ -58,7 +58,8 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
 
 ## My other online stuff, like social media
-<iframe src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:315px; height:315px"></iframe>
+
+<iframe style="float:right;" class="disappear" src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:315px; height:315px"></iframe>
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
