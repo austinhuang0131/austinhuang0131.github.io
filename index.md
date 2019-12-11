@@ -50,7 +50,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 ## My photos
 
 <div class="resize1" style="float:right;"></div>
-<script type="text/javascript" src="javascript-flickr-badge/master/javascript-flickr-badge.min.js"></script>
+<script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
   jsFlickrBadge(document.getElementById('myElement'), {
       // your Flickr ID (find it here)
