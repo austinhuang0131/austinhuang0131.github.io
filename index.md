@@ -52,27 +52,17 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 <div class="resize1" style="float:right;"></div>
 <script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
-  jsFlickrBadge(document.getElementById('myElement'), {
-      // your Flickr ID (find it here)
-      flickrId: '136075370@N04@N00',
-      // feed type. user, group, contacts, etc.
-      feed: 'user',
-      // optional comma-delimited tags to filter by, only used with 'user' feed
-      tags: '',
-      // number of rows to display
-      rows: 4,
-      // number of columns to display
-      columns: 4,
-      // size of each thumbnail (any bigger than 75 will cause pixelization)
-      size: 75,
-      // animation to use.
-      // one of: vscroll, random, vscroll, shuffle, zoom, scroll, flipX, flipY
-      animation: 'vscroll',
-      // seconds each animation takes
-      animationSpeed: 1,
-      // seconds between each animation
-      animationPause: 2
-    });
+   jsFlickrBadge(document.getElementById('myElement'), {
+       flickrId: '136075370@N04@N00',
+       feed: 'user',
+       tags: '',
+       rows: 4,
+       columns: 4,
+       size: 75,
+       animation: 'vscroll',
+       animationSpeed: 1,
+       animationPause: 2
+     });
 </script>
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
