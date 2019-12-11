@@ -14,11 +14,6 @@ permalink: /
         width: 100% !important;
     }
 }
-    
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 0px solid #BADA55 !important; padding:0px; margin:0px;}
-.flickr_badge_image a:after {content: none !important;}
-#flickr_badge_wrapper {width:300px;text-align:left;float:right;}
 </style>
 
 <img class="resize1" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
@@ -54,7 +49,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   
 ## My photos
 
-<div class="resize2" id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=136075370@N04"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
+<iframe class="resize1" style="position: relative; top: 0; left: 0; width: 300px; height: 300px; float:right;" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=flickr.com/photos/austin0131&sort=0&by=user&theme=tilesgrid&scale=fill&speed=1000&limit=60&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p>newly launched coupon website <a  href="https://www.codeguesser.co.uk/">called CodeGuesser</a></p><small>Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
 
