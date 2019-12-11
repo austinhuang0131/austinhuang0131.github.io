@@ -59,7 +59,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
        rows: 4,
        columns: 4,
        size: 75,
-       animation: 'vscroll',
+       animation: 'flipX',
        animationSpeed: 1,
        animationPause: 2
      });
