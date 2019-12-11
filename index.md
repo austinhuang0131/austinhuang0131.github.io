@@ -53,7 +53,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 <script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
-       flickrId: '136075370@N04@N00',
+       flickrId: '136075370@N04',
        feed: 'user',
        tags: '',
        rows: 4,
