@@ -49,7 +49,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   
 ## My photos
 
-<div class="resize1" style="float:right;"></div>
+<div class="resize1" id="myElement" style="float:right;"></div>
 <script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
