@@ -87,6 +87,7 @@ Ordered by server count as of October 11, 2019.
 * [Bump Central](https://discordbots.org/bot/478290034773196810) (2412 servers, 1 hour bump interval)
 * [Open Bump](https://top.gg/bot/546999467887427604) (1180 servers, 1 hour bump interval)
 * [HaileyBot](https://discordbots.org/bot/423637161632464906) (1096 servers, 2 hour bump interval)
+* [PYS Bump](https://top.gg/bot/614970561977909251) ( 467 servers, 2 hour bump interval)
 <!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
 Use ServerMate at your own risk. I don't suggest it as it require Administrator and a `#bump` channel in the server to bump.
 
@@ -108,6 +109,7 @@ I will update this list **on request only**.
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
 * [Open Advertisements](https://discord.gg/advertise)
+* [Promote Your Servers](https://discord.gg/ZFxYT27)
 
 ### Subreddits
 Sorted by sub count as of April 16, 2018. Except the listed ones, all others are either new or unmaintained/abandoned.
