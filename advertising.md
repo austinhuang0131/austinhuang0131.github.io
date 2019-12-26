@@ -108,7 +108,7 @@ I will update this list **on request only**.
 * [The Hub](https://discord.gg/dGUC3F6)
 * [The Portal](https://discord.gg/6HtGJ98)
 * [United Server Listings](https://discord.gg/HbATpW2)
-* [Open Advertisements](https://discord.gg/advertise)
+* [Open Advertisements](https://discord.gg/eBFu8HF)
 * [Promote Your Servers](https://discord.gg/ZFxYT27)
 
 ### Subreddits
