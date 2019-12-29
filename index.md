@@ -23,9 +23,9 @@ Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
-* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Hosted by [SunburntRock89](https://github.com/SunburntRock89).
+* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 * [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Hosted on Heroku.
-* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving 7 Discord bots. Co-owned with [MacDue](https://github.com/MacDue).
+* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-owned with [PizzaFox](https://jonah.pw).
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
