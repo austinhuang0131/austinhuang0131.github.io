@@ -98,7 +98,8 @@ I will update this list **on request only**.
 
 * [Advertise Your Server](https://discord.gg/RrjdrGQ)
 * [Discord Advertising](https://discord.gg/qHACJg3)
-* [Discord Portal](https://discord.gg/KmZETQW) (Discord-Partnered)
+* [Discord Growth Portal](https://discord.gg/AG992Gc)
+* [Discord Portal](https://discord.gg/KmZETQW)
 * [Discord Server Central](http://discord.gg/PrzjCjG)
 * [Discord Server Portal™](https://discord.gg/DbZd8pg)
 * [Global Advertiser](https://discord.gg/G6qrdU2)
