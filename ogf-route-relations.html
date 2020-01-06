@@ -165,6 +165,7 @@ function drawRoute( rel, ctx, hInfo ){
     }
     hInfo.routesDrawn[rel.id] = true;
     var closedWays = ogf.buildWaySequence( ctx, rel.id, null, {role: '^(|route|forward|backward|reverse)$', copy: true} );
+    if (!closedWays) return console.log("Relation "+rel.id+" has no ways???") // _DEBUG_
     closedWays.forEach( function(way){
         var line = ogf.wayPoints( way, ctx ),
             popupText = objText(rel),
