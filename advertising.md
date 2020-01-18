@@ -121,36 +121,7 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 ## Free guilds for your Discord bot!
-Sorted by list size as of August 19, 2018. Most bot listings require verification process for each bots.
-
-**New!** [BotBlock](https://botblock.org/) provides an API that can let you post server count in multiple listing in 1 request!
-
-* [Discord Bot List](https://discordbots.org)
-  * 3300+ bots
-  * Certification Program
-  * Allows user rating (Upvotes)
-* [Discord Bots](https://bots.discord.pw)
-  * 1200+ bots
-* [Bots for Discord](https://botsfordiscord.com/?ref=austinhuang.me)
-  * 300+ bots
-* [BotList.space](https://botlist.space/)
-  * 250+ bots
-  * Allows user rating (Upvotes)
-* [Discord.Services](http://discord.services/bots/?ref=austinhuang.me)
-  * 230+ bots
-* [Discord Bot World](https://discordbot.world/)
-  * 100+ bots
-  * Allows user rating (Likes)
-* [DiscordBotList.com](https://discordbotlist.com/)
-  * 60+ bots
-  * No verification wait!
-  * Certification Program
-  * Allows user rating (Upvotes)
-* [DiscordBots.Group](https://discordbots.group/)
-  * 60+ bots
-  * Certification Program
-* [Discord Music Bots](https://www.discordmusicbots.com/?ref=austinhuang.me)
-  * Just music bots
+Use [BotBlock](https://botblock.org/) to find bot lists.
 
 **Any reproduction of this guide is forbidden.**
 
