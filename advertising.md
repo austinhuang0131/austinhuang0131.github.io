@@ -45,8 +45,6 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * 26000+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Allow ratings (stars)
-  * Allow buying/selling shoutouts
-  * Cash rewards for referring people to the site
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>Discord Bot List</i></small>
   * 14000+ servers
 * [DiscordSL.com](https://discordsl.com/)
@@ -63,12 +61,6 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * ~2000 servers
 * [Discordeame](https://discordea.net) **SPANISH**
   * 1700+ servers
-<!-- Delisted for dmad until further notice
-* [DiscordLink](https://discordlink.com/?action=referral&referral=15402470437590489)
-  * 940+ servers
-  * Server owners can bump every 2 hours for free, on site and on bot
-  * Referral program to get free premium spot for your server
--->
 * [Discord Services](http://discord.services)
   * 250+ servers
   * Server owners can bump every 4 hours for free
