@@ -8,7 +8,7 @@ title: I'd like to donate!
 * ETH: `0x6f21441a34f9F5784d2A34f8A8e604B4f88531d1`
 * LTC: `LMNRZxHrs9s46f6fpYdvPwPm258ypnY1Tk`
 * BCH: `qqf6j75rnpref5nl0s0p8zky377myjdp8y8m8l42ff`
-  * For all 3 currencies above, you can also send to `austinhuang0131@icloud.com` if you have a Coinbase account (Avoids network fees).
+  * For all 3 currencies above, you can also send to `austinhuang0131@gmail.com` if you have a Coinbase account (Avoids network fees).
 * XLM: Either `GDXLUCKYAA4DX53NMDKYBLW6ON6YHM2WTMEAVFDBIMXVZWNKCVPPUITN` (Federated: `austinhuang*keybase.io`), or send to Coinbase above
 
 {% include def.html %}
