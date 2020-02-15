@@ -1,6 +1,6 @@
 ---
 title: List of Cool People I recommend!
-description: Here I list some of my acquintances that have demonstrated certain skills. aka. "People I would provide a reference for".
+description: Here I list some of my acquaintances that have demonstrated certain skills. aka. "People I would provide a reference for".
 comments: true
 ---
 
@@ -8,7 +8,7 @@ comments: true
 
 To be listed here, you need to:
 
-* Be an acquintance to me, either:
+* Be an acquaintance to me, either:
   * Have been my classmate (at my discretion), or
   * Have communicated with me frequently.
 * Possesses a skill that's enough to provide a service (How should I word it...), i.e. fits in one of the categories below,
