@@ -18,4 +18,5 @@ permalink: /sitemap
 ## Personal
 * [Contact](./contact)
 * [Donate](./donate)
+* [Reference](./reference)
 * [Services](./services)
