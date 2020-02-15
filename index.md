@@ -103,6 +103,6 @@ Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a di
 You can [request my services](/services) or [donate to me](/donate)!
 
 ### What other stuff are there on this website?
-You can have a look at the [sitemap](/sitemap).
+You can have a look at the [sitemap](/sitemap). Also, don't forget to check out [my friends' work](/reference)!
 
 {% include def.html %}
