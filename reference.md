@@ -30,4 +30,4 @@ To be listed here, you need to:
 * Mitchell Rademaker (D: `Mitchell#6410`, G: [@Mitchell3514](https://github.com/Mitchell3514)): Maintains [DiscordTel](https://discordtel.austinhuang.me). JavaScript.
 
 ## Misc
-* Michael O (D: `michaelnj1#8557`): Sneakers buy/sell.
+* Michael O (D: `michaelnj1#8557`): Sneakers trading.
