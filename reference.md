@@ -20,6 +20,7 @@ To be listed here, you need to:
 ## Art
 * Anna (I: [@ayamerocks](https://instagram.com/ayamerocks)): Comics / Sketch.
 * Baempaieo (D: `Baempaieo#7021`, I: [@baempaieo_cookie](https://instagram.com/baempaieo_cookie)): Funky digital illustrations.
+* BlackDaisy (D: `Blackdaisy#5085`, I: [@blackdaisy.art](https://instagram.com/blackdaisy.art)): Pencil sketch / Digital.
 * Helena Silen (I: [@helena_makes_art](https://instagram.com/helena_makes_art)): Papercraft / Painting.
 * [Lucas Flicky](http://lucasflicky.com/) (D: `Flicky#9065`): Game art / Commercial visuals.
 
