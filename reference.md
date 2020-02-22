@@ -25,6 +25,7 @@ To be listed here, you need to:
 * [Lucas Flicky](http://lucasflicky.com/) (D: `Flicky#9065`): Game art / Commercial visuals.
 
 ## Coding
+* [Harshdip Singh Deogan](https://hsdeogan.com/) (G: [@HarshdipD](https://github.com/HarshdipD)): Web / Frontend developer, Ruby on Rails / Python.
 * [Jonah Snider (PizzaFox)](https://jonah.pw) (D: `PizzaFox#0075`, G: [@pizzafox](https://github.com/pizzafox)): Creates and operates various projects, including [Dice](https://dice.js.org), [Discoin](https://dash.discoin.zws.im) (with me and Mitchell), and [Zero Width Shortener](https://zws.im). TypeScript / JavaScript.
 * [Michael Cao](https://mikecao.me/) (D: `mikex#9999`, G: [@mcao](https://github.com/mcao)): One of MLH's Top 50 Hackers. Hackathon organizer. JavaScript.
 * Mitchell Rademaker (D: `Mitchell#6410`, G: [@Mitchell3514](https://github.com/Mitchell3514)): Maintains [DiscordTel](https://discordtel.austinhuang.me). JavaScript.
