@@ -94,9 +94,9 @@ To start the train from the terminus, you'll need to press ATS 0 (S) - ATS 13 (J
 ### Keihan Keishin Line
 Detailed scenary means it's **Resource-Heavy! Requires good GPU!!!**
 
-Download [here](https://www.like-a-lake.com/bve-keihan-keishin/). Find "Mirror site(yahoo box)" and you'll see two columns: The left with Installer, the right without. You'll also see a OneDrive link and a Yahoo Box (Japanese) link.
+Download [here](https://www.like-a-lake.com/bve-trainsim5/bve-keihan-keishin-top.html). Find "Mirror site(yahoo box)" and you'll see two columns: The left with Installer, the right without. You'll also see a OneDrive link and a Yahoo Box (Japanese) link.
 
-* Station names are in English. [The manual](https://www.like-a-lake.com/bve-keihankeishin-drive.html) is in Japanese, but the pictures are in English.
+* Station names are in English. [The manual](https://www.like-a-lake.com/bve-trainsim5/howtodrive-keishin.html) is in Japanese, but the pictures are in English.
 * Mac users: Ignore errors when loading the scenario, they don't affect the gameplay that much. Tested multiple times.
 * To start the train from the terminus, you'll need to press <kbd>5</kbd> to enable ATS (Or you will not be able to drive - The line does not have ATO), and switch the reverser to the front. Then, **remain on Emergency Brake** until you're told to depart by the screen message (Or ATS will stop you, reason unknown. If you forgot this: Get back on P0 AND Emergency Brake (By pressing <kbd>/</kbd>), then release it again).
 * Seriously, **abide speed limit.** This is ATS, not ATC, and Deadman's Switch gets activated extremely often, which will give you a big delay off your schedule.
