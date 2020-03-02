@@ -13,6 +13,8 @@ Great communication. Recommended and you can also hire him to develop bots for v
 >
 > --- Sasiko#1234, Art Commissions
 
+Contact `The Double-Eyed Bus#6889` or `im@austinhuang.me` for a quote.
+
 #### My work is currently used in...
 * [Art Commissions](https://artcommissions.me/) (Anti-Raid)
 * [Cantox Studios](https://discord.gg/UaUtCmw) (Service team utilities)
@@ -28,12 +30,11 @@ Great communication. Recommended and you can also hire him to develop bots for v
 ### Telegram
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
 
+#### My work is currently used in...
 * [PROMOBRASIL](https://t.me/promobrasil) (Staff support)
 * [SupraPixel](https://t.me/suprapixelsuprapixel) (Minigame)
 
 ### Translation
 My translation works are listed [here](./#my-translations). Note that I can translate between English and Chinese.
-
-On Discord, contact `The Double-Eyed Bus#6889`. On Telegram, click [here](https://t.me/austinhuang).
 
 {% include def.html %}
