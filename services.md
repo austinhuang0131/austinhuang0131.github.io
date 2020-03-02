@@ -15,7 +15,7 @@ Great communication. Recommended and you can also hire him to develop bots for v
 
 #### My work is currently used in...
 * [Art Commissions](https://artcommissions.me/) (Anti-Raid)
-* [Cantox Studios](https://discord.gg/UaUtCmw)
+* [Cantox Studios](https://discord.gg/UaUtCmw) (Service team utilities)
 * [Christmas Winter](https://discord.gg/WsZz6c3) (Staff support)
 * [Cookie's Community](https://discord.gg/YSYtKcc) (Counting enforcement)
 * [Peaceful CEO](http://www.pceo.online/) (Scheduled messages)
@@ -23,7 +23,7 @@ Great communication. Recommended and you can also hire him to develop bots for v
 #### My work is previously used in...
 * [Emoji for Nitro Users](https://discord.gg/ebwx7YM) (Emoji suggestion)
 * [Isles Gaming => Island Clash](https://discord.gg/AB42Xpu) (Staff election)
-* [WF Empire of the Void](https://www.guilded.gg/WFempire)
+* [WF Empire of the Void](https://www.guilded.gg/WFempire) (Warframe-related utilities)
 
 ### Telegram
 <script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
