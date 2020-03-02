@@ -12,6 +12,7 @@ I can write you a Discord/Telegram bot, or do some translation work for you. Bel
 Great communication. Recommended and you can also hire him to develop bots for very affordable rates.
 >
 > --- Sasiko#1234, Art Commissions
+
 #### My work is currently used in...
 * [Art Commissions](https://artcommissions.me/) (Anti-Raid)
 * [Cantox Studios](https://discord.gg/UaUtCmw)
