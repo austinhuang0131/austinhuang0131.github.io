@@ -11,7 +11,7 @@ permalink: /
         width: 150px !important;
     }
     .resize2 {
-        width: 100% !important;
+        visibility: hidden !important;
     }
 }
 </style>
@@ -49,7 +49,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
   
 ## My photos
 
-<div class="resize1" id="myElement" style="float:right;"></div>
+<div class="resize2" id="myElement" style="float:right;"></div>
 <script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
@@ -68,7 +68,7 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
 
 ## My other online stuff, like social media
-<div style="float:right;" class="disappear">
+<div style="float:right;" class="resize2">
 <iframe src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:315px; height:315px"></iframe>
 </div>
 
@@ -81,6 +81,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Snapchat](http://www.snapchat.com/add/austin0131mtl)
+* [Tumblr / Blog](https://blog.austinhuang.me) (Custom domain)
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
