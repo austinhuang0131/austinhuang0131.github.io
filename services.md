@@ -1,6 +1,6 @@
 ---
 title: I'd like to demand your services!
-description: Here, I'm a Discord bot developer who has done many private contracts! Maybe you should... hire me?
+description: Here, I'm a Discord/Telegram bot developer who has done many private contracts! Maybe you should... hire me?
 comment: true
 ---
 
