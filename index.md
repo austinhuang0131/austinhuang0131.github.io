@@ -11,7 +11,7 @@ permalink: /
         width: 150px !important;
     }
     .resize2 {
-        visibility: hidden !important;
+        display: none !important;
     }
 }
 </style>
