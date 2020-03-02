@@ -69,7 +69,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 
 ## My other online stuff, like social media
 <div style="float:right;" class="resize2">
-<iframe src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:315px; height:315px"></iframe>
+<iframe src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="yes" style="border:none; overflow:hidden;  width:300px; height:300px"></iframe>
 </div>
 
 * [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
