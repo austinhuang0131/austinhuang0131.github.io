@@ -29,6 +29,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
+* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.
 
 ## Projects I am involved in
 You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
