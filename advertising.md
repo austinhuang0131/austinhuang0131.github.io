@@ -74,15 +74,15 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
 ### Bots
-Ordered by server count as of October 11, 2019.
+Ordered by server count as of March 24th, 2020.
 
-* [DSC](https://discordbots.org/bot/415773861486002186) (3218 servers, 2 hour bump interval)
-* [Bump Central](https://discordbots.org/bot/478290034773196810) (2412 servers, 1 hour bump interval)
-* [Open Bump](https://top.gg/bot/546999467887427604) (1180 servers, 1 hour bump interval)
-* [HaileyBot](https://discordbots.org/bot/423637161632464906) (1096 servers, 2 hour bump interval)
-* [PYS Bump](https://top.gg/bot/614970561977909251) ( 467 servers, 2 hour bump interval)
+* [DSC](https://top.gg/bot/415773861486002186) (4000 servers, 2 hour bump interval)
+* [ServerMate](https://top.gg/bot/481810078031282176) (3500 servers, 20 minute bump interval)
+* [Bump Central](https://top.gg/bot/478290034773196810) (3400 servers, 1 hour bump interval)
+* [Open Bump](https://top.gg/bot/546999467887427604) (2900 servers, 1 hour bump interval)
+* [HaileyBot](https://top.gg/bot/423637161632464906) (1600 servers, 2 hour bump interval)
+* [PYS Bump](https://top.gg/bot/614970561977909251) ( 774 servers, 2 hour bump interval)
 <!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
-Use ServerMate at your own risk. I don't suggest it as it require Administrator and a `#bump` channel in the server to bump.
 
 ### Listing Servers
 Aside from websites and bot-served servers. Please note that servers may require you to stay in the server to keep your advertisement. Servers are ordered alphabetically. [This Google spreadsheet by cats#5485](https://docs.google.com/spreadsheets/d/1Ia8VYVrnggQR1Kvb982DzbjZMXjqqrtETPVE9ri7Jag/edit#gid=0) provides a more detailed comparison of various servers. We are only listing the well-maintained ones here.
