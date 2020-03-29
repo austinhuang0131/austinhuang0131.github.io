@@ -6,10 +6,6 @@ permalink: /advertising
 image: https://austinhuang.me/assets/meme.jpg
 ---
 
-Sponsored by:
-
-[![ad](https://cdn.discordapp.com/attachments/503686976067600421/680916528140517378/Untitled-1.png)](https://discordservers.me)
-
 [Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to see more guides!](./sitemap)
 
 ## Free people for your Discord server!
