@@ -44,7 +44,7 @@ Yes yes, I know many English scenarios are made in BVE 4 or OpenBVE. I know [Con
 
 All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE what route to drive) outside the folder. If there's only 1 folder with nothing else, either it's a Vehicle file (I'll indicate) or you forgot to look inside when you unzip.
 
-I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.)
+I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.) If errors pop up, "ignore" should be enough.
 
 ### List
 In no particular order.
@@ -52,7 +52,7 @@ In no particular order.
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
 * wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
-* reren: Tokyo Metro Tozai Line (E) (ATC-Usao)
+* reren: [Tokyo Metro Tozai Line](#tokyo-metro-tozai-line) (E) (ATC-Usao)
 * Green Shuttle: (P)
   * [Tokyo Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
   * [Tokyo Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
@@ -63,7 +63,7 @@ In no particular order.
 * L53 / Susubaru: Hankyu lines (ATS)
 * Gigaclone: Shintetsu (Kobe Electric) Arima Line (ATS)
 * Nanairo Project: Keisei Line / Toei Asakusa Line / Keikyu Line / Keikyu Airport Line (ATC)
-* trant9123: Tokyo Toyoko Line / Minatomirai Line (ATC-Usao)
+* trant9123: Tokyu Toyoko Line / Minatomirai Line (ATC-Usao)
 * maihime:
   * Narita Line, Abiko Branch
 
@@ -73,7 +73,7 @@ In no particular order.
 * (PE): Partially English (Usually station names)
 * (ATS): Automatic Train Stop: If you go over speed limit, it'll immediately stop your train. Tend to be harder to drive.
 * (ATC): Automatic Train Control: If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train. Tend to be easier to drive.
-  * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm)
+  * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm) (No need to download it)
   * Other (ATC): Custom-coded
 
 ### Keisei Chihara Line
@@ -84,9 +84,9 @@ The official one. Download [here](http://bvets.net/en/download/zip.html), no add
 ### Tama Toshi Monorail
 Download [here](http://neclgm.blog.fc2.com/blog-entry-58.html). Both the page AND THE SCENARIO is **in English**!
 
-To start the train from the terminus, you'll need to press ATS 0 (S) - ATS 13 (J) - ATS 4 (B2), BEFORE releasing the emergency brake or touching the reverser. Your train WILL NOT MOVE if you don't do so.
-* On Windows, that is <kbd> SPACE </kbd> - <kbd>8</kbd> - <kbd>END</kbd>. You can also press <kbd>Delete</kbd> for a list of key assignments specific to that scenario.
-* On Mac, or if your Windows computer does not have an <kbd>END</kbd> key, you'll need to reassign keys. Right click => Preferences => Input device => Key assignments... => Switches => Find "ATS 4 (B2)" => Press the On/Off box below => Press the key you want to assign (Fn combos accepted, no other combos). If you want to show the in-game key assignment list (Just this game), you'll need to reassign "ATS 2 (A2)" as well.
+* To start the train from the terminus, you'll need to press ATS 0 (S) - ATS 13 (J) - ATS 4 (B2), BEFORE releasing the emergency brake or touching the reverser. Your train WILL NOT MOVE if you don't do so.
+  * On Windows, that is <kbd> SPACE </kbd> - <kbd>8</kbd> - <kbd>END</kbd>. You can also press <kbd>Delete</kbd> for a list of key assignments specific to that scenario.
+  * On Mac, or if your Windows computer does not have an <kbd>END</kbd> key, you'll need to reassign keys. Right click => Preferences => Input device => Key assignments... => Switches => Find "ATS 4 (B2)" => Press the On/Off box below => Press the key you want to assign (Fn combos accepted, no other combos). If you want to show the in-game key assignment list (Just this game), you'll need to reassign "ATS 2 (A2)" as well. Do note that the in-game key assignment list only shows default assignments.
 * Here's a walkthrough:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u58bNLPdQew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -97,7 +97,6 @@ Detailed scenary means it's **Resource-Heavy! Requires good GPU!!!**
 Download [here](https://www.like-a-lake.com/bve-trainsim5/bve-keihan-keishin-top.html). Find "Mirror site(yahoo box)" and you'll see two columns: The left with Installer, the right without. You'll also see a OneDrive link and a Yahoo Box (Japanese) link.
 
 * Station names are in English. [The manual](https://www.like-a-lake.com/bve-trainsim5/howtodrive-keishin.html) is in Japanese, but the pictures are in English.
-* Mac users: Ignore errors when loading the scenario, they don't affect the gameplay that much. Tested multiple times.
 * To start the train from the terminus, you'll need to press <kbd>5</kbd> to enable ATS (Or you will not be able to drive - The line does not have ATO), and switch the reverser to the front. Then, **remain on Emergency Brake** until you're told to depart by the screen message (Or ATS will stop you, reason unknown. If you forgot this: Get back on P0 AND Emergency Brake (By pressing <kbd>/</kbd>), then release it again).
 * Seriously, **abide speed limit.** This is ATS, not ATC, and Deadman's Switch gets activated extremely often, which will give you a big delay off your schedule.
   * IF there's a red light in the bottom-left corner, you're screwed: You just triggered ATS. To release, Get back on P0 AND Emergency Brake (By pressing <kbd>/</kbd>), then <kbd>6</kbd> (Disable ATS) + <kbd>5</kbd> (Enable ATS).
@@ -105,12 +104,22 @@ Download [here](https://www.like-a-lake.com/bve-trainsim5/bve-keihan-keishin-top
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zcpggd-N0pM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Tokyo Metro Tozai Line
+Download [here](http://tozai.s77.xrea.com/BVE/ETozai.html#%E8%B7%AF%E7%B7%9A%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89). Use the English version.
+
+* Vehicles for routes with "(c) vertah" can be downloaded [here](http://vertah.sakura.ne.jp/bvedata/trta05.html). (Scroll to bottom, click the link that says "2013/04/23（05/N05Ver1.1） 123MB". After unzip, merge it with Scenarios folder.) Vehicles for routes with "(c) maihime" lacks interactive functions and is not recommended.
+* To start, press <kbd>8</kbd> **ONCE** when remaining in `N (P0) EB`.
+* Press <kbd>0</kbd> for speedometer lights, <kbd>9</kbd> for wiper (If train has it).
+* Here's a walkthrough for B1373SR:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PxGHRRr6fLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### TRTA (then-Tokyo Metro) Hanzomon Line
 Download [here](http://shtr-m.net/bve/hanzomon.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese.
 
 For this scenario, you'll need to download vehicles.
 1. Go [here](http://vertah.sakura.ne.jp/bvedata/train.html).
-2. You need 8000, 08, 8590, and 30000. (For TKK 2000, download [here](http://bve.jpn.org/tokyu2000.html) instead, but it's an EXE file.)
+2. You need 8000, 08, 8590, and 30000. (For TKK 2000, download [here](http://bve.jpn.org/tokyu2000.html) instead, but it's an EXE file. Not tested.)
 3. Click the link at the bottom of each box.
 4. For 8000: The download link is in the purple box at the bottom of the page. For others: First text link in the second-last box at the bottom.
 5. Unzip them and place them in `.../Scenarios/vertah`.
@@ -140,7 +149,7 @@ Under testing...
 ### Tokyo Monorail
 Download the route [here](http://shtr-m.net/bve/tmk.html). Click the first link wrapped by `>><<` in the first heading. Everything's in Japanese. You need to [download vehicles](http://sigf.sakura.ne.jp/bve_tmk1000.html) (Link next to download button) as well.
 
-* An extra vehicle as well as 6 extra routes are available [here](http://sigf.sakura.ne.jp/bve_tmk10000.html). Base route pack required.
+* An extra vehicle as well as 6 extra scenarios are available [here](http://sigf.sakura.ne.jp/bve_tmk10000.html). Base route pack required.
 * ATC is enabled at all times.
 * Here's a walkthrough:
 
