@@ -59,6 +59,7 @@ In no particular order.
   * Tokyo Metro Fukutoshin Line (ATC-Usao)
   * [Tokyo Monorail](#tokyo-monorail) (ATC)
 * Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
+* Mc220-78: [Osaka Metro Sakaisuji Line](#osaka-metro-sakaisuji-line) (ATS)
 * L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
 * L53 / Susubaru: Hankyu lines (ATS)
 * Gigaclone: Shintetsu (Kobe Electric) Arima Line (ATS)
@@ -164,6 +165,14 @@ For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documen
 * Here's a walkthrough:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5xXPNKVxsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Osaka Metro Sakaisuji Line
+Download [here](http://mudamc22078.blog.fc2.com/blog-entry-254.html) (link that says BVE5). For vehicle, download [here](https://sites.google.com/view/fwchbve/top/bve%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8B/%E9%98%AA%E6%80%A510001300%E7%B3%BB).
+
+* **Mac users:** Use [The Unarchiver](https://theunarchiver.com/) or any equivalent tools that support foreign encodings, instead of Archive Utility. Failure to do so may cause glitches.
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tPyhxEeobV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Kyoto Municipal Subway Karasuma Line
 Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles included.
