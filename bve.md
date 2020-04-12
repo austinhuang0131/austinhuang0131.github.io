@@ -52,7 +52,7 @@ In no particular order.
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
 * neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
 * wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
-* reren: [Tokyo Metro Tozai Line](#tokyo-metro-tozai-line) (E) (ATC-Usao)
+* reren: [Tokyo Metro Tozai Line](#tokyo-metro-tozai-line) (E) (ATC-Usao) (P)
 * Green Shuttle: (P)
   * [Tokyo Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
   * [Tokyo Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
