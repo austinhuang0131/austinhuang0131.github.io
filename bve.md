@@ -16,7 +16,7 @@ Read official instructions and downloads [here](http://bvets.net/en/download/).
 ### Mac
 Yes, you can run BVE 5 **on a Mac**. Referenced [this blog post](https://kakurasan.blogspot.com/2015/07/bve-trainsim-on-wine.html) (Japanese).
 
-**Known issues:** For certain scenarios (not among the ones introduced below), BVE fails to open *any* .wav files (`Could not open the file`). If you have a solution, please please please leave a comment below.
+**Known issues:** For certain scenarios (not among the ones introduced below), BVE fails to open *some* .wav files (`Could not open the file`). If you have a solution, please please please leave a comment below.
 
 1. [Get WineBottler.](http://winebottler.kronenberg.org/) (2.0 is fine.) Load the disk image, drag both WineBottler and Wine to the Applications folder. (Non-Sudo people: Or any folder you like - I drag to the Downloads folder. But both apps should be in the same folder. I didn't try otherwise.)
 2. [Get BVE 5 WITHOUT INSTALLER.](http://bvets.net/en/download/zip.html) Unzip it.
@@ -42,40 +42,36 @@ Yes yes, I know many English scenarios are made in BVE 4 or OpenBVE. I know [Con
 * Windows users: Place all Scenarios in `C:\users\<name>\My Documents\BveTs\Scenarios`.
 * Mac users: Place all Scenarios in `/Users/<name>/Documents/BveTs/Scenarios` (which is equivalent to `~/Documents/BveTs/Scenarios`).
 
-All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE what route to drive) outside the folder. If there's only 1 folder with nothing else, either it's a Vehicle file (I'll indicate) or you forgot to look inside when you unzip.
+All scenarios should contain 1 folder and a bunch of TXT files (Which tells BVE what route to drive) outside the folder. If there's only 1 folder with nothing else, either it's a Vehicle file (I'll indicate) or you forgot to look inside when you unzip. Due to popularity of Shift_JIS encoding in Japan, you should use [The Unarchiver](https://theunarchiver.com/) or any equivalent tools to unzip stuff instead of Archive Utility.
 
-I have tested all the scenarios below. ATS/ATC instructions are included. (Many people can't figure out how to even start their train, as most instructions are in Japanese. I can read Japanese, at least.) If errors pop up, "ignore" should be enough.
+I have tested all the scenarios below. ATS/ATC instructions are included. If errors pop up, "ignore" should be enough. I do not include any scenarios that does not feature scenaries (i.e. no buildings, only grass, etc.).
 
 ### List
 In no particular order.
 
 * mackoy: [Keisei Chihara Line](#keisei-chihara-line)
-* neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (ATC) (P)
-* wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (ATS) (P)
-* reren: [Tokyo Metro Tozai Line](#tokyo-metro-tozai-line) (E) (ATC-Usao) (P)
+* neclgm: [Tama Toshi Monorail](#tama-toshi-monorail) (E) (P)
+* wackey: [Keihan Keishin Line](#keihan-keishin-line) (PE) (P)
+* reren: [Tokyo Metro Tozai Line](#tokyo-metro-tozai-line) (E) (P)
 * Green Shuttle: (P)
-  * [Tokyo Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line) (ATC-Usao)
-  * [Tokyo Metro Ginza Line](#trta-then-tokyo-metro-ginza-line) (ATC-Usao)
-  * Tokyo Metro Fukutoshin Line (ATC-Usao)
-  * [Tokyo Monorail](#tokyo-monorail) (ATC)
-* Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (ATC-Usao) (P)
-* Mc220-78: [Osaka Metro Sakaisuji Line](#osaka-metro-sakaisuji-line) (ATS)
-* L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line) (ATC)
-* L53 / Susubaru: Hankyu lines (ATS)
-* Gigaclone: Shintetsu (Kobe Electric) Arima Line (ATS)
-* Nanairo Project: Keisei Line / Toei Asakusa Line / Keikyu Line / Keikyu Airport Line (ATC)
-* trant9123: Tokyu Toyoko Line / Minatomirai Line (ATC-Usao)
-* maihime:
-  * Narita Line, Abiko Branch
+  * [Tokyo Metro Hanzomon Line](#trta-then-tokyo-metro-hanzomon-line)
+  * [Tokyo Metro Ginza Line](#trta-then-tokyo-metro-ginza-line)
+  * Tokyo Metro Fukutoshin Line
+  * [Tokyo Monorail](#tokyo-monorail)
+* Bluegill77: [Osaka Metro Yotsubashi Line](#osaka-metro-yotsubashi-line) (P)
+* Mc220-78:
+  * [Osaka Metro Sakaisuji Line](#osaka-metro-sakaisuji-line)
+  * [Keihan Ishiyama Sakamoto Line](#keihan-ishiyama-sakamoto-line)
+* L53: [Kyoto Municipal Subway Karasuma Line](#kyoto-municipal-subway-karasuma-line)
+* L53 / Susubaru: Hankyu lines
+* Gigaclone: Shintetsu (Kobe Electric) Arima Line
+* Nanairo Project: Keisei Line / Toei Asakusa Line / Keikyu Line / Keikyu Airport Line
 
 #### Legend
 * (P): Permission obtained for posting
-* (E): English
+* (E): Has English version
 * (PE): Partially English (Usually station names)
-* (ATS): Automatic Train Stop: If you go over speed limit, it'll immediately stop your train. Tend to be harder to drive.
-* (ATC): Automatic Train Control: If you go over speed limit, it'll brake to enforce that speed limit, only constant violations will stop your train. Tend to be easier to drive.
-  * (ATC-Usao): Usao's [Metro General Plugin](http://nozomi.vc/71_ats/index.htm) (No need to download it)
-  * Other (ATC): Custom-coded
+* (A): Has audio issues on Mac (see above)
 
 ### Keisei Chihara Line
 The official one. Download [here](http://bvets.net/en/download/zip.html), no additional stuff required. Here's a walkthrough:
@@ -167,17 +163,23 @@ For the vehicle, download [here](https://yahoo.jp/box/oLvw3q). ([Vehicle documen
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5xXPNKVxsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Osaka Metro Sakaisuji Line
-Download [here](http://mudamc22078.blog.fc2.com/blog-entry-254.html) (link that says BVE5). For vehicle, download [here](https://sites.google.com/view/fwchbve/top/bve%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8B/%E9%98%AA%E6%80%A510001300%E7%B3%BB).
-
-* **Mac users:** Use [The Unarchiver](https://theunarchiver.com/) or any equivalent tools that support foreign encodings, instead of Archive Utility. Failure to do so may cause glitches.
-* Here's a walkthrough:
+Download [here](http://mudamc22078.blog.fc2.com/blog-entry-254.html) (link that says BVE5). For vehicle, download [here](https://sites.google.com/view/fwchbve/top/bve%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BC%E5%85%AC%E9%96%8B/%E9%98%AA%E6%80%A510001300%E7%B3%BB). Here's a walkthrough:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tPyhxEeobV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Keihan Ishiyama Sakamoto Line
+**Not suitable for beginners**
+
+Download [here](http://mudamc22078.blog.fc2.com/blog-entry-272.html). Vehicle included.
+
+* Before departure, and **before switching directions (Neutral), press the** <kbd> SPACE </kbd> **key, and KEEP IT PRESSED!!!** If you release it during your drive, emergency brake will be applied and then you'll need to reset the ATS... (Windows: At neutral-P0-EB, <kbd>HOME</kbd> and <kbd>END</kbd>; Mac: Consider reassigning keys)
+* Here's a walkthrough:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ZBJGF014F8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Kyoto Municipal Subway Karasuma Line
 Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles included.
 
-* ATC is enabled at all times.
 * The driver cab graphics for Train 149 is significantly better than Train 145.
 * Here's a walkthrough:
 
