@@ -16,7 +16,7 @@ Read official instructions and downloads [here](http://bvets.net/en/download/).
 ### Mac
 Yes, you can run BVE 5 **on a Mac**. Referenced [this blog post](https://kakurasan.blogspot.com/2015/07/bve-trainsim-on-wine.html) (Japanese).
 
-**Known Issues:** Can't show Japanese characters at all. I tried `LANG=ja_JP.UTF-8`, `LANG=ja_JP.Shift_JIS` and `LC_ALL=ja_JP` in Runtime Arguments. If you could solve this, please please please leave a comment below.
+**Known issues:** For certain scenarios (not among the ones introduced below), BVE fails to open *any* .wav files (`Could not open the file`). If you have a solution, please please please leave a comment below.
 
 1. [Get WineBottler.](http://winebottler.kronenberg.org/) (2.0 is fine.) Load the disk image, drag both WineBottler and Wine to the Applications folder. (Non-Sudo people: Or any folder you like - I drag to the Downloads folder. But both apps should be in the same folder. I didn't try otherwise.)
 2. [Get BVE 5 WITHOUT INSTALLER.](http://bvets.net/en/download/zip.html) Unzip it.
@@ -24,9 +24,9 @@ Yes, you can run BVE 5 **on a Mac**. Referenced [this blog post](https://kakuras
 4. Click Advanced.
 5. For Program Installation, select the `BveTs.exe` in the folder.
 6. For Installation mode, select "copy file (program) and all files in the folder to the App Bundle."
-7. For System Version Info, select 7. (BVE 5 requires Vista or higher.)
-8. You MUST tick "Include Mono". (Or you'll be forced to exit with an error log, as you cannot get `dotnet35`.) I didn't tick "Include Gecko", but I think it's okay if you leave it on.
-9. For Winetricks, find the following and tick them: `dotnet35` (MS .NET 3.5), `d3dx9_43` (MS d3dx9_43.dll), and `mdx` (Managed DirectX).
+7. For System Version Info, select 7. (BVE 5 requires Vista or higher.) 64-bit doesn't work because `dotnet35` wouldn't install.
+8. You MUST tick "Include Mono". (Or you'll be forced to exit with an error log, as you cannot get `dotnet35`.) "Gecko" doesn't matter.
+9. For Winetricks, find the following and tick them: `dotnet35` (MS .NET 3.5), `d3dx9_43` (MS d3dx9_43.dll), and `fakejapanese_ipamona` ("Creates aliases for Japanese fonts using IPAMona fonts"). If you're using BVE under v5.7 (i.e. not newest), you also need `mdx` (Managed DirectX).
 10. Tick Silent Install.
 11. Press Install, set file name, and go. Takes like 2 minutes to install, then you get an .app bundle. Off you go!
 
