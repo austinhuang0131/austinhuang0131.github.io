@@ -127,10 +127,10 @@ ogf.publicTransport = function( layer, routeIds, type ){
         if( routeIds.length === 0 ){
             alert( 'No "route" relations found in this area. Maybe change your type below?' );
         }
-        routeIds.forEach( function(relId){
+        routeIds.map( function(relId){
             var rel = ctx.relation[relId];
             drawRouteMasterLines( rel, ctx, hInfo );
-            drawRouteMasterStations( rel, ctx, hInfo );
+            setTimeout(() => drawRouteMasterStations( rel, ctx, hInfo ), 1000);
         } );
         map.fire( 'dataload' );
     } );
