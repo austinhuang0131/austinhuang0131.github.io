@@ -181,12 +181,12 @@ function drawRoute( rel, ctx, hInfo ){
 
 function drawStations( rel, ctx, hInfo) {
     var stations = rel.members.filter( function(x){ return x.type === 'node' && /(^station|^stop|:stop$)/.test(x.role); } );
-    var color = rel.tags.colour || '#000000';
+    var width = rel.tags["ogf:width"] || 5;
+    var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
-        var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
-        L.circleMarker( [obj.lat, obj.lon+360*factor], {radius: 5, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1, opacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1} ).addTo( hInfo.layer ).bindPopup( popupText );
+        L.circleMarker( [obj.lat, obj.lon+360*factor], {radius: width, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1, opacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1} ).addTo( hInfo.layer ).bindPopup( popupText );
     } );	
 }
 
