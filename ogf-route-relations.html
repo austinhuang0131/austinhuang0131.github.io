@@ -130,9 +130,6 @@ ogf.publicTransport = function( layer, routeIds, type ){
         routeIds.forEach( function(relId){
             var rel = ctx.relation[relId];
             drawRouteMasterLines( rel, ctx, hInfo );
-        } );
-        routeIds.forEach( function(relId){
-            var rel = ctx.relation[relId];
             drawRouteMasterStations( rel, ctx, hInfo );
         } );
         map.fire( 'dataload' );
@@ -242,7 +239,10 @@ function objTextStation( obj, ctx ){
      objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
      objText += '<br>Belongs to:<br>';
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
-     objText += relation.filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1).map(r => {
+     objText += relation
+	     .filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1)
+	     .sort((a, b) => {if (a.value.tags.name > b.value.tags.name) return 1})
+	     .map(r => {
          var colour = (r.value.tags.colour !== undefined && (!isNaN(parseInt(r.value.tags.colour.substring(1, 7), 16)) || col[r.value.tags.colour])) ? 'background-color:'+r.value.tags.colour+';color:'+pickColor(r.value.tags.colour)+';' : '';
          colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
          return '- <a href="javascript:loadOneLine(' + r.id + ')" style="' + colour + '">' + r.value.tags.name + '</a>';
