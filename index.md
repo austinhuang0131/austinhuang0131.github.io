@@ -16,7 +16,7 @@ permalink: /
 }
 </style>
 
-<img class="resize1" src="https://cdn.discordapp.com/avatars/207484517898780672/8844ad82df396e034f397156ecf29b7f.jpg?size=1024" alt="The Almighty Bus" align="right" width="300"/>
+<img class="resize1" src="./assets/icons/android-chrome-512x512.png " alt="The Almighty Bus" align="right" width="300"/>
 
 Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies,  and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
 
