@@ -6,9 +6,9 @@ comments: true
 
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
-This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
+This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md) Revised April 25, 2020 and June 29, 2018.
 
-Revised April 25, 2020 and June 29, 2018.
+**Note:** This guide is quite theoretical and focuses on the long run. For a more technical guide, see [here](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10).
 
 ## Questions to ask yourself
 Before making a Discord server, you should ask yourself these questions:
@@ -81,9 +81,5 @@ In most situations, you only need 1 bot to faciliate moderation on phones and ha
 
 ## Have more questions?
 Ask me in the comments below!
-
-## External Resources
-* [AYS' "5 Ways to Grow Your Discord Server"](https://medium.com/advertise-your-server/5-ways-to-grow-your-discord-server-53090dab3071)
-* [jagrosh's "Tips for creating and growing a new Discord server"](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)
 
 {% include def.html %}
