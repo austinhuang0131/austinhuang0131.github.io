@@ -4,13 +4,11 @@ description: Having trouble getting members? Can't get your server to be active?
 comments: true
 ---
 
-**Stop Discord Trust & Safety Abuse!** If Discord does not address the situation involving Trust & Safety member breaking their own rules for their personal preference, they deserve the shutdown from the Feds. **#ChangeDiscord** ([Background thread](https://twitter.com/nickmon1112/status/1092469779137482755), [Newsweek](https://www.newsweek.com/discord-furries-terms-service-community-guidelines-1323099), [Forbes](https://www.forbes.com/sites/thomasbrewster/2019/01/29/discord-the-2-billion-gamers-paradise-coming-to-terms-with-data-thieves-child-groomers-and-fbi-investigators/#1d6403603741))
-
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
 This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md)
 
-Revised June 29, 2018.
+Revised April 25, 2020 and June 29, 2018.
 
 ## Questions to ask yourself
 Before making a Discord server, you should ask yourself these questions:
@@ -53,6 +51,7 @@ Chat, obviously! But chat about what? You certainly need [responsible staff](#ch
 * They have certain value in the server
 * They enjoy staying in your server
 * They have things to talk about
+* If you have a specific topic: You (and your staff) are well knowledged of it
 
 ## How do I increase my population?
 Once you know how to keep your population, you should impose measures to increase your member count.
@@ -75,15 +74,16 @@ Most commonly used method. Let your members explain what they have and what they
 Personally, I let my members elect their moderators. This is very objective and my members satisfy. However, without constantly refreshing population, there's hardly a challenge for the elected.
 ### Bots
 **DON'T** add a lot of bots, or mention your bots as one of the features of your server anywhere. You should only use bots that you will truly use, or your server can give new members a bad impression. You should also place the bot role lower if you choose to display it.
+### Boosts
+I personally don't see boosts necessary. They can prove your members being loyal to the server, but does not necessarily contribute to activities.
 
 In most situations, you only need 1 bot to faciliate moderation on phones and have an alternative audit log. You can add some other bots for minigames and advertising.
 
 ## Have more questions?
-Ask me [here](https://discord.gg/013MqTM1p1qm52VcZ)!
+Ask me in the comments below!
 
 ## External Resources
 * [AYS' "5 Ways to Grow Your Discord Server"](https://medium.com/advertise-your-server/5-ways-to-grow-your-discord-server-53090dab3071)
 * [jagrosh's "Tips for creating and growing a new Discord server"](https://gist.github.com/jagrosh/342324d7084c9ebdac2fa3d0cd759d10)
-* [Tornado's "Discord 101"](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
 
 {% include def.html %}
