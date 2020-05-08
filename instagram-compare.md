@@ -99,3 +99,11 @@ const findDiff = async () => {
 ```
 
 Therefore, no.
+
+## Wait, I thought this page featured a different method?
+Prior to the change, this page featured a method that reads elements on the webpage. However,
+
+* It has too many steps
+* Instagram layout seems to be different for everyone and the method cannot work reliably
+
+So, I found this backend method and I'd now recommend this method over the previous one.
