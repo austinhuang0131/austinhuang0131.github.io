@@ -21,7 +21,7 @@ Last tested **May 8th, 2020**.
 * To see following: `getList("following")`
 * To see people you're following but are not following you: `findDiff()`
 
-That pretty much does the trick. Hope you enjoy.
+That pretty much does the trick. This will take a while (The more users it needs to process, the more time it'll take). Hope you enjoyed.
 
 ## Credits
 The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299).
