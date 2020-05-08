@@ -98,3 +98,5 @@ This page is [open source](https://github.com/austinhuang0131/austinhuang0131.gi
 This code snippet only pings 1 website, and that is Instagram's own GraphQL API.
 
 The only cookie read by the script is your user ID (`ds_user_id`).
+
+Therefore, no.
