@@ -1,7 +1,7 @@
 ---
 title: I'd like to compare my Instagram followers/followings list!
 comments: true
-description: Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN, without leaking your password!
+description: (NEW METHOD!) Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN, without leaking your password!
 permalink: /instagram-compare
 ---
 
@@ -13,72 +13,9 @@ Last tested **May 8th, 2020**.
 4. Navigate to the "Console" tab of the right sidebar.
 5. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>: (See credits below.)
   ```js
-  const random_wait_time = (waitTime = 300) => new Promise((resolve, reject) => {
-    setTimeout(() => {
-      return resolve();
-    }, Math.random() * waitTime);
-  });
-
-  function readCookie(name) {
-      var nameEQ = name + "=";
-      var ca = document.cookie.split(';');
-      for(var i=0;i < ca.length;i++) {
-          var c = ca[i];
-          while (c.charAt(0)==' ') c = c.substring(1,c.length);
-          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-      }
-      return null;
-  }
-
-  const getList = async(follower, nolog) => {
-    let type = (follower === "follower") ? true : ((follower === "following") ? false : "0");
-    if (type === "0") throw "first argument must be \"follower\" or \"following\".";
-    let userFollowers = [],
-      userFollowerCount = type ? document.querySelectorAll('a[href$="followers/"] > span')[0].textContent
-   : document.querySelectorAll('a[href$="following/"] > span')[0].textContent
-      batchCount = 20,
-      actuallyFetched = 20,
-      userId = readCookie("ds_user_id"),
-      hash = type ? "c76146de99bb02f6415203be841dd25a" : "d04b0a864b4b54837c0d870b0e77e076",
-      mutual = type ? "true" : "false",
-      variable = type ? "edge_followed_by" : "edge_follow"
-      url = `https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":"${batchCount}"}`;
-    while (userFollowerCount > 0) {
-      const followersResponse = await fetch(url)
-        .then(res => res.json())
-        .then(res => {
-          const nodeIds = [];
-          for (const node of res.data.user[variable].edges) {
-            nodeIds.push(node.node.username);
-          }
-          actuallyFetched = nodeIds.length;
-          return {
-            edges: nodeIds,
-            endCursor: res.data.user[variable].page_info.end_cursor
-          };
-        }).catch(err => {
-          userFollowerCount = -1;
-          return {
-            edges: []
-          };
-        });
-      await random_wait_time();
-      userFollowers = [...userFollowers, ...followersResponse.edges];
-      userFollowerCount -= actuallyFetched;
-      url = `https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":${batchCount},"after":"${followersResponse.endCursor}"}`;
-    }
-    if (!nolog) console.log(`========= ${follower.toUpperCase()} =========\n` + userFollowers.join("\n"));
-    return userFollowers;
-  };
-
-  const findDiff = async() => {
-    const a = await getList("follower", true),
-      b = await getList("following", true),
-      c = b.filter(u => a.indexOf(u) === -1);
-    console.log(`========= Following, not followed =========\n` + c.join("\n"))
-    return c;
-  }
+  const random_wait_time=(e=300)=>new Promise((t,r)=>{setTimeout(()=>t(),Math.random()*e)});function readCookie(e){for(var t=e+"=",r=document.cookie.split(";"),o=0;o<r.length;o++){for(var a=r[o];" "==a.charAt(0);)a=a.substring(1,a.length);if(0==a.indexOf(t))return a.substring(t.length,a.length)}return null}const getList=async(e,t)=>{let r="follower"===e||"following"!==e&&"0";if("0"===r)throw'first argument must be "follower" or "following".';let o=[],a=r?document.querySelectorAll('a[href$="followers/"] > span')[0].textContent:document.querySelectorAll('a[href$="following/"] > span')[0].textContent;for(batchCount=20,actuallyFetched=20,userId=readCookie("ds_user_id"),hash=r?"c76146de99bb02f6415203be841dd25a":"d04b0a864b4b54837c0d870b0e77e076",mutual=r?"true":"false",variable=r?"edge_followed_by":"edge_follow",url=`https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":"${batchCount}"}`;a>0;){const e=await fetch(url).then(e=>e.json()).then(e=>{const t=[];for(const r of e.data.user[variable].edges)t.push(r.node.username);return actuallyFetched=t.length,{edges:t,endCursor:e.data.user[variable].page_info.end_cursor}}).catch(e=>(a=-1,{edges:[]}));await random_wait_time(),o=[...o,...e.edges],a-=actuallyFetched,url=`https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":${batchCount},"after":"${e.endCursor}"}`}return t||console.log(`========= ${e.toUpperCase()} =========\n`+o.join("\n")),o},findDiff=async()=>{const e=await getList("follower",!0),t=(await getList("following",!0)).filter(t=>-1===e.indexOf(t));return console.log("========= Following, not followed =========\n"+t.join("\n")),t};
   ```
+
 6. Now we have all the functions defined, you can do one of the following 3 things by entering the respective function next to the `>` again. Wait a while (more followers = more time to run), then you'll get a nicely-formatted result.
 
 * To see followers: `getList("follower")`
