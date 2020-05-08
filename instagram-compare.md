@@ -24,7 +24,9 @@ Last tested **May 8th, 2020**.
 That pretty much does the trick. This will take a while (The more users it needs to process, the more time it'll take). Hope you enjoyed.
 
 ## Credits
-The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299).
+The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299) by [Valentink](https://stackoverflow.com/users/11899009/valentink). Licensed under CC BY-SA 4.0.
+
+On the top, the sentence "Weed out the fakes!" was written by [@sophucking_done](https://instagram.com/sophucking_done).
 
 This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md).
 
