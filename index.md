@@ -101,8 +101,14 @@ A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch
 
 Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the disappearing Wu language. Let's say that's a *software* in my brain.
 
-### Hey, you look cool. How can I support you?
-You can [request my services](/services) or [donate to me](/donate)!
+### Hey, you look cool.
+You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
+
+* [Email](mailto:im@austinhuang.me) `im@austinhuang.me`
+* Discord: `The Double-Eyed Bus#6889`
+* [Instagram](https://instagram.com/austinhuang.me): @austinhuang.me
+* [Telegram](http://t.me/austinhuang): @austinhuang
+* Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 
 ### What other stuff are there on this website?
 You can have a look at the [sitemap](/sitemap). Also, don't forget to check out [my friends' work](/reference)!
