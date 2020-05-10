@@ -7,7 +7,7 @@ permalink: /instagram-compare
 
 Last tested **May 10th, 2020**.
 
-**READ ME FIRST:** This script attempts to mimick Instagram web interface behaviour as much as possible (As it fetches the same URL when you scroll down the follower/ing list yourself), and I do not think occasional use (i.e. Do not use this script excessively!) of the script will trigger Instagram. However, I cannot guarantee that Instagram will not take actions for this. While I poured my best effort in writing the script, it remains your sole responsibility to secure your account and I am not liable for any damages caused.
+**READ ME FIRST:** This script attempts to mimic Instagram web interface behaviour as much as possible (As it fetches the same URL when you scroll down the follower/ing list yourself), and I do not think occasional use (i.e. Do not use this script excessively!) of the script will trigger them. However, I cannot guarantee that Instagram will not take actions for this. While I poured my best effort in writing the script, it remains your sole responsibility to secure your account and I am not liable for any damages caused.
 
 1. [Log into Instagram](https://instagram.com) **on a computer Chrome.**
 2. Click the three dots on the right hand side of the browser address bar, then "More Tools" > "Developer Tools". Alternatively, right click anywhere on the page, then "Inspect".
