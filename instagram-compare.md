@@ -27,8 +27,6 @@ That pretty much does the trick. This will take a while (The more users it needs
 ## Credits
 The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299) by [Valentink](https://stackoverflow.com/users/11899009/valentink). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[@miragewaterless](https://www.instagram.com/miragewaterless) helped in improving the script.
-
 On the top, the sentence "Weed out the fakes!" was written by [@sophucking_done](https://instagram.com/sophucking_done).
 
 This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md). All the credits are legit: I don't sponsor them, nor do they sponsor me.
