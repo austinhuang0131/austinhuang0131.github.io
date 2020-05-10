@@ -5,44 +5,49 @@ description: (NEW METHOD!) Weed out the fakes! Here's one simple trick to effect
 permalink: /instagram-compare
 ---
 
-Last tested **May 8th, 2020**.
+Last tested **May 10th, 2020**.
+
+**READ ME FIRST:** This script attempts to mimick Instagram web interface behaviour as much as possible (As it fetches the same URL when you scroll down the follower/ing list yourself), and I do not think occasional use (i.e. Do not use this script excessively!) of the script will trigger Instagram. However, I cannot guarantee that Instagram will not take actions for this. While I poured my best effort in writing the script, it remains your sole responsibility to secure your account and I am not liable for any damages caused.
 
 1. [Log into Instagram](https://instagram.com) **on a computer Chrome.**
-2. Go to your profile page.
-3. Click the three dots on the right hand side of the browser address bar, then "More Tools" > "Developer Tools". Alternatively, right click anywhere on the page, then "Inspect".
-4. Navigate to the "Console" tab of the right sidebar.
-5. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
+2. Click the three dots on the right hand side of the browser address bar, then "More Tools" > "Developer Tools". Alternatively, right click anywhere on the page, then "Inspect".
+3. Navigate to the "Console" tab of the right sidebar.
+4. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
   ```js
-  const random_wait_time=(e=300)=>new Promise((t,r)=>{setTimeout(()=>t(),Math.random()*e)});function readCookie(e){for(var t=e+"=",r=document.cookie.split(";"),o=0;o<r.length;o++){for(var a=r[o];" "==a.charAt(0);)a=a.substring(1,a.length);if(0==a.indexOf(t))return a.substring(t.length,a.length)}return null}const getList=async(e,t)=>{let r="follower"===e||"following"!==e&&"0";if("0"===r)throw'first argument must be "follower" or "following".';let o=[],a=r?document.querySelectorAll('a[href$="followers/"] > span')[0].textContent:document.querySelectorAll('a[href$="following/"] > span')[0].textContent;for(batchCount=20,actuallyFetched=20,userId=document.cookie.split("ds_user_id=")[1].split("; ")[0],hash=r?"c76146de99bb02f6415203be841dd25a":"d04b0a864b4b54837c0d870b0e77e076",mutual=r?"true":"false",variable=r?"edge_followed_by":"edge_follow",url=`https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":"${batchCount}"}`;a>0;){const e=await fetch(url).then(e=>e.json()).then(e=>{const t=[];for(const r of e.data.user[variable].edges)t.push(r.node.username);return actuallyFetched=t.length,{edges:t,endCursor:e.data.user[variable].page_info.end_cursor}}).catch(e=>(a=-1,{edges:[]}));await random_wait_time(),o=[...o,...e.edges],a-=actuallyFetched,url=`https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":${batchCount},"after":"${e.endCursor}"}`}return t||console.log(`========= ${e.toUpperCase()} =========\n`+o.join("\n")),o},findDiff=async()=>{const e=await getList("follower",!0),t=(await getList("following",!0)).filter(t=>-1===e.indexOf(t));return console.log("========= Following, not followed =========\n"+t.join("\n")),t};
+const random_wait_time=(a=400)=>new Promise(b=>{setTimeout(()=>b(),Math.random()*a+100)}),ratelimit=()=>new Promise(a=>{setTimeout(()=>a(),6e4)}),getList=async(a,b)=>{let c="follower"===a||"following"!==a&&"0";if("0"===c)throw"first argument must be \"follower\" or \"following\".";let d=[],e=document.cookie.split("ds_user_id=")[1].split("; ")[0],f=c?"c76146de99bb02f6415203be841dd25a":"d04b0a864b4b54837c0d870b0e77e076",g=c?"true":"false",h=c?"edge_followed_by":"edge_follow",i=!0,j=`https://www.instagram.com/graphql/query/?query_hash=${f}&variables={"id":"${e}","include_reel":true,"fetch_mutual":${g},"first":12}`;for(;i;){const a=await fetch(j).then(a=>a.json()).then(a=>{const b=[];for(const c of a.data.user[h].edges)b.push(c.node.username);return{edges:b,endCursor:a.data.user[h].page_info.end_cursor}}).catch(async()=>"undefined"===j.split(`,"after":`)[1].split(`"}"`)[0]||"null"===j.split(`,"after":`)[1].split(`"}"`)[0]?{edges:[]}:(console.log("Seems like I hit a 429, will wait 60 seconds (The process is still running, don't close the tab!)"),await ratelimit(),{edges:[],endCursor:j.split(`,"after":"`)[1].split(`"}`)[0]}));await random_wait_time(),d=[...d,...a.edges],null===a.endCursor&&(i=!1),j=`https://www.instagram.com/graphql/query/?query_hash=${f}&variables={"id":"${e}","include_reel":true,"fetch_mutual":${g},"first":12,"after":"${a.endCursor}"}`}return b||console.log(`========= ${a.toUpperCase()} =========\n`+d.join("\n")),d},findDiff=async()=>{const d=await getList("follower",!0),a=await getList("following",!0),b=a.filter(a=>-1===d.indexOf(a));return console.log(`========= Following, not followed =========\n`+b.join("\n")),b};
   ```
-6. Now we have all the functions defined, you can do one of the following 3 things by entering the respective function next to the `>` again. Wait a while (more followers = more time to run), then you'll get a nicely-formatted result.
+5. Now we have all the functions defined, you can do one of the following 3 things by entering the respective function next to the `>` again. Wait a while (more followers = more time to run), then you'll get a nicely-formatted result.
 
 * To see followers: `getList("follower")`
 * To see following: `getList("following")`
 * To see people you're following but are not following you: `findDiff()`
 
-That pretty much does the trick. This will take a while (The more users it needs to process, the more time it'll take). Hope you enjoyed.
+That pretty much does the trick. This will take a while (The more users it needs to process, the more time it'll take). Hope you enjoyed. If you think this is helpful, [donate to me!](./donate)
 
 ## Credits
-The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299) by [Valentink](https://stackoverflow.com/users/11899009/valentink). Licensed under CC BY-SA 4.0.
+The getList function is an adaption of [this StackOverflow answer](https://stackoverflow.com/a/57443299) by [Valentink](https://stackoverflow.com/users/11899009/valentink). Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+[@miragewaterless](https://www.instagram.com/miragewaterless) helped in improving the script.
 
 On the top, the sentence "Weed out the fakes!" was written by [@sophucking_done](https://instagram.com/sophucking_done).
 
-This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md).
+This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md). All the credits are legit: I don't sponsor them, nor do they sponsor me.
 
 ## Wait, does this steal my password?
-This code snippet only pings 1 website, and that is Instagram's own GraphQL API.
-
-The only cookie read by the script is your user ID (`ds_user_id`). The only element read by the script is your current following/follower count (it'll grab from the webpage instead). Nothing else is provided to the script.
-
-Here's the annotated un-minified version:
+No. This code snippet only pings 1 website, and that is Instagram's own GraphQL API. The only cookie read by the script is your user ID (`ds_user_id`). Nothing else is provided to the script. Here's the annotated un-minified version:
 
 ```js
-// mathematically generate a wait time between 0 and 0.3 seconds, to prevent ratelimiting
-const random_wait_time = (waitTime = 300) => new Promise((resolve, reject) => {
+// mathematically generate a wait time between 0.1 and 0.5 seconds, to prevent ratelimiting
+const random_wait_time = (waitTime = 400) => new Promise((resolve, reject) => {
     setTimeout(() => {
         return resolve();
-    }, Math.random() * waitTime);
+    }, (Math.random() * waitTime + 100));
+});
+
+const ratelimit = () => new Promise((resolve, reject) => {
+    setTimeout(() => {
+        return resolve();
+    }, 60000);
 });
 
 // get follower/following list.
@@ -52,16 +57,14 @@ const getList = async (follower, nolog) => {
     let type = (follower === "follower") ? true : ((follower === "following") ? false : "0"); // convert first one to true/false for convenience
     if (type === "0") throw "first argument must be \"follower\" or \"following\"."; // catch typos
     let userFollowers = [], // set up list of followers
-        userFollowerCount = type ? document.querySelectorAll('a[href$="followers/"] > span')[0].textContent :
-        document.querySelectorAll('a[href$="following/"] > span')[0].textContent // how many follower/ings do you have?
-        batchCount = 20, // fetch 20 in 1 request
-        actuallyFetched = 20, // know how many it actually fetched so it doesn't fetch them again
+        batchCount = 12, // fetch 12 in 1 request, same as the web interface
         userId = document.cookie.split("ds_user_id=")[1].split("; ")[0], // find your user id
         hash = type ? "c76146de99bb02f6415203be841dd25a" : "d04b0a864b4b54837c0d870b0e77e076", // hash, apparently these two are constant values, but instagram might change them
         mutual = type ? "true" : "false", // followers or following?
-        variable = type ? "edge_followed_by" : "edge_follow" // followers or following? part 2
-    url = `https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":"${batchCount}"}`; // set up the url
-    while (userFollowerCount > 0) { // if there's users left to fetch
+        variable = type ? "edge_followed_by" : "edge_follow", // followers or following? part 2
+        running = true, // is it fetching users?
+    url = `https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":${batchCount}}`; // set up the url
+    while (running) { // if there's users left to fetch
         const followersResponse = await fetch(url) // ping url
             .then(res => res.json()) // parse json body
             .then(res => {
@@ -69,20 +72,28 @@ const getList = async (follower, nolog) => {
                 for (const node of res.data.user[variable].edges) {
                     nodeIds.push(node.node.username); // for each user object, find username and put them in the list
                 }
-                actuallyFetched = nodeIds.length; // how many did it get?
                 return {
                     edges: nodeIds, // list of users
                     endCursor: res.data.user[variable].page_info.end_cursor // instagram doesn't allow fetching a lot of users at once, so it needs to know where to start the next fetching
                 };
-            }).catch(err => { // if this broke, stop the process and dump an empty list
-                userFollowerCount = -1;
-                return {
+            }).catch(async err => { // if this broke, show error
+                if (url.split(`,"after":`)[1].split(`"}"`)[0] === "undefined" || url.split(`,"after":`)[1].split(`"}"`)[0] === "null") {
+                  return {
                     edges: []
-                };
+                  }
+                }
+                else {
+                  console.log("Seems like I hit a 429, will wait 60 seconds (The process is still running, don't close the tab!)");
+                  await ratelimit();
+                  return {
+                      edges: [],
+                      endCursor: url.split(`,"after":"`)[1].split(`"}`)[0]
+                  };
+                }
             });
         await random_wait_time(); // wait
         userFollowers = [...userFollowers, ...followersResponse.edges]; // append the newly-acquired list to the old list
-        userFollowerCount -= actuallyFetched; // how many left to fetch?
+        if (followersResponse.endCursor === null) running = false; // if no more users, stop fetching them
         url = `https://www.instagram.com/graphql/query/?query_hash=${hash}&variables={"id":"${userId}","include_reel":true,"fetch_mutual":${mutual},"first":${batchCount},"after":"${followersResponse.endCursor}"}`; // remake url
     }
     if (!nolog) console.log(`========= ${follower.toUpperCase()} =========\n` + userFollowers.join("\n")); // show
@@ -97,8 +108,6 @@ const findDiff = async () => {
     return c;
 }
 ```
-
-Therefore, no.
 
 ## Wait, I thought this page featured a different method?
 Prior to the change, this page featured a method that reads elements on the webpage. However,
