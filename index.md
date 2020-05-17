@@ -49,8 +49,8 @@ If you need a job title, that'll be "college student/freelance project maintaine
        animationPause: 2
      });
 </script>
-<div style="float:right;" class="resize2">
-<instagram-widget username="@austinhuang.me" grid="3x3" style="border:none; overflow:hidden;  width:300px; height:300px"></instagram-widget>
+<div style="float:right;" class="resize2" style="border:none; overflow:hidden; width:300px; height:300px">
+<instagram-widget username="@austinhuang.me" grid="3x3"></instagram-widget>
 </div>
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, some goes to my Instagram.
