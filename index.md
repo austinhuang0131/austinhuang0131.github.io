@@ -5,6 +5,8 @@ comments: true
 permalink: /
 ---
 
+<script src="https://cdn.jsdelivr.net/npm/@ptkdev/webcomponent-instagram-widget@latest/dist/lib/en/instagram-widget.min.js"></script>
+
 <style>
 @media ( max-width : 800px) {
     .resize1 {
@@ -24,29 +26,11 @@ If you need a job title, that'll be "college student/freelance project maintaine
 
 ## My own projects
 * [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
-* [Metagon](https://metagon.austinhuang.me) is a multi-platform bot that has a lot of useful tools. Hosted on Heroku.
-* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-owned with [PizzaFox](https://jonah.pw).
+* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
 * I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.
-
-## Projects I am involved in
-You can see my [GitHub profile](http://github.com/austinhuang0131). I am currently involved in these projects:
-
-* [Disboard](http://disboard.org/) (Admin)
-* [Discord Center](http://discord.center) (Moderator)
-* [Discordservers.me](https://discordservers.me/) (Admin)
-* [Endless Hosting](http://theendlessweb.com) (Head Support)
-* Circuit admin for these Discord listing servers: [Pandora List](https://discord.gg/mU9ezQ2) (Owner), [Discord Server Central](http://discord.gg/PrzjCjG) (Council/Founder), and [Server Advertisement List](http://discord.gg/Gb9gjd3) (Executive).
-
-## My translations
-I do some translations occasionally, too, usually from Japanese or Chinese to English. I have done translations in these projects:
-
-* [Disboard](http://disboard.org/) (All of Chinese translation, plus small fixes on other languages)
-* [Weblate](https://hosted.weblate.org/user/austinhuang0131/) projects:
-  * 30% of Chinese translation in [Liberapay](https://liberapay.com/)
-  * 1% of Chinese translation in [Andor's Trail](https://andorstrail.com/)
   
 ## My photos
 
@@ -65,20 +49,18 @@ I do some translations occasionally, too, usually from Japanese or Chinese to En
        animationPause: 2
      });
 </script>
-
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, these low-quality social media ones goes to my Instagram. See below.
-
-## My other online stuff, like social media
 <div style="float:right;" class="resize2">
-<iframe src="https://snapwidget.com/embed/768005" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="yes" style="border:none; overflow:hidden;  width:300px; height:300px"></iframe>
+<instagram-widget username="@austinhuang.me" grid="3x3" style="border:none; overflow:hidden;  width:300px; height:300px"></instagram-widget>
 </div>
 
-* [Colnect](https://colnect.com/en/collectors/collector/Austin-Huang): Transit tickets and stuff I collect. Not updated.
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, some goes to my Instagram.
+
+## My other online stuff, like social media
+
 * [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
 * [Instagram](https://instagram.com/austinhuang.me)
-* [KeyBase](https://keybase.io/austinhuang) (And this website is [Keybase'd](/keybase.txt))
+* [Matrix room](https://matrix.to/#/#bistro:chat.endl.site)
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
-* [Public Mobile Community](https://productioncommunity.publicmobile.ca/t5/user/viewprofilepage/user-id/52430) ~~underpaid customer support~~
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Snapchat](http://www.snapchat.com/add/austin0131mtl)
@@ -86,7 +68,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
-~~No u.~~ Obviously, sure. You can even comment below to ask even more question, eh?
+Sure. You can even comment below to ask even more question, eh?
 
 ### Hobbies?
 Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes, also classical/organ remixes) ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
@@ -107,6 +89,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * [Email](mailto:im@austinhuang.me) `im@austinhuang.me`
 * Discord: `The Double-Eyed Bus#6889`
 * [Instagram](https://instagram.com/austinhuang.me): @austinhuang.me
+* [Matrix](https://matrix.to/#/@austinhuang:chat.endl.site): @austinhuang:chat.endl.site
 * [Telegram](http://t.me/austinhuang): @austinhuang
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 
