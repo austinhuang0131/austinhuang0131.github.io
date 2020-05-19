@@ -20,3 +20,5 @@ permalink: /sitemap
 * [Donate](./donate)
 * [Reference](./reference)
 * [Services](./services)
+
+{% include def.html %}
