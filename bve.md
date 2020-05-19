@@ -193,3 +193,5 @@ Guide text © 2019~ Austin Huang, all rights reserved. Reproduction of this guid
 Header made using [Sigene](https://tr246.github.io/Sigene/).
 
 このサイトはリンクフリーです。リンクの際にこのバナー ([フルサイズ](https://raw.ratelimited.me/bqdbu307pq.png) / [200x110](https://raw.ratelimited.me/m0nz6mblsr.png)) にご利用ください。お問い合わせは `im アット austinhuang ドット me` へ（日本語片対応、返信は英語のみ）。
+
+{% include def.html %}
