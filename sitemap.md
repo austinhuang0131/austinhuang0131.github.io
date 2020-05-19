@@ -16,7 +16,6 @@ permalink: /sitemap
 * [PsychoPoly: Monopoly, but in psych medications](./psychopoly)
 
 ## Personal
-* [Contact](./contact)
 * [Donate](./donate)
 * [Reference](./reference)
 * [Services](./services)
