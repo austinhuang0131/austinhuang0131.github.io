@@ -14,11 +14,11 @@
 <link rel="stylesheet" href="https://tile.opengeofiction.net/Leaflet.loading/src/Control.Loading.css" />
 <script src="https://tile.opengeofiction.net/Leaflet.loading/src/Control.Loading.js"></script>
 
-<script data-goatcounter="https://0131.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-
 <script src="https://tile.opengeofiction.net/util/OGFUtil.js"></script>
 <script src="./assets/color.js"></script>
+
+<script data-goatcounter="https://0131.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 
 <style>
 
@@ -89,22 +89,21 @@ function reloadPublicTransport(){
     var bbox = map.getBounds();
     ogf.publicTransport( layer, bbox, [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
-   
+
 function loadOneLine( rel ){
     layer.clearLayers();
     ogf.publicTransport( layer, [rel], [].slice.call(document.getElementsByTagName("input")).filter(r => r.type === "checkbox" && r.checked === true).map(r => r.value).join("|"));
 }
-   
+
 function pickColor(bgColor) {
-  var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : bgColor;
-  color = isNaN(parseInt(color, 16)) ? col[color] : color;
+  var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : col[color];
   var r = parseInt(color.substring(0, 2), 16); // hexToR
   var g = parseInt(color.substring(2, 4), 16); // hexToG
   var b = parseInt(color.substring(4, 6), 16); // hexToB
   return (((r * 0.299) + (g * 0.587) + (b * 0.114)) > 186) ?
     "#000000" : "#FFFFFF";
 }
-   
+
 ogf.wayPoints = function( way, ctx ){
 	if( !(typeof way === 'object') )  way = ctx.way[way];
 	var hNodes = ctx.node;
@@ -185,7 +184,7 @@ function drawStations( rel, ctx, hInfo) {
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
         L.circleMarker( [obj.lat, obj.lon+360*factor], {radius: width, color: color, weight: 2, fillColor: '#FFFFFF', fillOpacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1, opacity: rel.tags["ogf:opacity"] ? parseFloat(rel.tags["ogf:opacity"]) : 1} ).addTo( hInfo.layer ).bindPopup( popupText );
-    } );	
+    } );
 }
 
 function loadRouteData( param, type, cb ){
@@ -223,24 +222,24 @@ function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
 	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
 	colour = (colour !== '' && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
-    var objText = '<b>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</b> <b style="'+colour+'">' + obj.tags.name + '</b>';
-    if (obj.tags.operator) objText += '<br><b>Operated by:</b> '+obj.tags.operator;
-    if (obj.tags.network) objText += '<br><b>Network:</b> '+obj.tags.network;
-    if (obj.tags.from && obj.tags.to) objText += '<br><b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
-    if (obj.tags.via) objText += ' (Via: '+obj.tags.via+')';
-    if (obj.tags.note) objText += '<br><b>Note:</b> '+obj.tags.note;
-    objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-    objText += '<br><a href="javascript:loadOneLine(' + obj.id + ')">Show only this line</a>';
-    return objText;
+    var text = '<b>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</b> <b style="'+colour+'">' + obj.tags.name + '</b>';
+    if (obj.tags.operator) text += '<br><b>Operated by:</b> '+obj.tags.operator;
+    if (obj.tags.network) text += '<br><b>Network:</b> '+obj.tags.network;
+    if (obj.tags.from && obj.tags.to) text += '<br><b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
+    if (obj.tags.via) text += ' (Via: '+obj.tags.via+')';
+    if (obj.tags.note) text += '<br><b>Note:</b> '+obj.tags.note;
+    text += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+    text += '<br><a href="javascript:loadOneLine(' + obj.id + ')">Show only this line</a>';
+    return text;
 }
-   
+
 function objTextStation( obj, ctx ){
-     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1); 
-     var objText = !obj.tags ? '<b>undefined</b>' : '<b>' + obj.tags.name + '</b>';
-     objText += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
-     objText += '<br>Belongs to:<br>';
+     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
+     var teststation = !obj.tags ? '<b>undefined</b>' : '<b>' + obj.tags.name + '</b>';
+     teststation += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+     teststation += '<br>Belongs to:<br>';
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
-     objText += relation
+     teststation += relation
 	     .filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1)
 	     .sort((a, b) => {if (a.value.tags.name > b.value.tags.name) return 1; else return -1;})
 	     .map(r => {
@@ -248,7 +247,7 @@ function objTextStation( obj, ctx ){
          colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
          return '- <a href="javascript:loadOneLine(' + r.id + ')" style="' + colour + '">' + r.value.tags.name + '</a>';
      }).join("<br>");
-     return objText;
+     return teststation;
 }
 
 /*
