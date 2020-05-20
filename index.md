@@ -18,7 +18,7 @@ permalink: /
 
 <img class="resize1" src="./assets/icons/android-chrome-512x512.png " alt="The Almighty Bus" align="right" width="300"/>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [helps other projects](#projects-i-am-involved-in), [translates websites](#my-translations), [takes photos](#my-photos), studies,  and [explores online stuff](#my-other-online-stuff). You may reach me using [these methods](./contact). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
+Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -73,8 +73,6 @@ Model UN is great. Strongly recommended. Even if you're not into politics, this 
 
 ### Hardware?
 A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
-
-Oh, and I speak [Shanghainese](https://en.wikipedia.org/wiki/Shanghainese), a dialect of the disappearing Wu language. Let's say that's a *software* in my brain.
 
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
