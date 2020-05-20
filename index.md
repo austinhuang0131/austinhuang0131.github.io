@@ -29,7 +29,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
 * I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.
-  
+
 ## My photos
 
 <div class="resize2" id="myElement" style="float:right;"></div>
@@ -61,7 +61,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 * [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
-Sure. You can even comment below to ask even more question, eh?
+Sure. You can even comment below to ask even more questions, eh?
 
 ### Hobbies?
 Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes, also classical/organ remixes) ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
@@ -82,6 +82,7 @@ I try to use components from responsible/ethical sources. Except my domain regis
 * I use nameservers from [deSec.io](https://desec.io).
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
+No Cloudflare. No Google Analytics.
 
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
