@@ -74,6 +74,15 @@ Model UN is great. Strongly recommended. Even if you're not into politics, this 
 ### Hardware?
 A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
 
+### This site?
+I try to use components from responsible/ethical sources. Except my domain registrar, everything is open source.
+
+* The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
+* The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
+* I use nameservers from [deSec.io](https://desec.io).
+* I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
+
+
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
 
