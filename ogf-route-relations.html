@@ -96,7 +96,8 @@ function loadOneLine( rel ){
 }
 
 function pickColor(bgColor) {
-  var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : col[bgColor];
+  var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : (col[bgColor.toLowerCase()] ? col[bgColor.toLowerCase()] : "");
+  if (!color) return "null";
   var r = parseInt(color.substring(0, 2), 16); // hexToR
   var g = parseInt(color.substring(2, 4), 16); // hexToG
   var b = parseInt(color.substring(4, 6), 16); // hexToB
@@ -168,7 +169,7 @@ function drawRoute( rel, ctx, hInfo ){
     closedWays.forEach( function(way){
         var line = ogf.wayPoints( way, ctx ),
             popupText = objText(rel),
-            color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000',
+            color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour.toLowerCase()])) ? rel.tags.colour : '#000000',
             x = (rel.tags['ogf:width'] && !isNaN(parseFloat(rel.tags['ogf:width']))) ? parseFloat(rel.tags['ogf:width']) : 5,
 	    y = (rel.tags["ogf:opacity"] && !isNaN(parseFloat(rel.tags['ogf:opacity']))) ? parseFloat(rel.tags["ogf:opacity"]) : 1,
 	    f = rel.tags["ogf:invert"] === "yes" ? "5,12" : "5,0";
@@ -179,7 +180,7 @@ function drawRoute( rel, ctx, hInfo ){
 function drawStations( rel, ctx, hInfo) {
     var stations = rel.members.filter( function(x){ return x.type === 'node' && /(^station|^stop|:stop$)/.test(x.role); } );
     var width = rel.tags["ogf:width"] || 5;
-    var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour])) ? rel.tags.colour : '#000000';
+    var color = (rel.tags.colour !== undefined && (!isNaN(parseInt(rel.tags.colour.substring(1, 7), 16)) || col[rel.tags.colour.toLowerCase()])) ? rel.tags.colour : '#000000';
     stations.forEach( function(mS){
         var obj = ctx.node[mS.ref];
         var popupText = objTextStation(obj, ctx);
@@ -220,7 +221,7 @@ function loadRouteData( param, type, cb ){
 
 function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
-	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
+	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour.toLowerCase()])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
 	colour = (colour !== '' && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
     var text = '<b>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</b> <b style="'+colour+'">' + obj.tags.name + '</b>';
     if (obj.tags.operator) text += '<br><b>Operated by:</b> '+obj.tags.operator;
@@ -243,7 +244,7 @@ function objTextStation( obj, ctx ){
 	     .filter(r => r.value.members.filter(m => m.ref === obj.id).length === 1)
 	     .sort((a, b) => {if (a.value.tags.name > b.value.tags.name) return 1; else return -1;})
 	     .map(r => {
-         var colour = (r.value.tags.colour !== undefined && (!isNaN(parseInt(r.value.tags.colour.substring(1, 7), 16)) || col[r.value.tags.colour])) ? 'background-color:'+r.value.tags.colour+';color:'+pickColor(r.value.tags.colour)+';' : '';
+         var colour = (r.value.tags.colour !== undefined && (!isNaN(parseInt(r.value.tags.colour.substring(1, 7), 16)) || col[r.value.tags.colour.toLowerCase()])) ? 'background-color:'+r.value.tags.colour+';color:'+pickColor(r.value.tags.colour)+';' : '';
          colour = (colour !== '' && r.value.tags['ogf:invert'] && r.value.tags['ogf:invert'] === 'yes') ? 'color:'+r.value.tags.colour+';' : colour;
          return '- <a href="javascript:loadOneLine(' + r.id + ')" style="' + colour + '">' + r.value.tags.name + '</a>';
      }).join("<br>");
