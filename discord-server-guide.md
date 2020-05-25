@@ -2,6 +2,7 @@
 title: I need advice on running a Discord server!
 description: Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!
 comments: true
+permalink: /discord-server-guide
 ---
 
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
@@ -17,7 +18,7 @@ Before making a Discord server, you should ask yourself these questions:
 2. Is it unique? How? (Don't give generic answers like "nice bots" or "helpful staff". You may answer "No" if it's just a straightforward community server or something like that.)
 3. How will you engage your population (Keep your members) in the future?
 
-There is no correct answer to them, but you should at least be able to answer these questions keep them in mind. If you answered "No" to question 2, you should focus more on question 3.
+There is no correct answer to them, but you should at least be able to answer these questions. Keep them in mind. If you answered "No" to question 2, you should focus more on question 3.
 
 ## Let's start!
 ### With a specific purpose
@@ -74,10 +75,11 @@ Most commonly used method. Let your members explain what they have and what they
 Personally, I let my members elect their moderators. This is very objective and my members satisfy. However, without constantly refreshing population, there's hardly a challenge for the elected.
 ### Bots
 **DON'T** add a lot of bots, or mention your bots as one of the features of your server anywhere. You should only use bots that you will truly use, or your server can give new members a bad impression. You should also place the bot role lower if you choose to display it.
-### Boosts
-I personally don't see boosts necessary. They can prove your members being loyal to the server, but does not necessarily contribute to activities.
 
 In most situations, you only need 1 bot to faciliate moderation on phones and have an alternative audit log. You can add some other bots for minigames and advertising.
+
+### Boosts
+I personally don't see boosts necessary. They can prove your members being loyal to the server, but does not necessarily contribute to activities.
 
 ## Have more questions?
 Ask me in the comments below!
