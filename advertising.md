@@ -41,10 +41,6 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
 * [Discord Servers](https://discordservers.com/)
   * Second-Largest? ("~40k servers" as of Dec 22 2018), oldest
   * More like a search engine
-* [Discord Center](https://discord.center/?a=cod4xXUltltp)
-  * 26000+ servers
-  * Server owners can bump every 2 hours for free, on site and on bot
-  * Allow ratings (stars)
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>top.gg</i></small>
   * 14000+ servers
 * [DiscordSL.com](https://discordsl.com/)
@@ -61,9 +57,6 @@ Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your serv
   * ~2000 servers
 * [Discordeame](https://discordea.net) **SPANISH**
   * 1700+ servers
-* [Discordy](http://www.discordy.com/)
-  * 250+ servers
-  * Allow ratings (votes)
 * [serverlist.space](https://serverlist.space)
   * 30+ servers
 
