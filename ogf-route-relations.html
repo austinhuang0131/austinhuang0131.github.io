@@ -223,8 +223,8 @@ function objText( obj ){
     var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
 	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour.toLowerCase()])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
 	colour = (colour !== '' && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
-    var text = '<h3><sub>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</subb> <span style="'+colour+'">' + obj.tags.name + '</span></h3>';
-    if (obj.tags.operator) text += '<br><b>Operated by:</b> '+obj.tags.operator;
+    var text = '<h3><sub>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + '</sub> <span style="'+colour+'">' + obj.tags.name + '</span></h3>';
+    if (obj.tags.operator) text += '<b>Operated by:</b> '+obj.tags.operator;
     if (obj.tags.network) text += '<br><b>Network:</b> '+obj.tags.network;
     if (obj.tags.from && obj.tags.to) text += '<br><b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
     if (obj.tags.via) text += ' (Via: '+obj.tags.via+')';
@@ -237,7 +237,7 @@ function objText( obj ){
 function objTextStation( obj, ctx ){
      var typeText = obj.type.substr(0,1).toUpperCase() + obj.type.substr(1);
      var teststation = !obj.tags ? '<h3>(no name)</h3>' : '<h3>' + obj.tags.name + '</h3>';
-     teststation += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
+     teststation += typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';
      teststation += '<br>Belongs to:<br>';
      var relation = Object.keys(ctx.relation).map(r => {return {id: r, value: ctx.relation[r]};});
      teststation += relation
