@@ -1,7 +1,6 @@
 ---
 title: I need advice on running a Discord server!
 description: Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!
-comments: true
 permalink: /discord-server-guide
 ---
 

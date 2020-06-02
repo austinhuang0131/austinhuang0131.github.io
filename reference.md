@@ -1,7 +1,7 @@
 ---
 title: List of Cool People I recommend!
 description: Here I list some of my acquaintances that have demonstrated certain skills. aka. "People I would provide a reference for".
-comments: true
+permalink: /reference
 ---
 
 ## Readme
@@ -14,8 +14,6 @@ To be listed here, you need to:
 * Possesses a skill that's enough to provide a service (How should I word it...), i.e. fits in one of the categories below,
 * Has social media, contact, or website for me to link to.
   * Social media: **D**iscord / **G**itHub / **I**nstagram / **T**elegram
-
-(To be unlisted from here, [contact me.](./contact))
 
 ## Art
 * Anna (I: [@ayamerocks](https://instagram.com/ayamerocks)): Comics / Sketch.
