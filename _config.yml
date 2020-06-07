@@ -30,8 +30,8 @@ author:
     tumblr: austinhuang0131
 
 no_google_fonts: true
-font: Trebuchet MS, Helvetica, Arial, sans-serif
-font_heading: Georgia, serif
+font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
+font_heading: Roboto Slab, Georgia, serif
 
 include:
   - assets
