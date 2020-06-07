@@ -1,7 +1,4 @@
 remote_theme: qwtel/hydejack
-no_google_fonts: true
-font: "Trebuchet MS", Helvetica, Arial, sans-serif
-font_heading: Georgia, serif
 
 title: Austin Huang
 
@@ -31,6 +28,10 @@ author:
     reddit: austinhuang
     telegram: austinhuang
     tumblr: austinhuang0131
+
+no_google_fonts: true
+font: "Trebuchet MS", Helvetica, Arial, sans-serif
+font_heading: Georgia, serif
 
 include:
   - assets
