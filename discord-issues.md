@@ -146,7 +146,7 @@ I experience both sides of Discord throughout my usage. I saw raids since my fir
 
 I constantly discussed Discord's unprofitability. But what really made me to move my community server to Matrix is Project Blurple, the annual tradition of "celebrating Discord's birthday" by painting your avatar to blurple. I became furious over the people's ignorance on the issues of Discord and just the constant corporate propaganda, then I decided to revisit Riot.im and proposed to [Adam](https://i-am.djelectro.me/) of running a Matrix homeserver, so here I am.
 
-For those who want to move out of Discord: Matrix with Riot.im should provide a good grip on both open source (as well as privacy) and social. Although it does not see much adoption right now, people will eventually learn about it.
+For those who want to move out of Discord: Matrix with Riot.im should provide a good grip on both openness/freedom (as well as privacy, to an extent, at least better than Discord?) and social. Although it does not see much adoption right now, people will eventually learn about it.
 
 And, again, I don't write as good as Cadence. If you haven't read their article at this point, [do it](https://cadence.moe/blog/2020-06-06-fuckdiscord).
 
