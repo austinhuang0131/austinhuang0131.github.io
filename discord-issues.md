@@ -73,11 +73,11 @@ Keyword: Attention. Discord is built on quantified attention. Whereas Instagram 
 
 ...until people differentiate themselves based on the attention they have. And Discord is not helping.
 
-1. Division.
+1\. Division.
 
 Thousands of bots contribute to the Discord experience and therefore become part of the culture, with bot developers enjoying the attention and achievement from them. However, even before the forced verification of bot developers, we see [Discord staff bashing a platform used by small bot developers](https://support.glitch.com/t/one-of-the-glitch-ips-is-banned-by-discord/4377/3) and [putting blame on bots first](https://github.com/discord/discord-api-docs/issues/1276). Now, with verification, underage and privacy-aware developers are effectively *barred* from growing their bots. Driven by the culture, the users are encouraged to learn programming and to code projects, becoming indie developers, and they then meet Discord, not only exploiting that culture for data, but also deepening the divide between the mass and a few privileged developers, who have the money to spend.
 
-2. Distinction.
+2\. Distinction.
 
 DISBOARD has reviews. Even though we envisioned it as a fair game for users to comment on servers, it has inevitably become another way to distinct one server from others, as we stopped many attempts of rewarding reviews and raiding reviews. Staff reviewing their own server, though cannot be ruled against, also affects the neutrality of reviews. In other server listings, I also see servers trying to *buy* upvotes with giveaway in order to win competitions. Now look at bots: [Cross-bot voting](https://github.com/DiscordBotList/issues/issues/372) (It was added into the bot list's prohibited actions). Where is the moral bottom line in this? In one way we could also say that Discord, by design, promotes such unfair competition. Also, look at the Server Discovery page! They just choose the *largest* servers to represent Discord, throwing everyone else under the bus. (Also, how did r/Jailbreak become a Discord partner? Why would Discord endorse something that is in the [legal grey area](https://en.wikipedia.org/wiki/IOS_jailbreaking#United_States)?)
 
@@ -89,7 +89,7 @@ Nitro or PayPal rewards servers have long been a phenomenon, where members are p
 
 On May 19, 2020, Discord officially added this to the Community Guidelines. With zero prior notice, as usual, even if the Terms of Service directly link to the Guidelines! (I was notified by someone in the DISBOARD support server.)
 
-> 15. You may not sell your account or your server.
+> 15\. You may not sell your account or your server.
 
 This rule addresses professional "server-growers" who attract people through rewarding joins, which sometimes involve scams, then selling off the entire server to someone who wants a pre-made community, like [this](https://redd.it/gwzu5p). Two things:
 

@@ -5,6 +5,7 @@ permalink: /sitemap
 ---
 
 ## Discord-related
+* [Issues of Discord](./discord-issues)
 * [Advertising Guide](./advertising)
 * [Server Guide](./discord-server-guide)
 
