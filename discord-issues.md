@@ -6,25 +6,12 @@ permalink: /discord-issues
 
 In response to [this well-written article](https://cadence.moe/blog/2020-06-06-fuckdiscord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues).
 
-* [An addendum on Cadence's article](#an-addendum-on-cadence's-article)
 * [The Law](#the-law)
 * [The Culture](#the-culture)
 * [The Money](#the-money)
 * [Conclusion: The Attitude](#conclusion-the-attitude)
 * [Some personal anecdotes](#some-personal-anecdotes)
 * [Two supplementary comments](#two-supplementary-comments)
-
-## An addendum on Cadence's article
-
-While I appreciate their determination on educating the public about the issues of Discord, which encouraged me to write *this* article, there are several points I want to make:
-
-* Don't swear.
-* The opening 1/4 is a bit too technical. This article will only address user aspects.
-* In the middle, the "Disboard Admin" was me. There is a screenshot, in which I'll clarify certain points:
-    1. **I am speaking at my own capacity; I do not speak at DISBOARD's capacity.** This applies to *any* article.
-    2. In no way am I trying to generalize people who report illegal servers to us as "alt-right". There are quite some vigilantes who identify with these (or similar) ideologies, which I do not necessarily agree with. I will further explain in [The Culture](#the-culture).
-    3. In no way am I *refusing* to cooperate with Discord. I am perfectly open to any cooperation with Discord in order to serve the spirit of law, *should* it happen. Except it doesn't. I will explain this in [The Law](#the-law).
-    4. Yes, I did receive threats from an ex-staff of Discord (the account no longer has the staff badge), who was (or still is, just switched account?) a T&S member at that time. In the spirit of respect, I will not name the person nor provide the screenshot, but it did happen.
 
 ## The Law
 
