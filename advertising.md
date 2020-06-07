@@ -5,7 +5,7 @@ permalink: /advertising
 image: https://austinhuang.me/assets/meme.jpg
 ---
 
-[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Click here to see more guides!](./sitemap)
+[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Some discussions on the issues of Discord.](./discord-issues)<br />[Click here to see more guides!](./sitemap)
 
 ## Free people for your Discord server!
 

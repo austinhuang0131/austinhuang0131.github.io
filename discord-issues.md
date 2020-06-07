@@ -91,7 +91,7 @@ On May 19, 2020, Discord officially added this to the Community Guidelines. With
 
 > 15\. You may not sell your account or your server.
 
-This rule addresses professional "server-growers" who attract people through rewarding joins, which sometimes involve scams, then selling off the entire server to someone who wants a pre-made community, like [this](https://redd.it/gwzu5p). Two things:
+This rule addresses professional "server-growers" who attract people through rewarding joins, which sometimes involve scams, then selling off the entire server to someone who wants a pre-made community, like [this](https://snew.notabug.io/r/discordapp/comments/gwzu5p/we_dont_do_that_anymore/). Two things:
 
 1. What were you doing *before* then? Are you not aware of Nitro rewards servers?
 2. So the server owner can still convert their own nitro-rewards server to a pre-made community, while you earn all the money from it? By barring professionals, aren't you just encouraging everyone to *do it themselves*, therefore getting more money through Nitro gifts?
