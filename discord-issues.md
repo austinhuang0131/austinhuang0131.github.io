@@ -90,8 +90,9 @@ Okay, maybe what I said before is an edge case, but again, it is literally so ea
 
 > The vast majority of servers are invite-only and private. Discord only lets users search for public servers. All searchable servers have been vetted by Discord staff and are required to maintain healthy and positive communities in order to remain publicly available.
 
-1. Throwing all public server lists and almost all public servers under the bus. *Again.*
-2. Even if Discord intended to do the previous point, are teens really that dumb to *not* find and join non-vetted servers online? Does Discord not know that there exists a tool called "search engines"?
+1. Throwing all public server lists and almost all public servers under the bus. *Again*, and worse than last time above.
+2. Okay, let's say Discord intends to redeem it. Have they not considered the effect should *all* server lists be shut down? One: People will be extremely angry. Two: People will post their Discord servers *everywhere*. Angering users and polluting internet. *Beautiful.*
+3. Even if Discord intended to do the previous point, are teens really that dumb to *not* find and join non-vetted servers online? Does Discord not know that there exists a tool called "search engines"?
 
 > An outsider cannot guess the link to a specific server and invitation links expire after a maximum of 24 hours.
 
@@ -133,7 +134,7 @@ Does Discord not know that there exists a tool called "search engines"? Otherwis
 
 > If you ever believe that your teen is in danger on Discord, and have access to their email address, you can email us from that email address and request that we delete the account. 
 
-Hol' up, are you suggesting that in an event of danger, parents should attempt to acquire the email password for their kids' email addresses??? It is a *danger*, the parents should know the best, if they prove the relationship and explain what danger it is, Discord should be able take action! Also, [in Trust & Safety report form](https://dis.gd/request), there is a report type called "Parent of a Discord user", which you described in "Reporting problems to Discord", are you suggesting that it is just a decoration???
+Hol' up, are you suggesting that in an event of danger, parents should attempt to acquire the email password for their kids' email addresses??? It is a *danger*, the parents should know the best, if they prove the relationship and explain what danger it is, Discord should be able to take action! Also, [in Trust & Safety report form](https://dis.gd/request), there is a report type called "Parent of a Discord user", which you described in "Reporting problems to Discord", are you suggesting that it is just a decoration???
 
 #### Enforcing our rules
 
