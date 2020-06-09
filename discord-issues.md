@@ -1,12 +1,13 @@
 ---
 title: My view on the Issues of Discord
-description: Crimes, staff, and the money. Maybe that social media platform you rely on every day isn't as glorious as you think.
+description: Crimes, staff, and money, also featuring lying to parents. Maybe that social media platform you rely on every day isn't as glorious as you think.
 permalink: /discord-issues
 ---
 
-In response to [this well-written article](https://cadence.moe/blog/2020-06-06-fuckdiscord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues).
+In response to [this well-written article](https://cadence.moe/blog/2020-06-06-fuckdiscord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) and this page will be regularly updated (since June 6, 2020).
 
 * [The Law](#the-law)
+  * [Update: Safety Center](#update-safety-center) (June 8)
 * [The Culture](#the-culture)
 * [The Money](#the-money)
 * [Conclusion: The Attitude](#conclusion-the-attitude)
@@ -35,7 +36,7 @@ And look at how Discord responds to them.
 
 * [Staff abuse and lack of clarity on rules](https://redd.it/9tdnl9). Same happened [on Partnered servers](https://redd.it/b4dm62).
 * Extrajudicial bans, eg. [on underage dating](https://cadence.moe/i/367b08).
-* [Mass automatic bans that was written off as an issue in spam detection](https://redd.it/dcemhh).
+* [Mass automatic bans that was written off as an issue in spam detection.](https://redd.it/dcemhh)
 * Tell you to *keep* whatever illegal content you're going to report, as once the messages are deleted, [they're gone](https://dis.gd/serverid).
 * No "good samantarian law". You are implicated simply for *reporting* illegal content.
 
@@ -45,11 +46,141 @@ Since August 2019, Discord makes [transparency reports](https://blog.discord.com
 
 As a staff of multiple public server listings, I see **no cooperation** from Discord whatsoever regarding enforcing the law. Instead of having an active Support team (DISBOARD has 8 Support members that are nominated based on merit, aka. previous activity in assisting others. We do not have an application form.) that responds to user reports and even takes time in [organizing 3rd-party ToS](https://docs.google.com/document/d/1hwTpy10BVl9vbdXjoaSHO_KwF5O2GlAzuaY4IXO-cm8/edit), what we see is not only the absence of guidance, but also their Twitter *discourage* users from server listings (being the ONLY source for servers to get most members), [not only once](https://nitter.net/discord/status/1208918203608514561), [but twice](https://nitter.net/discord/status/1043761883982049282). We research news articles about us ourselves, as we are the number 1 result on Google and that equals larger scrutiny. Discord, as a platform, has a much larger scrutiny on them, yet their effort doesn't even match ours. It is unfair to us, disrespectful for users, and shame on their public image.
 
+### Update: Safety Center
+
+On June 8, 2020, two days after the initial publishment of this page, Discord [scrambled](https://redd.it/gzdh1p/) ([Wayback](https://web.archive.org/web/20200609175647/https://v.redd.it/02tfdb4xis351/DASH_1080?source=fallback)) to make [Safety Center](https://discord.com/safety). While I see this as an effort to compile Discord's practices, some statements are easily questionable.
+
+#### Homepage
+
+> We do not sell your data, nor do we share it with third parties for advertising purposes.
+
+Of course you don't, because you [give](#the-culture) [them](https://resynth1943.net/2020/03/14/The-Discord-privacy-scandal.html) [away](https://github.com/davidbaszucki/discord-attachment-bruteforcer)! Also, what about a takeover? Selling the company with the data?
+
+> We put your privacy first and as a rule do not scan or read your messages. However, we can do so for safety reasons.
+
+So you *can* read messages?
+
+> Your identity is yours. Your account doesn’t have to be tied back to your real world identity
+
+That's a first. You might wanna explain why bot developers and [suspected](https://redd.it/gowoxt/) [underage](https://github.com/discordjs/discord.js/issues/3440) [users](https://redd.it/gber1q/) have to submit their ID.
+
+#### Tips against spam and hacking
+
+> Instead of joining too many servers at once, we recommend using Server Discovery to find active public communities on topics you’re passionate about. 
+
+Throwing all public server lists and almost all public servers under the bus, as Server Discovery only contains partnered or verified servers.
+
+#### What is Discord? (for parents)
+
+> Cyndie, a parent of two from North Carolina, reflects on how her family uses Discord: “There are four of us and we all have Discord installed on both our computers and phones. My oldest son is in an apartment, and the younger one is on campus, so we use Discord to make family plans. Everything gets dropped into that server. From dinner’s ready to internships and job offers. Usually it’s the silly, stupid stuff we just drop in that makes us all laugh, like when there’s a Weird Al question on Jeopardy. I can’t imagine life without it. ” 
+
+Edge case to the worst extent. It is unimaginable for me to see an entire family *depends* on Discord to communicate with each other. At this point you're just *playing* parents' emotions now.
+
+#### Discord's commitment to a safe and trusted experience
+
+For the love of whoever and whatever, STOP lying to parents! (Due to the incredible amount of flaws, this page is [screencapped](https://i.ibb.co/CnMn0yM/image.png) to prevent Discord evading responsibility. I cannot Wayback it because it will return 404 right after accessing it, which also shows how irresponsible Discord is doing this.)
+
+> All conversations are opt-in. Unlike other platforms where someone might be able to message you or find you when you sign up for an account, this isn’t the case on Discord.
+
+With tracr.co, it's possible to just *find* users, and message them by joining one of the servers they're in, or by sending a friend request. What have you done to make sure users are not discoverable *in public and without consent*?
+
+> Every person that signs up needs to accept another user as a friend before they can be messaged by that user. For servers, they need to decide to join a community before being messaged by anyone in that server. 
+
+Okay, maybe what I said before is an edge case, but again, it is literally so easy to find servers (that are willingly advertising themselves in public). It is seriously *not hard* to message someone!
+
+> The vast majority of servers are invite-only and private. Discord only lets users search for public servers. All searchable servers have been vetted by Discord staff and are required to maintain healthy and positive communities in order to remain publicly available.
+
+1. Throwing all public server lists and almost all public servers under the bus. *Again.*
+2. Even if Discord intended to do the previous point, are teens really that dumb to *not* find and join non-vetted servers online? Does Discord not know that there exists a tool called "search engines"?
+
+> An outsider cannot guess the link to a specific server and invitation links expire after a maximum of 24 hours.
+
+What about permanent invite links??????????
+
+> Conversations between users are private, but not secret. We do not proactively read direct messages between users or conversations in a server. We do not collect data for monetization purposes or to build user profiles. However, conversations on Discord are not end-to-end encrypted. When we are alerted to an issue, we investigate the behavior at issue and take action. 
+
+Maybe it does appeal to parents when they hear "not end-to-end encrypted", but are you just *promoting* the fact that you are *against* privacy now?
+
+> Discord is not an anonymous platform. Users are identified by their username, which is chosen by the user, followed by a # and a four-digit number, known as their Discord tag. Discord doesn’t ask for anyone’s real name but we are able to track who is responsible for what by tying usernames to verified email addresses and IP addresses.
+
+What did you just say before? "Your account doesn’t have to be tied back to your real world identity." Congratulations, you just contradicted your own statement! Also asking ID and being against privacy. They are children!!!
+
+#### Answering parents' and educators' top questions
+
+> 1\. Is Discord safe for my teens to use?
+
+The 3 bullet points are all retrievable above.
+
+> 2\. What is the minimum age to be on Discord? How do you ensure teens under 13 can’t create an account?
+>
+> [legal backgrounds redacted]
+>
+> To ensure that users satisfy that minimum age requirement, we are in the process of rolling out a gate that asks them to confirm their date of birth upon creating an account. If a user is reported as being under 13, we lock them out of their account until they can verify their age using an official ID document.  
+
+I, I...
+
+> 3\. What personal information does Discord collect about my teen? Do you sell it?
+>
+> Discord does not sell user data, nor do we share it with third parties for advertising purposes. We do not ask for a real name on signup, and we do not share any user’s personal information with other users. We protect sensitive information, including contact information and private conversations, from any searches. 
+
+Yes, not asking for a real name on signup means you won't ask it later! Totally infallible logic. (For the "selling data" part, [look above.](#homepage))
+
+> 4\. Can my teen be exposed to inappropriate content on Discord?
+
+Does Discord not know that there exists a tool called "search engines"? Otherwise, is Discord ignorant of all the controversies???
+
+5 and 6: While I do have a strong urge to criticize these parts, I do realize that it is impossible to prevent them for *any* social media, so I'll spare them to your judgment.
+
+> If you ever believe that your teen is in danger on Discord, and have access to their email address, you can email us from that email address and request that we delete the account. 
+
+Hol' up, are you suggesting that in an event of danger, parents should attempt to acquire the email password for their kids' email addresses??? It is a *danger*, the parents should know the best, if they prove the relationship and explain what danger it is, Discord should be able take action! Also, [in Trust & Safety report form](https://dis.gd/request), there is a report type called "Parent of a Discord user", which you described in "Reporting problems to Discord", are you suggesting that it is just a decoration???
+
+#### Enforcing our rules
+
+That page, effectively, has NOTHING on it.
+
+#### How we investigate
+
+> We spend a lot of time in this process because we believe the context in which something is posted is important and can change the meaning entirely, like whether something’s said in jest between friends or is instead plain harassment. We might ask the reporting user for more information to help our investigation. 
+
+["Don't joke about age"](https://i.ibb.co/bJ6KvwR/unknown.png)
+
+> Please note: we don’t proactively read the contents of users’ private messages — privacy is incredibly important to us and we try to balance it thoughtfully with our duty to prevent harm. However, we scan 100% of images and videos uploaded to our platform using industry-standard PhotoDNA to detect matches to known child sexual abuse material.
+
+The two sentences directly contradicts with each other???
+
+> When we find someone who is engaging in illegal activity, we investigate their networks and their activity on Discord to proactively uncover accomplices or other sources of the content.
+
+The last time I checked, you just delete servers.
+
+#### What kind of actions we take
+
+> * Temporarily banning for a fixed amount of time as a “cool-down” period
+
+Exists?
+
+> * Permanently banning users from Discord and making it difficult for them to create another account
+
+How difficult?
+
+> * Disabling a server’s ability to invite new users
+
+How is this helpful? New server???
+
+#### Working with law enforcement
+
+Discord said nothing about proactively reporting to law enforcement, other than NCMEC (which is a legal requirement as outlined by the EARN IT act).
+
+#### Conclusion
+
+They think typical users and parents (and educators) are brainless and will buy whatever they say. They also effectively ignored other parts of the ecosystem (non-partnered non-verified public servers, server listing websites, etc.), effectively validating [this](https://cadence.moe/blog/2020-06-06-fuckdiscord#does-not-care-about-you).
+
+For the love of whoever and whatever, again, read them yourself. It's a gold mine.
+
 ## The Culture
 
 Discord attracts a lot of right-wing users.
 
-* There are some anti-MAP vigilantes around Discord. Some display alt-right ideologies publicly. At DISBOARD, we also see some of them, using potentially offensive names and avatar, making reports to us.
 * [Chan users](https://www.cbsnews.com/news/8chan-users-are-moving-to-discord-where-your-kids-are-playing-video-games/) like Discord.
 * Discord has [not one](https://discordleaks.unicornriot.ninja/discord/) [but two](https://whispers.ddosecrets.com/) known alt-right leaks. It is a target a journalists.
 * Discord [indirectly caused Charlottesville](https://www.washingtonpost.com/news/morning-mix/wp/2018/08/07/subpoena-for-app-called-discord-could-unmask-identities-of-charlottesville-white-supremacists/), until they shut the server down... [at a convenient time](https://nitter.net/discordapp/status/897170310348263426).
@@ -66,7 +197,7 @@ Thousands of bots contribute to the Discord experience and therefore become part
 
 2\. Distinction.
 
-DISBOARD has reviews. Even though it is supposed to be a fair game for users to comment on servers, it has inevitably become another way to distinct one server from others, as many attempts of manipulating reviews are stopped. Staff reviewing their own server, though cannot be ruled against, also affects the neutrality of reviews. In other server listings, I also see servers trying to *buy* upvotes with giveaway in order to win competitions. Now look at bots: [Cross-bot voting](https://github.com/DiscordBotList/issues/issues/372) (It was added into the bot list's prohibited actions). Where is the moral bottom line in this? In one way we could also say that Discord, by design, promotes such unfair competition. Also, look at the Server Discovery page! They just choose the *largest* servers to represent Discord, throwing everyone else under the bus. (Also, how did r/Jailbreak become a Discord partner? Why would Discord endorse something that is in the [legal grey area](https://en.wikipedia.org/wiki/IOS_jailbreaking#United_States)?)
+On server listings, I see servers trying to reward upvotes/reviews with giveaway (or just straight up pay for them) in order to win competitions. Now look at bots: [Cross-bot voting.](https://github.com/DiscordBotList/issues/issues/372) (It was added into the bot list's prohibited actions) Where is the moral bottom line in this? In one way we could also say that Discord, by design, promotes such unfair competition. Also, look at the Server Discovery page! They just choose the *largest* servers to represent Discord, throwing everyone else under the bus. (Also, how did r/Jailbreak become a Discord partner? Why would Discord endorse something that is in the [legal grey area](https://en.wikipedia.org/wiki/IOS_jailbreaking#United_States)?)
 
 And with these two comes with...
 
@@ -123,7 +254,7 @@ Maybe Discord does look good from the outside: After all, it continues in attrac
 
 This does not mean they should not focus on short-term gains at all - We cannot deny the nature of a company - but that they did not realize the long-term harm of their decisions.
 
-I do not wish to call everyone to move off Discord - I must recognize that it does bring people together - but as Discord users, you should be informed of these flaws. I also encourage everyone to actively audit Discord's actions and publicize them when necessary.
+As consumers, you must know what you are using, so you must be informed of these flaws. In today's society, non-free ("free" as in "freedom") softwares, as opposed to open source softwares, hide aspects about their operations, putting their users in the dark. [Matrix](https://matrix.org)/[Riot.im](https://riot.im) and [Mumble](https://www.mumble.info/), both good alternatives of Discord, as well as [others](https://www.reddit.com/r/RedditAlternatives/comments/fas4on/list_of_active_reddit_alternatives_50/) (the ones with checkmark under "oss"), allow everyone to audit their code and make modifications if necessary. The two specific alternatives I mentioned also allow you (should you have the resources) to run your *own* server with more control of the data. (Of course, when using anyone's server, remember to do research on the host.) You want transparency, you don't want to be a product, so start substituting your routine with free softwares!
 
 ## Some personal anecdotes
 
@@ -132,8 +263,6 @@ I am a Discord user since March 2016 as I was introduced to it while being a Min
 I experience both sides of Discord throughout my usage. I saw raids since my first server, learned JavaScript, tried to introduce a global ban list (failed), lost the battle to the 4chan /b/, collaborated on a bot (which was shut down due to lack of host), formally made my own bot ([DTel](https://dtel.austinhuang.me)), worked with [the wrong people](https://blog.usejournal.com/discordlist-net-and-how-to-not-run-a-website-a0694b1ec360?gi=3d9034553595), contacted Taki in a popular server and founded DISBOARD, got banned once for trying to merge one server to another, experienced countless server drama, started the [Advertising Guide](./advertising), became the go-to person in server listing (debatable), tried to bring in [inter-bot collaboration](https://discoin.gitbook.io) (still struggling)... 
 
 I constantly discussed Discord's unprofitability. But what really made me to move my community server to Matrix is Project Blurple, the annual tradition of "celebrating Discord's birthday" by painting your avatar to blurple. I became furious over the people's ignorance on the issues of Discord and just the constant corporate propaganda, then I decided to revisit Riot.im and proposed to [Adam](https://i-am.djelectro.me/) of running a Matrix homeserver, so here I am.
-
-And, again, I don't write as good as Cadence. If you haven't read their article at this point, [do it](https://cadence.moe/blog/2020-06-06-fuckdiscord).
 
 ## Two supplementary comments
 
@@ -179,7 +308,9 @@ About "You can even be like Telegram and deliberately tag 'Scam' on bots", they 
 
 I'd like to thank [Cadence](https://cadence.moe) and [Resynth](https://resynth1943.net) for their insights.
 
-I hope that I have set up an example in examining a platform, and I would like to encourage you to start doing research yourself in order to evaluate every platform you use. In today's fast-moving consumerist society, we need to slow down, and perform a critical analysis on the products... before it's too late. Don't be consumed by the product!
+I hope that I have set up an example in examining a platform, and I would like to encourage you to start looking for information yourself in order to evaluate every platform you use. In today's fast-moving consumerist society, we need to slow down, and perform a critical analysis on the products... [before it's too late.](https://redd.it/eiicah) Don't be consumed by the product! Read privacy policy, read terms of service, do your research, and wherever possible, use free & open softwares!
+
+I also encourage everyone to actively audit Discord's actions and publicize them when necessary.
 
 As for Discord, [get a grip of yourself man!](https://invidio.us/watch?v=hAGk4YVhK8M)
 
