@@ -86,7 +86,7 @@ No Cloudflare. No Google Analytics.
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
 
-* [Email](mailto:im@austinhuang.me) `im@austinhuang.me`
+* [Email](mailto:im@austinhuang.me) `im@austinhuang.me` My PGP public key is available [through OpenPGP keyserver](https://keys.openpgp.org/search?q=im%40austinhuang.me) or [here](./assets/key.asc). Do NOT use Keybase key.
 * Discord: `The Double-Eyed Bus#6889`
 * [Instagram](https://instagram.com/austinhuang.me): @austinhuang.me
 * [Matrix](https://matrix.to/#/@austinhuang:chat.endl.site): @austinhuang:chat.endl.site
@@ -94,6 +94,6 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 
 ### What other stuff are there on this website?
-You can have a look at the [sitemap](/sitemap). Also, don't forget to check out [my friends' work](/reference)!
+You can have a look at the posts below. Also, don't forget to check out [my friends' work](/reference)!
 
 {% include def.html %}
