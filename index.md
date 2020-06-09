@@ -74,24 +74,25 @@ Model UN is great. Strongly recommended. Even if you're not into politics, this 
 A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
 
 ### This site?
-I try to use components from responsible/ethical sources. Except my domain registrar, everything is open source.
+I try to use components from responsible/ethical sources. Except my domain registrar (you can't control that), everything is open source.
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
 * I use nameservers from [deSec.io](https://desec.io).
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
-No Cloudflare. No Google Analytics.
+No Cloudflare. No Google. No cookies.
 
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
 
-* [Email](mailto:im@austinhuang.me) `im@austinhuang.me` My PGP public key is available [through OpenPGP keyserver](https://keys.openpgp.org/search?q=im%40austinhuang.me) or [here](./assets/key.asc). Do NOT use Keybase key.
-* Discord: `The Double-Eyed Bus#6889`
-* [Instagram](https://instagram.com/austinhuang.me): @austinhuang.me
-* [Matrix](https://matrix.to/#/@austinhuang:chat.endl.site): @austinhuang:chat.endl.site
-* [Telegram](http://t.me/austinhuang): @austinhuang
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available [through OpenPGP keyserver](https://keys.openpgp.org/search?q=im%40austinhuang.me) or [here](./assets/key.asc). Do NOT use Keybase key.
+* Instagram: `@austinhuang.me`
+* [Matrix](https://matrix.to/#/@austinhuang:chat.endl.site): `@austinhuang:chat.endl.site`
+* [Telegram](http://t.me/austinhuang): `@austinhuang`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
+* Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131.github.io/issues). Note that it's public.
+* Discord: `The Double-Eyed Bus#6889` (Only if it's something involving Discord. [Why?](/discord-issues))
 
 ### What other stuff are there on this website?
 You can have a look at the posts below. Also, don't forget to check out [my friends' work](/reference)!
