@@ -182,3 +182,5 @@ I'd like to thank [Cadence](https://cadence.moe) and [Resynth](https://resynth19
 I hope that I have set up an example in examining a platform, and I would like to encourage you to start doing research yourself in order to evaluate every platform you use. In today's fast-moving consumerist society, we need to slow down, and perform a critical analysis on the products... before it's too late. Don't be consumed by the product!
 
 As for Discord, [get a grip of yourself man!](https://invidio.us/watch?v=hAGk4YVhK8M)
+
+{% include def.html %}
