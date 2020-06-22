@@ -168,13 +168,11 @@ With tracr.co, it's possible to just *find* users, and message them by joining o
 
 Okay, maybe what I said before is an edge case, but again, it is literally so easy to find servers (that are willingly advertising themselves in public). It is seriously *not hard* to message someone!
 
-> ~~The vast majority of servers are invite-only and private.~~ Discord only lets users search for public servers. All searchable servers have been vetted by Discord staff and are required to maintain healthy and positive communities in order to remain publicly available.
+> The vast majority of servers are invite-only and private. Discord only lets users search for public servers. All searchable servers have been vetted by Discord staff and are required to maintain healthy and positive communities in order to remain publicly available.
 
 1. Throwing all public server lists and almost all public servers under the bus. *Again*, and worse than last time above.
 2. Okay, let's say Discord intends to redeem it. Have they not considered the effect should *all* server lists be shut down? One: People will be extremely angry. Two: People will post their Discord servers *everywhere*. Angering users and polluting internet. *Beautiful.*
 3. Even if Discord intended to do the previous point, are teens really that dumb to *not* find and join non-vetted servers online? Does Discord not know that there exists a tool called "search engines"?
-
-(Discord removed the strikethrough statement as of June 15, 2020.)
 
 > An outsider cannot guess the link to a specific server and invitation links expire after a maximum of 24 hours.
 
