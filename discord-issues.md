@@ -4,12 +4,13 @@ description: Crimes, staff, and money, also featuring lying to parents and users
 permalink: /discord-issues
 ---
 
-In response to [this well-written article](https://cadence.moe/blog/2020-06-06-fuckdiscord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) and this page will be regularly updated (since June 6, 2020).
+In response to [this well-written article](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) and this page will be regularly updated (starting June 6, 2020).
 
 * [The Law](#the-law)
 * [The Culture](#the-culture)
 * [The Money](#the-money)
 * [Update: Safety Center](#update-safety-center) (June 9)
+* [Update: BLM-related incidents](#update-blm-related-incidents) (June 21)
 * [Conclusion: The Attitude](#conclusion-the-attitude)
 * [Some personal anecdotes](#some-personal-anecdotes)
 * [Two supplementary comments](#two-supplementary-comments)
@@ -251,15 +252,64 @@ Discord said nothing about proactively reporting to law enforcement, other than 
 
 ### Conclusion
 
-They think typical users and parents (and educators) are brainless and will buy whatever they say. They also effectively ignored other parts of the ecosystem (non-partnered non-verified public servers, server listing websites, etc.), effectively validating [this](https://cadence.moe/blog/2020-06-06-fuckdiscord#does-not-care-about-you).
+They think typical users and parents (and educators) are brainless and will buy whatever they say. They also effectively ignored other parts of the ecosystem (non-partnered non-verified public servers, server listing websites, etc.), effectively validating [this](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#does-not-care-about-you).
 
 For the love of whoever and whatever, again, read them yourself. It's a gold mine.
 
+## Update: BLM-related incidents
+
+Regardless of its intent, the existence of the bug that makes BLM banner on top un-closable (when it is intended so) shows that Discord takes sub-optimal effort to develop their app, effectively validating [this](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#poorly-managed). Also, their statement is quite hypocritical, given that:
+
+* Social media, especially one that has an infamous track record, should not tell people what to do. [Clean up your mess first](#the-law) before uttering the big words!
+* There is a delay of nearly 20 days between [the tweet](https://nitter.net/discord/status/1267543707399581701#m) and the blog. A bit too long, don't you think?
+* Their [Charlottesville tweet](https://nitter.net/discordapp/status/897170310348263426) is already ingenuine enough, literally *boasting* the fact that the deleted server *planned* Charlottesville during the day of collective action. [Plus, it was *proven* ingenuine.](https://unicornriot.ninja/2017/charlottesville-violence-planned-discord-servers-unicorn-riot-reports/)
+
+I will analyze [the article](https://blog.discord.com/our-stand-on-racial-equality-320088e83a22) first, then mention a little bit about the subreddit (which has some small conflicts).
+
+### Article
+
+> If we don’t create change where we can, we are complicit in perpetuating white supremacy and the oppression of Black people.
+
+> As we’ve grown as a company, we have taken decisive action to make Discord hostile to white supremacists, racists, and other groups who seek to use Discord for evil.
+
+Explain why you're still [a subject to journalists and right-wing populations](#the-culture)?
+
+> We have invested in people — Trust & Safety is one of the largest teams at Discord
+
+With their poor record, if this is already "one of the largest teams", I *cannot* imagine how small other teams are.
+
+> In 2019, more than half of the servers we removed for violent extremist content — many of which were white supremacist servers — were removed proactively by our team, before they were reported to us.
+
+Cannot validate your statement if they aren't reported, eh?
+
+> In recent weeks, we have been monitoring our platform very closely to find and remove anyone seeking to use Discord to organize around violent extremism or disrupt protests.
+
+Okay, [some days before](#how-we-investigate), you said you do not proactively read stuff. So how are you "monitoring"?
+
+> We will undertake a third-party audit by an organization active in researching the spread of hate and racism to observe how Discord works, how we enforce our policies, and to make recommendations for us to be more effective. And we’ll share what we learn so others in the industry can make use of their expertise.
+
+Are journalist leaks not audits? Are articles not third-party scrutiny? Do you not read user complaints? Are you *waiting* to get an audit? Do you want third parties to *feed* you recommendations? In fact, given that I am writing this article, have you even learned *anything*?
+
+> We are investing significant engineering resources internally to develop software to find and manage abuse proactively. We commit to an open source strategy, which means other companies can benefit and build on what we learn. We hope this also inspires companies to release their tools so users can benefit across platforms.
+
+Vague, even though Discord said they won't filter messages (see below). Also, choosing to not invest in more hands to combat abuse is cowardice. See [here](https://www.reddit.com/r/discordapp/comments/hc7pwe/can_discord_clarify_on_how_it_aims_to_manage/)
+
+> Diversifying our senior leadership team as soon as possible.
+
+How does that benefit the platform? Will the new leaders have the competence? [Quote](https://www.reddit.com/r/discordapp/comments/hc66wi/our_stand_on_racial_equality_discord_blog/fvd8fgr/): "Hiring people just because they're a minority and not because they're qualified is just as bad as firing them for the same reason. Bad policy." Also [here](https://www.reddit.com/r/discordapp/comments/hc66wi/our_stand_on_racial_equality_discord_blog/fvd7gwz/), [here](https://www.reddit.com/r/discordapp/comments/hc66wi/our_stand_on_racial_equality_discord_blog/fvd9baz/), and [sub mod response](https://www.reddit.com/r/discordapp/comments/hc66wi/our_stand_on_racial_equality_discord_blog/fvdbfmr/).
+
+### Reddit
+
+I know it's a mess so I won't mention too much. As far as I'm aware, some people have gone to the length of cancelling Nitro or suggesting to move to ts5, which could hit Discord directly, but I doubt these efforts are significant (and useful). Common points that has meanings:
+
+* Pedo issues and other issues of inaction within the t&s.
+* Possibility of a bad words filter, which was [refuted by staff](https://www.reddit.com/r/discordapp/comments/hcc9yu/open_letter_to_discord/fvewlx3/).
+
+Consider reading this post about about [transparency](https://www.reddit.com/r/discordapp/comments/hcgtk2/discord_the_social_media_problem/).
+
 ## Some personal anecdotes
 
-I am a Discord user since March 2016 as I was introduced to it while being a Minecraft player.
-
-I experience both sides of Discord throughout my usage. I saw raids since my first server, learned JavaScript, tried to introduce a global ban list (failed), lost the battle to the 4chan /b/, collaborated on a bot (which was shut down due to lack of host), formally made my own bot ([DTel](https://dtel.austinhuang.me)), worked with [the wrong people](https://blog.usejournal.com/discordlist-net-and-how-to-not-run-a-website-a0694b1ec360?gi=3d9034553595), contacted Taki in a popular server and founded DISBOARD, got banned once for trying to merge one server to another, experienced countless server drama, started the [Advertising Guide](./advertising), became the go-to person in server listing (debatable), tried to bring in [inter-bot collaboration](https://discoin.gitbook.io) (still struggling)... 
+I am a Discord user since March 2016 as I was introduced to it while being a Minecraft player. I have been engaging in the ecosystem for the majority of the times.
 
 I constantly discussed Discord's unprofitability. But what really made me to move my community server to Matrix is Project Blurple, the annual tradition of "celebrating Discord's birthday" by painting your avatar to blurple. I became furious over the people's ignorance on the issues of Discord and just the constant corporate propaganda, then I decided to revisit Riot.im and proposed to [Adam](https://i-am.djelectro.me/) of running a Matrix homeserver, so here I am.
 
