@@ -88,7 +88,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available [through OpenPGP keyserver](https://keys.openpgp.org/search?q=im%40austinhuang.me) or [here](./assets/key.asc). Do NOT use Keybase key.
 * Instagram: `@austinhuang.me`
-* [Matrix](https://matrix.to/#/@austinhuang:chat.endl.site): `@austinhuang:chat.endl.site`
+* [Matrix](https://matrix.to/#/@austin:privacytools.io): `@austin:privacytools.io`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 * Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131.github.io/issues). Note that it's public.
