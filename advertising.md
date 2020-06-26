@@ -7,9 +7,7 @@ image: https://austinhuang.me/assets/meme.jpg
 
 <img src="./assets/meme.jpg" width="300" align="right">
 
-Want to list more places to advertise? Please contact me at `The Double-Eyed Bus#6889` or [here](./#hey-you-look-cool).
-
-This guide only deals with servers. Use [BotBlock](https://botblock.org/) to find bot lists.
+This guide only deals with servers. You can contribute to this page [here](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md). Use [BotBlock](https://botblock.org/) to find bot lists.
 
 More Discord stuff: [Server Guide](./discord-server-guide) / [Issues](./discord-issues)
 
@@ -19,10 +17,10 @@ More Discord stuff: [Server Guide](./discord-server-guide) / [Issues](./discord-
 * [Subreddits](#subreddits)
 
 ### Websites
-Sorted by size (Amount of guilds) as of Jun 26, 2020. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of June 26th, 2020. Remember to bump your server regularly to keep your server at the top of rankings.
 
-* [Disboard.org](https://disboard.org/) EN/DE/ES/RU/FIL/JP/KO/ZH
-  * 500k+ servers
+* [Disboard.org](https://disboard.org/) EN/DE/ES/FIL/FR/NL/PL/PT/SV/TR/RU/JA/KO/ZH
+  * 300k+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Allow ratings (stars and text review)
 * [DiscordListing.me](https://discordlisting.me)
@@ -34,9 +32,6 @@ Sorted by size (Amount of guilds) as of Jun 26, 2020. Remember to bump your serv
   * Server owners can bump once in every fixed 6-hour periods, on site only. Bumps stack up.
   * Custom link for invites (Discord.me)
   * 1 text-only page for a description and a mini-blog
-* [Discord Servers](https://discordservers.com/)
-  * "~40k servers" as of Dec 22 2018, oldest
-  * More like a search engine
 * [DiscordSL.com](https://discordsl.com/)
   * 25k+ servers
   * Server owners can bump every 3 hours for free, on site only
@@ -45,17 +40,26 @@ Sorted by size (Amount of guilds) as of Jun 26, 2020. Remember to bump your serv
   * Server owners can bump every 4 hours for free, on site and on bot
 * [Discord Server List](https://discordbots.org/servers) <small>Part of <i>top.gg</i></small>
   * 11k+ servers
-* [DiscordHub](https://discordhub.com/servers/list)
-  * 6300+ servers
-  * Server owners can bump every 1 day (24 hours) for free, on site only
-  * **Requires widget!** ([Widgets may increase chances of getting raided by bots](https://www.reddit.com/r/discord_app/comments/94wf4z/regarding_recent_bot_activity_more_info_in/))
 * [DiscordServers.me](https://discordservers.me/)
   * 11k+ servers
   * No bump, but allows people to upvote
+* [Discord Street](https://discord.st)
+  * 4k+ servers
+  * Server owners can bump once every 6 hours, on site only. Bumps stack up.
 * [serverlist.space](https://serverlist.space)
-  * 200+ servers
-* [Discordeame](https://discordea.net) **SPANISH**
+  * 100+ servers
+* [Discordeame](https://discordea.net) ES
   * Under 100 servers
+* [Discord Extreme List (Servers)](https://discordextremelist.xyz/en-US/servers) EN/DE/HE/TR
+  * Just started
+  * Open source
+* [Discord Servers](https://discordservers.com/)
+  * "~40k servers" as of Dec 22 2018, oldest
+  * More like a search engine
+* [DiscordHub](https://discordhub.com/servers/list)
+  * Count unknown
+  * Server owners can bump every 1 day (24 hours) for free, on site only
+  * **Requires widget!** ([Safety concern](https://www.reddit.com/r/discord_app/comments/94wf4z/regarding_recent_bot_activity_more_info_in/))
 
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
