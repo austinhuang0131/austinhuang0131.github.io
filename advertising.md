@@ -5,59 +5,57 @@ permalink: /advertising
 image: https://austinhuang.me/assets/meme.jpg
 ---
 
-[Click here for more advices on running your Discord server!](./discord-server-guide)<br />[Some discussions on the issues of Discord.](./discord-issues)<br />[Click here to see more guides!](./sitemap)
-
-## Free people for your Discord server!
-
 <img src="./assets/meme.jpg" width="300" align="right">
 
-Server owners hate me! But today you'll see this one crazy and simple trick to increase your Discord server's size IMMEDIATELY!
-
 Want to list more places to advertise? Please contact me at `The Double-Eyed Bus#6889` or [here](./#hey-you-look-cool).
+
+This guide only deals with servers. Use [BotBlock](https://botblock.org/) to find bot lists.
+
+More Discord stuff: [Server Guide](./discord-server-guide) / [Issues](./discord-issues)
 
 * [Websites](#websites)
 * [Bots](#bots)
 * [Listing Servers](#listing-servers)
 * [Subreddits](#subreddits)
-* [For bot devs: Free guilds for your Discord bot!](#free-guilds-for-your-discord-bot)
 
 ### Websites
-Sorted by size (Amount of guilds) as of Dec 22, 2018. Remember to bump your server regularly to keep your server at the top of rankings.
+Sorted by size (Amount of guilds) as of Jun 26, 2020. Remember to bump your server regularly to keep your server at the top of rankings.
 
-* [Discord.me](https://discord.me)
-  * Largest (82000+ servers), most traffic
-  * Server owners can bump every 6 hours, on site only
-  * Custom link for invites (Discord.me)
-  * 1 text-only page for a separate long description
-* [Disboard.org](https://disboard.org/?ref=austinhuang.me) EN/DE/ES/RU/FIL/JP/KO/ZH
-  * 53000+ servers
+* [Disboard.org](https://disboard.org/) EN/DE/ES/RU/FIL/JP/KO/ZH
+  * 500k+ servers
   * Server owners can bump every 2 hours for free, on site and on bot
   * Allow ratings (stars and text review)
 * [DiscordListing.me](https://discordlisting.me)
-  * 46000+ servers
+  * Claims "500k+" but recent bumped suggests 54k+ servers
   * Server owners can bump every 6 hours for free, on site and on bot
   * Free custom link for invites (disli.st)
+* [Discord.me](https://discord.me)
+  * 46k+ servers
+  * Server owners can bump once in every fixed 6-hour periods, on site only. Bumps stack up.
+  * Custom link for invites (Discord.me)
+  * 1 text-only page for a description and a mini-blog
 * [Discord Servers](https://discordservers.com/)
-  * Second-Largest? ("~40k servers" as of Dec 22 2018), oldest
+  * "~40k servers" as of Dec 22 2018, oldest
   * More like a search engine
-* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>top.gg</i></small>
-  * 14000+ servers
 * [DiscordSL.com](https://discordsl.com/)
-  * 9400+ servers
+  * 25k+ servers
   * Server owners can bump every 3 hours for free, on site only
+* [Discord-Server.com](https://discord-server.com) EN/RU/DE/FR/ES/IT/BR
+  * 12k+ servers
+  * Server owners can bump every 4 hours for free, on site and on bot
+* [Discord Server List](https://discordbots.org/servers) <small>Part of <i>top.gg</i></small>
+  * 11k+ servers
 * [DiscordHub](https://discordhub.com/servers/list)
   * 6300+ servers
   * Server owners can bump every 1 day (24 hours) for free, on site only
   * **Requires widget!** ([Widgets may increase chances of getting raided by bots](https://www.reddit.com/r/discord_app/comments/94wf4z/regarding_recent_bot_activity_more_info_in/))
-* [Discord-Server.com](https://discord-server.com) EN/RU/DE/FR/ES/IT/BR
-  * 6000+ servers
-  * Server owners can bump every 4 hours for free, on site and on bot
 * [DiscordServers.me](https://discordservers.me/)
-  * ~2000 servers
-* [Discordeame](https://discordea.net) **SPANISH**
-  * 1700+ servers
+  * 11k+ servers
+  * No bump, but allows people to upvote
 * [serverlist.space](https://serverlist.space)
-  * 30+ servers
+  * 200+ servers
+* [Discordeame](https://discordea.net) **SPANISH**
+  * Under 100 servers
 
 **Do NOT use dis.cool.** They scraped "35,000 servers, 12 million users" (according to its owners!) without consent by abusing the widget feature. **Please turn off Widget on your server.** This kind of thing has happened 2 times. We don't want a third.
 
@@ -100,9 +98,6 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/nsfwDiscords](https://www.reddit.com/r/nsfwDiscords/) (1461 subs, and as the name says, it's **NSFW**)
 * [/r/DiscordAppServers](https://www.reddit.com/r/DiscordAppServers/) (683 subs)
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
-
-## Free guilds for your Discord bot!
-Use [BotBlock](https://botblock.org/) to find bot lists.
 
 **Any reproduction of this guide is forbidden.**
 
