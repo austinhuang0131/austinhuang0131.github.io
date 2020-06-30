@@ -51,7 +51,6 @@ As a staff of multiple public server listings, I see **no cooperation** from Dis
 
 Discord attracts a lot of right-wing users.
 
-* [Chan users](https://www.cbsnews.com/news/8chan-users-are-moving-to-discord-where-your-kids-are-playing-video-games/) like Discord.
 * Discord has [not one](https://discordleaks.unicornriot.ninja/discord/) [but two](https://whispers.ddosecrets.com/) known alt-right leaks. It is a target a journalists.
 * Discord [indirectly caused Charlottesville](https://www.washingtonpost.com/news/morning-mix/wp/2018/08/07/subpoena-for-app-called-discord-could-unmask-identities-of-charlottesville-white-supremacists/), until they shut the server down... [at a convenient time](https://nitter.net/discordapp/status/897170310348263426).
 

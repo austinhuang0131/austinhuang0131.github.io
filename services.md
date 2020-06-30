@@ -8,8 +8,7 @@ permalink: /services
 I can write you a Discord/Telegram bot, or do some translation work for you. Below are groups I've successfully worked with.
 
 ### Discord
-> @The Double-Eyed Bus developed a bot to prevent raids. Was kind enough to develop new features as the request grew larger and fixed bugs. All this done in nice time period considering he coded for free.
-Great communication. Recommended and you can also hire him to develop bots for very affordable rates.
+> @The Double-Eyed Bus developed a bot to prevent raids. Was kind enough to develop new features as the request grew larger and fixed bugs. All this done in nice time period considering he coded for free. Great communication. Recommended and you can also hire him to develop bots for very affordable rates.
 >
 > --- Sasiko#1234, Art Commissions
 
