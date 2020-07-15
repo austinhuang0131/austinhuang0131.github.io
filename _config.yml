@@ -32,6 +32,7 @@ google_fonts: false
 exclude:
   - .jekyll-cache
   - .sass-cache
+  - .github
   - vendor
   - Gemfile
   - Gemfile.lock
