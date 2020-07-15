@@ -33,5 +33,7 @@ no_google_fonts: true
 font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Georgia, serif
 
-include: ["assets"]
-exclude: ["Makefile"]
+include: 
+- assets
+exclude:
+- Makefile
