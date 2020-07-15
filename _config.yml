@@ -25,22 +25,11 @@ lang:                  en
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Hydejack
 
-# A short description (~150 chars) of the page used for the meta description tag.
-# Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               A young JavaScript developer who writes chatbots and stories in Montreal.
 
 # A list of keywords for your blog
 keywords:              []
-
-# A (square) logo for your site.
-# If provided, it will be shown at the top of the sidebar.
-# It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -56,14 +45,6 @@ author:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
 
-# Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
-
-# Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /:num/
-
-
 # Theme
 # ---------------------------------------------------------------------------------------
 
@@ -74,24 +55,24 @@ remote_theme: hydecorp/hydejack@v9.0.4
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(8,46,57)
+theme_color:           rgb(186,218,85) # BADASS - hex #BADA55
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
-google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
+google_fonts:          false
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Noto Sans, Helvetica, Arial, sans-serif
+font:                  Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
+font_heading:          Roboto Slab, Georgia, serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
@@ -101,12 +82,6 @@ font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 # These settings are specific to Hydejack.
 
 hydejack:
-  # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random, comments]
-
-  # Configure the order of complementary content on project pages
-  project_addons:      [about, newsletter, other, comments]
-
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external:    false
 
@@ -173,28 +148,6 @@ hydejack:
   # seeing an old date. 
   hide_dates:          false
 
-  # Note that dark mode only works in the PRO version of Hydejack.
-  dark_mode:
-    # Set to `true` to always use the dark theme.
-    always:            false
-
-    # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
-
-    # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
-
-  # ⚡️ DANGER ZONE ⚡️
-  # ----------------
-  # This is an _experimental_ feature.
-  # Only use if you know what Service Workers are and how they can impact your site!
-  offline:
-    enabled:           false
-    cache_version:     7
-    precache_assets:
-      - /assets/img/swipe.svg
-
-
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
 
@@ -226,35 +179,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-
-# SEO Tag
-# ---------------------------------------------------------------------------------------
-
-# Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
-# -- or --
-# webmaster_verifications:
-#   google:              <verification-id>
-#   bing:                <verification-id>
-#   alexa:               <verification-id>
-#   yandex:              <verification-id>
-
-# Used for twitter cards
-# twitter:
-#   username:            <username>
-
-# Used for facebook open graph
-# facebook:
-#   app_id:              <id>
-#   publisher:           <id>
-#   admins:              <id>
-
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                Austin Huang
+  links:
+    - mailto:im@austinhuang.me
+    - https://github.com/austinhuang0131
 
 
 # Plugin Configs
