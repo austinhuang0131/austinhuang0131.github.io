@@ -1,4 +1,4 @@
-remote_theme: hydecorp/hydejack@v9.0.4
+# remote_theme: hydecorp/hydejack@v9.0.4
 
 title: Austin Huang
 
@@ -25,7 +25,6 @@ author:
     reddit: austinhuang
     telegram: austinhuang
 
-no_google_fonts: true
 font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Georgia, serif
 
