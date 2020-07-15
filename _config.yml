@@ -34,5 +34,4 @@ font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Georgia, serif
 
 include: ["assets", ".well-known"]
-exclude:
-  - Makefile
+exclude: ["Makefile"]
