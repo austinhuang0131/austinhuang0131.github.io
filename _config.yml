@@ -27,7 +27,7 @@ author:
 
 font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Georgia, serif
-no_google_fonts: true
+google_fonts: false
 
 exclude:
   - .jekyll-cache
