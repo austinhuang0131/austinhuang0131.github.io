@@ -13,8 +13,6 @@ background: '#bada55'
 # accent_color: '#d8002b'
 # accent_image: /assets/poppy.jpg
 # background: '#d8002b'
-  
-# disqus: '0131'
 
 url: https://austinhuang.me
 
@@ -33,7 +31,7 @@ no_google_fonts: true
 font: Noto Sans, Trebuchet MS, Helvetica, Arial, sans-serif
 font_heading: Roboto Slab, Georgia, serif
 
-include: 
-- assets
+include:
+  - assets
 exclude:
-- Makefile
+  - Makefile
