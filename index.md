@@ -86,7 +86,7 @@ No Cloudflare. No Google. No cookies.
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase).
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase).
 * [Matrix](https://matrix.to/#/@austin:privacytools.io): `@austin:privacytools.io`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
