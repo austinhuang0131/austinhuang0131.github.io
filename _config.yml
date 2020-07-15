@@ -35,6 +35,3 @@ include:
   - assets
 exclude:
   - Makefile
-
-plugins:
-  - jekyll-include-cache
