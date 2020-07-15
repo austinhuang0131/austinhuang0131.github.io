@@ -23,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Austin Huang
 
 # A shorter description for the sidebar.
 tagline:               A young JavaScript developer who writes chatbots and stories in Montreal.
@@ -40,7 +40,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020. All rights reserved. Opinions are personal and are not endorsed by any party.
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -183,6 +183,8 @@ social:
   links:
     - mailto:im@austinhuang.me
     - https://github.com/austinhuang0131
+    - https://reddit.com/u/austinhuang
+    - https://t.me/austinhuang
 
 
 # Plugin Configs
