@@ -39,9 +39,6 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# Add links to the sidebar.
-
-
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2020. All rights reserved.
 
@@ -56,6 +53,7 @@ remote_theme: hydecorp/hydejack@v9.0.4
  
 # Sidebar image and theme color of the site.
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
+accent_image: '/assets/sidebar-bg.jpg'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
