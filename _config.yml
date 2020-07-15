@@ -37,3 +37,5 @@ exclude:
   - Gemfile.lock
 include:
   - assets
+
+theme: jekyll-theme-cayman
