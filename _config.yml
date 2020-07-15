@@ -100,8 +100,7 @@ collections:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+remote_theme: hydecorp/hydejack@v9.0
 
 
 # Customizaton
@@ -386,34 +385,3 @@ compress_html:
 
 sass:
   style:               compressed
-
-  
-# Jekyll Compose Defaults
-# ---------------------------------------------------------------------------------------
-
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    projects:
-      layout: project
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
