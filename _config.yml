@@ -36,6 +36,11 @@ author:
   # Used by `jekyll-feed`:
   name:                Austin Huang
   email:               im@austinhuang.me
+  social:
+    email: mailto:im@austinhuang.me
+    github: austinhuang0131
+    reddit: austinhuang
+    telegram: austinhuang
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -180,11 +185,6 @@ plugins:
 # Used on index and about sites
 social:
   name:                Austin Huang
-  links:
-    - mailto:im@austinhuang.me
-    - https://github.com/austinhuang0131
-    - https://reddit.com/u/austinhuang
-    - https://t.me/austinhuang
 
 
 # Plugin Configs
