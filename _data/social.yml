@@ -206,3 +206,7 @@ keybase:
 download:
   name: Download
   icon: icon-box-add
+matrix:
+  name: Matrix
+  icon: icon-bubble2
+  prepend: "https://matrix.to/#/"
