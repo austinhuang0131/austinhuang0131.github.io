@@ -16,7 +16,7 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
+Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -48,21 +48,21 @@ If you need a job title, that'll be "college student/freelance project maintaine
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
-## My other online stuff, like social media
+## My other online stuff
 
-* [Google Maps](https://www.google.com/maps/contrib/112274999802772649668/reviews)
-* [Matrix room](https://matrix.to/#/#bistro:chat.endl.site)
+Tryna quit social media, but still can't get away with the critical mass. *\*Sigh\**
+
+* [Matrix room](https://matrix.to/#/#bistro:privacytools.io)
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Tumblr / Blog](https://blog.austinhuang.me) (Custom domain)
-* [YouTube](https://www.youtube.com/channel/UCLichN-05sKVoBzDOOCLGcA): A low-effort video storage.
 
 ## May I ask some questions?
 Sure. You can even comment below to ask even more questions, eh?
 
 ### Hobbies?
-Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes, also classical/organ remixes) ~~as well as memeing~~ are things I do a lot. Watches some anime quite rarely (≤3 series per year before college, now I ain't got time to even update this website!). Skating, softball and badminton, especially, are my favourite sports ~~given that me being a not-so-sporty kid~~.
+Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/news intro, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. Watches some anime (less than 4 series per year).
 
 #### Model UN?
 <img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300"/>
@@ -71,6 +71,9 @@ Model UN is great. Strongly recommended. Even if you're not into politics, this 
 
 ### Hardware?
 A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
+
+### You from Shanghai?
+Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
 I try to use components from responsible/ethical sources. Except my domain registrar (you can't control that), everything is open source.
