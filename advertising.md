@@ -104,5 +104,3 @@ Sorted by sub count as of April 16, 2018. Except the listed ones, all others are
 * [/r/MakeDiscordFriends](https://www.reddit.com/r/MakeDiscordFriends/) (329 subs)
 
 **Any reproduction of this guide is forbidden.**
-
-{% include def.html %}

@@ -359,5 +359,3 @@ I hope that I have set up an example in examining a platform, and I would like t
 I also encourage everyone to actively audit Discord's actions and publicize them when necessary.
 
 As for Discord, [get a grip of yourself man!](https://invidio.us/watch?v=hAGk4YVhK8M)
-
-{% include def.html %}

@@ -187,10 +187,8 @@ Download [here](https://blogs.yahoo.co.jp/l53_fmkr/27211920.html). Vehicles incl
 ## Kurumadome (Buffer Stop = End of the Line)
 For any issues, please [contact me](https://austinhuang.me/contact) or comment below. I can respond in Mandarin or English. Japanese emails will be accepted (I can read Japanese, didn't I tell you that?) but I'll only reply in English.
 
-Guide text © 2019~ Austin Huang, all rights reserved. Reproduction of this guide is forbidden.
+Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Header made using [Sigene](https://tr246.github.io/Sigene/).
 
 このサイトはリンクフリーです。リンクの際にこのバナー ([フルサイズ](https://raw.ratelimited.me/bqdbu307pq.png) / [200x110](https://raw.ratelimited.me/m0nz6mblsr.png)) にご利用ください。お問い合わせは `im アット austinhuang ドット me` へ（日本語片対応、返信は英語のみ）。
-
-{% include def.html %}

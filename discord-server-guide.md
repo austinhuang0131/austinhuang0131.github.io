@@ -81,6 +81,4 @@ In most situations, you only need 1 bot to faciliate moderation on phones and ha
 I personally don't see boosts necessary. They can prove your members being loyal to the server, but does not necessarily contribute to activities.
 
 ## Have more questions?
-Ask me in the comments below!
-
-{% include def.html %}
+Ask them [here!](https://github.com/austinhuang0131/austinhuang0131.github.io/issues)

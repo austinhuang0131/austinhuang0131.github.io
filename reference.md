@@ -35,5 +35,3 @@ To be listed here, you need to:
 
 ## Misc
 * Michael O (D: `michaelnj1#8557`): Sneakers trading.
-
-{% include def.html %}

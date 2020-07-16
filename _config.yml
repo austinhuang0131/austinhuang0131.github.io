@@ -31,6 +31,11 @@ tagline:               A young JavaScript developer who writes chatbots and stor
 # A list of keywords for your blog
 keywords:              []
 
+# A (square) logo for your site.
+# If provided, it will be shown at the top of the sidebar.
+# It also used by the `jekyll-seo-tag` plugin.
+logo:                  /assets/icons/android-chrome-512x512.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
@@ -45,14 +50,25 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
-# This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved. Opinions are personal and are not endorsed by any party.
+# Add links to the sidebar.
+menu:
+  - title:             Homepage
+    url:               /
+  - title:             Free Guides
+    url:               /guides
+  - title:             Services
+    url:               /services
+
+legal:
+  - title: License
+    url:  /license
+  - title: Legal
+    url:  /legal
 
 # Theme
 # ---------------------------------------------------------------------------------------
 
 remote_theme: hydecorp/hydejack@v9.0.4
-
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
@@ -64,7 +80,7 @@ accent_image: '/assets/sidebar-bg.jpg'
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(186,218,85) # BADASS - hex #BADA55
+theme_color:           '#bada55' # BADASS
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>

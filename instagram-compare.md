@@ -124,5 +124,3 @@ Prior to the change, this page featured a method that reads elements on the webp
 * Instagram layout seems to be different for everyone and the method cannot work reliably
 
 So, I found this backend method and I'd now recommend this method over the previous one.
-
-{% include def.html %}

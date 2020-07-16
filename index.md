@@ -1,4 +1,5 @@
 ---
+layout: about
 title: Hello there! I'm Austin Huang.
 description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. Have fun... I guess.
 permalink: /
@@ -14,8 +15,6 @@ permalink: /
     }
 }
 </style>
-
-<img class="resize1" src="./assets/icons/android-chrome-512x512.png " alt="The Almighty Bus" align="right" width="300"/>
 
 Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, I currently reside in Montréal.
 
