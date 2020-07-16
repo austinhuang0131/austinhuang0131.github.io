@@ -208,5 +208,5 @@ download:
   icon: icon-box-add
 matrix:
   name: Matrix
-  icon: icon-bubble2
+  icon: icon-bubbles
   prepend: "https://matrix.to/#/"
