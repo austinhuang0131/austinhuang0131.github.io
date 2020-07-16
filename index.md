@@ -26,7 +26,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
-* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.
+* ~~I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.~~ Offline due to coronavirus.
 
 ## My photos
 
@@ -46,7 +46,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
      });
 </script>
 
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang). And, of course, some goes to my [Instagram](https://instagram.com/austinhuang.me).
+I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
 ## My other online stuff, like social media
 
@@ -80,7 +80,7 @@ I try to use components from responsible/ethical sources. Except my domain regis
 * I use nameservers from [deSec.io](https://desec.io).
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
-No Cloudflare. No Google. No cookies.
+No Cloudflare. No Google. No cookies. *No problemo.*
 
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
@@ -94,5 +94,3 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 
 ### What other stuff are there on this website?
 You can have a look at the posts below. Also, don't forget to check out [my friends' work](/reference)!
-
-{% include def.html %}
