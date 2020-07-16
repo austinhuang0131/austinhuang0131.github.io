@@ -58,6 +58,8 @@ menu:
     url:               /guides
   - title:             Services
     url:               /services
+  - title:             gib money
+    url:               /donate
 
 legal:
   - title: License

@@ -50,5 +50,5 @@ It's currently offline, but otherwise there is a Privacy Policy on the page.
 
 ## Terms
 
-* This website presents my *personal opinion* and, unless otherwise specified, is not endorsed by parties that I involve with.
+* This website represents my *personal opinion* and, unless otherwise specified, is not endorsed by parties that I involve with.
 * In no event shall I ever be individually liable to *anyone* for any damages for breach of fiduciary duty by third-parties, unless my act or failure to act involves intentional misconduct, fraud, or a knowing violation of the law. This only applies to the website.
