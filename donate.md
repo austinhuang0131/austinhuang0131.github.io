@@ -3,6 +3,8 @@ title: I'd like to donate!
 description: Wanna give money or pay for services? Do them on this page!
 ---
 
+<small>If you cannot see the checkout counter below, you need to enable JavaScript and turn off adblockers. Don't worry, there are no miners on this site.</small>
+
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/austinhuang" height="685px" width="100%" style="max-width:500px; min-width:310px; max-height:none!important" seamless="seamless" name="donorbox" frameborder="0" scrolling="no" allowpaymentrequest></iframe>
 
 * Interac E-transfer: `im@austinhuang.me`, no security question required.
