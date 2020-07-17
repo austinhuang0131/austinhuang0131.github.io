@@ -52,8 +52,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Homepage
-    url:               /
   - title:             Free Guides
     url:               /guides
   - title:             Services
