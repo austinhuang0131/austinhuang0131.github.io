@@ -99,4 +99,4 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * Discord: `The Double-Eyed Bus#6889` (Only if it's something involving Discord. [Why?](/discord-issues))
 
 ### What other stuff are there on this website?
-You can have a look at the posts below. Also, don't forget to check out [my friends' work](/reference)!
+You can have a look at the sidebar. Also, don't forget to check out [my friends' work](/reference)!
