@@ -58,6 +58,7 @@ Tryna quit social media, but still can't get away with the critical mass. *\*Sig
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Tumblr / Blog](https://blog.austinhuang.me) (Custom domain)
+* [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/)
 
 ## May I ask some questions?
 Sure. You can even comment below to ask even more questions, eh?
@@ -94,6 +95,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 * Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131.github.io/issues). Note that it's public.
+* You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
 * Discord: `The Double-Eyed Bus#6889` (Only if it's something involving Discord. [Why?](/discord-issues))
 
 ### What other stuff are there on this website?
