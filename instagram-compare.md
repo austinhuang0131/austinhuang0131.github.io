@@ -32,7 +32,7 @@ On the top, the sentence "Weed out the fakes!" was written by [@sophucking_done]
 This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md). All the credits are legit: I don't sponsor them, nor do they sponsor me.
 
 ## Wait, what if I only have a phone?
-Android users: Use [InstaGrabber](https://gitlab.com/AwaisKing/instagrabber). (Not affiliated)
+Android users: Use [InstaGrabber](https://github.com/austinhuang0131/instagrabber). (I took it over from the OG)
 
 1. Get the app (This app does not entirely substitute the actual Instagram app, unfortunately).
 2. Log in (according to README).
