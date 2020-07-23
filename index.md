@@ -24,6 +24,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
 ## My own projects
 * [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
+* [InstaGrabber](https://github.com/austinhuang0131/instagrabber) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
