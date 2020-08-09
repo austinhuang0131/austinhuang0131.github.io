@@ -22,13 +22,20 @@ Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
-* [DiscordTel](https://discordtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
+
+### Currently in progress
+* [InstaGrabber](https://instagrabber.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
+* I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
+
+### Founded by me
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
-* [InstaGrabber](https://github.com/austinhuang0131/instagrabber) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
+* [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
+
+### Others
 * I also [write private bots](/services) for individuals.
   * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
   * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
-* ~~I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates.~~ Offline due to coronavirus.
+* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Offline due to coronavirus.)
 
 ## My photos
 
@@ -95,7 +102,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * [Matrix](https://matrix.to/#/@austin:privacytools.io): `@austin:privacytools.io`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
-* Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131.github.io/issues). Note that it's public.
+* Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131/issues). Note that it's public.
 * You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
 * Discord: `The Double-Eyed Bus#6889` (Only if it's something involving Discord. [Why?](/discord-issues))
 
