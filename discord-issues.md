@@ -83,7 +83,7 @@ This rule addresses professional "server-growers" who attract people through rew
 1. What were you doing *before* then? Are you not aware of Nitro rewards servers?
 2. So the server owner can still convert their own nitro-rewards server to a pre-made community, while you earn all the money from it? By barring professionals, aren't you just encouraging everyone to *do it themselves*, therefore getting more money through Nitro gifts?
 
-In addition to the shove-in-the-face addition of the Nitro gift button in the message box, I believe this shows Discord's aggressive practice of *trying to* profit. After all, we're talking about a platform that owns no infrastructure, but instead uses Google backend. They *claim* that it saves money. Really? How many users are there on Discord? Wouldn't it be better if you run your own infrastructure? [On reddit](https://www.reddit.com/r/discordapp/comments/gd7xra/discord_now_displays_a_square_when_you_click_on/fpj3pkx/), in respond to someone saying "I mean Twitter wasn't profitable for many years", I said:
+In addition to the shove-in-the-face addition of the Nitro gift button in the message box, I believe this shows Discord's [aggressive practice](https://reddit.com/r/discordapp/comments/g4l7lf/thanks_a_lot_discord_no_one_asked_for_this/fo11exg/) of *trying to* profit. After all, we're talking about a platform that owns no infrastructure, but instead uses Google backend. They *claim* that it saves money. Really? How many users are there on Discord? Wouldn't it be better if you run your own infrastructure? [On reddit](https://www.reddit.com/r/discordapp/comments/gd7xra/discord_now_displays_a_square_when_you_click_on/fpj3pkx/), in respond to someone saying "I mean Twitter wasn't profitable for many years", I said:
 
 > Well, Twitter is an innovation based on an existing product: a mass SMS service with rich content. [...] And this is why it has been widely adopted for users, from governments to celebrities: it's useful to get short easy-to-read messages out to followers.
 > 
@@ -95,16 +95,6 @@ In addition to the shove-in-the-face addition of the Nitro gift button in the me
 > * is actually desperately trying to cut cost by removing/substituting essential services (like [support staff](https://www.reddit.com/r/discordapp/comments/g7y2xg/discord_its_time_to_stop/fom3vdz/))
 
 Also, as a response to a public outcry to the infamous Android UI change, [someone replied this](https://www.reddit.com/r/discordapp/comments/g7y2xg/discord_its_time_to_stop/fokmhbi/):
-
-> Let me offer a different viewpoint. I agree that Discords UI isn’t great but this is something that always gets overlooked.
-> 
-> Discord needs money.
->
-> They have never been profitable. [It was confirmed by a dev a few days ago](https://reddit.com/r/discordapp/comments/g4l7lf/thanks_a_lot_discord_no_one_asked_for_this/fo11exg/). They’ve been held up by VC money the entire time. These VC’s have said this money is going to be a lot stingier due to the economy.
->
-> So discord has seen their traffic double in the face of an impending recession while never turning a profit. This is the worst scenario a company could be in. So what should they do? They try to make changes, anything to bring in money. They try to make the UI sleeker, add the nitro button.
->
-> They’re between a rock and hard place. The Discord we’ve all known and loved is not sustainable and never will be. I don’t blame them for trying to find a version that is [sustainable?]
 
 With the tainted public image of crimes, the incompetent support members, and the unwillingness to change, no wonder why it is not sustainable.
 
