@@ -70,7 +70,7 @@ Ordered by server count as of March 24th, 2020.
 * [ServerMate](https://top.gg/bot/481810078031282176) (3500 servers, 20 minute bump interval)
 * [Bump Central](https://top.gg/bot/478290034773196810) (3400 servers, 1 hour bump interval)
 * [Open Bump](https://top.gg/bot/546999467887427604) (2900 servers, 1 hour bump interval)
-* [HaileyBot](https://top.gg/bot/423637161632464906) (1600 servers, 2 hour bump interval)
+* [HaileyBot](https://top.gg/bot/423637161632464906) (2500 servers, 2 hour bump interval)
 * [PYS Bump](https://top.gg/bot/614970561977909251) ( 774 servers, 2 hour bump interval)
 <!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
 
