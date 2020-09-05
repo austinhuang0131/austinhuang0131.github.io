@@ -17,7 +17,7 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes JavaScript chatbots](#my-coding-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
+Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes code](#my-own-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -25,17 +25,14 @@ If you need a job title, that'll be "college student/freelance project maintaine
 
 ### Currently in progress
 * [InstaGrabber](https://instagrabber.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
+* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 
-### Others
-* I also [write private bots](/services) for individuals.
-  * I am a member of [ProCord](https://discord.gg/auHudND), a group dedicated in creating free Discord resources.
-  * I am a Telegram bot developer, listed on [DevList](http://t.me/devlist).
-* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Offline due to coronavirus.)
+I also write [private Discord/Telegram bots](/services) for individuals, and operate [a Bibliogram instance](https://bg.endl.site).
 
 ## My photos
 
@@ -63,6 +60,7 @@ Tryna quit social media, but still can't get away with the critical mass. *\*Sig
 
 * [Matrix room](https://matrix.to/#/#bistro:privacytools.io)
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
+* [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [Tumblr / Blog](https://blog.austinhuang.me) (Custom domain)

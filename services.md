@@ -22,11 +22,10 @@ Contact `The Double-Eyed Bus#6889` or `im@austinhuang.me` for a quote.
 * [Peaceful CEO](http://www.pceo.online/) (Scheduled messages)
 
 ### Telegram
-<script async src="https://telegram.org/js/telegram-widget.js?1" data-telegram-post="devlist/27" data-width="100%"></script>
+I currently do not take new Telegram orders.
 
 #### My work is currently used in...
 * [PROMOBRASIL](https://t.me/promobrasil) (Staff support)
-* [SupraPixel](https://t.me/suprapixelsuprapixel) (Minigame)
 
 ### Terms
 
