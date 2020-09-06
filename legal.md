@@ -23,7 +23,6 @@ I cannot modify/delete your data if I don't have them to begin with.
 * Third-party non-interactive:
     * Site is hosted by GitHub pages. See [their privacy statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
     * The homepage pings a RSS feed at `api.flickr.com` to fetch my photos. [This script](https://austinhuang.me/javascript-flickr-badge.min.js) is used. You can disable this by blocking `api.flickr.com` through your adblocker.
-    * The services page has a [Telegram post widget](https://core.telegram.org/widgets/posts). See [their privacy policy](https://telegram.org/privacy).
 * Third-party interactive:
     * YouTube embeds exist on the BVE guide, though `www.youtube-nocookie.com` ("enhanced privacy mode") is used. Feel free to replace it with Invidious or something else, I don't mind.
     * By using the donation page, you agree to [donorbox privacy policy](https://donorbox.org/privacy). If you pay by card, then Stripe handles the payment; If you pay by PayPal, then PayPal handles the payment **and I will see your address** (Because I have a business account; I will not release the address to anyone other than the client). Therefore, for the greater good (At least for now, you don't pay fees if you use Stripe, but you do if you use PayPal), *please* use Stripe, unless PayPal balance is all you got.
@@ -39,14 +38,19 @@ Refer to [here](https://feedback.austinhuang.me/privacy), except the "Stripe" pa
 
 There is Google Analytics, which is placed by Fider. Unfortunately, I cannot negotiate to remove it, as they would probably realize I'm on a discontinued plan and then just cut the cord (Cloud-hosted Fider has been discontinued since Jan/Feb 2019). Just block it, it's not even *my* analytics.
 
+### instagrabber.austinhuang.me
+
+For the app itself, see [here](https://instagrabber.austinhuang.me/disclosure).
+
+For the documentation on this domain, refer to [Gitbook's privacy policy](https://policies.gitbook.com/privacy).
+
 ### metagon.austinhuang.me
 
 Site is hosted by GitHub pages. See [their privacy statement](https://docs.github.com/en/github/site-policy/github-privacy-statement).
 
-
 ### stm.austinhuang.me
 
-It's currently offline, but otherwise there is a Privacy Policy on the page.
+There is a Privacy Policy in the [FAQ](https://stm.austinhuang.me/faq).
 
 ## Terms
 
