@@ -17,7 +17,7 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes code](#my-own-projects), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
+Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes code](https://github.com/austinhuang0131), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
 If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -84,14 +84,12 @@ A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
-I try to use components from responsible/ethical sources. Except my domain registrar (you can't control that), everything is open source.
+I try to use components from responsible sources. No Cloudflare. No Google. No cookies. *No problemo.*
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
 * I use nameservers from [deSec.io](https://desec.io).
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
-
-No Cloudflare. No Google. No cookies. *No problemo.*
 
 ### Hey, you look cool.
 You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
@@ -106,3 +104,5 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 
 ### What other stuff are there on this website?
 You can have a look at the sidebar. Also, don't forget to check out [my friends' work](/reference)!
+
+Fun fact: This page is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
