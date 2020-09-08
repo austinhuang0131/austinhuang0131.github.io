@@ -5,17 +5,25 @@ description: Wanna give money or pay for services? Do them on this page!
 
 ## Donation platforms
 
-<script src="https://liberapay.com/austinhuang/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/austinhuang/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> 
+In order of preference:
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'S6S425N0B');kofiwidget2.draw();</script> 
+* Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131) and [Liberapay](https://liberapay.com/austinhuang/donate).
+* Recurring and one-time: [Donorbox](https://donorbox.org/austinhuang) and [Flattr](https://flattr.com/@austinhuang).
+* One-time only: [Ko-Fi](https://ko-fi.com/austinhuang).
 
-Also on [GitHub Sponsors](https://github.com/sponsors/austinhuang0131), [Donorbox](https://donorbox.org/austinhuang), and [Flattr](https://flattr.com/@austinhuang).
+Note:
+
+* GitHub Sponsors will match your donations, so I get twice the amount. The con is that they only take cards.
+* I strongly discourage the use of PayPal, but if that's your only choice, then please consider paying [fees](https://thefeecalculator.com/) for me as well. (I currently do not pay Stripe fees.)
 
 ## Bank transfer
 
 * Interac E-transfer: `im@austinhuang.me`, has autodeposit, security question not needed.
 * SEPA: Please email me first.
+
+## Gift cards
+
+I accept most virtual gift cards that are valid in Canada, plus Rechargeable Tim Card. Please email me first.
 
 ## Cryptos
 
