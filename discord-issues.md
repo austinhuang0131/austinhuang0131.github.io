@@ -123,7 +123,7 @@ On June 8, 2020, two days after the initial publishment of this page, Discord [s
 
 > We do not sell your data, nor do we share it with third parties for advertising purposes.
 
-Of course you don't, because you [give](#the-culture) [them](https://resynth1943.net/2020/03/14/The-Discord-privacy-scandal.html) [away](https://github.com/davidbaszucki/discord-attachment-bruteforcer)! Also, what about a takeover? Selling the company with the data?
+Of course you don't, because you [give](#the-culture) [them](https://resynth1943.net/articles/discord/) [away](https://github.com/davidbaszucki/discord-attachment-bruteforcer)! Also, what about a takeover? Selling the company with the data?
 
 > We put your privacy first and as a rule do not scan or read your messages. However, we can do so for safety reasons.
 
