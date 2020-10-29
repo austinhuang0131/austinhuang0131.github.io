@@ -24,13 +24,13 @@ If you need a job title, that'll be "college student/freelance project maintaine
 ## My own projects
 
 ### Currently in progress
-* [InstaGrabber](https://instagrabber.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
-* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
+* [Barinsta](https://barinsta.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
+* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 
 I also write [private Discord/Telegram bots](/services) for individuals, and operate [a Bibliogram instance](https://bg.endl.site).
 
@@ -84,7 +84,7 @@ A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
-I try to use components from responsible sources. No Cloudflare. No Google. No cookies. *No problemo.*
+I try to use components from responsible sources. [No](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/readme/en.md) [Cloudflare](http://www.crimeflare.org:82/). [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
