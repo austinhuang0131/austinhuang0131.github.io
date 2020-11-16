@@ -1,6 +1,6 @@
 ---
 title: I'd like to donate!
-description: Wanna give money or pay for services? Do them on this page!
+description: Wanna give money or pay for services? Do so on this page!
 ---
 
 ## Donation platforms
@@ -46,15 +46,15 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
-| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/09/03 | $14.32 | ↓ | |
-| Liberapay: 26 weeks of 0.50€ (PayPal) | 2020/09/23 | $18.28 | ↓ | |
-| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/11/10 | $14.23 | ↓ | |
+| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/09/03 | $14.32 | ↓      |   |
+| Liberapay: 26 weeks of 0.50€ (PayPal) | 2020/09/23 | $18.28 | ↓      |   |
+| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/11/10 | $14.23 | ↓      |   |
 | **Liberapay total**                   |            |        | $46.83 | ↓ |
-| Ko-Fi: 2 cups of $3 (PayPal)          | 2020/09/24 | $4.50  | ↓ | |
-| Ko-Fi: 3 cups of $3 (PayPal)          | 2020/09/24 | $8.35  | ↓ | |
-| Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/11 | $4.51  | ↓ | |
+| Ko-Fi: 2 cups of $3 (PayPal)          | 2020/09/24 | $4.50  | ↓      |   |
+| Ko-Fi: 3 cups of $3 (PayPal)          | 2020/09/24 | $8.35  | ↓      |   |
+| Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/11 | $4.51  | ↓ |   |
 | **Ko-Fi total**                       |            |        | $17.36 | ↓ |
-| DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓ | |
+| DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓      |   |
 | **DonorBox total**                    |            |        | $1.07  | ↓ |
 | **RECEIVED TOTAL**                    |            |        |        | $65.26 |
 
@@ -62,7 +62,9 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
-| GitHub @KevinNThomas: $1 USD/month | Ongoing since 2020/08/06 | ? | ↓ | |
-| GitHub matching fund: $1 USD/month | Ongoing since 2020/08/06 | ? | ↓ | |
-| **GitHub total** (expected)        | 2020/11/22               |   | $10.33 | ↓ |
-| **EXPECTED TOTAL**                 |                          |   |        | $10.33 |
+| Liberapay: 1 year of $50 USD (Stripe) | 2020/11/16               | $61.59 | ↓      |   |
+| **Liberapay total**                   |                          |        | $61.59 | ↓ |
+| GitHub @KevinNThomas: $1 USD/month    | Ongoing since 2020/08/06 | ?      | ↓      |   |
+| GitHub matching fund: $1 USD/month    | Ongoing since 2020/08/06 | ?      | ↓      |   |
+| **GitHub total** (expected)           | 2020/11/22               |        | $10.33 | ↓ |
+| **EXPECTED TOTAL**                    |                          |        |        | $71.92 |
