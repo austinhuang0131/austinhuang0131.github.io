@@ -24,7 +24,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
 ## My own projects
 
 ### Currently in progress
-* [Barinsta](https://barinsta.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
+* [Barinsta](https://barinsta.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing), now co-owned with [Ammar Githam](https://github.com/ammargirham)
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
@@ -84,7 +84,7 @@ A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
-I try to use components from responsible sources. [No](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/readme/en.md) [Cloudflare](http://www.crimeflare.org:82/). [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
+I try to use components from responsible sources. [No](https://codeberg.org/themusicgod1/cloudflare-tor) [Cloudflare](http://www.crimeflare.org:82/). [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
