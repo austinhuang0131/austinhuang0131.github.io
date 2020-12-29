@@ -54,19 +54,22 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/09/24 | $4.50  | ↓       |   |
 | Ko-Fi: 3 cups of $3 (PayPal)          | 2020/09/24 | $8.35  | ↓       |   |
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/11 | $4.51  | ↓       |   |
-| **Ko-Fi total**                       |            |        | $17.36  | ↓ |
+| Ko-Fi: 1 cup of $3 (Stripe)           | 2020/12/11 | $3.00  | ↓       |   |
+| **Ko-Fi total**                       |            |        | $20.36  | ↓ |
 | DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $1 USD/month    | Ongoing    | ?      | ↓       |   |
-| GitHub matching fund: $1 USD/month    | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)           |            |        | $10.33  | ↓ |
-| **RECEIVED TOTAL**                    |            |        |         | $137.18 |
+| GitHub @CrazyMarvin: $3 USD/month     | Ongoing    | ?      | ↓       |   |
+| GitHub matching fund: $4 USD/month    | Ongoing    | ?      | ↓       |   |
+| **GitHub total** (received)           |            |        | $20.35  | ↓ |
+| **RECEIVED TOTAL**                    |            |        |         | $150.20 |
 
 ### Expected
 
-Nothing as of now.
+(Excluding GitHub, since exchange rates can flunctuate and they don't make clear of a payout's composition)
 
-<!--
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
--->
+| Ko-Fi: 1 cup of $3 (Stripe)           | 2021/01/05 | $3.00  | ↓       |   |
+| **Ko-Fi total**                       |            |        | $3.00   | ↓ |
+| **EXPECTED TOTAL**                    |            |        |         | $3.00 |
