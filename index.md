@@ -97,6 +97,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase).
 * [Matrix](https://matrix.to/#/@austin:privacytools.io): `@austin:privacytools.io`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
+* [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 * Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131/issues). Note that it's public.
 * You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
