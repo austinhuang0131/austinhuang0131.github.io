@@ -228,9 +228,9 @@ function objText( obj ){
 	var colour = (obj.tags.colour !== undefined && (!isNaN(parseInt(obj.tags.colour.substring(1, 7), 16)) || col[obj.tags.colour.toLowerCase()])) ? 'background-color:'+obj.tags.colour+';color:'+pickColor(obj.tags.colour)+';' : '';
 	colour = (colour !== '' && obj.tags['ogf:invert'] === 'yes') ? 'color:'+obj.tags.colour+';' : colour;
     var text = '<h3>' + obj.tags.route.replace("_", " ").substr(0,1).toUpperCase() + obj.tags.route.replace("_", " ").substr(1) + ' <span style="'+colour+'">' + obj.tags.name + '</span></h3>';
-    if (obj.tags.operator) text += '<b>Operated by:</b> '+obj.tags.operator;
-    if (obj.tags.network) text += '<br><b>Network:</b> '+obj.tags.network;
-    if (obj.tags.from && obj.tags.to) text += '<br><b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
+    if (obj.tags.operator) text += '<b>Operated by:</b> '+obj.tags.operator+'<br>';
+    if (obj.tags.network) text += '<b>Network:</b> '+obj.tags.network+'<br>';
+    if (obj.tags.from && obj.tags.to) text += '<b>Route:</b> '+obj.tags.from+" → "+obj.tags.to;
     if (obj.tags.via) text += ' (Via: '+obj.tags.via+')';
     if (obj.tags.note) text += '<br><b>Note:</b> '+obj.tags.note;
     text += '<br>' + typeText + ' <a href="' + ogf.config.API_URL + obj.type + '/' + obj.id + '">' + obj.id + '</a>';

@@ -24,13 +24,13 @@ If you need a job title, that'll be "college student/freelance project maintaine
 ## My own projects
 
 ### Currently in progress
-* [InstaGrabber](https://instagrabber.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing).
-* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
+* [Barinsta](https://barinsta.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing), now co-owned with [Ammar Githam](https://github.com/ammargitham).
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
+* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 
 I also write [private Discord/Telegram bots](/services) for individuals, and operate [a Bibliogram instance](https://bg.endl.site).
 
@@ -84,7 +84,7 @@ A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
-I try to use components from responsible sources. No Cloudflare. No Google. No cookies. *No problemo.*
+I try to use components from responsible sources. [No](https://codeberg.org/themusicgod1/cloudflare-tor) [Cloudflare](http://www.crimeflare.org:82/). [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
@@ -97,6 +97,7 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase).
 * [Matrix](https://matrix.to/#/@austin:privacytools.io): `@austin:privacytools.io`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
+* [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 * Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131/issues). Note that it's public.
 * You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
