@@ -37,7 +37,7 @@ I also write [private Discord/Telegram bots](/services) for individuals, and ope
 ## My photos
 
 <div class="resize2" id="myElement" style="float:right;"></div>
-<script type="text/javascript" src="javascript-flickr-badge.min.js"></script>
+<script type="text/javascript" src="./assets/javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
        flickrId: '136075370@N04',
