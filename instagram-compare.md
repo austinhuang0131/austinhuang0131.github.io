@@ -1,17 +1,16 @@
 ---
 title: I'd like to compare my Instagram followers/followings list!
-comments: true
 description: Weed out the fakes! Here's one simple trick to effectively compare your followers and followings list, so you can unfollow those traitors who never follows you back, and keep your Instagram COOL and CLEAN, without leaking your password!
 permalink: /instagram-compare
 ---
 
-Last tested **May 30th, 2020**.
+Last tested by me on **May 30th, 2020**.
 
 **READ ME FIRST:** This script attempts to mimic Instagram web interface behaviour as much as possible (As it fetches the same URL when you scroll down the follower/ing list yourself), and I do not think occasional use (i.e. Do not use this script excessively!) of the script will trigger them. However, I cannot guarantee that Instagram will not take actions for this. While I poured my best effort in writing the script, it remains your sole responsibility to secure your account and I am not liable for any damages caused.
 
-1. [Log into Instagram](https://instagram.com) **on a computer Chrome.**
-2. Click the three dots on the right hand side of the browser address bar, then "More Tools" > "Developer Tools". Alternatively, right click anywhere on the page, then "Inspect".
-3. Navigate to the "Console" tab of the right sidebar.
+1. [Log into Instagram](https://instagram.com) **on a computer Chrome** or Mac Safari.
+2. For Chrome, click the three dots on the right hand side of the browser address bar, then "More Tools" > "Developer Tools". Alternatively, right click anywhere on the page, then "Inspect". Then, navigate to the "Console" tab of the right sidebar.
+3. Or, for Safari, click "Develop" on the top bar, then "Open JavaScript Console".
 4. Paste the following code next to the `>` sign and press <kbd>ENTER</kbd>:
   ```js
 const random_wait_time=(a=400)=>new Promise(b=>{setTimeout(()=>b(),Math.random()*a+100)}),ratelimit=()=>new Promise(a=>{setTimeout(()=>a(),6e4)}),getList=async(a,b)=>{let c="follower"===a||"following"!==a&&"0";if("0"===c)throw"first argument must be \"follower\" or \"following\".";let d=[],e=document.cookie.split("ds_user_id=")[1].split("; ")[0],f=c?"c76146de99bb02f6415203be841dd25a":"d04b0a864b4b54837c0d870b0e77e076",g=c?"true":"false",h=c?"edge_followed_by":"edge_follow",i=!0,j=`https://www.instagram.com/graphql/query/?query_hash=${f}&variables={"id":"${e}","include_reel":true,"fetch_mutual":${g},"first":12}`;for(;i;){const a=await fetch(j).then(a=>a.json()).then(a=>{const b=[];for(const c of a.data.user[h].edges)b.push(c.node.username);return{edges:b,endCursor:a.data.user[h].page_info.end_cursor}}).catch(async()=>"undefined"===j.split(`,"after":`)[1].split(`"}"`)[0]||"null"===j.split(`,"after":`)[1].split(`"}"`)[0]?{edges:[]}:(console.log("Seems like I hit a 429, will wait 60 seconds (The process is still running, don't close the tab!)"),await ratelimit(),{edges:[],endCursor:j.split(`,"after":"`)[1].split(`"}`)[0]}));await random_wait_time(),d=[...d,...a.edges],null===a.endCursor&&(i=!1),j=`https://www.instagram.com/graphql/query/?query_hash=${f}&variables={"id":"${e}","include_reel":true,"fetch_mutual":${g},"first":12,"after":"${a.endCursor}"}`}return b||console.log(`========= ${a.toUpperCase()} =========\n`+d.join("\n")),d},findDiff=async()=>{const d=await getList("follower",!0),a=await getList("following",!0),b=a.filter(a=>-1===d.indexOf(a));return console.log(`========= Following, not followed =========\n`+b.join("\n")),b};
@@ -32,14 +31,14 @@ On the top, the sentence "Weed out the fakes!" was written by [@sophucking_done]
 This page, like this entire website, is [open source](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/instagram-compare.md). All the credits are legit: I don't sponsor them, nor do they sponsor me.
 
 ## Wait, what if I only have a phone?
-Android users: Use [InstaGrabber](https://github.com/austinhuang0131/instagrabber). (I took it over from the OG)
+Android users: Use [Barinsta](https://f-droid.org/en/packages/me.austinhuang.instagrabber/), which is made by me.
 
 1. Get the app (This app does not entirely substitute the actual Instagram app, unfortunately).
-2. Log in (according to README).
-3. Click either "Following" or "Follower", doesn't matter.
-4. Wait till the list fully loads. Otherwise, the app will crash! Be patient.
-5. Press the eye button on the top-right. You'll see your follower-following list being split into 3 categories.
-6. The app can't follow/unfollow, so you can click on profile, "Open in Instagram", and follow/unfollow.
+2. Go to "More" tab and add an account.
+3. After login, go to "Profile" tab. You can also search another user using the search button to compare someone else's followers/following.
+4. Click either "Following" or "Follower".
+5. Press the eye button on the top-right. Be patient. You'll see your follower-following list being split into 4 categories.
+6. You can click on a profile to follow/unfollow.
 
 ## Wait, does this steal my password?
 No. This code snippet only pings 1 website, and that is Instagram's own GraphQL API. The only cookie read by the script is your user ID (`ds_user_id`). Nothing else is provided to the script. Here's the annotated un-minified version:
