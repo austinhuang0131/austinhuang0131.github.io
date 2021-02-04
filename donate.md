@@ -46,23 +46,29 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
-| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/09/03 | $14.32 | ↓       |   |
-| Liberapay: 26 weeks of 0.50€ (PayPal) | 2020/09/23 | $18.28 | ↓       |   |
-| Liberapay: 10 weeks of 1.00€ (Stripe) | 2020/11/10 | $14.23 | ↓       |   |
+| Liberapay: 10 weeks of €1.00 (Stripe) | 2020/09/03 | $14.32 | ↓       |   |
+| Liberapay: 26 weeks of €0.50 (PayPal) | 2020/09/23 | $18.28 | ↓       |   |
+| Liberapay: 10 weeks of €1.00 (Stripe) | 2020/11/10 | $14.23 | ↓       |   |
 | Liberapay: 1 year of $50 USD (Stripe) | 2020/11/16 | $61.59 | ↓       |   |
-| **Liberapay total**                   |            |        | $108.42 | ↓ |
+| Liberapay: 10 weeks of €1.00 (Stripe) | 2021/01/19 | $14.39 | ↓       |   |
+| Liberapay: 1 week of €2.00 (Stripe)   | 2021/01/19 | $3.35  | ↓       |   |
+| **Liberapay total**                   |            |        | $126.16 | ↓ |
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/09/24 | $4.50  | ↓       |   |
 | Ko-Fi: 3 cups of $3 (PayPal)          | 2020/09/24 | $8.35  | ↓       |   |
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/11 | $4.51  | ↓       |   |
+| Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/18 | $5.48  | ↓       |   |
 | Ko-Fi: 1 cup of $3 (Stripe)           | 2020/12/11 | $3.00  | ↓       |   |
-| **Ko-Fi total**                       |            |        | $20.36  | ↓ |
+| Ko-Fi: 1 cup of $3 (Stripe)           | 2021/01/05 | $3.00  | ↓       |   |
+| Ko-Fi: 3 cups of $3 (Stripe)          | 2021/02/01 | $9.00  | ↓       |   |
+| Ko-Fi: 2 cups of $3 (PayPal)          | 2021/02/10 | $5.48  | ↓       |   |
+| **Ko-Fi total**                       |            |        | $43.32  | ↓ |
 | DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $1 USD/month    | Ongoing    | ?      | ↓       |   |
 | GitHub @CrazyMarvin: $3 USD/month     | Ongoing    | ?      | ↓       |   |
 | GitHub matching fund: $4 USD/month    | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)           |            |        | $20.35  | ↓ |
-| **RECEIVED TOTAL**                    |            |        |         | $150.20 |
+| **GitHub total** (received)           |            |        | $31.58  | ↓ |
+| **RECEIVED TOTAL**                    |            |        |         | $202.13 |
 
 ### Expected
 
@@ -70,6 +76,4 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
-| Ko-Fi: 1 cup of $3 (Stripe)           | 2021/01/05 | $3.00  | ↓       |   |
-| **Ko-Fi total**                       |            |        | $3.00   | ↓ |
-| **EXPECTED TOTAL**                    |            |        |         | $3.00 |
+| **EXPECTED TOTAL**                    |            |        |         | $0.00 |
