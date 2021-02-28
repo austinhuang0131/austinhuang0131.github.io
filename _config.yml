@@ -44,7 +44,7 @@ author:
   social:
     email: mailto:im@austinhuang.me
     github: austinhuang0131
-    matrix: '@austin:privacytools.io'
+    matrix: '@austinhuang:matrix.org'
     reddit: austinhuang
     telegram: austinhuang
   # # Used by `jekyll-seo-tag`:
@@ -52,12 +52,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Guides
+  - title:             my guides
     url:               /guides
-  - title:             Services
-    url:               /services
   - title:             gib money
     url:               /donate
+  - title:             more cool people
+    url:               /reference
 
 legal:
   - title: License
