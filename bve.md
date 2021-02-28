@@ -169,7 +169,7 @@ Download [here](http://mudamc22078.blog.fc2.com/blog-entry-254.html) (link that 
 ### Keihan Ishiyama Sakamoto Line
 **Not suitable for beginners**
 
-Download [here](http://mudamc22078.blog.fc2.com/blog-entry-272.html). Vehicle included.
+Download [here](http://mudamc22078.blog.fc2.com/blog-entry-271.html) at the link under "BVE5". Vehicle included.
 
 * Before departure, and **before switching directions (Neutral), press the** <kbd> SPACE </kbd> **key, and KEEP IT PRESSED!!!** If you release it during your drive, emergency brake will be applied and then you'll need to reset the ATS... (Windows: At neutral-P0-EB, <kbd>HOME</kbd> and <kbd>END</kbd>; Mac: Consider reassigning keys)
 * Here's a walkthrough:
