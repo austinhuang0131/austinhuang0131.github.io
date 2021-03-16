@@ -64,11 +64,11 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 | **Ko-Fi total**                       |            |        | $43.32  | ↓ |
 | DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
-| GitHub @KevinNThomas: $1 USD/month    | Ongoing    | ?      | ↓       |   |
-| GitHub @CrazyMarvin: $3 USD/month     | Ongoing    | ?      | ↓       |   |
-| GitHub matching fund: $4 USD/month    | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)           |            |        | $31.58  | ↓ |
-| **RECEIVED TOTAL**                    |            |        |         | $202.13 |
+| GitHub @KevinNThomas: $6 USD (x2)     | 2021/01/06 | ?      | ↓       |   |
+| GitHub @CrazyMarvin: $3 USD/month (x2)| Ongoing    | ?      | ↓       |   |
+| GitHub private sponsor: $1 USD/month  | Ongoing    | ?      | ↓       |   |
+| **GitHub total** (received)           |            |        | $40.44  | ↓ |
+| **RECEIVED TOTAL**                    |            |        |         | $210.99 |
 
 ### Expected
 
@@ -76,4 +76,7 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. PayPal 
 
 | Name | Date | Amount | Total Amount | Grand Total |
 |:----:|:----:|:------:|:------------:|:-----------:|
-| **EXPECTED TOTAL**                    |            |        |         | $0.00 |
+| Liberapay: 10 weeks of €1.00 (Stripe) | 2021/03/23 | $13.77 | ↓       |   |
+| Liberapay: 26 weeks of €0.50 (Stripe) | 2021/03/23 | $18.71 | ↓       |   |
+| **Liberapay total**                   |            |        | $32.48  | ↓ |
+| **EXPECTED TOTAL**                    |            |        |         | $32.48 |
