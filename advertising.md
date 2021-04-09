@@ -72,6 +72,7 @@ Ordered by server count as of March 24th, 2020.
 * [Open Bump](https://top.gg/bot/546999467887427604) (2900 servers, 1 hour bump interval)
 * [HaileyBot](https://top.gg/bot/423637161632464906) (2500 servers, 2 hour bump interval)
 * [PYS Bump](https://top.gg/bot/614970561977909251) ( 774 servers, 2 hour bump interval)
+* [Liam](https://top.gg/bot/389604896606781440) (4000 Servers, 2 hour bump interval)
 <!-- * [Bump Bot](https://discordbots.org/bot/511167075801235478) (325 servers, 24 hour bump interval) // Can not be found on top.gg/discordbots.org -->
 
 ### Listing Servers
