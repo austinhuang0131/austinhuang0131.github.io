@@ -7,9 +7,8 @@ description: Wanna give money or pay for services? Do so on this page!
 
 In order of preference:
 
-* Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131) and [Liberapay](https://liberapay.com/austinhuang/donate).
-* Recurring and one-time: [Donorbox](https://donorbox.org/austinhuang) and [Flattr](https://flattr.com/@austinhuang).
-* One-time only: [Ko-Fi](https://ko-fi.com/austinhuang).
+* Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131).
+* One-time only: [Liberapay](https://liberapay.com/austinhuang/donate) and [Ko-Fi](https://ko-fi.com/austinhuang).
 
 Note:
 
