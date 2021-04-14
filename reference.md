@@ -25,6 +25,6 @@ To be listed here, you need to:
 ## Coding
 * [Adam Gilbert](https://i-am.djelectro.me) (D: `DJ Electro#1677`, G: [@Electromaster232](https://github.com/Electromaster232), M: [@djelectro:chat.endl.site](https://matrix.to/#/@djelectro:chat.endl.site)): Sysadmin. Operates [Endless Hosting](https://theendlessweb.com).
 * [Harshdip Singh Deogan](https://hsdeogan.com/) (G: [@HarshdipD](https://github.com/HarshdipD)): Web / Frontend developer, Ruby on Rails / Python.
-* [Jonah Snider (PizzaFox)](https://jonah.pw) (D: `PizzaFox#0075`, G: [@pizzafox](https://github.com/pizzafox)): Creates and operates various projects, including [Dice](https://dice.js.org), [Discoin](https://dash.discoin.zws.im) (with me and Mitchell), and [Zero Width Shortener](https://zws.im). TypeScript / JavaScript.
+* [Jonah Snider](https://jonah.pw) (D: `Jonah#6905`, G: [@jonahsnider](https://github.com/jonahsnider)): Creates and operates various projects, including [Dice](https://dice.js.org), [Discoin](https://dash.discoin.zws.im) (with me and Mitchell), and [Zero Width Shortener](https://zws.im). TypeScript / JavaScript.
 * [Michael Cao](https://mikecao.me/) (D: `mikex#9999`, G: [@mcao](https://github.com/mcao)): One of MLH's Top 50 Hackers. Hackathon organizer. JavaScript.
 * Mitchell Rademaker (D: `Mitchell#6410`, G: [@Mitchell3514](https://github.com/Mitchell3514)): Maintains [DTel](https://dtel.austinhuang.me). JavaScript.
