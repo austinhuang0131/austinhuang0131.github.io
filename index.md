@@ -104,6 +104,6 @@ You can [request my services](/services) or [donate to me](/donate)! You can als
 * Discord: `The Double-Eyed Bus#6889`
 
 ### What other stuff are there on this website?
-You can have a look at the sidebar. Also, don't forget to check out [my friends' work](/reference)!
+You can have a look at the sidebar.
 
 Fun fact: This page is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
