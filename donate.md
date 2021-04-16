@@ -9,7 +9,6 @@ In order of preference:
 
 * Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131).
 * One-time only: [Liberapay](https://liberapay.com/austinhuang/donate) and [Ko-Fi](https://ko-fi.com/austinhuang).
-
 Note:
 
 * GitHub Sponsors will match your donations, so I get twice the amount. The con is that they only take cards.
@@ -17,8 +16,8 @@ Note:
 
 ## Bank transfer
 
-* Interac E-transfer: `im@austinhuang.me`, has autodeposit, security question not needed.
-* SEPA: Please email me first.
+* Interac E-transfer: `im@austinhuang.me`. Security questions not required when sending from most banks, but please contact me if it asks you for one.
+* SEPA and (Transfer)Wise: Please contact me first.
 
 ## Gift cards
 
