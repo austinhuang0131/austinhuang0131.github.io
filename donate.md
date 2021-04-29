@@ -63,14 +63,16 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2021/02/10 | $5.48  | ↓       |   |
 | Ko-Fi: 4 cups of $3 (PayPal)          | 2021/03/26 | $11.26 | ↓       |   |
 | Ko-Fi: 3 cups of $3 (PayPal)          | 2021/04/09 | $8.35  | ↓       |   |
-| **Ko-Fi total**                       |            |        | $63.03  | ↓ |
+| Ko-Fi: 11 cups of $3 (Stripe)         | 2021/04/23 | $33.00 | ↓       |   |
+| Ko-Fi: 7 cups of $3 (Stripe)          | 2021/04/27 | $21.00 | ↓       |   |
+| **Ko-Fi total**                       |            |        | $117.03 | ↓ |
 | DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $6 USD (x2)     | 2021/01/06 | ?      | ↓       |   |
 | GitHub @CrazyMarvin: $3 USD/month (x2)| Ongoing    | ?      | ↓       |   |
 | GitHub private sponsor: $1 USD/month  | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)           |            |        | $50.41  | ↓ |
-| **RECEIVED TOTAL**                    |            |        |         | $273.15 |
+| **GitHub total** (received)           |            |        | $60.38  | ↓ |
+| **RECEIVED TOTAL**                    |            |        |         | $337.12 |
 
 ### Expected
 
