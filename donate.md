@@ -52,7 +52,9 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | Liberapay: 1 week of €2.00 (Stripe)   | 2021/01/19 | $3.35  | ↓       |   |
 | Liberapay: 10 weeks of €1.00 (Stripe) | 2021/03/23 | $13.77 | ↓       |   |
 | Liberapay: 26 weeks of €0.50 (Stripe) | 2021/03/23 | $18.71 | ↓       |   |
-| **Liberapay total**                   |            |        | $158.64 | ↓ |
+| Liberapay: 10 weeks of €1.00 (Stripe) | 2021/06/01 | $13.62 | ↓       |   |
+| Liberapay: 1 year of €5.00 (PayPal)   | 2021/06/08 | $11.80 | ↓       |   |
+| **Liberapay total**                   |            |        | $184.06 | ↓ |
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/09/24 | $4.50  | ↓       |   |
 | Ko-Fi: 3 cups of $3 (PayPal)          | 2020/09/24 | $8.35  | ↓       |   |
 | Ko-Fi: 2 cups of $3 (PayPal)          | 2020/11/11 | $4.51  | ↓       |   |
@@ -65,14 +67,15 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | Ko-Fi: 3 cups of $3 (PayPal)          | 2021/04/09 | $8.35  | ↓       |   |
 | Ko-Fi: 11 cups of $3 (Stripe)         | 2021/04/23 | $33.00 | ↓       |   |
 | Ko-Fi: 7 cups of $3 (Stripe)          | 2021/04/27 | $21.00 | ↓       |   |
-| **Ko-Fi total**                       |            |        | $117.03 | ↓ |
+| Ko-Fi: 1 cups of $3 (Stripe)          | 2021/05/10 | $3.00  | ↓       |   |
+| **Ko-Fi total**                       |            |        | $120.03 | ↓ |
 | DonorBox (PayPal)                     | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $6 USD (x2)     | 2021/01/06 | ?      | ↓       |   |
 | GitHub @CrazyMarvin: $3 USD/month (x2)| Ongoing    | ?      | ↓       |   |
 | GitHub private sponsor: $1 USD/month  | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)           |            |        | $60.38  | ↓ |
-| **RECEIVED TOTAL**                    |            |        |         | $337.12 |
+| **GitHub total** (received)           | 2021/05/25 |        | $70.08  | ↓ |
+| **RECEIVED TOTAL**                    |            |        |         | $375.24 |
 
 ### Expected
 
