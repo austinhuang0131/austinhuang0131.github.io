@@ -73,7 +73,7 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | **DonorBox total**                    |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $6 USD (x2)     | 2021/01/06 | ?      | ↓       |   |
 | GitHub @CrazyMarvin: $3 USD/month (x2)| Ongoing    | ?      | ↓       |   |
-| GitHub private sponsor: $1 USD/month  | Ongoing    | ?      | ↓       |   |
+| GitHub private sponsor: $5 USD        | 2021/06/15 | ?      | ↓       |   |
 | **GitHub total** (received)           | 2021/05/25 |        | $70.08  | ↓ |
 | **RECEIVED TOTAL**                    |            |        |         | $375.24 |
 
