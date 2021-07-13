@@ -17,9 +17,9 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a college ([cégep](https://en.wikipedia.org/wiki/CEGEP)) student who [writes code](https://github.com/austinhuang0131), [takes photos](#my-photos), studies, and [explores online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
+Hi there! I'm a student at McGill University. I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
-If you need a job title, that'll be "college student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
+If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
 ## My own projects
 
@@ -32,7 +32,7 @@ If you need a job title, that'll be "college student/freelance project maintaine
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 * I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 
-I also write [private Discord/Telegram bots](/services) for individuals, and operate [a Bibliogram instance](https://bg.endl.site).
+I used to write [private Discord/Telegram bots](/services).
 
 ## My photos
 
@@ -78,7 +78,9 @@ Coding, mapping (or, more professionally, *urban planning*), commenting on local
 Model UN is great. Strongly recommended. Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
 
 ### Hardware?
-A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services (e.g. [Glitch](https://glitch.com)). That's it.
+A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services. That's it.
+
+My phone is a Sony Xperia XA2, model H3123.
 
 ### You from Shanghai?
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
@@ -92,16 +94,18 @@ I try to use components from responsible sources. [No](https://codeberg.org/them
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
 ### Hey, you look cool.
-You can [request my services](/services) or [donate to me](/donate)! You can also contact me:
+You can contact me:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase).
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase). Also, I may not respond from this email address.
 * [Matrix](https://matrix.to/#/@austinhuang:matrix.org): `@austinhuang:matrix.org`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 * Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131/issues). Note that it's public.
 * You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
-* Discord: `The Double-Eyed Bus#6889`
+* [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
+
+You can also [donate to me](/donate)!
 
 ### What other stuff are there on this website?
 You can have a look at the sidebar.
