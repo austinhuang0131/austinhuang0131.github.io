@@ -24,7 +24,7 @@ If you need a job title, that'll be "university student/freelance project mainta
 ## My own projects
 
 ### Currently in progress
-* [Barinsta](https://barinsta.austinhuang.me) is an open source Instagram client on Android. Previously owned by [AWAiS](https://gitlab.com/AwaisKing), now co-owned with [Ammar Githam](https://github.com/ammargitham).
+* (redacted)
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
