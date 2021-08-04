@@ -86,7 +86,7 @@ My phone is a Sony Xperia XA2, model H3123.
 Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
 
 ### This site?
-I try to use components from responsible sources. [No](https://codeberg.org/themusicgod1/cloudflare-tor) [Cloudflare](http://www.crimeflare.org:82/). [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
+I try to use components from responsible sources. [No Cloudflare.](http://www.crimeflare.org:82/) [No Google.](https://nomoregoogle.com/) No cookies. *No problemo.*
 
 * The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
 * The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
