@@ -24,10 +24,10 @@ If you need a job title, that'll be "university student/freelance project mainta
 ## My own projects
 
 ### Currently in progress
-* (redacted)
 * I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
 
 ### Founded by me
+* Barinsta was an open source Instagram client on Android that focuses on privacy and well-being. [Cease & Desisted by Facebook.](https://github.com/austinhuang0131/austinhuang0131/issues/2) Got mentioned around the web.
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 * I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
@@ -96,14 +96,12 @@ I try to use components from responsible sources. [No Cloudflare.](http://www.cr
 ### Hey, you look cool.
 You can contact me:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). See [proof of identity](https://metacode.biz/openpgp/key#F4C5BE258540E91AB01B448584C23AA04587A91F). Do NOT use Keybase key (It has been revoked outside Keybase). Also, I may not respond from this email address.
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). Also, I may not respond from this email address.
 * [Matrix](https://matrix.to/#/@austinhuang:matrix.org): `@austinhuang:matrix.org`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
+* [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 * Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
-* Questions regarding the website & its content can be communicated through [GitHub issues](https://github.com/austinhuang0131/austinhuang0131/issues). Note that it's public.
-* You can ask questions anonymously on [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/). Note that it's also public.
-* [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 
 You can also [donate to me](/donate)!
 
