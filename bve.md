@@ -78,7 +78,7 @@ The official one. Download [here](http://bvets.net/en/download/zip.html), no add
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ocRex0a2jUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Tama Toshi Monorail
-Download [here](http://neclgm.blog.fc2.com/blog-entry-58.html). Both the page AND THE SCENARIO is **in English**!
+Download [here](https://trainpcfan.blogspot.com/2015/01/tama-intercity-monorail-for-bve.html). Both the page AND THE SCENARIO is **in English**!
 
 * To start the train from the terminus, you'll need to press ATS 0 (S) - ATS 13 (J) - ATS 4 (B2), BEFORE releasing the emergency brake or touching the reverser. Your train WILL NOT MOVE if you don't do so.
   * On Windows, that is <kbd> SPACE </kbd> - <kbd>8</kbd> - <kbd>END</kbd>. You can also press <kbd>Delete</kbd> for a list of key assignments specific to that scenario.
