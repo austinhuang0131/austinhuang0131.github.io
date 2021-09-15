@@ -9,6 +9,8 @@ permalink: /bve
 Aight, so hear me out: These train simulators on Steam really cost. Like $30+. Honestly, maybe they're better in the 3D graphics, but BVE Trainsim 5 could score much better in performance than these costly alternatives.
 
 ## Install
+**This guide only deals with BVE Trainsim 5.x.** Stuff presented below are tested on 5.7, and they should work on 5.8, but they **will not work** on 6 (which is incompatible with 5).
+
 ### Windows
 Read official instructions and downloads [here](http://bvets.net/en/download/).
 
