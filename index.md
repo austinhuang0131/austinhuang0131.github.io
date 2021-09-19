@@ -97,7 +97,7 @@ I try to use components from responsible sources. [No Cloudflare.](http://www.cr
 You can contact me:
 
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). Also, I may not respond from this email address.
-* [Matrix](https://matrix.to/#/@austinhuang:matrix.org): `@austinhuang:matrix.org`
+* [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
