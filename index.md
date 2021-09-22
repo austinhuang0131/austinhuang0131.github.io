@@ -17,7 +17,7 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a student at McGill University. I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff-like-social-media). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
+Hi there! I'm a student at McGill University. I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
 If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -56,15 +56,14 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 
 ## My other online stuff
 
-Tryna quit social media, but still can't get away with the critical mass. *\*Sigh\**
+Guess now I'm deplatformed...
 
-* [Matrix room](https://matrix.to/#/#bistro:privacytools.io)
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
-* [Tumblr / Blog](https://blog.austinhuang.me) (Custom domain)
-* [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/)
+* [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/): Ask me questions here!
+* [Tumblr](https://blog.austinhuang.me) (inactive)
 
 ## May I ask some questions?
 Sure. You can even comment below to ask even more questions, eh?
@@ -96,12 +95,11 @@ I try to use components from responsible sources. [No Cloudflare.](http://www.cr
 ### Hey, you look cool.
 You can contact me:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). Also, I may not respond from this email address.
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). I may not respond from the same email address.
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
-* Text or Voicemail only: [+1 (828) 528-2937](sms:18285282937?body=Input your message!)
 
 You can also [donate to me](/donate)!
 
