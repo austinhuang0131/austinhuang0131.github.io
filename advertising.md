@@ -8,7 +8,7 @@ image: https://austinhuang.me/assets/meme.jpg
 
 This guide only deals with servers. You can contribute to this page [here](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md). Use [BotBlock](https://botblock.org/) to find bot lists.
 
-More Discord stuff: [Server Guide](./discord-server-guide) / [Issues](./discord-issues)
+More Discord stuff: [Server Guide](./discord-server-guide.html) / [Issues](./discord-issues.html)
 
 * [Websites](#websites)
 * [Bots](#bots)

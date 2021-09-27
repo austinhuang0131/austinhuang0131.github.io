@@ -1,7 +1,6 @@
 ---
 title: I'd like to demand your services!
 description: Sorry, but I no longer offer services as I focus on my own projects. This page is kept as a record for private works I've done.
-permalink: /services
 ---
 
 ## Bot and Translation Services

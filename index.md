@@ -36,7 +36,7 @@ If you need a job title, that'll be "university student/freelance project mainta
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
 * I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 
-I used to write [private Discord/Telegram bots](/services).
+I used to write [private Discord/Telegram bots](/services.html).
 
 ## My photos
 
@@ -105,7 +105,7 @@ You can contact me:
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 
-You can also [donate to me](/donate)!
+You can also [donate to me](/donate.html)!
 
 ### What other stuff are there on this website?
 You can have a look at the sidebar.

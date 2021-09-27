@@ -1,7 +1,6 @@
 ---
 title: I need advice on running a Discord server!
 description: Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!
-permalink: /discord-server-guide
 ---
 
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
@@ -59,7 +58,7 @@ Once you know how to keep your population, you should impose measures to increas
 ### Advertising
 Your advertising slogan/text/description should point out what you have (Purpose and/or Type 1 events) plus some attractive treats (Type 3 events). Try create several versions of it, long ones for listing servers and short ones for listing websites. Though, do keep it short and on point in general. Refer to [this AYS article about writing descriptions](https://medium.com/advertise-your-server/writing-a-server-description-advert-69020c49689a).
 
-[This page](/./advertising) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
+[This page](./advertising.html) lists most places for advertising. Remember to bump your server regularly to keep your server at the top of rankings.
 
 Partnerships are not recommended as the mutual benefit is negligible (~10 members for an average server). Your server can live without partnerships, for that I'm sure.
 

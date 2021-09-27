@@ -45,7 +45,7 @@ author:
     email: mailto:im@austinhuang.me
     github: austinhuang0131
     linkedin: austinhuang0131
-    matrix: '@austinhuang:matrix.org'
+    matrix: '@austin:tchncs.de'
     telegram: austinhuang
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -53,15 +53,15 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             my guides
-    url:               /guides
+    url:               /guides.html
   - title:             gib money
-    url:               /donate
+    url:               /donate.html
 
 legal:
   - title: License
-    url:  /license
+    url:  /license.html
   - title: Legal
-    url:  /legal
+    url:  /legal.html
 
 # Theme
 # ---------------------------------------------------------------------------------------
