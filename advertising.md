@@ -1,7 +1,8 @@
 ---
 title: I'd like to advertise my Discord server/bot!
 description: Need people for your Discord server? Need guilds for your Discord bots? Then this page is for YOU to achieve your goal!
-permalink: "/advertising"
+redirect_from:
+ - /advertising
 image: https://austinhuang.me/assets/meme.jpg
 ---
 
