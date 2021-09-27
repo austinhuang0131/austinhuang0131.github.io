@@ -17,6 +17,10 @@ permalink: /
 }
 </style>
 
+**Notice on 2021/09/26:** I am moving this website onto IPFS. Some links might not work without the `.html` extension in the end. For now, please add it manually.
+
+<hr>
+
 Hi there! I'm a student at McGill University. I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
 
 If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
