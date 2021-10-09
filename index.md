@@ -58,6 +58,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 
 Guess now I'm deplatformed...
 
+* <a rel="me" href="https://ieji.de/@austin">Mastodon</a> (`@austin@ieji.de`)
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
 * [Reddit](http://reddit.com/u/austinhuang)
