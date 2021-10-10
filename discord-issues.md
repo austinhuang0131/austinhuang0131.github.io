@@ -341,10 +341,8 @@ About "You can even be like Telegram and deliberately tag 'Scam' on bots", they 
 
 ---
 
-I'd like to thank [Cadence](https://cadence.moe) and [Resynth](https://resynth1943.net) for their insights.
-
 I hope that I have set up an example in examining a platform, and I would like to encourage you to start looking for information yourself in order to evaluate every platform you use. In today's fast-moving consumerist society, we need to slow down, and perform a critical analysis on the products... [before it's too late.](https://redd.it/eiicah) Don't be consumed by the product! Read privacy policy, read terms of service, do your research, and wherever possible, use free & open softwares!
 
 I also encourage everyone to actively audit Discord's actions and publicize them when necessary.
 
-As for Discord, [get a grip of yourself man!](https://invidio.us/watch?v=hAGk4YVhK8M)
+As for Discord, [get a grip of yourself man!](https://youtube.com/watch?v=hAGk4YVhK8M)
