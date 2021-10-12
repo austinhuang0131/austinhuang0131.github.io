@@ -7,8 +7,8 @@ description: Wanna give money or pay for services? Do so on this page!
 
 In order of preference:
 
-* Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131).
-* One-time only: [Liberapay](https://liberapay.com/austinhuang/donate) and [Ko-Fi](https://ko-fi.com/austinhuang).
+* Recurring: [GitHub Sponsors](https://github.com/sponsors/austinhuang0131) (Amount is in **US Dollars**).
+* One-time only: [Liberapay](https://liberapay.com/austinhuang/donate) and [Ko-Fi](https://ko-fi.com/austinhuang) (Amounts are in **Canadian Dollars**)
 Note:
 
 * GitHub Sponsors will match your donations, so I get twice the amount. The con is that they only take cards.
