@@ -1,8 +1,4 @@
 # This file contains meta data for various social media sites
-email:
-  name: Email
-  icon: icon-mail
-  prepend: 'mailto:'
 telegram:
   name: Telegram
   icon: si-telegram
@@ -17,7 +13,7 @@ reddit:
   prepend: "https://www.reddit.com/user/"
 linkedin:
   name: LinkedIn
-  icon: icon-linkedin2
+  icon: si-linkedin
   prepend: "https://www.linkedin.com/in/"
 xing:
   name: XING
