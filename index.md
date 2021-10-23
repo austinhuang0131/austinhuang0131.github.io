@@ -58,7 +58,7 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 
 Guess now I'm deplatformed...
 
-* <a rel="me" href="https://ieji.de/@austin">Mastodon</a> (`@austin@ieji.de`)
+* <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
 * [Reddit](http://reddit.com/u/austinhuang)
@@ -98,6 +98,7 @@ You can contact me:
 
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). I may not respond from the same email address.
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
+* <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: `@austin@ieji.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
