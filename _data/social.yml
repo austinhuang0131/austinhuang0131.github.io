@@ -5,15 +5,15 @@ email:
   prepend: 'mailto:'
 telegram:
   name: Telegram
-  icon: si-telegram
+  icon: 'si si-telegram'
   prepend: "https://t.me/"
 github:
   name: GitHub
-  icon: si-github
+  icon: 'si si-github'
   prepend: "https://github.com/"
 reddit:
   name: reddit
-  icon: si-reddit
+  icon: 'si si-reddit'
   prepend: "https://www.reddit.com/user/"
 linkedin:
   name: LinkedIn
@@ -21,13 +21,13 @@ linkedin:
   prepend: "https://www.linkedin.com/in/"
 xing:
   name: XING
-  icon: si-xing
+  icon: 'si si-xing'
   prepend: "https://www.xing.com/profile/"
 matrix:
   name: Matrix
-  icon: si-matrix
+  icon: 'si si-matrix'
   prepend: "https://matrix.to/#/"
 mastodon:
   name: Mastodon
-  icon: si-mastodon
+  icon: 'si si-mastodon'
 
