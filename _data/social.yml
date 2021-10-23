@@ -17,7 +17,7 @@ reddit:
   prepend: "https://www.reddit.com/user/"
 linkedin:
   name: LinkedIn
-  icon: icon-linkedin
+  icon: icon-linkedin2
   prepend: "https://www.linkedin.com/in/"
 xing:
   name: XING
