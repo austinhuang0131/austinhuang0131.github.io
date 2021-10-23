@@ -1,0 +1,16 @@
+{% capture style_url %}{{ 'assets/css/hydejack-9.1.4.css' | relative_url }}{% endcapture %}
+{% capture icons_url %}{{ 'assets/font/simple-icons.min.css' | relative_url }}{% endcapture %}
+
+<link rel="preload" as="style" href="{{ style_url }}" id="_stylePreload">
+<link rel="preload" as="style" href="{{ icons_url }}" id="_iconsPreload">
+
+<script>
+  setRel('_stylePreload');
+  setRel('_iconsPreload');
+  setRel('_fontsPreload');
+</script>
+<noscript>
+  <link rel="stylesheet" href="{{ style_url }}">
+  <link rel="stylesheet" href="{{ icons_url }}">
+  {% if google_fonts %}<link rel="stylesheet" href="{{ fonts_url }}">{% endif %}
+</noscript>
