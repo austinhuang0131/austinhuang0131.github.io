@@ -5,8 +5,8 @@ permalink: /license
 
 For website contents:
 
-* Instagram and BVE guides are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), though commercial usage for them are strongly discouraged.
-* Other pages are all-rights-reserved. Reproductions are forbidden!
+* All [guides](./guides.html) are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+* All rights reserved for everything else.
 
 Hydejack requires [placing GPLv3](https://hydejack.com/CHANGELOG/#license-change) in the repository, so here it is. Also see [notice](https://hydejack.com/NOTICE/).
 
