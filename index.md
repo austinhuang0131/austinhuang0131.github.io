@@ -96,7 +96,7 @@ I try to use components from responsible sources. [No Cloudflare.](http://www.cr
 ### Hey, you look cool.
 You can contact me:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). Do NOT use Keybase key (It has been revoked outside Keybase). I may not respond from the same email address.
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). I may not respond from the same email address.
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
 * <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: `@austin@ieji.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
