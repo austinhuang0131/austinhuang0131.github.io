@@ -56,15 +56,12 @@ I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's 
 
 ## My other online stuff
 
-Guess now I'm deplatformed...
-
 * <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
 * [Reddit](http://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/): Ask me questions here!
-* [Tumblr](https://blog.austinhuang.me) (inactive)
 
 ## May I ask some questions?
 Sure. You can even comment below to ask even more questions, eh?
@@ -94,14 +91,19 @@ I try to use components from responsible sources. [No Cloudflare.](http://www.cr
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
 ### Hey, you look cool.
-You can contact me:
+You can contact me via:
 
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. My PGP public key is available through most public keyservers or [here](./assets/key.asc). I may not respond from the same email address.
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. I may not respond from the same email address.
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
 * <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: `@austin@ieji.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
+
+If you want to contact me securely:
+
+* By email: My PGP public key, ending with `84C2 3AA0 4587 A91F`, is available through the [OpenPGP Keyserver](https://keys.openpgp.org/pks/lookup?op=get&options=mr&search=0xf4c5be258540e91ab01b448584c23aa04587a91f). If I receive an encrypted email from you, I will look for your public key on that keyserver.
+* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`) and "FBI Surveillance Van" (`BLJTGWGMTO`).
 
 You can also [donate to me](/donate.html)!
 
