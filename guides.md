@@ -16,3 +16,4 @@ Even though I have mainly left Discord (save certain essential work), I still ha
 ## Others
 
 * [BVE Trainsim 5 Survival Guide](./bve.html): Ditch the expensive Steam simulators and embrace this Japanese masterpiece!
+* [Matrix public homeservers](./matrix-homeservers.html): A list of Matrix homeservers that accept public registration.
