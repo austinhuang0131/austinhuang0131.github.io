@@ -10,13 +10,19 @@ This is a work-in-progress list of public Matrix homeservers as compiled by me, 
 
 Please create an issue [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) for any addition, correction, redaction, or comment.
 
+**If you operate a private homeserver, go check the asra.gr list to see if it is accidentally set to allow public registrations!!!**
+
 ## Criteria
 
 The criteria are:
 
-* The display name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not; this does not apply to the server's actual domain).
+* The homeserver allows public registration. Duh.
+* The display name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not, see below).
 * The homeserver is not known (to me) to promote spam, hate speech, or other illegal content.
-* The homeserver is not `matrix.org` or operated by Element Matrix Services (previously known as Modular).
+* The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
+* The homeserver is *intended to be public*, e.g. hosts a publicly-accessible HTML page about the homeserver. There are a lot of personal homeservers that are probably mistakenly set to allow public registration, and more homeservers that have no real content on their domains, so those are excluded.
+
+Inclusion does **NOT** imply endorsement.
 
 ## Legend
 
