@@ -3,13 +3,7 @@ title: List of public Matrix homeservers
 description: Stop matrix.org centralization and get your account somewhere else instead!
 ---
 
-This is a work-in-progress list of public Matrix homeservers as compiled by me, with reference to:
-
-* [Matrix Public Homeservers (Archived)](https://web.archive.org/web/20210525055137/publiclist.anchel.nl/) by anchel.nl
-* [Public servers database](https://wiki.asra.gr/en:public_servers) by asra.gr
-* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) by Tatsumoto Ren
-
-Please create an issue [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) for any addition, correction, redaction, or comment.
+This is a work-in-progress list of public Matrix homeservers as compiled by me. Please create an issue [here](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) for any addition, correction, redaction, or comment.
 
 **If you operate a private homeserver, go check the asra.gr list to see if it is accidentally set to allow public registrations!!!**
 
@@ -23,7 +17,7 @@ The criteria are:
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
 * The homeserver is *intended to be public*, e.g. hosts a publicly-accessible HTML page about the homeserver. There are a lot of personal homeservers that are probably mistakenly set to allow public registration, and more homeservers that have no real content on their domains, so those are excluded.
 
-Inclusion does **NOT** imply endorsement.
+Inclusion does **NOT** imply endorsement nor any guarantee regarding the future availability of the homeserver. **For long-term use, choose a homeserver that looks trustworthy and is designed to last.**
 
 ## Legend
 
@@ -35,12 +29,13 @@ Inclusion does **NOT** imply endorsement.
   * "Commercial": Operated by a commercial entity, or an entity that offers paid services.
 * **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets.
 * **Rules/ToS?** and **Privacy Policy?**: Self-explanatory.
-* **Privacy merits/concerns?**: Notes for the privacy situation of the homeserver.
+* **Privacy merits/concerns?**: Notes for the privacy situation of the homeserver. By default, email is required for registration.
   * **Cloudflare**: The homeserver is using Cloudflare.
-  * **reCaptcha**: Registering on the homeserver requires a Google reCaptcha to be filled out. This does not apply to logins.
+  * **reCaptcha**: Registering on the homeserver requires a Google reCaptcha to be filled out. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
   * **Uses external SSO**: The homeserver uses its own authentication method instead of the methods natively provided in Matrix.
   * **Email optional**: Registering on the homeserver does not require an email address. This can offer privacy benefits, but may cause the homeserver to be susceptible to spam.
 * **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
+  * **Too concise**: Too little information is present about this homeserver.
 
 ## List
 
@@ -50,7 +45,7 @@ Alphabetically-ordered by the display name.
 | ---------------------------------------------------------------------------------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [activism.international](https://activism.international)                                  | Community               | Germany                                | [Sort of](https://activism.international/usage-policy/)                              | [Yes](https://activism.international/privacy/cloud/)        | Uses external SSO                                                       |                                                                                |
 | [altertek.org](https://altertek.org)                                                      | Community               | France                                 | [Yes](https://altertek.org/en/terms-conditions/)                                     | [Sort of](https://altertek.org/en/terms-conditions/)        | Email optional                                                          |                                                                                |
-| [anontier.nl](https://anontier.nl)                                                        | Individual              | United States (despite domain)         | [Yes](https://anontier.nl/tos.html)                                                  | [Yes](https://anontier.nl/privacy.html)                     | Email optional, but must register from website                          | 17+, “free speech”                                                             |
+| [anontier.nl](https://anontier.nl)                                                        | Individual              | United States          | [Yes](https://anontier.nl/tos.html)                                                  | [Yes](https://anontier.nl/privacy.html)                     | Email optional, but must register from website                          | 17+, “free speech”                                                             |
 | [aria-net.org](https://aria-net.org)                                                      | Community?              | Italy?                                 | [Yes](https://aria-net.org/SitePages/Portal/ToS.aspx)                                | [Yes](https://aria-net.org/SitePages/Portal/ToS.aspx)       | reCaptcha                                                               | Throwaway email addresses forbidden                                            |
 | [asra.gr](https://asra.gr)                                                                | ?                       | Greece? (Germany)                      | Yes                                                                                  | No                                                          | Email optional                                                          | 18+, CCC-oriented                                                              |
 | [awau.uk](https://awau.uk)                                                                | Individual              | United Kingdom (Germany)               | No                                                                                   | [Unclear](https://erisa.uk/privacy)                         | Cloudflare; Email optional                                              |                                                                                |
@@ -90,3 +85,9 @@ Alphabetically-ordered by the display name.
 | [ungleich.ch](https://ungleich.ch/u/projects/open-chat/)                                 | Commercial              | Switzerland                            | No                                                                                   | No                                                          | Uses external SSO                                                       | For demonstrative purposes?                                                    |
 | [yatrix.org](https://yatrix.org)                                                          | Commercial?             | Germany                                | No                                                                                   | No                                                          | Email optional                                                          | In German                                                                      |
 | [zinz.dev](https://zinz.dev)                                                              | Individual              | France                                 | No                                                                                   | No                                                          | Email optional                                                          | In French                                                                      |
+
+## References
+
+* [Matrix Public Homeservers (Archived)](https://web.archive.org/web/20210525055137/publiclist.anchel.nl/) by anchel.nl
+* [Public servers database](https://wiki.asra.gr/en:public_servers) by asra.gr
+* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) by Tatsumoto Ren
