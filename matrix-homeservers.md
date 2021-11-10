@@ -7,34 +7,7 @@ This is a work-in-progress list of public Matrix homeservers as compiled by me. 
 
 **If you operate a private homeserver, go check [the asra.gr list](https://wiki.asra.gr/en:public_servers) to see if it is accidentally set to allow public registrations!!!**
 
-## Criteria
-
-The criteria are:
-
-* The homeserver allows public registration.
-* The display name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
-* The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
-* The homeserver is *intended to be public*, e.g. hosts a publicly-accessible HTML page about the homeserver. There are a lot of personal homeservers that are probably mistakenly set to allow public registration, and more homeservers that have no real content on their domains, so those are excluded at my discretion.
-* The homeserver is not ACL-banned from most popular rooms (at my discretion). Generally, this implies that the homeserver is not perceived as promoting spam, hate speech, or other illegal content.
-
-Inclusion does **NOT** imply endorsement nor any guarantee regarding the future availability of the homeserver. **For long-term usage, choose a homeserver that looks trustworthy and is designed to last.**
-
-## Legend
-
-* **Homeserver (Display name)**: This is the part that follows your username. For example, my ID is `@austin:tchncs.de`, where `austin` is my username and `tchncs.de` is the display name of the homeserver. This is not necessarily where the homeserver is: As seen [here](https://tchncs.de/.well-known/matrix/client), the homeserver is actually located at `https://matrix.tchncs.de`.
-* **Operating structure**: The type of entity that is operating the homeserver.
-  * "Individual": Operated by one person.
-  * "Individual(s)": Operated by multiple people that are not considered a "community".
-  * "Community": Operated by multiple people with a clear ideological goal/purpose.
-  * "Commercial": Operated by a commercial entity, or an entity that offers paid services.
-* **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
-* **Rules/ToS?** and **Privacy Policy?**: Self-explanatory.
-* **Privacy merits/concerns?**: Notes for the privacy situation of the homeserver. By default, email is required for registration.
-  * "reCaptcha": Registering on the homeserver requires a Google reCaptcha to be filled out. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
-  * "Uses external SSO": The homeserver uses its own authentication method instead of the methods natively provided in Matrix.
-  * "Email optional": Registering on the homeserver does not require an email address. This can offer privacy benefits, but may cause the homeserver to be susceptible to spam.
-* **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
-  * "Too concise": Too little information is present about this homeserver.
+**Disclaimer:** Inclusion does **NOT** imply endorsement nor any guarantee regarding the future availability of the homeserver. **For long-term usage, choose a homeserver that you trust, has policies suitable to your use, and is designed to last.**
 
 ## List
 
@@ -90,8 +63,38 @@ Alphabetically-ordered by the display name.
 | [zinz.dev](https://zinz.dev)                                                              | Individual              | France                                 | No                                                                                   | No                                                    | Email optional                                                          | In French                                                                      |
 | [zygoat.club](https://zygoat.club)                                                        | Individual              | Canada                                 | No                                                                                   | No                                                    | Email optional                                                          | Too concise                                                                    |
 
+## Criteria
+
+The criteria are:
+
+* The homeserver allows public registration.
+* The display name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
+* The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
+* The homeserver is *advertised as public*.
+* The homeserver does NOT have an ongoing Mjolnir server ban (`m.room.rule.server`) on:
+  * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list, which contains homeservers suspected of promoting spam, hate speech, or harassment. It is  used on many popular public rooms (that are not necessarily affiliated with Matrix itself).
+  * `#matrix-org-hs-tos-bl:matrix.org`: [matrix.org Homeserver Terms of Service](https://matrix.org/legal/terms-and-conditions/) ban list, which contains homeservers suspected of promoting illegal content.
+  * `#public-server-bans:ru-matrix.org`: A ban list operated by a consortium of smaller homeservers, which contains homeservers suspected of promoting spam, trolling, or DoS.
+
+## Legend
+
+* **Homeserver (Display name)**: This is the part that follows your username. For example, my ID is `@austin:tchncs.de`, where `austin` is my username and `tchncs.de` is the display name of the homeserver. This is not necessarily where the homeserver is: As seen [here](https://tchncs.de/.well-known/matrix/client), the homeserver is actually located at `https://matrix.tchncs.de`.
+* **Operating structure**: The type of entity that is operating the homeserver.
+  * "Individual": Operated by one person.
+  * "Individual(s)": Operated by multiple people that are not considered a "community".
+  * "Community": Operated by multiple people with a clear ideological goal/purpose.
+  * "Commercial": Operated by a commercial entity, or an entity that offers paid services.
+* **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
+* **Rules/ToS?** and **Privacy Policy?**: Self-explanatory.
+* **Privacy merits/concerns?**: Notes for the privacy situation of the homeserver. By default, email is required for registration.
+  * "reCaptcha": Registering on the homeserver requires a Google reCaptcha to be filled out. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
+  * "Uses external SSO": The homeserver uses its own authentication method instead of the methods natively provided in Matrix.
+  * "Email optional": Registering on the homeserver does not require an email address. This can offer privacy benefits, but may cause the homeserver to be susceptible to spam.
+* **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
+  * "Too concise": Too little information is present about this homeserver.
+
 ## References
 
-* [Matrix Public Homeservers (Archived)](https://web.archive.org/web/20210525055137/publiclist.anchel.nl/) by anchel.nl
+* [Matrix Public Homeservers](https://www.anchel.nl/matrix-publiclist/) by anchel.nl
 * [Public servers database](https://wiki.asra.gr/en:public_servers) by asra.gr
 * [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) by Tatsumoto Ren
