@@ -7,7 +7,7 @@ This is a list of public Matrix homeservers as compiled by me. Support for this 
 
 **If you operate a private homeserver, go check [the asra.gr list](https://wiki.asra.gr/en:public_servers) to see if it is accidentally set to allow public registrations!!!**
 
-**Disclaimer:** Inclusion does **NOT** imply endorsement nor any guarantee regarding the future availability of the homeserver. For long-term usage, choose a homeserver that you trust, has policies suitable to your use, and is designed to last. Remember, any homeserver you choose gets to access all the unencrypted data about your account!
+**Disclaimer:** Inclusion does **NOT** imply endorsement nor any guarantee regarding the availability of the homeserver. For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has policies suitable to your use, and is designed to last. Remember, any homeserver you choose gets to access all the unencrypted data about your account!
 
 ## List
 
@@ -22,7 +22,6 @@ Alphabetically-ordered by the display name. See criteria and legends below.
 | [aria-net.org](https://aria-net.org)                                                                           | Community?              | Italy?                                 | [Yes](https://aria-net.org/SitePages/Portal/ToS.aspx)                                | [Yes](https://aria-net.org/SitePages/Portal/ToS.aspx)  | reCaptcha                                                               | Throwaway email addresses forbidden                                            |
 | [asra.gr](https://asra.gr)                                                                                     | ?                       | Germany?                               | Yes                                                                                  | No                                                     | Email optional                                                          | 18+, CCC-oriented                                                              |
 | [awau.uk](https://awau.uk)                                                                                     | Individual              | United Kingdom (Germany)               | No                                                                                   | [Unclear](https://erisa.uk/privacy)                    | Cloudflare; Email optional                                              |                                                                                |
-| [badstuebner.biz](https://badstuebner.biz)                                                                     | Individual?             | Germany                                | Unclear                                                                              | [Generic](https://badstuebner.biz/impressum.php)       | Email optional                                                          | In German                                                                      |
 | [baytech.community](https://baytech.community/eng/contact/)                                                    | Community               | Estonia (Switzerland)                  | No                                                                                   | No                                                     |                                                                         | Accessory                                                                      |
 | [bissisoft.com](https://bissisoft.com)                                                                         | Commercial              | United States?                         | No                                                                                   | No                                                     | Email optional                                                          |                                                                                |
 | [boba.best](https://boba.best/services/bobachat/)                                                              | Individual              | United States (Germany)                | [Yes](https://boba.best/rules/)                                                      | Same as matrix.org                                     | reCaptcha                                                               |                                                                                |
@@ -136,7 +135,8 @@ Some homeservers are excluded from this list on content grounds.
   * "Too concise": Too little information is present about this homeserver.
   * "Accessory": The homeserver is intended to be used to access rooms related to the operator, although the accounts can access other federated rooms as well.
 
-## References
+## Other Matrix homeserver lists
 
-* [Public servers database](https://wiki.asra.gr/en:public_servers) by asra.gr
-* [List of Matrix servers](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html) by Tatsumoto Ren
+* [asra.gr's list](https://wiki.asra.gr/en:public_servers)
+* [Tatsumoto Ren's list](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)
+* [CHATONS's list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=) (Most of them require payment)
