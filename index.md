@@ -103,7 +103,7 @@ You can contact me via:
 If you want to contact me securely:
 
 * By email: My PGP public key, ending with `84C2 3AA0 4587 A91F`, is available through the [OpenPGP Keyserver](https://keys.openpgp.org/pks/lookup?op=get&options=mr&search=0xf4c5be258540e91ab01b448584c23aa04587a91f). If I receive an encrypted email from you, I will look for your public key on that keyserver.
-* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Metaverse Server Stack" (`URAROZSSCB`), "Area 51 Space Lazer" (`BLJTGWGMTO`), and "FBI Email Server" (`WWPUXGJNME`).
+* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Metaverse Server Stack" (`URAROZSSCB`), and "FBI Surveillance Van" (`WWPUXGJNME`).
 
 You can also [donate to me](/donate.html)!
 
