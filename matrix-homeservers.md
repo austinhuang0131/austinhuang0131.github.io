@@ -3,7 +3,11 @@ title: List of public Matrix homeservers
 description: Support the decentralization of Matrix by getting your account on an alternative homeserver!
 ---
 
-This is a list of public Matrix homeservers as compiled by me. Support for this list is provided at [`#public_servers:asra.gr`](https://matrix.to/#/#public_servers:asra.gr). For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has policies suitable to your use, and is designed to last. Remember, any homeserver you choose gets to access all the unencrypted data about your account!
+This is a list of public Matrix homeservers as compiled by me. Support for this list is provided at [`#public_servers:asra.gr`](https://matrix.to/#/#public_servers:asra.gr). Remember:
+
+* For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has an environment suitable to your use, and is designed to last.
+* Any homeserver you choose gets to access all the unencrypted data about your account!
+* **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
 
 **Disclaimer:**
 
@@ -132,7 +136,7 @@ The absolute criteria are:
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
 * The homeserver is known to me as intended for public, either through my interpretation of various information about the homeserver, or through explicit consent from the homeserver operator(s).
 * The homeserver does not have an ongoing Mjolnir server ban (`m.room.rule.server`) on:
-  * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list, which contains homeservers suspected of promoting spam, hate speech, or harassment. It is  used on many popular public rooms (that are not necessarily affiliated with Matrix itself).
+  * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list, which contains homeservers suspected of promoting spam, hate speech, or harassment. It is used on many popular public rooms.
   * `#matrix-org-hs-tos-bl:matrix.org`: [matrix.org Homeserver Terms of Service](https://matrix.org/legal/terms-and-conditions/) ban list, which contains homeservers suspected of promoting illegal content.
 
 Some homeservers are excluded from this list on content grounds.
@@ -148,7 +152,10 @@ From left to right:
   * "Community": Operated by multiple people with a clear ideological goal/purpose.
   * "Commercial": Operated by a commercial entity, or an entity that offers paid services.
 * **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
-* **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`). In terms of format, a "CoC" means that there exists a code of conduct for all users, which is usually stricter than the usual rules, and a "ToS" means that there exists a contract-style terms of service for all users. An "unclear" or "sort of" means the rules' scope or wording is unclear.
+* **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`).
+  * "CoC": There exists a code of conduct for all users, which is usually stricter than the usual rules in order to promote a safer environment.
+  * "ToS": There exists a contract-style terms of service for all users.
+  * "Unclear" or "sort of": The rules' scope or wording is unclear.
 * **Privacy Policy?**: The existence of written privacy policy for all users on the homeserver. Generally, most parts of the ["Understand how your data is used" notice](https://matrix-client.matrix.org/_matrix/consent?v=1.0) apply network-wide. Note that a privacy policy can only be considered if it is explicitly applied to the Matrix homeserver, is published in a webpage (including but not limited to `/_matrix/consent`), and is not a copy of the aforementioned notice. An "unclear" or "sort of" means the privacy policy's scope or wording is unclear.
 * **Privacy merits/concerns?**: Notes for the privacy situation of the homeserver. By default, email is required for registration.
   * "reCaptcha": Registering on the homeserver requires filling out a Google reCaptcha. This does not apply to logins. Due to reCaptcha configurations, it may be necessary to register on the homeserver's own Element client.
@@ -157,15 +164,14 @@ From left to right:
   * Age restriction: Matrix is 16+. Homeservers that require users to be older are specified.
   * "Accessory": The homeserver is intended to be used to access rooms related to the operator, although the accounts can access other federated rooms as well.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
-  * Empty: After clicking "Create Account" and "Edit," you may enter the display name in the previous column (without `https://`) to create an account.
-  * A domain: After clicking "Create Account" and "Edit," you may enter the domain as specified in this column (without `https://`) to create an account.
+  * Empty: After clicking "Create Account" and "Edit," enter the domain as specified in the "Display name" column (without `https://`) to create an account on this homeserver.
+  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to create an account on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "In-house Element": You must register using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 
 ## Other Matrix homeserver lists
 
 * [asra.gr's list](https://wiki.asra.gr/en:public_servers)
-* [Tatsumoto Ren's list](https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html)
 * [CHATONS's list](https://www.chatons.org/search/by-service?service_type_target_id=All&field_alternatives_aux_services_target_id=All&field_software_target_id=274&field_is_shared_value=All&title=) (Most of them require payment)
 
 ---
