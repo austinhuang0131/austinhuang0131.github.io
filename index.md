@@ -36,7 +36,7 @@ I used to write [private Discord/Telegram bots](/services.html).
 
 ## My photos
 
-<div class="resize2" id="myElement" style="float:right;"></div>
+<div class="resize2 no-mark-external" id="myElement" style="float:right;"></div>
 <script type="text/javascript" src="./assets/javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
@@ -55,6 +55,8 @@ I used to write [private Discord/Telegram bots](/services.html).
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
 ## My other online stuff
+
+<a href="https://www.fsf.org/fb"><img src="./assets/not-fd.svg" alt="You won't find me on Facebook" align="right" width="300"/></a>
 
 * <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
 * [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
