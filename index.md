@@ -92,7 +92,9 @@ I try to use components from responsible sources. No Cloudflare, No Google, No c
 
 ### Hey, you look cool.
 
-<a href="https://www.fsf.org/fb"><img src="./assets/not-fd.svg" alt="You won't find me on Facebook" align="right" width="200"/></a>
+<div class="resize2" style="float:right;">
+<a href="https://www.fsf.org/fb"><img src="./assets/not-fd.svg" alt="You won't find me on Facebook" width="200"/></a>
+</div>
 
 You can contact me via:
 
