@@ -7,7 +7,7 @@ description: Some freebies to take away from this website!
 
 ## The Discord Trilogy
 
-Even though I have mainly left Discord (save certain essential work), I still have these guides.
+These guides are no longer actively maintained since I have mainly left Discord (save certain work) for Matrix.
 
 * [Advertising](./advertising.html): Ways to promote your Discord server.
 * [Server Guide](./discord-server-guide.html): Ways to grow your Discord server.

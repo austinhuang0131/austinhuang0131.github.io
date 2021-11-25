@@ -17,7 +17,7 @@ permalink: /
 }
 </style>
 
-Hi there! I'm a student at McGill University. I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada.
+Hi there! I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada, studying statistics & computer science at McGill University.
 
 If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
@@ -30,13 +30,12 @@ If you need a job title, that'll be "university student/freelance project mainta
 * [Barinsta](./barinsta.html) was an open source Instagram client on Android that focuses on privacy and well-being. [Cease & Desisted by Facebook.](https://github.com/austinhuang0131/austinhuang0131/issues/2) Got mentioned around the web.
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
-* I made [a school shuttle bus tracker](https://stm.austinhuang.me), mostly for my classmates. (Stagnant due to coronavirus.)
 
 I used to write [private Discord/Telegram bots](/services.html).
 
 ## My photos
 
-<div class="resize2" id="myElement" style="float:right;"></div>
+<div class="resize2" id="myElement" style="float:right;padding:15px;"></div>
 <script type="text/javascript" src="./assets/javascript-flickr-badge.min.js"></script>
 <script type="text/javascript">
    jsFlickrBadge(document.getElementById('myElement'), {
@@ -54,28 +53,24 @@ I used to write [private Discord/Telegram bots](/services.html).
 
 I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
-## My other online stuff
-
-* <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
-* [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
-* [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
-* [Reddit](http://reddit.com/u/austinhuang)
-  * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
-* [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/): Ask me questions here!
-
 ## May I ask some questions?
 Sure. You can even comment below to ask even more questions, eh?
 
 ### Hobbies?
-Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/news intro, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. Watches some anime (less than 4 series per year).
+Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/J-pop, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. I do admit though that I watch some anime (less than 4 series per year, steadily decreasing because of time constraints).
+
+#### Coding?
+I occasionally contribute to some open source projects, mainly by reviving abandoned F-Droid-compliant Android apps. Barinsta was no exception. I have done some work on and am planning to maintain [Canada Weather & Radar](https://github.com/austinhuang0131/CanadaWeather) and [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) in the near future. But, y'kno, study first.
 
 #### Model UN?
-<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300"/>
+<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300" style="padding:15px"/>
 
-Model UN is great. Strongly recommended. Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
+Model UN is great (if in-person). Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
 
 ### Hardware?
-A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017) plus several shared VPS from online people ~~comrades~~ and free services. That's it.
+A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017).
+
+Used to be able to run stuff on VPSs, but I guess we live in turbulent times...
 
 My phone is a Sony Xperia XA2, model H3123.
 
@@ -90,17 +85,23 @@ I try to use components from responsible sources. No Cloudflare, No Google, No c
 * I use nameservers from [deSec.io](https://desec.io).
 * I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
 
-### Hey, you look cool.
+## My other online stuff
 
-<div class="resize2" style="float:right;">
+* <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
+* [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
+* [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
+* [Reddit](http://reddit.com/u/austinhuang)
+  * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
+* [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/): Ask me questions here!
+
+## Contact me
+
+<div class="resize1" style="float:right;padding:15px;">
 <a href="https://www.fsf.org/fb"><img src="./assets/not-fd.svg" alt="You won't find me on Facebook" width="200"/></a>
 </div>
 
-You can contact me via:
-
-* [Email](mailto:im@austinhuang.me): `im@austinhuang.me`. I may not respond from the same email address.
+* [Email](mailto:im@austinhuang.me): `im@austinhuang.me` (Forwarder)
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
-* <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: `@austin@ieji.de`
 * [Telegram](http://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
@@ -108,14 +109,11 @@ You can contact me via:
 If you want to contact me securely:
 
 * By email: My PGP public key, ending with `84C2 3AA0 4587 A91F`, is available through the [OpenPGP Keyserver](https://keys.openpgp.org/pks/lookup?op=get&options=mr&search=0xf4c5be258540e91ab01b448584c23aa04587a91f). If I receive an encrypted email from you, I will look for your public key on that keyserver.
-* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Metaverse Server Stack" (`URAROZSSCB`), and "FBI Surveillance Van" (`WWPUXGJNME`).
+* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Metaverse Server Stack" (`URAROZSSCB`), and "FBI Surveillance Van" (`CHXXNQZJDB`).
 
 You can also [donate to me](/donate.html)!
 
-### What other stuff are there on this website?
-You can have a look at the sidebar.
-
-Fun fact:
+### Fun facts
 
 * This page is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
-* This page is available on [IPFS](https://ipfs.io/) (with [DNSLink](https://docs.ipfs.io/concepts/dnslink/) pointed at `austinhuang.me`). Try with your local node!
+* This page is available on [IPFS](https://ipfs.io/) (with [DNSLink](https://docs.ipfs.io/concepts/dnslink/) pointed at `austinhuang.me`). Try it with your local node!
