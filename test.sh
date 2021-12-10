@@ -12,7 +12,14 @@ do
         raw="${BASH_REMATCH[1]}"
         base=$(curl "https://$raw/.well-known/matrix/server" | jq '."m.server"' | sed s/\"//g)
         if [[ -z "$base" ]] || [ base == "null" ]; then
-            body=$(curl "https://$raw/_matrix/federation/v1/version")
+            DNS=$(dig "_matrix._tcp.$raw" SRV +short | sed -E 's/([0-9]+ ){2}//g')
+            SRV_PORT=$(echo "$DNS" | grep -oE "^\d+")
+            SRV_DOMAIN=$(echo "$DNS" | grep -oE "([a-z0-9]+\.)+$" | sed 's/\.$//')
+            if [[ -n "$SRV_PORT" ]] && [[ -n "$SRV_DOMAIN" ]]; then
+                body=$(curl "https://$SRV_DOMAIN:$SRV_PORT/_matrix/federation/v1/version")
+            else
+                body=$(curl "https://$raw:8448/_matrix/federation/v1/version")
+            fi
         else
             body=$(curl "https://$base/_matrix/federation/v1/version")
         fi
