@@ -10,18 +10,18 @@ for Line in $Lines
 do
     if [[ $Line =~ \[([0-9a-z]+\.[0-9a-z]+)\] ]]; then
         raw="${BASH_REMATCH[1]}"
-        base=$(curl "https://$raw/.well-known/matrix/server" | jq '."m.server"' | sed s/\"//g)
+        base=$(curl -L "https://$raw/.well-known/matrix/server" | jq '."m.server"' | sed s/\"//g)
         if [[ -z "$base" ]] || [ base == "null" ]; then
             DNS=$(dig "_matrix._tcp.$raw" SRV +short | sed -E 's/([0-9]+ ){2}//g')
             SRV_PORT=$(echo "$DNS" | grep -oE "^\d+")
             SRV_DOMAIN=$(echo "$DNS" | grep -oE "([a-z0-9]+\.)+$" | sed 's/\.$//')
             if [[ -n "$SRV_PORT" ]] && [[ -n "$SRV_DOMAIN" ]]; then
-                body=$(curl "https://$SRV_DOMAIN:$SRV_PORT/_matrix/federation/v1/version")
+                body=$(curl -L "https://$SRV_DOMAIN:$SRV_PORT/_matrix/federation/v1/version")
             else
-                body=$(curl "https://$raw:8448/_matrix/federation/v1/version")
+                body=$(curl -L "https://$raw/_matrix/federation/v1/version")
             fi
         else
-            body=$(curl "https://$base/_matrix/federation/v1/version")
+            body=$(curl -L "https://$base/_matrix/federation/v1/version")
         fi
         name=$(echo $body | jq .server.name | sed s/\"//g)
         version=$(echo $body | jq .server.version | sed s/\"//g)
