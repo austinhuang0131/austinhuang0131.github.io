@@ -5,7 +5,7 @@ description: Support the decentralization of Matrix by getting your account on a
 
 This is a list of public Matrix homeservers as compiled by me. Support for this list is provided at [`#public_servers:asra.gr`](https://matrix.to/#/#public_servers:asra.gr). Remember:
 
-* For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has an environment suitable to your use, and is designed to last.
+* For long-term usage, choose a homeserver that you trust, [is properly federated](https://federationtester.matrix.org/), has a high version number, has an environment suitable to your use, and is designed to last.
 * Any homeserver you choose gets to access all the unencrypted data about your account!
 * **It bears reminding** that all participants of public discourse should foster a respectful environment, and that homeserver operators should discourage disruptive behaviour. As such, this list excludes homeservers that are known to harbour bad actors. Refer to [Criteria](#criteria).
 
@@ -76,6 +76,7 @@ From left to right:
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to create an account on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "In-house Element": You must register using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
+* **Version**: The software version of the homeserver, [updated daily](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5). Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
 
 ## Other Matrix homeserver lists
 
