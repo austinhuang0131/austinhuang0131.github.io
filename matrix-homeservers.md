@@ -76,7 +76,9 @@ From left to right:
   * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to create an account on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
   * "In-house Element": You must register using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
-* **Version**: The software version of the homeserver, [updated daily](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5). Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
+* **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
+  * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
+  * "Error!!": The software version cannot be fetched, which means the homeserver might not be reachable at the moment.
 
 ## Other Matrix homeserver lists
 

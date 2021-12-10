@@ -23,6 +23,10 @@ do
                 fi
             else
                 body=$(curl -Ls -m 10 "https://$raw/_matrix/federation/v1/version")
+                test=$(echo $body | jq .server)
+                if [[ -z "$test" ]]; then
+                    body=$(curl -Ls -m 10 "https://$raw:8448/_matrix/federation/v1/version")
+                fi
             fi
         else
             body=$(curl -Ls -m 10 "https://$base/_matrix/federation/v1/version")
