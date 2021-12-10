@@ -27,7 +27,9 @@ do
         fi
         name=$(echo $body | jq .server.name | sed s/\"//g)
         version=$(echo $body | jq .server.version | sed s/\"//g)
-        if [[ -n "$name" ]] && [[ -n "$version" ]]; then
+        if [[ "$name" == "Synapse" ]] && [[ -n "$version" ]]; then
+            echo "$Line $version |" >> _includes/matrix_prod.md
+        elif [[ -n "$name" ]] && [[ -n "$version" ]]; then
             echo "$Line $name $version |" >> _includes/matrix_prod.md
         else
             echo "$Line Error!! |" >> _includes/matrix_prod.md
