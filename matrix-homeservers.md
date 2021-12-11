@@ -82,8 +82,6 @@ From left to right:
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
   * "Error!!": The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
 
-[![Scheduled Version Check](https://github.com/austinhuang0131/austinhuang0131.github.io/actions/workflows/matrix_ver.yml/badge.svg)](https://github.com/austinhuang0131/austinhuang0131.github.io/actions/workflows/matrix_ver.yml)
-
 ## Other Matrix homeserver lists
 
 * [asra.gr's list](https://wiki.asra.gr/en:public_servers)
