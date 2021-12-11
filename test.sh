@@ -13,7 +13,7 @@ do
         base=$(curl -Ls -m 10 "https://$raw/.well-known/matrix/server" | jq '."m.server"' | sed s/\"//g)
         if [[ -z "$base" ]] || [ base == "null" ]; then
             DNS=$(dig "_matrix._tcp.$raw" SRV +short | sed -E 's/([0-9]+ ){2}//g')
-            SRV_PORT=$(echo "$DNS" | grep -oE "^\d+")
+            SRV_PORT=$(echo "$DNS" | grep -oE "^[0-9]+")
             SRV_DOMAIN=$(echo "$DNS" | grep -oE "([a-z0-9]+\.)+$" | sed 's/\.$//')
             if [[ -n "$SRV_DOMAIN" ]]; then
                 body=$(curl -Ls -m 10 "https://$SRV_DOMAIN/_matrix/federation/v1/version")
