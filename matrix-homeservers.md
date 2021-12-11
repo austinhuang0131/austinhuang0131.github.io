@@ -39,11 +39,13 @@ This list exists because...
 
 The absolute criteria are:
 
-* The homeserver allows public registration. Homeservers that grant accounts on approval must have such process accessible to the general public and are only considered on a case-by-case basis.
+* The homeserver is intended for public registration.
+  * Generally, inclusion is based on either my interpretation of information about the homeserver, or explicit consent from the homeserver operator(s).
+  * Homeservers that grant accounts on approval must have such process accessible to the general public and are only considered on a case-by-case basis, by explicit consent only.
+  * Homeservers must not require payment for registration.
 * The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
-* The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
-* The homeserver is known to me as intended for public, either through my interpretation of various information about the homeserver, or through explicit consent from the homeserver operator(s).
 * The homeserver does not operate through a free TLD, specifically those offered by Freenom (due to risks of takeover by fraudulent entities).
+* The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
 * The homeserver does not have an ongoing Mjolnir server ban (`m.room.rule.server`) on:
   * `#matrix-org-coc-bl:matrix.org`: [matrix.org Code of Conduct](https://matrix.org/legal/code-of-conduct/) ban list. It is used on many popular public rooms.
   * `#matrix-org-hs-tos-bl:matrix.org`: [matrix.org Homeserver Terms of Service](https://matrix.org/legal/terms-and-conditions/) ban list.
@@ -78,7 +80,9 @@ From left to right:
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
 * **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
-  * "Error!!": The software version cannot be fetched, which means the homeserver might not be reachable at the moment.
+  * "Error!!": The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
+
+[![Scheduled Version Check](https://github.com/austinhuang0131/austinhuang0131.github.io/actions/workflows/matrix_ver.yml/badge.svg)](https://github.com/austinhuang0131/austinhuang0131.github.io/actions/workflows/matrix_ver.yml)
 
 ## Other Matrix homeserver lists
 

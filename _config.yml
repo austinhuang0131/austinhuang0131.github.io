@@ -175,6 +175,8 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+  - test.sh
+  - _includes/matrix_base.md
 include:
   - .well-known
   - LICENSE.md
