@@ -21,6 +21,10 @@ Alphabetically-ordered by the homeserver name. See [Legends](#legends) for colum
 {% capture my_include %}{% include matrix_prod.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
+[^1]: Email address is said to be optional for registration, but is actually required.
+[^2]: No reCaptcha needed if using SSO, but email address is used as MXID username (eg. `@bob=40example.com:filik.eu`).
+[^3]: The rules for their Mastodon instance (which are believed to apply to the Matrix homeserver as well) states that a user "must be \[...\] a S.T.E.M. student or professional to join," however the operator's stance is that the rule is only enforced on users who "appear to be anti-STEM" such as promoting anti-science conspiracy theories.
+
 ## Why?
 
 Ideally you would host your own homeserver, but not everyone has the means... Anyway, you should use a homeserver other than the default `matrix.org` because...
@@ -70,7 +74,8 @@ From left to right:
   * "Email": Registering on the homeserver requires an email address.
 * **Note**: Miscellaneous remarks. Note that a homeserver's theme/orientation can sometimes be seen from the domain itself, in which case it will not be noted down here.
   * Age restriction: Matrix is 16+. Homeservers that require users to be older are specified.
-  * "Accessory": The homeserver is specifically intended for rooms related to the operator (usually related to a project), although the accounts can access other federated rooms as well.
+  * "Accessory": The homeserver is specifically intended for rooms related to the operator (usually a project), however the accounts can be used to access other federated rooms as well.
+  * "Residential": The homeserver may be hosting on a residential internet connection.
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
 * **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
