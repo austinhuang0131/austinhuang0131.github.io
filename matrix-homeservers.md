@@ -21,10 +21,6 @@ Alphabetically-ordered by the homeserver name. See [Legends](#legends) for colum
 {% capture my_include %}{% include matrix_prod.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
-[^1]: Email address is said to be optional for registration, but is actually required.
-[^2]: No reCaptcha needed if using SSO, but email address is used as MXID username (eg. `@bob=40example.com:filik.eu`).
-[^3]: The rules for their Mastodon instance (which are believed to apply to the Matrix homeserver as well) states that a user "must be \[...\] a S.T.E.M. student or professional to join," however the operator's stance is that the rule is only enforced on users who "appear to be anti-STEM" such as promoting anti-science conspiracy theories.
-
 ## Why?
 
 Ideally you would host your own homeserver, but not everyone has the means... Anyway, you should use a homeserver other than the default `matrix.org` because...

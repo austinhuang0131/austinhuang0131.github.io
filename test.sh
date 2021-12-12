@@ -3,8 +3,7 @@
 IFS=$'\n'
 Lines=$(cat _includes/matrix_base.md)
 
-echo "| **Homeserver name** | **Operating structure** | **Jurisdiction (and Server location)** | **Rules?** | **Privacy Policy?** | **Privacy concerns?** | **Note** | **Registration method** | **Version** |" > _includes/matrix_prod.md
-echo "| --- | --- | --- | --- | --- | --- | --- | --- | --- |" >> _includes/matrix_prod.md
+rm _includes/matrix_prod.md
 
 for Line in $Lines
 do
@@ -40,5 +39,12 @@ do
         else
             echo "$Line Error!! |" >> _includes/matrix_prod.md
         fi
+    elif [[ $Line =~ \|\ \*\* ]]; then
+        echo "$Line **Version** |" >> _includes/matrix_prod.md
+    elif [[ $Line =~ \|\ \-\- ]]; then
+        echo "$Line ----------- |" >> _includes/matrix_prod.md
+    else
+        echo >> _includes/matrix_prod.md
+        echo "$Line" >> _includes/matrix_prod.md
     fi
 done
