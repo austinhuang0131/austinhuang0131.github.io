@@ -40,6 +40,7 @@ do
             echo "$Line Error!! |" >> _includes/matrix_prod.md
         fi
     elif [[ $Line =~ \|\ \*\* ]]; then
+        echo >> _includes/matrix_prod.md
         echo "$Line **Version** |" >> _includes/matrix_prod.md
     elif [[ $Line =~ \|\ \-\- ]]; then
         echo "$Line ----------- |" >> _includes/matrix_prod.md
