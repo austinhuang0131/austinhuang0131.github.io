@@ -16,7 +16,7 @@ This is a list of public Matrix homeservers as compiled by me. Support for this 
 
 ## List
 
-Alphabetically-ordered by the homeserver name. See [Legends](#legends) for column explanations.
+See [Legends](#legends) for column explanations.
 
 {% capture my_include %}{% include matrix_prod.md %}{% endcapture %}
 {{ my_include | markdownify }}
@@ -41,8 +41,7 @@ The absolute criteria are:
 
 * The homeserver is intended for public registration.
   * Generally, inclusion is based on either my interpretation of information about the homeserver, or explicit consent from the homeserver operator(s).
-  * Homeservers that grant accounts on approval must have such process accessible to the general public and are only considered on a case-by-case basis, by explicit consent only.
-  * Homeservers must not require payment for registration.
+  * Homeservers that grant accounts on approval must have such process accessible to the general public and are only considered on a case-by-case basis.
 * The homeserver name must be a second-level domain (so `example.com` is acceptable, but `matrix.example.com` is not).
 * The homeserver does not operate through a free TLD, specifically those offered by Freenom (due to risks of takeover by fraudulent entities).
 * The homeserver is neither `matrix.org` nor operated by Element Matrix Services (previously known as Modular).
