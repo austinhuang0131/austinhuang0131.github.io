@@ -57,11 +57,6 @@ Some homeservers are excluded from this list on content grounds.
 From left to right:
 
 * **Homeserver name**: This is the part that follows your username. For example, my ID is `@austin:tchncs.de`, where `austin` is my username and `tchncs.de` is the display name of the homeserver. See [here](https://spec.matrix.org/v1.1/server-server-api/#resolving-server-names) for a technical explanation.
-* **Operating structure**: The type of entity that is operating the homeserver.
-  * "Individual": Operated by one person.
-  * "Individual(s)": Operated by multiple people that are not considered a "community".
-  * "Community": Operated by multiple people with a clear ideological goal/purpose.
-  * "Commercial": Operated by a commercial entity, or an entity that offers paid services.
 * **Jurisdiction (and Server location)**: The jurisdiction the homeserver is located within. The server location, if differs from the jurisdiction of the homeserver, is shown in the brackets. Note that generally, homeservers located in Germany are more actively moderated due to [legal and social contexts](https://en.wikipedia.org/wiki/Censorship_in_Germany#Re-unified_Germany_(1990%E2%80%93present)).
 * **Rules?**: The existence of written rules/ToS for all users on the homeserver. Note that rules can only be considered if they apply to all activities (not just those in specific rooms) of a user, and if they are published in a webpage (including but not limited to `/_matrix/consent`). An "unclear" or "sort of" means that the rules' scope or wording is unclear.
 * **Privacy Policy?**: The existence of written privacy policy for all users on the homeserver. Generally, most parts of the ["Understand how your data is used" notice](https://matrix-client.matrix.org/_matrix/consent?v=1.0) apply network-wide. Note that a privacy policy can only be considered if it is explicitly applied to the Matrix homeserver, is published in a webpage (including but not limited to `/_matrix/consent`), and is not a copy of the aforementioned notice. An "unclear" or "sort of" means the privacy policy's scope or wording is unclear.
