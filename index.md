@@ -23,10 +23,6 @@ If you need a job title, that'll be "university student/freelance project mainta
 
 ## My own projects
 
-### Currently in progress
-* I co-founded [DISBOARD](https://disboard.org) and I remain as an Administrator there.
-
-### Founded by me
 * [Barinsta](./barinsta.html) was an open source Instagram client on Android that focuses on privacy and well-being. [Cease & Desisted by Facebook.](https://github.com/austinhuang0131/austinhuang0131/issues/2) Got mentioned around the web.
 * [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
 * [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
