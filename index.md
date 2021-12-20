@@ -21,13 +21,9 @@ Hi there! I [write code](https://github.com/austinhuang0131), [take photos](#my-
 
 If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
 
-## My own projects
+I believe that I am known for making [Barinsta](./barinsta.html), an open source Instagram client on Android that focuses on privacy and well-being. Ultimately I was [cease & desisted by Facebook](https://github.com/austinhuang0131/austinhuang0131/issues/2) but at least I got some clout, so that's cool.
 
-* [Barinsta](./barinsta.html) was an open source Instagram client on Android that focuses on privacy and well-being. [Cease & Desisted by Facebook.](https://github.com/austinhuang0131/austinhuang0131/issues/2) Got mentioned around the web.
-* [Discoin](http://discoin.gitbooks.io/docs) is a currency exchange serving multiple Discord bots. Co-Owned with [PizzaFox](https://jonah.pw).
-* [DTel](https://dtel.austinhuang.me) is a Discord bot that simulates the process of phone dialing on Discord servers. Co-Owned with [Mitchell](https://github.com/mitchell3514).
-
-I used to write [private Discord/Telegram bots](/services.html).
+I used to be heavily invested in Discord and have written [private Discord/Telegram bots](/services.html), but since then I became a proponent of federated platforms, namely Matrix and ActivityPub.
 
 ## My photos
 
@@ -105,7 +101,7 @@ I try to use components from responsible sources. No Cloudflare, No Google, No c
 If you want to contact me securely:
 
 * By email: My PGP public key, ending with `84C2 3AA0 4587 A91F`, is available through the [OpenPGP Keyserver](https://keys.openpgp.org/pks/lookup?op=get&options=mr&search=0xf4c5be258540e91ab01b448584c23aa04587a91f). If I receive an encrypted email from you, I will look for your public key on that keyserver.
-* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Metaverse Server Stack" (`URAROZSSCB`), and "FBI Surveillance Van" (`CHXXNQZJDB`).
+* By Matrix: If you're using encryption, please verify my sessions, which are "Huawei 5G Tower" (`SUZYBUJRSO`), "Meta Server Stack" (`URAROZSSCB`), and "FBI Surveillance Van" (`CHXXNQZJDB`).
 
 You can also [donate to me](/donate.html)!
 
