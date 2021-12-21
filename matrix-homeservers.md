@@ -68,11 +68,11 @@ From left to right:
   * "Residential": The homeserver may be hosting on a residential internet connection.
   * "...-oriented": The homeserver is intended to serve the mentioned purpose.
   * "...-inclined": While the homeserver is not specifically intended to serve any purpose, it is nevertheless used for the mentioned purpose.
-* **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well.
-  * Empty: After clicking "Create Account" and "Edit," enter the domain as specified in the "Display name" column (without `https://`) to create an account on this homeserver.
-  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (without `https://`) to create an account on this homeserver. This discrepancy is usually due to the misconfiguration of `.well-known`.
-  * "In-house Element": You must register using the Element client hosted on the homeserver, which is linked. This is usually due to reCaptcha domain restriction.
+* **Registration method**: Exact registration procedure. Those are tested (but not necessarily thoroughly) on [the official Element web client](https://app.element.io) and, in most cases, should work for other clients as well. Note that you may use [any client](https://matrix.org/clients/) to login *after* registration.
+  * "In-house Element": You can register using the Element client hosted on the homeserver, which is linked. Please take note of the homeserver URL, which is on top of the registration dialog, as you would need it to login.
   * "SSO": The homeserver requires [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) for authentication. You must create an account through the link prior to creating an account on the Matrix homeserver itself. Usually, the account can be used to access other services offered by the homeserver operator.
+  * "See info page": Refer to the page linked in the "server name" column.
+  * A domain: After clicking "Create Account" and "Edit," enter the domain as specified in this column (with or without `https://`) to create an account on this homeserver.
 * **Version**: The software version of the homeserver, [updated daily by a GitHub Action](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/.github/workflows/matrix_ver.yml#L5).
   * Unless indicated otherwise, the homeserver is running Synapse, where version `>=1.47.1` is [recommended](https://matrix.org/blog/2021/11/23/synapse-1-47-1-released) to address a security issue.
   * "Error!!": The homeserver cannot be reached at the time of checking. This is usually occasional, as frequent downtime are grounds for exclusion from this list.
