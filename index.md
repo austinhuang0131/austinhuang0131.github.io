@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hello there! I'm Austin Huang.
+title: Hello there!
 description: I can see that you have walked thousands of miles just to reach this website, but that's just my homepage. Have fun... I guess.
 cover: true
 permalink: /
@@ -19,7 +19,7 @@ permalink: /
 
 Hi there! I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada, studying statistics & computer science at McGill University.
 
-If you need a job title, that'll be "university student/freelance project maintainer". I just put everything on my website, it's not actually a *resume*.
+A **redacted** version of my resume is available [here](./assets/online_resume.pdf) for public viewing. Employers should [contact me](#contact-me) instead.
 
 I believe that I am known for making [Barinsta](./barinsta.html), an open source Instagram client on Android that focuses on privacy and well-being. Ultimately I was [cease & desisted by Facebook](https://github.com/austinhuang0131/austinhuang0131/issues/2) but at least I got some clout, so that's cool.
 
