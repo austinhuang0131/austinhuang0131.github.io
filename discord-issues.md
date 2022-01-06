@@ -3,6 +3,8 @@ title: My view on the Issues of Discord
 description: Crimes, staff, and money, also featuring lying to parents and users alike. Maybe that social media platform you rely on every day isn't as safe as you think.
 ---
 
+(Jan 6, 2021: The word "server" is kept as-is but you should be aware that the word is [used inaccurately](https://joinmatrix.org/guide/matrix-vs-discord/).)
+
 In response to [this well-written article](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord) from Cadence Ember, which I have collaborated with them on, I decided to write an article myself. This article will try to supplement Cadence's. I welcome [discussions](https://github.com/austinhuang0131/austinhuang0131.github.io/issues) and this page will be regularly updated (starting June 6, 2020).
 
 * [The Law](#the-law)

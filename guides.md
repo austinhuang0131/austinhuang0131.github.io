@@ -11,7 +11,7 @@ Visit https://joinmatrix.org.
 
 ## The Discord Trilogy
 
-These guides are no longer actively maintained since I have mainly left Discord (save certain work) for Matrix.
+These guides are no longer actively maintained since I have mainly left Discord (save certain work) for Matrix. Note that the word "server" is kept as-is, but you should be aware that the word is [used inaccurately](https://joinmatrix.org/guide/matrix-vs-discord/).
 
 * [Advertising](./advertising.html): Ways to promote your Discord server.
 * [Server Guide](./discord-server-guide.html): Ways to grow your Discord server.

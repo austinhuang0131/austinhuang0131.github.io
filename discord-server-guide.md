@@ -3,6 +3,8 @@ title: I need advice on running a Discord server!
 description: Having trouble getting members? Can't get your server to be active? Not confident with moderation? Here's some small advices on how to revitalize your Discord server!
 ---
 
+(Jan 6, 2021: The word "server" is kept as-is but you should be aware that the word is [used inaccurately](https://joinmatrix.org/guide/matrix-vs-discord/).)
+
 Running a Discord server is not easy and I've seen most people struggling with it. From my personal experience, here's some advice, I guess.
 
 This guide is WIP and will remain WIP. [Suggestions are welcomed at any time.](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/discord-server-guide.md) Revised April 25, 2020 and June 29, 2018.

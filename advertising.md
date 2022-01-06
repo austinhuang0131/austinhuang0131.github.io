@@ -6,6 +6,8 @@ image: https://austinhuang.me/assets/meme.jpg
 
 <img src="./assets/meme.jpg" width="300" align="right">
 
+(Jan 6, 2021: The word "server" is kept as-is but you should be aware that the word is [used inaccurately](https://joinmatrix.org/guide/matrix-vs-discord/).)
+
 This guide only deals with servers. You can contribute to this page [here](https://github.com/austinhuang0131/austinhuang0131.github.io/blob/master/advertising.md). Use [BotBlock](https://botblock.org/) to find bot lists.
 
 More Discord stuff: [Server Guide](./discord-server-guide.html) / [Issues](./discord-issues.html)
