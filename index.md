@@ -23,7 +23,7 @@ A **redacted** version of my resume is available [here](./assets/online_resume.p
 
 I believe that I am known for making [Barinsta](./barinsta.html), an open source Instagram client on Android that focuses on privacy and well-being. Ultimately I was [cease & desisted by Facebook](https://github.com/austinhuang0131/austinhuang0131/issues/2) but at least I got some clout, so that's cool.
 
-I used to be heavily invested in Discord and have written [private Discord/Telegram bots](/services.html), but since then I became a proponent of federated platforms, namely Matrix and ActivityPub.
+I used to be heavily invested in Discord and have written [private Discord/Telegram bots](/services.html), but since then I became a proponent of federated platforms, namely Matrix and ActivityPub. I also operate some public privacy-focused services at [bus-hit.me](https://bus-hit.me).
 
 ## My photos
 
