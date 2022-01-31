@@ -52,6 +52,8 @@ Sure. You can even comment below to ask even more questions, eh?
 Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/J-pop, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. I do admit though that I watch some anime (less than 4 series per year, steadily decreasing because of time constraints).
 
 #### Coding?
+<a href="https://www.techpledge.org/"><img src="./assets/Pledge_badge.svg" alt="https://www.techpledge.org/" align="right" width="150" class="resize1" style="padding:15px"/></a>
+
 I occasionally contribute to some open source projects, mainly by reviving abandoned F-Droid-compliant Android apps. Barinsta was no exception. I have done some work on and am planning to maintain [Canada Weather & Radar](https://github.com/austinhuang0131/CanadaWeather) and [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) in the near future. But, y'kno, study first.
 
 #### Model UN?
