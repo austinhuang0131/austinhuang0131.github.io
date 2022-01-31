@@ -52,12 +52,14 @@ Sure. You can even comment below to ask even more questions, eh?
 Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/J-pop, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. I do admit though that I watch some anime (less than 4 series per year, steadily decreasing because of time constraints).
 
 #### Coding?
-<a href="https://www.techpledge.org/"><img src="./assets/Pledge_badge.svg" alt="https://www.techpledge.org/" align="right" width="150" class="resize1" style="padding:15px"/></a>
+<div style="float:right;padding:15px;">
+<a href="https://www.techpledge.org/"><img src="./assets/Pledge_badge.svg" alt="https://www.techpledge.org/" width="125" /></a>
+</div>
 
 I occasionally contribute to some open source projects, mainly by reviving abandoned F-Droid-compliant Android apps. Barinsta was no exception. I have done some work on and am planning to maintain [Canada Weather & Radar](https://github.com/austinhuang0131/CanadaWeather) and [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) in the near future. But, y'kno, study first.
 
 #### Model UN?
-<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" align="right" width="300" style="padding:15px"/>
+<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" width="300" style="padding:15px;float:right"/>
 
 Model UN is great (if in-person). Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
 
