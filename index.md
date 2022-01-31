@@ -17,13 +17,34 @@ permalink: /
 }
 </style>
 
-Hi there! I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#hey-you-look-cool). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada, studying statistics & computer science at McGill University.
+Hi there! I [write code](https://github.com/austinhuang0131), [take photos](#my-photos), study, and [explore online stuff](#my-other-online-stuff). You may reach me using [these methods](#contact-me). Straight outta the metropolis of Shanghai, China, I currently reside in Montréal, Canada, studying statistics & computer science at McGill University.
 
 A **redacted** version of my resume is available [here](./assets/online_resume.pdf) for public viewing. Employers should [contact me](#contact-me) instead.
 
 I believe that I am known for making [Barinsta](./barinsta.html), an open source Instagram client on Android that focuses on privacy and well-being. Ultimately I was [cease & desisted by Facebook](https://github.com/austinhuang0131/austinhuang0131/issues/2) but at least I got some clout, so that's cool.
 
-I used to be heavily invested in Discord and have written [private Discord/Telegram bots](/services.html), but since then I became a proponent of federated platforms, namely Matrix and ActivityPub. I also operate some public privacy-focused services at [bus-hit.me](https://bus-hit.me).
+I used to be heavily invested in Discord and have written [private Discord/Telegram bots](/services.html), but since then I became a proponent of ethical platforms, namely Matrix and ActivityPub. I also operate some public privacy-focused services at [bus-hit.me](https://bus-hit.me).
+
+## The tech stuff
+
+### My Open Source Contributions
+
+<div style="float:right;padding:15px;">
+<a href="https://www.techpledge.org/"><img src="./assets/Pledge_badge.svg" alt="https://www.techpledge.org/" width="125" /></a>
+</div>
+
+I occasionally contribute to some open source projects, including:
+
+* Maintaining abandoned or near-abandoned Android apps, like fixing bugs and bringing them to F-Droid standards. Barinsta was no exception. [Canada Weather & Radar](https://github.com/austinhuang0131/CanadaWeather), [MyMartlet](https://github.com/jguerinet/MyMartlet), and [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) fall into this category as well.
+* Adding features to selfhostable software, including [imgin](https://git.voidnet.tech/kev/imgin), [teddit](https://codeberg.org/teddit/teddit), and [PrivateBin](https://github.com/PrivateBin/PrivateBin/).
+
+### My Hardware
+
+A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017).
+
+My phone is a Sony Xperia XA2, model H3123.
+
+My VM stack is composed of the free stuff from Oracle.
 
 ## My photos
 
@@ -43,43 +64,7 @@ I used to be heavily invested in Discord and have written [private Discord/Teleg
      });
 </script>
 
-I have a white Pentax K-50. I upload ~~all~~ some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I'm currently moving most of my photos to [Zonerama](https://austinhuang0131.zonerama.com). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
-
-## May I ask some questions?
-Sure. You can even comment below to ask even more questions, eh?
-
-### Hobbies?
-Coding, mapping (or, more professionally, *urban planning*), commenting on local/global affairs, model UN, and listening to some beats (80~90s/country/jazz/blues/memes/J-pop, also classical/organ remixes... But I hate the new funky stuff. Gross.) ~~as well as memeing~~ are things I do a lot. I do admit though that I watch some anime (less than 4 series per year, steadily decreasing because of time constraints).
-
-#### Coding?
-<div style="float:right;padding:15px;">
-<a href="https://www.techpledge.org/"><img src="./assets/Pledge_badge.svg" alt="https://www.techpledge.org/" width="125" /></a>
-</div>
-
-I occasionally contribute to some open source projects, mainly by reviving abandoned F-Droid-compliant Android apps. Barinsta was no exception. I have done some work on and am planning to maintain [Canada Weather & Radar](https://github.com/austinhuang0131/CanadaWeather) and [Pix-EzViewer](https://github.com/ultranity/Pix-EzViewer) in the near future. But, y'kno, study first.
-
-#### Model UN?
-<img src="./assets/model_un.jpg" alt="Name tags of attended MUN conferences" width="300" style="padding:15px;float:right"/>
-
-Model UN is great (if in-person). Even if you're not into politics, this giant social-party atmosphere will pull you into this extravaganza, and also allows you to meet some of the best people you'll ever make friends with! (It is quite expensive though, would like to see it becoming more affordable, but eh.)
-
-### Hardware?
-A school-provided (now owned) fully-stickered repaired-once MacBook Air (13-inch, 2017).
-
-Used to be able to run stuff on VPSs, but I guess we live in turbulent times...
-
-My phone is a Sony Xperia XA2, model H3123.
-
-### You from Shanghai?
-Glad you asked! I'm proud of my Shanghainese heritage. Also, I speak Shanghainese!
-
-### This site?
-I try to use components from responsible sources. No Cloudflare, No Google, No cookies, *No problemo.*
-
-* The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io). Powered by Jekyll with [HydeJack](https://hydejack.com/) theme.
-* The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
-* I use nameservers from [deSec.io](https://desec.io).
-* I use analytics from [GoatCounter](https://goatcounter.com). Here are [public stats for this website](https://0131.goatcounter.com).
+I have a white Pentax K-50. I upload some ("Good" ones, due to Flickr's free restrictions) of my photos on my [Flickr](https://flic.kr/austin0131). I also post loyalty-free ones on [Unsplash](https://unsplash.com/@austinhuang).
 
 ## My other online stuff
 
@@ -109,7 +94,13 @@ If you want to contact me securely:
 
 You can also [donate to me](/donate.html)!
 
-### Fun facts
+## About This Site
 
-* This page is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
-* This page is available on [IPFS](https://ipfs.io/) (with [DNSLink](https://docs.ipfs.io/concepts/dnslink/) pointed at `austinhuang.me`). Try it with your local node!
+No Cloudflare, No Google, No cookies, *No problemo.*
+
+* The pages are [on GitHub](https://github.com/austinhuang0131/austinhuang0131.github.io).
+* The domain is registered by [Vondelphia](https://von.enterprises/aff.php?aff=1870) (affiliate link).
+* This site uses nameservers from [deSec.io](https://desec.io).
+* This site uses analytics from [GoatCounter](https://goatcounter.com). Here are [the public stats](https://0131.goatcounter.com).
+* This site is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
+* This site is available on [IPFS](https://ipfs.io/) (with [DNSLink](https://docs.ipfs.io/concepts/dnslink/) pointed at `austinhuang.me`). Try it with your local node!
