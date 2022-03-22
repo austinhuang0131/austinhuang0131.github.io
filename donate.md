@@ -58,7 +58,8 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | Liberapay: 1 year of €4.00 (SEPA)      | 2021/08/15 | $5.44  | ↓       |   |
 | Liberapay: 26 weeks of €0.50 (SEPA)    | 2021/09/07 | $18.98 | ↓       |   |
 | Liberapay: 13 weeks of €1.00 (Stripe)  | 2021/09/28 | $18.81 | ↓       |   |
-| **Liberapay total**                    |            |        | $304.74 | ↓ |
+| Liberapay: 26 weeks of €0.50 (SEPA)    | 2022/02/23 | $17.98 | ↓       |   |
+| **Liberapay total**                    |            |        | $322.72 | ↓ |
 | Ko-Fi: 2 cups of $3 (PayPal)           | 2020/09/24 | $4.50  | ↓       |   |
 | Ko-Fi: 3 cups of $3 (PayPal)           | 2020/09/24 | $8.35  | ↓       |   |
 | Ko-Fi: 2 cups of $3 (PayPal)           | 2020/11/11 | $4.51  | ↓       |   |
@@ -79,15 +80,17 @@ All currencies are in Canadian dollars (CAD) unless otherwise specified. Fees ar
 | Ko-Fi: 3 cups of $3 (Stripe)           | 2021/08/11 | $9.00  | ↓       |   |
 | Ko-Fi: 10 cups of $3 (PayPal)          | 2021/09/01 | $28.53 | ↓       |   |
 | Ko-Fi: $20 (PayPal)                    | 2021/09/26 | $18.92 | ↓       |   |
-| **Ko-Fi total**                        |            |        | $210.71 | ↓ |
+| Ko-Fi: $3 (Stripe)                     | 2021/12/11 | $3.00  | ↓       |   |
+| **Ko-Fi total**                        |            |        | $213.71 | ↓ |
 | DonorBox (PayPal)                      | 2020/10/07 | $1.07  | ↓       |   |
 | **DonorBox total**                     |            |        | $1.07   | ↓ |
 | GitHub @KevinNThomas: $6 USD (x2)[^2]  | 2021/01/06 | ?      | ↓       |   |
 | GitHub @CrazyMarvin: $3 USD/month[^2]  | Ongoing    | ?      | ↓       |   |
 | GitHub private sponsor: $5 USD         | 2021/06/15 | ?      | ↓       |   |
-| GitHub @djoris: $10 USD/month[^2]      | Ongoing    | ?      | ↓       |   |
-| **GitHub total** (received)            | 2021/07/22 |        | $152.64 | ↓ |
-| **RECEIVED TOTAL**                     |            |        |         | $669.16 |
+| GitHub @djoris: $3 USD/month[^2]       | Ongoing    | ?      | ↓       |   |
+| GitHub @5fff: $4 USD                   | 2022/02/25 | ?      | ↓       |   |
+| **GitHub total** (received)            | 2022/03/20 |        | $221.70 | ↓ |
+| **RECEIVED TOTAL**                     |            |        |         | $759.20 |
 
 [^1]: Actually paid €9.00 but was written as so on Liberapay.
-[^2]: x2 matching from GitHub ended September 2021.
+[^2]: x2 matching from GitHub ended in September 2021.
