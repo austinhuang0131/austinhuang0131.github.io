@@ -124,7 +124,7 @@ On June 8, 2020, two days after the initial publishment of this page, Discord [s
 
 > We do not sell your data, nor do we share it with third parties for advertising purposes.
 
-Of course you don't, because you [give](#the-culture) [them](https://resynth1943.net/articles/discord/) [away](https://github.com/davidbaszucki/discord-attachment-bruteforcer)! Also, what about a takeover? Selling the company with the data?
+Of course you don't, because you [give](#the-culture) [them](#tracrco-ex-discool) away! Also, what about a takeover? Selling the company with the data?
 
 > We put your privacy first and as a rule do not scan or read your messages. However, we can do so for safety reasons.
 
@@ -307,7 +307,7 @@ I constantly discussed Discord's unprofitability. But what really made me to mov
 
 ### tracr.co (ex. dis.cool)
 
-From [this comment of mine](https://www.reddit.com/r/discordapp/comments/eeoxwa/discool_collects_and_illegally_stores_your/fbvzcbw/), which [I got named for](https://nitter.net/tracrco/status/1209432389363142656):
+From [this comment of mine](https://www.reddit.com/r/discordapp/comments/eeoxwa/discool_collects_and_illegally_stores_your/fbvzcbw/):
 
 > Before dis.cool comes h0nda1337. Back in the second half of 2018, he scraped [Discord.Me](https://Discord.Me) (which, at the time, required all servers to have widget enabled) and collected "12,000,000 users in 27,287 public discord servers". Someone else sorted this database and posted it onto [discord.dmca.gripe](https://discord.dmca.gripe) ([Wayback Machine](http://web.archive.org/web/20180910154710/https://discord.dmca.gripe/), actual site no longer exists) under a so-called "censorship-free file hosting". I presume the company behind the host, Snusbase, took the database themselves (probably legal) and placed it behind [a paywalled leaked database search service](https://snusbase.com/).
 >
