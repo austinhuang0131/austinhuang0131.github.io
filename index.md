@@ -104,3 +104,4 @@ No Cloudflare, No Google, No cookies, *No problemo.*
 * This site uses analytics from [GoatCounter](https://goatcounter.com). Here are [the public stats](https://0131.goatcounter.com).
 * This site is featured on [Hydejack's showcase](https://hydejack.com/showcase/)!
 * This site is available on [IPFS](https://ipfs.io/) (with [DNSLink](https://docs.ipfs.io/concepts/dnslink/) pointed at `austinhuang.me`). Try it with your local node!
+* This site is part of [Fediring.net](https://fediring.net/). You may traverse the ring by going [forward](https://fediring.net/next?host=austinhuang.me) or [backward](https://fediring.net/previous?host=austinhuang.me).
