@@ -7,7 +7,7 @@ description: Some freebies to take away from this website!
 
 ## Join Matrix!
 
-Visit https://joinmatrix.org.
+Visit [JoinMatrix.org](https://joinmatrix.org).
 
 ## The Discord Trilogy
 
