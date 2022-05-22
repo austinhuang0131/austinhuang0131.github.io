@@ -109,7 +109,8 @@ No Cloudflare, No Google, No cookies, *No problemo.*
 
 This site is part of...
 
-* [<-](https://fediring.net/previous?host=austinhuang.me) [Fediring.net](https://fediring.net/) ([random](https://fediring.net/random)) [->](https://fediring.net/next?host=austinhuang.me)
-* [<-](https://geekring.net/site/181/previous) [geekring](https://geekring.net/) ([random](https://geekring.net/site/181/random)) [->](https://geekring.net/site/181/next)
-* [<-](https://hotlinewebring.club/a/previous) [Hotline Webring](https://hotlinewebring.club/) [->](https://hotlinewebring.club/a/next)
-* [<-](https://webring.dinhe.net/prev/https://austinhuang.me) [The retronaut webring](https://webring.dinhe.net/) ([random](https://webring.dinhe.net/random)) [->](https://webring.dinhe.net/next/https://austinhuang.me)
+* [<](https://webring.bucketfish.me/redirect.html?to=prev&name=AustinHuang.me) [bucket webring](https://webring.bucketfish.me/) [>](https://webring.bucketfish.me/redirect.html?to=next&name=AustinHuang.me)
+* [<](https://fediring.net/previous?host=austinhuang.me) [Fediring.net](https://fediring.net/) ([random](https://fediring.net/random)) [>](https://fediring.net/next?host=austinhuang.me)
+* [<](https://geekring.net/site/181/previous) [geekring](https://geekring.net/) ([random](https://geekring.net/site/181/random)) [>](https://geekring.net/site/181/next)
+* [<](https://hotlinewebring.club/a/previous) [Hotline Webring](https://hotlinewebring.club/) [>](https://hotlinewebring.club/a/next)
+* [<](https://webring.dinhe.net/prev/https://austinhuang.me) [The retronaut webring](https://webring.dinhe.net/) ([random](https://webring.dinhe.net/random)) [>](https://webring.dinhe.net/next/https://austinhuang.me)
