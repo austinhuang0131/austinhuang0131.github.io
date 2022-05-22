@@ -69,9 +69,9 @@ I have a white Pentax K-50. I upload some ("Good" ones, due to Flickr's free res
 ## My other online stuff
 
 * <a rel="me" href="https://ieji.de/@austin">Mastodon</a>: Opinions and thoughts.
-* [OpenGeofiction](http://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
+* [OpenGeofiction](https://opengeofiction.net/user/austinhuang/history): A collaborative platform for creating fictional maps.
 * [Pixiv](https://pixiv.me/montreal0131): A collection of illustrations I like.
-* [Reddit](http://reddit.com/u/austinhuang)
+* [Reddit](https://reddit.com/u/austinhuang)
   * [My /r/KarmaCourt certificate](https://i.imgur.com/dJCyzex.jpg)
 * [YourWorldOfText](https://www.yourworldoftext.com/~austinhuang/): Ask me questions here!
 
@@ -83,7 +83,7 @@ I have a white Pentax K-50. I upload some ("Good" ones, due to Flickr's free res
 
 * [Email](mailto:im@austinhuang.me): `im@austinhuang.me` (Forwarder)
 * [Matrix](https://matrix.to/#/@austin:tchncs.de): `@austin:tchncs.de`
-* [Telegram](http://t.me/austinhuang): `@austinhuang`
+* [Telegram](https://t.me/austinhuang): `@austinhuang`
 * [Discord](https://discord.com/users/207484517898780672): `The Double-Eyed Bus#6889`
 * [Threema](https://threema.id/94XSDZ98): `94XSDZ98`
 
@@ -107,6 +107,9 @@ No Cloudflare, No Google, No cookies, *No problemo.*
 
 ### Webrings
 
-* This site is part of [Fediring.net](https://fediring.net/). You may move [forward](https://fediring.net/next?host=austinhuang.me) or [backward](https://fediring.net/previous?host=austinhuang.me).
-* This site is part of [Hotline Webring](https://hotlinewebring.club/). You may move [forward](https://hotlinewebring.club/a/next) or [backward](https://hotlinewebring.club/a/previous).
-* This site is part of [The retronaut webring](https://webring.dinhe.net/). You may move [forward](https://webring.dinhe.net/next/https://austinhuang.me) or [backward](https://webring.dinhe.net/prev/https://austinhuang.me).
+This site is part of...
+
+* [<-](https://fediring.net/previous?host=austinhuang.me) [Fediring.net](https://fediring.net/) [->](https://fediring.net/next?host=austinhuang.me)
+* [<-](https://geekring.net/site/181/previous) [geekring](https://geekring.net/) ([random](https://geekring.net/site/181/random)) [->](https://geekring.net/site/181/next)
+* [<-](https://hotlinewebring.club/a/previous) [Hotline Webring](https://hotlinewebring.club/) [->](https://hotlinewebring.club/a/next)
+* [<-](https://webring.dinhe.net/prev/https://austinhuang.me) [The retronaut webring](https://webring.dinhe.net/) [->](https://webring.dinhe.net/next/https://austinhuang.me)
