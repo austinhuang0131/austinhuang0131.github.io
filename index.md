@@ -122,4 +122,4 @@ This site is part of...
     <area shape="rect" coords="465,6,566,22" alt="Main geekring site" href="http://geekring.net/">
 </map>
 
-<div id='netizenswebring'> <script type="text/javascript" src="https://netizensring.link/onionring-variables.js"></script> <script type="text/javascript" src="https://netizensring.link/onionring-widget.js"></script> </div>
+<div id='netizenswebring'> <noscript>The <a href="https://netizensring.link/">[netizens ring]</a> widget requires JavaScript. You may check out its members directly <a href="https://netizensring.link/members.php">here</a>.</noscript> <script type="text/javascript" src="https://netizensring.link/onionring-variables.js"></script> <script type="text/javascript" src="https://netizensring.link/onionring-widget.js"></script> </div>
