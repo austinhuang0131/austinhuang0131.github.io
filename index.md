@@ -111,6 +111,15 @@ This site is part of...
 
 * [<](https://webring.bucketfish.me/redirect.html?to=prev&name=AustinHuang.me) [bucket webring](https://webring.bucketfish.me/) [>](https://webring.bucketfish.me/redirect.html?to=next&name=AustinHuang.me)
 * [<](https://fediring.net/previous?host=austinhuang.me) [Fediring.net](https://fediring.net/) ([random](https://fediring.net/random)) [>](https://fediring.net/next?host=austinhuang.me)
-* [<](https://geekring.net/site/181/previous) [geekring](https://geekring.net/) ([random](https://geekring.net/site/181/random)) [>](https://geekring.net/site/181/next)
 * [<](https://hotlinewebring.club/a/previous) [Hotline Webring](https://hotlinewebring.club/) [>](https://hotlinewebring.club/a/next)
 * [<](https://webring.dinhe.net/prev/https://austinhuang.me) [The retronaut webring](https://webring.dinhe.net/) ([random](https://webring.dinhe.net/random)) [>](https://webring.dinhe.net/next/https://austinhuang.me)
+
+<img src="http://geekring.net/banner/geek_1.jpg" alt="geekring.net nvigation" usemap="#geekringmap">
+<map name="geekringmap" class="no-mark-external">
+    <area shape="rect" coords="9,28,111,53" alt="Previous geekring site" href="http://geekring.net/site/181/previous">
+    <area shape="rect" coords="248,28,350,53" alt="Random geekring site" href="http://geekring.net/site/181/random">
+    <area shape="rect" coords="490,28,592,53" alt="Next geekring site" href="http://geekring.net/site/181/next">
+    <area shape="rect" coords="465,6,566,22" alt="Main geekring site" href="http://geekring.net/">
+</map>
+
+<div id='netizenswebring'> <script type="text/javascript" src="https://netizensring.link/onionring-variables.js"></script> <script type="text/javascript" src="https://netizensring.link/onionring-widget.js"></script> </div>
